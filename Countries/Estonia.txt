@@ -9,6 +9,10 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.234:80?path=%2F&security=n
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%40ParsiV2ray%20%D9%BE%D8%B1%20%D8%B3%D8%B1%D8%B9%D8%AA`
 vless://06ae8a15-3ceb-455d-a3c1-04696510f676@91.107.180.100:45489?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJTU3NYWFhDdkJubWpLaS45MzEuUHAudUEiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImRhMTI4MjQ2LTMzYjAtNGM4OC1hNDRlLWQ5MWU5ZTBhMWUwNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMEZoVWtxUVVkeE9oTUI5SnNnVGF6d3o5IiwiaG9zdCI6InNzc3h4eGN2Ym5tamtpLjkzMS5wcC51YSIsInRscyI6InRscyJ9
+trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&ws=1&wspath=%2F#RU_speednode_0104
+trojan://ttfang@138.2.64.229:443?allowInsecure=0&sni=ttfang.fange.me&ws=1&wspath=%2F#SG_speednode_0107
+trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&ws=1&wspath=%2F#RU_speednode_0104
+trojan://ttfang@138.2.64.229:443?allowInsecure=0&sni=ttfang.fange.me&ws=1&wspath=%2F#SG_speednode_0107
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97%2020.7MB%2Fs
 trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.220.32:443?sni=eEEfGty6.999836.XYz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD21%2027.6KB%2Fs
