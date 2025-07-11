@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.232.46.60:2052?security=reality&encryption=none&pbk=VVIPXWtsu7HkbeK0NY61tokbWW1zFnrSYgTfTXgGoyU&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=safari&type=tcp&sni=eur-lex.europa.eu&sid=8237c6af6ef93c35#⚡Telegram
-vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.232.46.60:443/?type=grpc&encryption=none&sni=foNts.gOogLeApis.com.&fp=chrome&security=reality&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=0ede823b93853771#⚡Telegram
-vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.232.46.60:443?mode=gun&security=reality&encryption=none&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&fp=chrome&type=grpc&sni=foNts.gOogLeApis.com.&sid=0ede823b93853771#@meli_proxyy
+        vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.232.46.60:443?mode=gun&security=reality&encryption=none&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&fp=chrome&type=grpc&sni=foNts.gOogLeApis.com.&sid=0ede823b93853771#@meli_proxyy
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.232.46.60:443?mode=gun&security=reality&encryption=none&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&fp=chrome&type=grpc&sni=foNts.gOogLeApis.com.&sid=0ede823b93853771#⚡Telegram
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&fp=random&type=grpc&sni=rEfErSion.Com.&sid=6ba85179e30d4fc2#@meli_proxyy
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&fp=random&type=grpc&sni=rEfErSion.Com.&sid=6ba85179e30d4fc2#⚡Telegram
@@ -503,3 +501,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@198.41.194.19:8880?sni=hk.laoyoutia
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@198.62.62.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramрЯЗ®рЯЗ≥&allowInsecure=0#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.181.197.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.229.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.230.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@205.233.181.29:8880?security=none&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=%2F#🔒

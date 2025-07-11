@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#[
-ss://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&sni=147135001178.sec22org.com&type=tcp&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?encryption=none&security=tls&sni=147135001178.sec22org.com&type=tcp&headerType=none#RoseVpn%F0%9F%8C%B9%40v222ray
+        ss://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?encryption=none&security=tls&sni=147135001178.sec22org.com&type=tcp&headerType=none#RoseVpn%F0%9F%8C%B9%40v222ray
 ss://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?encryption=none&security=tls&sni=147135001178.sec22org.com&type=tcp&headerType=none#US🇺🇸
 ss://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%40V2rayNG3
 ss://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش
@@ -503,3 +501,5 @@ ss://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?encryption=none&secu
 ss://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=%2F8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http%2F1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#@meli_proxyy
 ss://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=%2F8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http%2F1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#⚡Telegram
 ss://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=/8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http/1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#🇨🇦CA_1240_@Surfboardv2ray
+ss://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=/8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http/1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#🇨🇦CA_1241_@Surfboardv2ray
+ss://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=/8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http/1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#🇨🇦CA_1242_@Surfboardv2ray

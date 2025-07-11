@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://telegram-id-privatevpns@15.237.7.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@15.237.7.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs🤯
-trojan://telegram-id-privatevpns@15.237.7.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
+        trojan://telegram-id-privatevpns@15.237.7.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
 trojan://telegram-id-privatevpns@16.16.164.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@VIPro
 trojan://telegram-id-privatevpns@16.16.72.246:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@VIProxys
 trojan://telegram-id-privatevpns@16.171.99.25:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🦀PF485052
@@ -503,3 +501,5 @@ vless://01abdb29-cca0-47c6-844d-9f4e29f21c56@151.101.2.219:80?host=mail.int64str
 vless://01abdb29-cca0-47c6-844d-9f4e29f21c56@151.101.2.219:80?host=www.club6621.org&mode=auto&path=%2FPossimusliberoEoscumque&security=none&type=xhttp#%40Ahmedhamoomi_Servers
 vless://01abdb29-cca0-47c6-844d-9f4e29f21c56@speedtest.net:80?host=mail.int64string.org&mode=auto&path=%2Fdolorpraesentiumtemporibusexpeditapers&security=none&type=xhttp#%40Ahmedhamoomi_Servers
 vless://01abdb29-cca0-47c6-844d-9f4e29f21c56@speedtest.net:80?host=www.club6621.org&mode=auto&path=%2FPossimusliberoEoscumque&security=none&type=xhttp#%40Ahmedhamoomi_Servers
+vless://01abdb29-cca0-47c6-844d-9f4e29f21c56@www.fast.hosting-ip.com:80?host=www.club6621.org&mode=auto&path=%2FPossimusliberoEoscumque&security=none&type=xhttp#%40Ahmedhamoomi_Servers
+vless://01abdb29-cca0-47c6-844d-9f4e29f21c56@www.fast.hosting-ip.com:80?host=www.fjld34.com&mode=auto&path=%2FPossimusliberoEoscumque&security=none&type=xhttp#%40Ahmedhamoomi_Servers
