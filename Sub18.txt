@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.162:443?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.134:443?sni=lx.ylks0033.dpdns.org&type=ws&host=lx.ylks0033.dpdns.org&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.162:443?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.164:443?security=tls&sni=hl.ylka.dpdns.org&type=ws&path=%2F%3Fed#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.165:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.175:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
@@ -502,4 +503,3 @@ ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=%2Fsinavm-sinav
 ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?security=tls&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=%2Fsinavm-sinavm%2F%3Fed%3D2560#🔒
 ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?type=ws&host=cr7.traneh.dpdns.org&path=/sinavm-sinavm/?ed%3D2560&security=tls&sni=cr7.traneh.dpdns.org#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
 ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560flow%3D-udp443&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#Free%2079%20%28%40Outline_Vpn%29
-ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA

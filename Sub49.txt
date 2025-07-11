@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d342d11e-d424-4583-b36e-524ab1f0afa4@workers.cloudflare.cyou:443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+        ss://d342d11e-d424-4583-b36e-524ab1f0afa4@workers.cloudflare.cyou:2096?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@workers.cloudflare.cyou:443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@workers.cloudflare.cyou:8080?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@workers.cloudflare.cyou:80?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@workers.cloudflare.cyou:8443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
@@ -502,4 +503,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.192.108:8880?security=&type=gr
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.41.105:8880?mode=gun&security=none&encryption=none&type=grpc#%40Golestan_VPN%20-%20%20%F0%9F%87%AB%F0%9F%87
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.204:8880?security=&type=grpc&encryption=none#🇩🇪DE_1135_@Surfboardv2ray
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?security=&type=grpc&encryption=none#🇫🇮FI_1136_@Surfboardv2ray
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.26.255:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_1137_@Surfboardv2ray

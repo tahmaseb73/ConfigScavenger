@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.133.85:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.129.11:2053?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.133.85:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.152.69:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.153.209:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.153.217:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
@@ -502,4 +503,3 @@ vless://105e8fc6-d8d5-4bcf-ba33-f2d602489fa6@151.101.130.133:80?path=/-LiV2ry@LI
 vless://1062fb45-0aec-4b36-abde-70ca84c50981@hajlab.ucdavis.edu:80/?type=ws&path=/&host=www.darcy.ir&security=none#🇺🇸US_200_@Surfboardv2ray
 vless://1077c841-97d9-45a4-8663-7876e6b0f053@146.75.8.88:80?security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#🔒
 vless://108bf43b-bf9b-4683-871e-ef3c4205c39f@188.114.97.64:443?sni=vpn2-80q.pages.dev&type=ws&host=vpn2-80q.pages.dev&allowInsecure=0#🔒
-vless://108d0bd4-ed8a-4186-995f-8f49e3127699@77.110.100.177:2083?security=reality&sni=speedtest.net&allowInsecure=1&fp=chrome&pbk=_Mo8etwPEDo42B4BnrkX3FOaPsOv2thyIlrzg3hhDBk&sid=e09b0ba7d2&type=grpc&serviceName=@VPN_KING_V2RAY@VPN_KING_V2RAY@VPN_KING_V2RAY@VPN_KING_V2RAY&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20VL-GRPC-RLT%204%E2%83%A3

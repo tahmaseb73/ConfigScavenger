@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+        ss://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.26.255:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_1137_@Surfboardv2ray
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#Free%20101%20%28%40Outline_Vpn%29
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#Free%20124%20%28%40Outline_Vpn%29
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#Free%2081%20%28%40Outline_Vpn%29
@@ -502,4 +503,3 @@ ss://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.229:443?security=tls&sni=cpa
 ss://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.89:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒
 ss://e1ad1088-c7ab-4c06-83b1-27c8188e631b@nestle.ir:443?path=/wws&security=tls&encryption=none&alpn=h2,http/1.1&host=cpanel.pharmaweb.info&fp=chrome&type=ws&sni=cpanel.pharmaweb.info#🇨🇦CA_1201_@Surfboardv2ray
 ss://e1d98310-db5a-4279-bbf7-760902b4af0b@104.22.58.100:443?security=tls&sni=2576.papala.filegear-sg.me&type=ws&host=2576.papala.filegear-sg.me&path=%2F%3Fed%3D2560&fp=randomized#🔒
-ss://e1d98310-db5a-4279-bbf7-760902b4af0b@104.22.59.100:443?security=tls&sni=2576.papala.filegear-sg.me&type=ws&host=2576.papala.filegear-sg.me#🔒

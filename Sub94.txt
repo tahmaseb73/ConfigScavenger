@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ee01d033-e754-5be2-b3cf-38968b4a7503@digitalocean.com:443?security=tls&sni=ee-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ee-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-111%20-%20EE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+        vless://ee01d033-e754-5be2-b3cf-38968b4a7503@185.255.178.188:443?security=tls&sni=185.255.178.188&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#Rayan%20-%20SSM%20-%20WSDR-111%20-%20EE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+vless://ee01d033-e754-5be2-b3cf-38968b4a7503@digitalocean.com:443?security=tls&sni=ee-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ee-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-111%20-%20EE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 vless://ee29fa1d-a706-4035-bea1-ae1f73845f65@104.26.5.32:8443?security=tls&sni=usa.v2ray.com.br&type=ws&host=usa.v2ray.com.br&path=%2Frussian&fp=chrome#🔒
 vless://ee29fa1d-a706-4035-bea1-ae1f73845f65@172.64.150.8:8443?security=tls&sni=usa.v2ray.com.br&type=ws&host=usa.v2ray.com.br&path=%2Frussian&fp=chrome#🔒
 vless://ee317e25-4c44-4b3f-81fd-93420678bd34@45.87.102.244:21851?security=reality&encryption=none&pbk=EcToF-48rTWeedF6qD5yUrJ3AC_Y3FrzGUE5UP5bg2A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=one-piece.com&sid=6ba85179e30d4fc2#%40v2raying
@@ -502,4 +503,3 @@ vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@172.67.24.121:443?path=%2FChannel-E
 vless://f59e9020-4800-4890-8099-1970b7eb3b54@dns2.arashiphone.com:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=FTP.adabefarsi.eu.&fp=chrome&type=ws&sni=FTP.adabefarsi.eu.#%20%F0%9F%87%A8%F0%9F%87%AD%F0%9F%94%B5%20%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D9%84%202%EF%B8%8F%E2%83%A3%20%7C%20%D8%B3%D9%88%DB%8C%DB%8C%D8%B3%20
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@146.190.255.7:2096?security=reality&encryption=none&pbk=1-QFe6mJvRrvqXcLllKYD42VWq6vAVAfX0sk_v7eEDA&headerType=none&fp=safari&type=tcp&sni=wwW.mIcrOsoFt.Com.&sid=5354221ef1e1b25c#%40meli_proxyy
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@146.190.255.7:2096?security=reality&encryption=none&pbk=1-QFe6mJvRrvqXcLllKYD42VWq6vAVAfX0sk_v7eEDA&headerType=none&fp=safari&type=tcp&sni=wwW.mIcrOsoFt.Com.&sid=5354221ef1e1b25c#@meli_proxyy
-vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@146.190.255.7:2096?security=reality&encryption=none&pbk=1-QFe6mJvRrvqXcLllKYD42VWq6vAVAfX0sk_v7eEDA&headerType=none&fp=safari&type=tcp&sni=wwW.mIcrOsoFt.Com.&sid=5354221ef1e1b25c#⚡Telegram

@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@188.245.120.39:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒
+        vless://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@157.180.41.190:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒
+vless://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@188.245.120.39:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒
 vless://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@49.13.237.7:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒
 vless://6741c0e0-7069-4ff2-8247-aec9a569295e@www.speedtest.net:2096?type=ws&security=tls&path=%2FTel%3A%40%40vpnclashfa+-+660#RELAY🚩
 vless://675537c4-5916-446f-b90d-15f64f3ccf67@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&encryption=none&host=s2.cdn.hulkirani.shop&type=ws&sni=mydigipay.com#s0013
@@ -502,4 +503,3 @@ vless://75f68b07-1011-4b1f-8221-6e912875d4de@157.230.28.0:1615?security=reality&
 vless://75f68b07-1011-4b1f-8221-6e912875d4de@DE.NaNvaiIiSaEEd.iR:1615?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%8D
 vless://75f68b07-1011-4b1f-8221-6e912875d4de@DE.NaNvaiIiSaEEd.iR:1615?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|DE🇩🇪
 vless://75f68b07-1011-4b1f-8221-6e912875d4de@DE.NaNvaiIiSaEEd.iR:1615?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#⚡Telegram
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?security=tls&sni=NGINX-Z.pages.DEV&type=ws&host=nginx-z.pages.dev&path=%2Fassets%3Fed%3D2560&fp=chrome&alpn=h3#🔒

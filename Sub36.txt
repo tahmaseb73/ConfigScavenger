@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://9d07f08e-5f89-4654-83cc-2f2ece38d286@www.speedtest.net:80?path=%2FISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#RELAY🚩
+        ss://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?security=tls&sni=a.xiazitong.zone.id&type=ws&host=a.xiazitong.zone.id&path=%2F%3Fed%3D2560&fp=randomized#🔒
+ss://9d07f08e-5f89-4654-83cc-2f2ece38d286@www.speedtest.net:80?path=%2FISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#RELAY🚩
 ss://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@159.54.160.222:443?security=reality&flow=xtls-rprx-vision&sni=itunes.apple.com&type=tcp&fp=chrome&pbk=AeJ40fWPYK3WSDtY_AGv3ewG_kwQvAoDtf3KIgk1DRU&sid=6ba85179e30d4fc2#🔒
 ss://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@193.123.81.17:443?security=reality&encryption=none&pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🇦🇪AE_831_@Surfboardv2ray
 ss://9d1c74fe-6495-43c0-8c72-20a0b9a0c639@188.114.99.134:443?security=tls&sni=4ef0b961.aru0006.pages.dev&type=ws&host=4ef0b961.aru0006.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒
@@ -502,4 +503,3 @@ ss://V2RAXX1@V2RAXX-channel.cataba.ir:2053?path=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX
 ss://V2RAXX1@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#_899_@Surfboardv2ray
 ss://V2RAXX@V2RAXX-channel.cataba.ir:2053?path=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX&security=none&encryption=none&type=ws#_900_@Surfboardv2ray
 ss://V2RAXX@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#_901_@Surfboardv2ray
-ss://V2rayCUSTOMIZE@discord.gg:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#🇨🇦CA_902_@Surfboardv2ray

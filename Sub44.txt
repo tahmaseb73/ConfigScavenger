@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.31.16.120:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        ss://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.26.9.9:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.31.16.120:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@108.162.193.10:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@162.159.192.141:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@162.159.192.153:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&fp=chrome&alpn=h3,h2#🔒
@@ -502,4 +503,3 @@ ss://b55059e9-6adf-409a-a110-c1cf0a36bd7e@Join.VPNCUSTOMIZE.cloud1.hosting-ip.co
 ss://b55059e9-6adf-409a-a110-c1cf0a36bd7e@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?path=%2FTelegram%E2%80%94VPNCUSTOMIZE%3Fed2048&security=none&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws#⚡Telegram
 ss://b55059e9-6adf-409a-a110-c1cf0a36bd7e@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Telegram—VPNCUSTOMIZE%3Fed2048#⚡Telegram
 ss://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?encryption=none&security=none&type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev&path=%2F#t.me%2Fpeterjest
-ss://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev#🔒

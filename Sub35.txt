@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://9450fd6c-fe9b-4135-935b-62e84ee2fca9@172.64.86.181:443?security=tls&sni=workers.0115.eu.org&type=ws&host=workers.0115.eu.org#🔒
+        ss://9450fd6c-fe9b-4135-935b-62e84ee2fca9@104.24.14.164:443?security=tls&sni=workers.0115.eu.org&type=ws&host=workers.0115.eu.org&allowInsecure=0#🔒
+ss://9450fd6c-fe9b-4135-935b-62e84ee2fca9@172.64.86.181:443?security=tls&sni=workers.0115.eu.org&type=ws&host=workers.0115.eu.org#🔒
 ss://9466263a-4b8e-4647-99b2-d2a363f001cd@122.248.219.62:443?security=tls&flow=xtls-rprx-vision-udp443&sni=iosapps.itunes.apple.com&fp=chrome&allowInsecure=0#🔒
 ss://9466263a-4b8e-4647-99b2-d2a363f001cd@130.162.163.216:443?security=reality&flow=xtls-rprx-vision&sni=buylite.tv.apple.com&type=tcp&fp=ios&pbk=b5WuWodd3tB9cHWUJuoEFNvgYVOcLuDyjaxHy70umU4&sid=50211843#🔒
 ss://9466263a-4b8e-4647-99b2-d2a363f001cd@140.245.58.56:443?security=reality&flow=xtls-rprx-vision&sni=tv.apple.com&type=tcp&fp=chrome&pbk=Wmz2q2twfWYu6FrO5xU1M87LO5KjkyGif0AuPLNMPW0&sid=a86103965ac913f2#🔒
@@ -502,4 +503,3 @@ ss://9ce5dc57-bfa3-4e9e-be9b-ca685d826feb@45.131.211.6:80?sni=worker-soft-mouse-
 ss://9ce5dc57-bfa3-4e9e-be9b-ca685d826feb@45.131.6.85:80?sni=worker-soft-mouse-6965.hevapey267.workers.Dev&type=ws&host=worker-soft-mouse-6965.hevapey267.workers.Dev&path=Telegram%40WangCai2#🔒
 ss://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.12.51:2087?security=tls&sni=a.xiazitong.zone.id&type=ws&host=a.xiazitong.zone.id&path=%2F%3Fed%3D2560&fp=randomized#🔒
 ss://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?encryption=none&security=tls&sni=a.xiazitong.zone.id&type=ws&host=a.xiazitong.zone.id&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
-ss://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?security=tls&sni=a.xiazitong.zone.id&type=ws&host=a.xiazitong.zone.id&path=%2F%3Fed%3D2560&fp=randomized#🔒

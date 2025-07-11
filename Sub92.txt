@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
+        vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B1%F0%9F%87%B9
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=TM-@AZARBAYJAB1(GPRS)#🇱🇹LT_1167_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?security=none&type=grpc#🔒
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?type=grpc#🇱🇹[openproxylist.com]
@@ -502,4 +503,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?security=&sni=pq
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?sni=pqh34v7.bloger34art.shop&type=grpc#🏳[openproxylist.com]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?sni=pqh34v7.bloger34art.shop&type=grpc#🔒
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.162:8880?encryption=none&security=none&sni=pqh34v8.bloger34art.shop&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A99.72ms
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.162:8880?security=none&sni=pqh34v8.bloger34art.shop&type=grpc&host=pqh34v8.bloger34art.shop#🇺🇸[openproxylist.com]

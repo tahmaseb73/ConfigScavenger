@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.81-443+%7C+94.78ms
+        ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+37.19.198.160-443+%7C+23.54ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.81-443+%7C+94.78ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.80-443+%7C+93.32ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.79-443+%7C+94.94ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.78-443+%7C+94.58ms
@@ -502,4 +503,3 @@ vless://81191cda-0982-4cbd-8d60-2ef076e08d17@188.114.97.6:443?encryption=none&se
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@api.chandplus.com:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#FI-%3EFI-%3EMTN-%3E%40Sezar_Sec
 trojan://zsu4Mq3A9J@uk-02.allhubb.info:8443?security=tls&sni=uk-02.allhubb.info&alpn=h3%2Ch2%2Chttp%2F1.1&fp=random&type=tcp&headerType=none#GB-%3EGB-%3EMTN-%3E%40Sezar_Sec
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#FR-%3EDE-%3EMTN-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5bmtVZ1NIbjRSbmVzeDZCUE1LWkpHY0JEYTZtWFZQSktMYTllNDh6RjhOVkMxNmhYZWZKU0s1VmROSDZRdjdVUzJDZ1I3WVh0VXNVVkZOajhSdk1YQkJmSDlnVndMbnc%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
