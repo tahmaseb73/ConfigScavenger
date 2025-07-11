@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.89:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.62:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.89:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.8:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.91:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.111.195:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -502,4 +503,3 @@ vless://c44def03-fec4-4c87-aa5b-4f16f8b228d4@2.188.233.139:17510?security=none&t
 vless://c44def03-fec4-4c87-aa5b-4f16f8b228d4@2.188.233.140:17510?security=none&type=ws#🔒
 vless://c44f7808-6824-4ff0-b1de-f5ee1da3e460@139.59.120.58:8080?security=tls&sni=web.facebook.com&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@104.26.10.222:443?sni=yx.yushan.dpdns.org&type=ws&host=yx.yushan.dpdns.org#🔒
-vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@104.26.11.222:443?sni=yx.yushan.dpdns.org&type=ws&host=yx.yushan.dpdns.org#🔒

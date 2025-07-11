@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://25468dd2-7fb0-478c-8ce7-3e72cf65936d@146.75.74.62:443?encryption=none&security=tls&sni=app.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=wow-online.ir&path=%2F#V2rayngninja
+        vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?security=none&type=ws&host=teleirani.ir#🔒
+vless://25468dd2-7fb0-478c-8ce7-3e72cf65936d@146.75.74.62:443?encryption=none&security=tls&sni=app.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=wow-online.ir&path=%2F#V2rayngninja
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni=divarcdn.com&fp=chrome#1%7C%F0%9F%8C%802-TR%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDi...
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?security=none&type=tcp&host=divarcdn.com&headerType=http#🇹🇷[openproxylist.com]
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒
@@ -502,4 +503,3 @@ vless://31bfe720-cbff-4e32-9540-634c3cf1e2b6@80.211.203.158:25210?security=none&
 vless://31d974e9-6b16-4b29-a7d2-2fb7f4f2e8d5@194.116.214.187:777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fortune.com&fp=chrome&pbk=5lB0aSk6YmPH3EpVGeOtEt1glj8GI_V7SZfm6pZ9yEU&sid=c5010b9e&spx=/&type=tcp&headerType=none#🇫🇷FR_321_@Surfboardv2ray
 vless://31d974e9-6b16-4b29-a7d2-2fb7f4f2e8d5@194.116.214.187:888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fortune.com&fp=chrome&pbk=5lB0aSk6YmPH3EpVGeOtEt1glj8GI_V7SZfm6pZ9yEU&sid=c5010b9e&spx=/&type=tcp&headerType=none#🇫🇷FR_322_@Surfboardv2ray
 vless://31e18807-9671-47b9-9dea-6e2f6ecd8c54@5.75.203.66:39216?security=reality&encryption=none&pbk=efkIZIpJH8HUqshKjh6qoI8EC_MkDUR4fk_rjeH2zh0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=Google.com&sid=c0113423#🇩🇪DE_323_@Surfboardv2ray
-vless://31e18807-9671-47b9-9dea-6e2f6ecd8c54@5.75.203.66:39216?security=reality&encryption=none&pbk=efkIZIpJH8HUqshKjh6qoI8EC_MkDUR4fk_rjeH2zh0&headerType=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Google.com&sid=c0113423#🇩🇪DE_324_@Surfboardv2ray

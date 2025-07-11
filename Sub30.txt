@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://628a3541-1b2d-43ab-ad4f-82b6406480fe@104.21.112.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=lk.sahanwickramasinghe.shop&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+        ss://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩
+ss://628a3541-1b2d-43ab-ad4f-82b6406480fe@104.21.112.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=lk.sahanwickramasinghe.shop&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://628a3541-1b2d-43ab-ad4f-82b6406480fe@104.21.16.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=lk.sahanwickramasinghe.shop&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://628a3541-1b2d-43ab-ad4f-82b6406480fe@104.21.32.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=lk.sahanwickramasinghe.shop&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://628a3541-1b2d-43ab-ad4f-82b6406480fe@104.21.48.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=lk.sahanwickramasinghe.shop&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
@@ -502,4 +503,3 @@ ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.32.1:2096?security=tls&sni=sub.
 ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.48.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒
 ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.64.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒
 ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.80.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒
-ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.96.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒

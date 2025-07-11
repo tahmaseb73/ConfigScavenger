@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        wireguard://KLs2pF79%2FLLqOu6qBrsqw%2BklYnrytoc1w%2FDUOt2h62c%3D@188.114.98.10:880?address=172.16.0.2%2F32&reserved=96%2C173%2C40&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon5
+        wireguard://KG8CV7%2FzwFm0zSFYOKGYqmP2Q9mDRiemev%2FIkHaRJ1Q%3D@[2606:4700:d0::4943:b0c9:b074:7105]:1018?address=172.16.0.2%2F32&presharedkey=&reserved=219%2C24%2C159&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#⚡Telegram
+wireguard://KLs2pF79%2FLLqOu6qBrsqw%2BklYnrytoc1w%2FDUOt2h62c%3D@188.114.98.10:880?address=172.16.0.2%2F32&reserved=96%2C173%2C40&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon5
 wireguard://KxgjR2d4kyb3hmNMySJORIttLDiFHtcEkncFKDXB224%3D@engage.cloudflareclient.com:2408?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A84f9%3Af534%3A1869%3A9377%3Aeae6%2F128&reserved=117%2C170%2C40&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#Peyman_wire-g@WireVpnGuard
 wireguard://PIDLRB7iZ26dFTzMNlpR8uU5OoWH%2BMYztMvRknNEQ8g%3D@engage.cloudflareclient.com:2408?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8167%3Ade8d%3Ae65b%3A5a5d%3A8baa%2F128&reserved=59%2C38%2C150&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#Peyman_wire-g@WireVpnGuard
 wireguard://QEVkHK4j7aNKNWpAQfRn8mO%2BZ9Bkdv2y11cAUbdgZ2c%3D@188.114.99.25:955?address=172.16.0.2%2F32&reserved=111%2C45%2C194&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10

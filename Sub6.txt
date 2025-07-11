@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://344ObcMIAb@ru2.asc-sam.ir:443?type=xhttp&path=%2F%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&host=&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#RU🇷🇺 | ru2.asc-sam.ir-443 | 339.52ms
+        trojan://3723507166611775488@35.155.4.93:443?security=tls&headerType=none&type=tcp&sni=usable-toad.treefrog761.one#DE🇩🇪 | usable-toad.treefrog761.one-443 | 118.19ms
+trojan://344ObcMIAb@ru2.asc-sam.ir:443?type=xhttp&path=%2F%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&host=&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#RU🇷🇺 | ru2.asc-sam.ir-443 | 339.52ms
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?type=tcp&security=tls&sni=rc6.freeguard.org#US🇺🇸 | rc6.freeguard.org-443 | 251.67ms
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?sni=yourjobnavigator.online&allowInsecure=1#US🇺🇸 | yourjobnavigator.online-443 | 190.35ms
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.200.11:443?security=tls&sni=rRfGty6.890606.XYz&type=ws&host=rrfgty6.890606.xyz&path=%2FraChT39pjLFYRA5HdHEIupMZeK&fp=chrome&alpn=http%2F1.1#RELAY🚩 | rRfGty6.890606.XYz-443 | 29.85ms
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBLT5GUi0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMTcyLjY3LjIwNy4yNiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImdsd2VpZGYuc2JzIiwNCiAgInBhdGgiOiAiL2xpbmt3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJnbHdlaWRmLnNicyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ID-%3EID-%3EADL-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@exchange.gameaurela.click:52952#NL-%3ENL-%3EADL-%3E%40Sezar_Sec
