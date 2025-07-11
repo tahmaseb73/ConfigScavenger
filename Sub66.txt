@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://0212fab5-e93c-4904-b7a8-187fd535f354@104.21.49.59:443?security=tls&sni=3qws.890617.xyz&type=ws&host=3qws.890617.xyz&path=%2FIcc2cX4ThvubEYxWO67qEaMINZ1&fp=chrome&alpn=http%2F1.1#🔒
-vless://0212fab5-e93c-4904-b7a8-187fd535f354@172.67.159.56:443?security=tls&sni=3qws.890617.xyz&type=ws&host=3qws.890617.xyz&path=%2FIcc2cX4ThvubEYxWO67qEaMINZ1&fp=chrome&alpn=http%2F1.1#🔒
+        vless://0212fab5-e93c-4904-b7a8-187fd535f354@172.67.159.56:443?security=tls&sni=3qws.890617.xyz&type=ws&host=3qws.890617.xyz&path=%2FIcc2cX4ThvubEYxWO67qEaMINZ1&fp=chrome&alpn=http%2F1.1#🔒
 vless://0227ec29-4dce-4891-942a-191f2d29f005@95.164.35.169:32756/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=0w3vKmbzpqRs-4Kz9W0ECUfFKRXfzR5Oy1tqXPZ6als&sid=8852e484a776#⚡Telegram
 vless://02475224-e7cd-58a5-a6d7-81d7d025acac@86.38.214.22:2052?security=none&type=ws&host=sPeedtest2.sbs.gb.vless.sitespeedtest.net&path=%2Fvless#🔒
 vless://02813ab6-af5c-4591-a91e-de20318e5c1a@151.101.2.133:80?path=%2F%40ShokhmiPlus--%40ShokhmiPlus--%40ShokhmiPlus%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292&security=&encryption=none&host=JoinBede--ShokhmiPlus---ShokhmiPlus.ir&type=ws#@meli_proxyy
@@ -503,3 +502,4 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.110:443?security=tls&sni=
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.135:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.148:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.154:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.155:443?sni=vc.ylka.dpdns.org&type=ws&allowInsecure=1#🔒

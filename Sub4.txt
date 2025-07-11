@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321?security=none&encryption=none&headerType=none&type=tcp#VN🇻🇳 | 103.82.25.166-2321 | 264.21ms
-vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321?encryption=none&security=none&type=tcp&headerType=none#VN🇻🇳 | 103.82.25.166-2321 | 265.58ms
+        vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321?encryption=none&security=none&type=tcp&headerType=none#VN🇻🇳 | 103.82.25.166-2321 | 265.58ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@66.81.247.83:80?path=Telegram%3A%40%40vpnclashfa+-+1408#US🇺🇸 | 66.81.247.83-80 | 5.27ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.80.111.55:80?path=%2F&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#US🇺🇸 | uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz-80 | 27.92ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40%40vpnclashfa+-+1406#RU🇷🇺 | 45.142.120.134-80 | 5.25ms
@@ -503,3 +502,4 @@ vless://1a0099d2-d33b-4492-a87b-18af802860b4@de3.hosmci.com:8880?security=none&e
 vless://1a0099d2-d33b-4492-a87b-18af802860b4@de3.hosmci.com:8880?security=&seed=Hs5xtwTnIM&encryption=none&headerType=wireguard&type=kcp#DE🇩🇪 | de3.hosmci.com-8880 | 100.93ms
 vless://19bd6c93-953d-4b01-953c-a3cf2238eaf8@188.227.84.154:8443?type=tcp&headerType=http&host=zula.ir#RELAY🚩 | zula.ir-8443 | 6.55ms
 vless://19bd6c93-953d-4b01-953c-a3cf2238eaf8@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-8443 | 5.91ms
+vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.17.213.241:443?path=%2F&security=tls&encryption=none&host=ad.oldcloud.online&fp=chrome&type=ws&sni=ad.oldcloud.online#RELAY🚩 | ad.oldcloud.online-443 | 51.34ms

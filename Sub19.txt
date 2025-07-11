@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://10b59513-ef76-4494-a925-305ec45dd3a4@150.241.96.55:2040?security=tls&sni=github.com&fp=chrome#🔒
-ss://10b59513-ef76-4494-a925-305ec45dd3a4@185.157.214.81:2040?security=reality&sni=cdnjs.com&type=tcp&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#🔒
+        ss://10b59513-ef76-4494-a925-305ec45dd3a4@185.157.214.81:2040?security=reality&sni=cdnjs.com&type=tcp&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#🔒
 ss://10b59513-ef76-4494-a925-305ec45dd3a4@185.157.214.81:2040?security=tls&sni=cdnjs.com&fp=chrome#🔒
 ss://10b59513-ef76-4494-a925-305ec45dd3a4@194.87.31.155:2040?security=reality&sni=fr.ign.com&type=tcp&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#🔒
 ss://10b59513-ef76-4494-a925-305ec45dd3a4@45.12.129.210:2040?security=tls&sni=apple.com&fp=chrome#🔒
@@ -503,3 +502,4 @@ ss://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@198.41.207.245:443?security=tls&sni=ca
 ss://1cf0df05-ac4e-4fa9-a09f-daea6868540b@104.26.12.8:2095?security=none&type=httpupgrade&host=GM.CafeBazarCcC.IP-DDNS.COM%3Awhois.parspack.com&path=%2F%3Fed%3D2095#🔒
 ss://1cfc3930-144b-4137-92b7-1d7a602f1350@uk-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=uk-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-110%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://1d01cd7d-6b8c-509d-a7c6-4156d965b8f9@194.147.34.72:443?security=tls&sni=194.147.34.72&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.147.34.72&encryption=none#Rayan%20-%20SSM%20-%20WSDR-115%20-%20PL%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+ss://1d01cd7d-6b8c-509d-a7c6-4156d965b8f9@zula.ir:443?security=tls&sni=pl-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=pl-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-115%20-%20PL%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config

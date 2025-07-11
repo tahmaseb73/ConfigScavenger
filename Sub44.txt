@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://a643b9b0-00a8-47cf-81ec-695aa3773079@fishlab.ucdavis.edu:443?security=tls&sni=fishlab.ucdavis.edu&fp=randomized&type=ws&path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&host=JoinBede--vmessorg--vmessorg.iR&encryption=none#US🇺🇸
-ss://a643b9b0-00a8-47cf-81ec-695aa3773079@join.vmessorg.fastly80-3.hosting-ip.com:80/?security=&type=ws&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&host=JoinBede--vmessorg--vmessorg.iR&encryption=none#@VIProxys
+        ss://a643b9b0-00a8-47cf-81ec-695aa3773079@join.vmessorg.fastly80-3.hosting-ip.com:80/?security=&type=ws&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&host=JoinBede--vmessorg--vmessorg.iR&encryption=none#@VIProxys
 ss://a643b9b000a847cf81ec695aa3773079Og==@fishlab.ucdavis.edu:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+fishlab.ucdavis.edu-443+%7C+3.04ms
 ss://a643b9b000a847cf81ec695aa3773079Og==@join.vmessorg.fastly80-3.hosting-ip.com:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+join.vmessorg.fastly80-3.hosting-ip.com-80+%7C+20.1ms
 ss://a6482ca2-a491-45b8-aa27-35d5dd0c560c@173.245.59.132:2052?security=none&type=httpupgrade&host=External_net.ysphs.top.#🔒
@@ -503,3 +502,4 @@ ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@104.21.7.193:8080?security=none&allowI
 ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@104.21.7.193:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:2052?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:2082?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:2086?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
