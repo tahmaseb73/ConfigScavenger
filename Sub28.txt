@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.145:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
+        ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.211.86:443?security=tls&sni=147135004002.sec20org.com&type=raw&alpn=h2%2Chttp%2F1.1#🔒
+ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.144:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
+ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.145:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
 ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.146:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
 ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.147:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
 ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.148:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
@@ -501,5 +503,3 @@ ss://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?security=tls&sni=lv
 ss://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?security=tls&sni=lv01.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20-%20Izmir%20%F0%9F%8C%8F%20VL-WS-TLS%204%E2%83%A3
 ss://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?security=tls&sni=lv01.abvpn.ru&type=ws&host=lv01.abvpn.ru#🔒
 ss://588f094b-431b-422c-b80b-007945037072@150.241.101.16:443?security=tls&sni=de09.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&host=de09.abvpn.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-ss://588f094b-431b-422c-b80b-007945037072@150.241.101.16:443?security=tls&sni=de09.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA

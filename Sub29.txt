@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=/websocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#🇷🇺RU_580_@Surfboardv2ray
+        ss://588f094b-431b-422c-b80b-007945037072@150.241.101.16:443?security=tls&sni=de09.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
+ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=/websocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#🇷🇺RU_580_@Surfboardv2ray
 ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?security=tls&sni=ru05.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&host=ru05.abvpn.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Moscow%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?security=tls&sni=ru05.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Moscow%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?security=tls&sni=ru05.abvpn.ru&type=ws&host=ru05.abvpn.ru&path=/websocket#🔒
@@ -501,5 +503,3 @@ ss://624c7048-4c9b-4960-9955-edf87d8ee77a@51.89.137.92:443?security=reality&sni=
 ss://6285e567-0c25-4ce2-a2fa-80517c1345e1@172.67.214.246:2096?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev&fp=chrome#🔒
 ss://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩
 ss://628a3541-1b2d-43ab-ad4f-82b6406480fe@104.21.112.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=lk.sahanwickramasinghe.shop&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://628a3541-1b2d-43ab-ad4f-82b6406480fe@104.21.16.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=lk.sahanwickramasinghe.shop&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://628a3541-1b2d-43ab-ad4f-82b6406480fe@104.21.32.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=lk.sahanwickramasinghe.shop&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
