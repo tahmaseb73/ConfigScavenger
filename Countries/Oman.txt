@@ -181,7 +181,7 @@ hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@108.181.23.255:443?insecure=1&s
 hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@204.10.194.86:443?insecure=1&sni=www.bing.com#USA-Hysteria2-%40Filter_breaker%20%233
 hysteria2://67828a6e-0144-4e57-8169-2447a3dd2e61@23.80.81.213:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#%40V2rayNG3%20%233
-hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?insecure=1&sni=www.bing.com#%40vpnv2r4y%20%20
+hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?insecure=1&sni=www.bing.com#%40meli_proxyy%20%231
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@129.153.59.124:54530?insecure=1&sni=www.bing.com#Telegram%3A%20%40IP_CF%20%232
 hysteria2://Z5cdtfPHAPbFHC40PClBeD0hEzY@18.156.80.195:18551?insecure=1&sni=bing.com#%40V2aryng_vpn%20%234
 hysteria2://a68e381f-84f6-452e-a644-d5296a1e6c54@140.245.35.137:44111?insecure=1&sni=www.bing.com#%20%40V2aryng_vpn%20%20%20%235
@@ -248,9 +248,9 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.159.217.177:8880?allowInsecure=0
 vless://461558c5-425f-49de-9dad-5a9184e092f9@38.246.249.90:60589?allowInsecure=0&sni=www.cisco.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0142
 vless://1e610976-fef5-4ca4-a447-f3530e70603e@160.153.0.132:443?allowInsecure=0&sni=escoffier.changli.ddns-ip.net&alpn=http/1.1&type=ws&host=escoffier.changli.ddns-ip.net&path=/proxyip=navia.shorekeeper.irfp=random&security=tls#US_speednode_0143
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#US_speednode_0145
+ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-e8zxTxmqk7.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-e8zxTxmqk7.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ssr://c3NjYS5pcnVuZG5zLm5ldDo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY2ZiOmh0dHBfcG9zdDpKQ1JVZFhKaU1GWlFUaVFrLz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcVBDZmg2WkRRUzAwTlM0eE5UUXVNakEwTGpFekxUQXlOek0lM0QmcHJvdG9wYXJhbT0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-0266
