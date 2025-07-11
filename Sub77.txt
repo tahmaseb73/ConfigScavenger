@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.209:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒
-vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.218:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒
+        vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.218:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.37:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%20re.vs2024.us.kg&fp=chrome#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.88:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@69.84.182.89:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
@@ -503,3 +502,4 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.64.146.66:8443?security=tls&sni
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%20102%20%28%40Outline_Vpn%29
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%20111%20%28%40Outline_Vpn%29
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2040%20%28%40Outline_Vpn%29
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2064%20%28%40Outline_Vpn%29

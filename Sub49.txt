@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d345d11e-c424-4583-b36e-527ab1f0afa4@104.26.4.60:8080?security=none&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev#🔒
-ss://d34ea474-0ec1-4e5d-a567-279c6e75ef4d@140.248.152.85:443?security=tls&sni=live.theworldwidewolf.com&type=xhttp&host=biyatovistavdoray.com&fp=chrome&alpn=h3,h2,http/1.1#🔒
+        ss://d34ea474-0ec1-4e5d-a567-279c6e75ef4d@140.248.152.85:443?security=tls&sni=live.theworldwidewolf.com&type=xhttp&host=biyatovistavdoray.com&fp=chrome&alpn=h3,h2,http/1.1#🔒
 ss://d34ea474-0ec1-4e5d-a567-279c6e75ef4d@151.101.0.223:80?security=none&type=xhttp&host=biyatovistavdoray.com#🔒
 ss://d3541bb4-2cb5-4372-beab-fac34d5b8539@104.17.147.22:443?path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=72790032528889957475364702518915.v2line.online&fp=chrome&type=ws&sni=72790032528889957475364702518915.v2line.online#%40meli_proxyy
 ss://d3541bb4-2cb5-4372-beab-fac34d5b8539@104.17.147.22:443?path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=72790032528889957475364702518915.v2line.online&fp=chrome&type=ws&sni=72790032528889957475364702518915.v2line.online#@meli_proxyy
@@ -503,3 +502,4 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.219.115:8880/?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.219.115:8880/?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#@VIProxys
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.219.115:8880/?type=grpc&mode=gun&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#@VIProxys
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.241.180:8880?mode=gun&security=none&encryption=none&type=grpc#%40Golestan_VPN%20-%20%20%F0%9F%87%AB%F0%9F%87%AE
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.108:8880/?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#@VIPro
