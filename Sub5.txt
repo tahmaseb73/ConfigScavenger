@@ -3,13 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://3e7912e9-1310-4c2b-80e8-21201f623cc9@172.67.73.216:80?path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&type=ws#RELAY🚩 | www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.-80 | 112.94ms
-vless://3e0eaea5-9fc8-4471-ae15-90a36d01fc77@a.vaslbashim.top:443?path=%2Fws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=a.vaslbashim.top&fp=randomized&type=ws&sni=a.vaslbashim.top#GB🇬🇧 | a.vaslbashim.top-443 | 525.06ms
-vless://3e059966-f9a6-42d3-98d3-911f9075aa2e@free-gb.vpnkey.dev:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#GB🇬🇧 | free-gb.vpnkey.dev-443 | 109.73ms
-vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fr.marzban-locations.com:3032?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|DE🇩🇪 | fr.marzban-locations.com-3032 | 221.81ms
-vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@de1.marzban-locations.com:3030?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&host=%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-%40v2xay-&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|DE🇩🇪 | de1.marzban-locations.com-3030 | 188.39ms
-vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@de1.marzban-locations.com:3030?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|DE🇩🇪 | de1.marzban-locations.com-3030 | 144.62ms
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@162.251.82.187:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=harmony-427.pages.dev&fp=firefox&type=ws&sni=HarmonY-427.pages.DEV#RELAY🚩 | HarmonY-427.pages.DEV-443 | 46.76ms
+        vless://3c36eadb-747a-4166-8db0-23fec9883ea2@162.251.82.187:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=harmony-427.pages.dev&fp=firefox&type=ws&sni=HarmonY-427.pages.DEV#RELAY🚩 | HarmonY-427.pages.DEV-443 | 46.76ms
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.27.62.243:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=harmony-427.pages.dev&fp=firefox&type=ws&sni=HarmonY-427.pages.DEV#RELAY🚩 | HarmonY-427.pages.DEV-443 | 2.61ms
 vless://3bf13892-1d0f-5674-8b20-e978212ba96b@45.89.52.193:443?path=%2Fvless&security=tls&encryption=none&host=45.89.52.193&fp=chrome&type=ws&sni=zula.ir#RELAY🚩 | zula.ir-443 | 3.09ms
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?path=%2F&security=tls&encryption=none&host=iran.akcovufun.ir&type=ws&sni=iran.akcovufun.ir#RELAY🚩 | iran.akcovufun.ir-2053 | 515.91ms
@@ -503,3 +497,9 @@ ss://ipcloudflaretamiOg==@test.fast.hosting-ip.com:80#US%F0%9F%87%BA%F0%9F%87%B8
 ss://fbfb8c1fb755438caf77172f6453a3f2Og==@151.101.66.228:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+151.101.66.228-80+%7C+1.98ms
 ss://fbfb8c1fb755438caf77172f6453a3f2Og==@151.101.194.228:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+151.101.194.228-80+%7C+2.33ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@66.81.247.20:8880#US%F0%9F%87%BA%F0%9F%87%B8+%7C+66.81.247.20-8880+%7C+3.23ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@195.85.23.20:8880#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.85.23.20-8880+%7C+4.17ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@156.238.18.7:8880#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.7-8880+%7C+3.01ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@156.238.18.254:8880#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.254-8880+%7C+3.24ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@156.238.18.214:8880#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.214-8880+%7C+2.37ms
+ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.50:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.50-80+%7C+2.98ms
+ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.40:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.40-80+%7C+3.36ms
