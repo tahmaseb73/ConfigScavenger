@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://cc6b985d-0362-4129-8763-38564174fb3e@45.153.7.186:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒
-ss://cc6b985d-0362-4129-8763-38564174fb3e@5.10.246.53:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒
-ss://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.136:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒
-ss://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.13:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒
-ss://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.72:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒
+        ss://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.72:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒
 ss://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.80:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒
 ss://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?security=tls&sni=nooshin-2d9.pages.dev&type=ws&host=nooshin-2d9.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒
 ss://cc7b671b-b8ad-4b99-b896-d8c0c4fd416a@104.16.163.32:8880?security=none&type=httpupgrade&host=app.mobilewersach.ir.&path=%2F%3Fed%3D1024-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam#🔒
@@ -503,3 +499,7 @@ ss://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:80?encryption=n
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:8443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:8880?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@VIProxys
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@VIPro
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@VIProxys
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🇨🇦CA_1087_@Surfboardv2ray
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🇨🇦CA_1088_@Surfboardv2ray

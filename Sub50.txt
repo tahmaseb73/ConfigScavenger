@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://def453c6-c747-4900-a1fa-71ae4dc503a8@108.162.195.111:443?sni=vless.trevely.us.kg&type=ws&host=vless.trevely.us.kg&allowInsecure=0#🔒
-ss://def453c6-c747-4900-a1fa-71ae4dc503a8@162.159.44.111:443?sni=vless.trevely.us.kg&type=ws&host=vless.trevely.us.kg&allowInsecure=0#🔒
-ss://def453c6-c747-4900-a1fa-71ae4dc503a8@172.64.35.111:443?sni=vless.trevely.us.kg&type=ws&host=vless.trevely.us.kg&allowInsecure=0#🔒
-ss://def9f760-61e8-2646-2a24-42973e96c041@146.19.143.150:4768?security=reality&flow=xtls-rprx-vision&sni=yandex.com&type=tcp&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#🇪🇪[openproxylist.com]
-ss://def9f760-61e8-2646-2a24-42973e96c041@146.19.143.150:4768?security=reality&flow=xtls-rprx-vision&sni=yandex.com&type=tcp&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#🔒
+        ss://def9f760-61e8-2646-2a24-42973e96c041@146.19.143.150:4768?security=reality&flow=xtls-rprx-vision&sni=yandex.com&type=tcp&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#🔒
 ss://def9f760-61e8-2646-2a24-42973e96c041@51.195.35.2:4768?security=reality&flow=xtls-rprx-vision&sni=yandex.com&type=tcp&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#🔒
 ss://def9f760-61e8-2646-2a24-42973e96c041@mlifaaehazarat.darkping.net:4768?security=reality&encryption=none&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=b7e284c9b786f709#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AA%F0%9F%87%AA
 ss://def9f760-61e8-2646-2a24-42973e96c041@mlifaaehazarat.darkping.net:4768?security=reality&encryption=none&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=b7e284c9b786f709#REALITY|EE🇪🇪
@@ -503,3 +499,7 @@ ss://e12c6b99-f242-4c43-8411-edb7b333c79a@page.fra-shop.ir:28495?type=tcp&securi
 ss://e1315722-41a5-4d4d-d4a1-05667109034a@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#🇨🇦CA_1198_@Surfboardv2ray
 ss://e13dc928-2afb-4ede-839b-40b0ab07122c@51.77.110.211:22351?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20VL-TCP-NONE%204%E2%83%A3
 ss://e13e7332-a6e6-4751-8a60-b132c25de383@89.168.112.135:985/?security=reality&encryption=none&pbk=xmqtBMz-4YkLgMf0b2B0U_vZX3IJElGgQQZuwmsEvy0&headerType=none&fp=safari&spx=%2FJokerrvpnJoinBadeChannel@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=354ad572#@VIProxys
+ss://e1546109-8db2-4949-bd40-cd15928ec5c9@104.26.14.16:2087?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu.&type=httpupgrade&host=rEDzOnE.MirAcLehEaRTbIt.ICu.&fp=chrome&alpn=h2,http/1.1#🔒
+ss://e1546109-8db2-4949-bd40-cd15928ec5c9@104.26.15.16:2087?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu.&type=httpupgrade&host=rEDzOnE.MirAcLehEaRTbIt.ICu.&fp=chrome&alpn=h2,http/1.1#🔒
+ss://e1546109-8db2-4949-bd40-cd15928ec5c9@172.67.69.236:2087?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu.&type=httpupgrade&host=rEDzOnE.MirAcLehEaRTbIt.ICu.&fp=chrome&alpn=h2,http/1.1#🔒
+ss://e1546109-8db2-4949-bd40-cd15928ec5c9@www.parsvds.com:2087?path=/@V2RayyNGvpn?ed=512&security=tls&alpn=h2,http/1.1&encryption=none&host=rEDzOnE.MirAcLehEaRTbIt.ICu.&fp=chrome&type=httpupgrade&sni=rEDzOnE.MirAcLehEaRTbIt.ICu.#🇨🇦CA_1199_@Surfboardv2ray
