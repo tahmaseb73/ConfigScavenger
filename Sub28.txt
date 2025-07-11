@@ -3,17 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://5463817d-30ea-4bef-805e-ae714070fb30@152.42.227.39:443?security=tls&sni=fxtwitter.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20VL-TCP-TLS%204%E2%83%A3
-ss://5467fe26-87fd-459c-95b8-2e8da008b71d@3.112.214.42:443?security=tls&flow=xtls-rprx-vision-udp443&sni=download-porter.hoyoverse.com&fp=chrome&allowInsecure=0#🔒
-ss://54694a33-a8dc-47dd-bc38-acd3971e0055@129.159.241.172:443?security=tls&sni=147135004002.sec20org.com&allowInsecure=0#🔒
-ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.162.133:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
-ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.206.182:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
-ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.211.86:443?security=tls&sni=147135004002.sec20org.com&type=raw&alpn=h2%2Chttp%2F1.1#🔒
-ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.144:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
-ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.145:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
-ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.146:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
-ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.147:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
-ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.148:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
+        ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.148:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
 ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.149:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#🔒
 ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.155:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=tcp&headerType=none#@VIProxys
 ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.156:443?security=tls&sni=147135004002.sec20org.com&type=tcp&fp=chrome#🔒
@@ -503,3 +493,13 @@ ss://5870e7d7-24e6-411a-914e-c965d7f7ae8a@104.17.82.198:80?path=%2FTelegram%3A%4
 ss://5870e7d7-24e6-411a-914e-c965d7f7ae8a@154.197.75.80:80?path=%2FTelegram%3A%40%40vpnclashfa+-+583#SC🇸🇨
 ss://5870e7d7-24e6-411a-914e-c965d7f7ae8a@172.67.193.36:80?path=%2FTelegram%3A%40%40vpnclashfa+-+584#RELAY🚩
 ss://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?encryption=none&security=tls&sni=lv01.abvpn.ru&fp=random&type=ws&host=lv01.abvpn.ru&path=%2Fwebsocket%3Fed%3D2048-%40ShadowProxy66#q1_429
+ss://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?path=/websocket?ed=2048-@ShadowProxy66&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#🇱🇻LV_579_@Surfboardv2ray
+ss://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?security=tls&sni=lv01.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&host=lv01.abvpn.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20-%20Izmir%20%F0%9F%8C%8F%20VL-WS-TLS%204%E2%83%A3
+ss://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?security=tls&sni=lv01.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20-%20Izmir%20%F0%9F%8C%8F%20VL-WS-TLS%204%E2%83%A3
+ss://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?security=tls&sni=lv01.abvpn.ru&type=ws&host=lv01.abvpn.ru#🔒
+ss://588f094b-431b-422c-b80b-007945037072@150.241.101.16:443?security=tls&sni=de09.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&host=de09.abvpn.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://588f094b-431b-422c-b80b-007945037072@150.241.101.16:443?security=tls&sni=de09.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
+ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=/websocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#🇷🇺RU_580_@Surfboardv2ray
+ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?security=tls&sni=ru05.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&host=ru05.abvpn.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Moscow%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?security=tls&sni=ru05.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Moscow%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
