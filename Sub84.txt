@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@147.185.161.112:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
+        vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@108.165.216.186:2096?security=tls&sni=HiDyVnDe14.bInTeRmA.OrG&type=ws&host=HiDyVnDe14.bInTeRmA.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@141.193.213.30:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@147.185.161.112:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@147.185.161.45:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@147.78.140.11:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@154.83.2.235:2096?security=tls&sni=HiDyVnDe14.bInTeRmA.OrG&type=ws&host=HiDyVnDe14.bInTeRmA.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
@@ -501,5 +503,3 @@ vless://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443?security=tls&sni=
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@104.17.148.22:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#1%7C%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%201.5MB/s%7C0%25%7COpenai
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@www.speedtest.net:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#1%7C%F0%9F%87%A9%F0%9F%87%AA2%20%7C%20%201.3MB/s%7C0%25%7COpenai
 vless://9e8f8a07-f5ce-4643-a20c-1b9305f85d28@77.110.98.221:36994/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=B0o9qWjR8-Rwid0pZe-C4LPfxUJCDSWANN0CMbbPxSY&sid=8b5ba7aca4#⚡Telegram
-vless://9e8f8a07-f5ce-4643-a20c-1b9305f85d28@77.110.98.221:36994?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=B0o9qWjR8-Rwid0pZe-C4LPfxUJCDSWANN0CMbbPxSY&sid=8b5ba7aca4#🔒
-vless://9e8f8a07-f5ce-4643-a20c-1b9305f85d28@77.110.98.221:36994?type=tcp&channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=B0o9qWjR8-Rwid0pZe-C4LPfxUJCDSWANN0CMbbPxSY&sid=8b5ba7aca4#REALITY|FI🇫🇮

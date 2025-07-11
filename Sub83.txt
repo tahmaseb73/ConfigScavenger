@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@node.vauth.workers.dev:8080?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+        vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@node.vauth.workers.dev:2096?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@node.vauth.workers.dev:443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@node.vauth.workers.dev:8080?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@node.vauth.workers.dev:80?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@node.vauth.workers.dev:8443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@node.vauth.workers.dev:8880?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
@@ -501,5 +503,3 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.148.22:8443?security=tls&sni
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.21.89.147:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.21.89.147:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.254.140.140:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@108.165.216.186:2096?security=tls&sni=HiDyVnDe14.bInTeRmA.OrG&type=ws&host=HiDyVnDe14.bInTeRmA.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@141.193.213.30:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒

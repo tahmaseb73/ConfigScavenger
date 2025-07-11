@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=%2F%3Fed%3D2560#🔒
+        ss://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
+ss://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rough-hill-2959-ppal03.fawik58803.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@172.67.162.79:443?security=tls&sni=ARCane-427.Pages.DEV&type=ws&host=arcane-427.pages.dev&path=/api/assets&fp=android&alpn=http/1.1#🔒
 ss://1afa6999-97a1-494e-bcb3-c8f8ed4bc3b7@104.21.15.33:2096?security=tls&sni=support.sabapardaziran.ir&type=httpupgrade&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#🔒
 ss://1afa6999-97a1-494e-bcb3-c8f8ed4bc3b7@172.67.161.74:2096?security=tls&sni=support.sabapardaziran.ir&type=httpupgrade&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#🔒
@@ -501,5 +503,3 @@ ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.21.17.92:2087?security=tls&sni=50C
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.21.86.21:2087?security=tls&sni=50C1iGiMpI.mYsPdMmEtI.cOm&type=grpc#🔒
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.152.2:2053?security=tls&sni=1F9o0U7j2D.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.152.2:2096?security=tls&sni=XpSiNnBoCh.BaBaUsMaN2.iNfO&type=ws&host=XpSiNnBoCh.BaBaUsMaN2.iNfO&path=/&alpn=h3h2#🔒
-ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.153.2:2053?security=tls&sni=1F9o0U7j2D.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒
-ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.153.2:2096?security=tls&sni=XkEkRsA8nQ.bAbAuSmAn2.InFo&type=ws&host=XkEkRsA8nQ.bAbAuSmAn2.InFo&path=/&alpn=h3h2#🔒

@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://e10a6d1d-0bcf-4ccd-8f95-e20d1fbc0fbf@85.133.247.31:2082?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.31%3A2082
+        vless://0875a381-5e56-48d1-867b-08a2c3db13bf@85.133.247.31:2086?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.31%3A2086
+vless://4c183cd1-0079-45ce-9204-4360a643601c@5.159.49.232:2052?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.159.49.232%3A2052
+vless://e10a6d1d-0bcf-4ccd-8f95-e20d1fbc0fbf@85.133.247.31:2082?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.31%3A2082
 vless://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.30%3A2086
 vless://afa3cd54-f05d-4e0b-a4d6-9f046f5d1c05@193.134.100.183:6666?encryption=none&security=none&type=tcp&headerType=http&host=cloudflare.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.134.100.183%3A6666
 vless://40de89d7-7e4e-4310-80cf-0cc5e098ae85@85.133.247.46:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.46%3A2086
@@ -501,5 +503,3 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@169.197.142.99:9101#%F0%9F%87%BA%F0%9F
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.19:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-1912
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@158.247.205.87:5601#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.205.87-1913
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.205.87-1914
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1922
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1923

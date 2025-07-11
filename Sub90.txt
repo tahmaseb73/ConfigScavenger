@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://cdb63ff9-1767-4a35-97e5-900048e4feb2@13.215.252.170:443?security=tls&flow=xtls-rprx-vision&sni=cdn-sg02.download.pikoport.com&type=tcp&fp=chrome#🔒
+        vless://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@45.131.210.83:80?sni=mahdihector.kewojod243.workers.dev&type=ws&host=mahdihector.kewojod243.workers.dev&allowInsecure=1#🔒
+vless://cdb63ff9-1767-4a35-97e5-900048e4feb2@13.215.252.170:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn-sg02.download.pikoport.com&fp=chrome#⚡Telegram
+vless://cdb63ff9-1767-4a35-97e5-900048e4feb2@13.215.252.170:443?security=tls&flow=xtls-rprx-vision&sni=cdn-sg02.download.pikoport.com&type=tcp&fp=chrome#🔒
 vless://cdb63ff9-1767-4a35-97e5-900048e4feb2@54.169.220.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn-sg01.download.pikoport.com&fp=chrome#⚡Telegram
 vless://cdb63ff9-1767-4a35-97e5-900048e4feb2@54.169.220.207:443?security=tls&flow=xtls-rprx-vision&sni=cdn-sg01.download.pikoport.com&type=tcp&fp=chrome#🔒
 vless://cdba56b7-82c5-449f-b5ef-86bf02c9797e@65.21.181.218:443?security=reality&sni=stackoverflow.com&type=grpc&serviceName=%40cephalon\_ai\_bot&fp=chrome&pbk=CpD2tuOBsn8rHQm8hSzErseno4fsHTdsdq58anDW3AI&sid=b81f1f0ca108#🔒
@@ -501,5 +503,3 @@ vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?path=%2Fproxyip%3D
 vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?security=tls&sni=crolindd.dearcarlotta.cloudns.org&type=ws&host=crolindd.dearcarlotta.cloudns.org&path=%2Fproxyip%3Dcitlali.shorekeeper.ir%2F%3FJoin_Bade_Channel%40JOKERRVPN&fp=random&alpn=http%2F1.1#🔒
 vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?encryption=none&security=tls&sni=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&host=crolindd.dearcarlotta.cloudns.org&path=%2Fproxyip%3Dcitlali.shorekeeper.ir#q1_282
 vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#⚡Telegram

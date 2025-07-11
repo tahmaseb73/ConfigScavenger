@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://45ce6f5fd81c414286cad87e5ba1f61a@172.67.145.187:80?type=ws&host=inconigto.web.id&path=%2Ft.me%2FInconigto_Mode%2F35.219.50.99%2F443#🔒
+        ss://45ce6f5fd81c414286cad87e5ba1f61a@104.22.29.114:80#🔒
+ss://45ce6f5fd81c414286cad87e5ba1f61a@104.22.29.114:80?security=none&type=ws&host=inconigto.web.id&path=%2Ft.me%2FInconigto_Mode%2F35.219.50.99%2F443#🔒
+ss://45ce6f5fd81c414286cad87e5ba1f61a@172.67.145.187:80?type=ws&host=inconigto.web.id&path=%2Ft.me%2FInconigto_Mode%2F35.219.50.99%2F443#🔒
 ss://45ce6f5fd81c414286cad87e5ba1f61a@172.67.39.142:80#🔒
 ss://45ce6f5fd81c414286cad87e5ba1f61a@172.67.39.142:80?security=none&type=ws&host=inconigto.web.id&path=%2Ft.me%2FInconigto_Mode%2F35.219.50.99%2F443#🔒
 ss://45ce6f5fd81c414286cad87e5ba1f61a@76.76.21.21:80?security=none&type=ws&host=inconigto.web.id&path=/t.me/Inconigto_Mode/35.219.50.99/443#🔒
@@ -501,5 +503,3 @@ ss://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?security=none&type=ws
 ss://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80?encryption=none&security=none&type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 ss://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80?encryption=none&security=none&type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru:0&path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560#🇨🇦CA_436_@Surfboardv2ray
 ss://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed%3D2560&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru:0&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80?security=none&type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#🔒
-ss://50ee58d2-fc50-4df1-8c64-1fd1fa4a9c7d@154.206.12.170:8880?security=none&type=ws&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.yout.ddns-ip.net&path=%252FTelegram%E2%80%94VPNCUSTOMIZE%253Fed%253D2048#🔒
