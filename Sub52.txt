@@ -3,7 +3,13 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
+        ss://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=Telegram-------PROXY_MTM-_-_-_-Telegram-------PROXY_MTM%2F%3Fed%3D2048#🔒
+ss://e8bad3b8-8ff9-4cf8-be46-d01466514368@151.101.130.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=www.darcy.ir&path=/&fp=chrome&allowInsecure=1#🔒
+ss://e8bad3b8-8ff9-4cf8-be46-d01466514368@151.101.194.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=www.darcy.ir&path=/&fp=chrome&allowInsecure=1#🔒
+ss://e8bad3b8-8ff9-4cf8-be46-d01466514368@151.101.2.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=www.darcy.ir&path=/&fp=chrome&allowInsecure=1#🔒
+ss://e8bad3b8-8ff9-4cf8-be46-d01466514368@151.101.66.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=www.darcy.ir&path=/&fp=chrome&allowInsecure=1#🔒
+ss://e8bad3b8-8ff9-4cf8-be46-d01466514368@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&fp=chrome&allowInsecure=1&type=ws&host=www.darcy.ir&path=/#🇺🇸US_1230_@Surfboardv2ray
+ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
 ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#🇦🇪AE_1231_@Surfboardv2ray
 ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=ws&host=iriknet.ir&path=/telegram-mitivpn#@Hope_Net-join-us-on-Telegram⚠️
 ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=ws&host=iriknet.ir&path=/telegram-mitivpn#🔒
@@ -497,9 +503,3 @@ ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.128:443?sni=edmq.aimercc.fi
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.144:443?security=tls&sni=edccn.ambercc.filegear-sg.me&type=ws&host=edccn.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.201:443?sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&allowInsecure=1#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@175.199.227.244:50000?sni=edccz.aimercc.filegear-sg.me&type=ws&host=edccz.aimercc.filegear-sg.me&allowInsecure=1#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@176.105.253.98:443?security=tls&sni=edccn.ambercc.filegear-sg.me&type=ws&host=edccn.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@18.166.149.73:18443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&allowInsecure=1#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@185.188.147.79:443?sni=edmw.aimercc.filegear-sg.me&type=ws&host=edmw.aimercc.filegear-sg.me&allowInsecure=1#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@192.0.54.221:2083?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&alpn=h3#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@192.200.160.19:8443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&alpn=h3#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@198.41.209.66:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
