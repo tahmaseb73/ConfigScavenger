@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://c2aff09d-4fd7-4ee6-adc3-78eb352debe7@104.18.15.19:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0213.nsbt5eve.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+        ss://c2aff09d-4fd7-4ee6-adc3-78eb352debe7@104.18.15.19:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0213.nsbt5eve.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://c2aff09d-4fd7-4ee6-adc3-78eb352debe7@104.18.15.19:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0213.nsbt5eve.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://c2aff09d-4fd7-4ee6-adc3-78eb352debe7@104.18.15.19:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0213.nsbt5eve.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://c2d1b177-389d-4d2c-824e-436e298e3920@huffingtonpost.es:80?mode=auto&path=/@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray..../@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray?ed=2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#🇺🇸US_1024_@Surfboardv2ray
 ss://c2d1b177-389d-4d2c-824e-436e298e3920@speedtest.net:80?mode=auto&path=/@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray..../@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray?ed=2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#🇺🇸US_1025_@Surfboardv2ray
 ss://c2db147c-fc6a-4840-a9d6-c154048f0e1e@o.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_1026_@Surfboardv2ray
@@ -501,5 +503,3 @@ ss://cabbaca-aabc-acab-adbc-abcccabbcbaa@127.0.0.1:8080?security=tls&type=tcp#�
 ss://cabbaca-baac-aacb-cbda-abccccbabbaa@127.0.0.1:2080?security=tls&type=tcp#🤖
 ss://cad5a49f-14e5-4a05-aae9-c5df8fad394f@104.21.14.54:443?path=%2FM31AlZi4vavXqXENw4Z4&security=tls&alpn=http%2F1.1&encryption=none&host=c1swer.777159.xyz&fp=chrome&type=ws&sni=c1swER.777159.xYz#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
 ss://cad5a49f-14e5-4a05-aae9-c5df8fad394f@104.21.14.54:443?path=%2FM31AlZi4vavXqXENw4Z4&security=tls&alpn=http%2F1.1&encryption=none&host=c1swer.777159.xyz&fp=chrome&type=ws&sni=c1swER.777159.xYz#RELAY🚩
-ss://cad5a49f-14e5-4a05-aae9-c5df8fad394f@104.21.14.54:443?security=tls&sni=c1swER.777159.xYz&type=ws&host=c1swer.777159.xyz&path=%2FM31AlZi4vavXqXENw4Z4&fp=chrome&alpn=http%2F1.1#🔒
-ss://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.157.220:443?security=tls&sni=c1swER.777159.xYz&type=ws&host=c1swer.777159.xyz&path=%2FM31AlZi4vavXqXENw4Z4&fp=chrome&alpn=http%2F1.1#🔒

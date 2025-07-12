@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:2086?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+        ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:2052?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:2082?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:2086?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:2095?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
@@ -501,5 +503,3 @@ ss://3184a816-4c34-4e93-96b1-a8449e92a150@128.140.7.144:2226?security=none&type=
 ss://3184a816-4c34-4e93-96b1-a8449e92a150@128.140.7.144:6893?security=none&type=grpc&serviceName=6893vless#🔒
 ss://319e3dc1-ceb3-4258-b069-675db969ad62@185.146.173.20:80?path=/backup&security=none&encryption=none&host=crtU6u.dl-aPARaT.coM&type=ws#🇸🇪SE_320_@Surfboardv2ray
 ss://319e3dc1-ceb3-4258-b069-675db969ad62@185.146.173.20:80?security=none&type=ws&host=crtU6u.dl-aPARaT.coM&path=/backup#🔒
-ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@104.254.140.171:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
-ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@141.193.213.122:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒

@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@128.14.140.2:55555?sni=nl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@119.197.201.29:11481?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@121.128.107.69:16923?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@128.14.140.2:55555?sni=nl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.151.198.3:2053?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.159.129.107:2053?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.159.143.171:8443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
@@ -501,5 +503,3 @@ ss://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048
 ss://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048flow%3D-udp443&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#RELAY🚩
 ss://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048flow%3D-udp443&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#⚡Telegram
 ss://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=QW.VU6d72nt9y.zULaiR.orG.&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048flow%3D-udp443&host=QW.VU6d72nt9y.zULaiR.orG.&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40Outline_Vpn%29

@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.161:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.161-8880+%7C+22.61ms
+        ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.163:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.163-8880+%7C+22.3ms
+ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.162:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.162-8880+%7C+22.51ms
+ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.161:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.161-8880+%7C+22.61ms
 ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.161:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.161-8880+%7C+22.35ms
 ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.152:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.152-8880+%7C+22.77ms
 ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.149:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.149-8880+%7C+22.68ms
@@ -501,5 +503,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?encryption=none&
 vless://56652249-2e67-4429-b86c-3df8b838ad85@104.26.15.85:8080?encryption=none&security=none&type=ws&host=4j.QBAo1g5z6k.ZulaIR.org.&path=%2F#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.83:8880?encryption=none&security=none&type=ws&host=yd.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3EFR-%3EMCI-%3E%40Sezar_Sec
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNOLT5DTi0+TVROLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNDcuMTA0LjE4Ni4xMzMiLA0KICAicG9ydCI6ICI1MDAwMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-vless://bec44ac3-a662-4179-a9dd-2aa881706dde@employ.bitiboot.com:443?encryption=none&security=reality&sni=analytics.google.com&fp=chrome&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&sid=aba7bc9a&spx=%2F&type=tcp&headerType=none#DE-%3EDE-%3EADL-%3E%40Sezar_Sec
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFLT5ERS0+QURMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNTcuMTI5LjI4LjY5IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwNCiAgInBhdGgiOiAiL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiYmFyYWRpaGEuY29tIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
