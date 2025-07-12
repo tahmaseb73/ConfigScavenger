@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?security=none&sni=pqf1v5.fomula1race.shop&type=grpc#🇺🇸[openproxylist.com]
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?security=none&sni=pqf1v5.fomula1race.shop&type=grpc#🔒
+        vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?security=none&sni=pqf1v5.fomula1race.shop&type=grpc#🔒
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A104.32ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?security=none&type=grpc#🇺🇸[openproxylist.com]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?security=none&type=grpc#🔒
@@ -503,3 +502,4 @@ vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@23.227.39.185:8080?security=none&ty
 vless://ec0ea606-b8a9-4a33-8cd7-a8b442feb5c8@www.speedtest.net:80?path=%2FISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#RELAY🚩
 vless://ec18f06a-4f88-4ad8-aae4-e55d1eec305a@104.21.27.112:2087?security=tls&sni=good.speedtest3.online&type=ws&host=good.speedtest3.online&fp=chrome&alpn=h3,h2,http/1.1#🔒
 vless://ec18f06a-4f88-4ad8-aae4-e55d1eec305a@172.67.169.35:2087?security=tls&sni=good.speedtest3.online&type=ws&host=good.speedtest3.online&fp=chrome&alpn=h3,h2,http/1.1#🔒
+vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80?security=none&type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒

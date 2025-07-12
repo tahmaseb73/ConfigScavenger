@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?security=tls&sni=M2-1CM.paGes.DeV&type=ws&host=M2-1CM.paGes.DeV#🔒
-vless://0f0897cf-469f-421b-9018-b739fb47b721@185.16.110.30:2052?security=none&type=httpupgrade&host=WWW.tehrANSiman.coM.#🔒
+        vless://0f0897cf-469f-421b-9018-b739fb47b721@185.16.110.30:2052?security=none&type=httpupgrade&host=WWW.tehrANSiman.coM.#🔒
 vless://0f39484d-5293-4fa2-8406-1c1af59168b9@172.66.44.73:2053?security=tls&sni=mahdiSeRveR-hjS.PagES.DEV&type=ws&host=mahdiserver-hjs.pages.dev&path=%2FKwDmZ27ImEUmeAUj%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 vless://0f39484d-5293-4fa2-8406-1c1af59168b9@172.66.47.183:2053?security=tls&sni=mahdiSeRveR-hjS.PagES.DEV&type=ws&host=mahdiserver-hjs.pages.dev&path=%2FKwDmZ27ImEUmeAUj%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 vless://0f8691e2-c289-481b-9dcb-7a4578eab343@172.66.44.104:8443?security=tls&sni=87AE4B92.BeStTTtTIvpn.pAgES.DeV&type=ws&host=87ae4b92.bestttttivpn.pages.dev&path=%2Fg7gLAgweCiEhLgds%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
@@ -503,3 +502,4 @@ vless://1b6c1745-992e-4aac-8685-266c090e50ea@cdn.xn--b6gac.eu.org:8080?encryptio
 vless://1b6c1745-992e-4aac-8685-266c090e50ea@cdn.xn--b6gac.eu.org:80?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://1b6c1745-992e-4aac-8685-266c090e50ea@cdn.xn--b6gac.eu.org:8443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://1b6c1745-992e-4aac-8685-266c090e50ea@cdn.xn--b6gac.eu.org:8880?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+vless://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2052?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗

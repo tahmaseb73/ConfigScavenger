@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://df0680cae43c498ded8=@95.164.45.85:8880#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+95.164.45.85-8880+%7C+132.39ms
-ss://df0680cae43c498ded8=@638822414354206802.dezful-shledrc-acbs.info:8880#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+638822414354206802.dezful-shledrc-acbs.info-8880+%7C+279.43ms
+        ss://df0680cae43c498ded8=@638822414354206802.dezful-shledrc-acbs.info:8880#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+638822414354206802.dezful-shledrc-acbs.info-8880+%7C+279.43ms
 ss://df0680cae43c498ded8=@45.89.111.250:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+45.89.111.250-8880+%7C+132.58ms
 ss://db7d4b580aff4408a637c72cd0f8a774Og==@[::ffff:185.79.158.149]:8091#US%F0%9F%87%BA%F0%9F%87%B8+%7C+%5B%3A%3Affff%3A185.79.158.149%5D-8091+%7C+316.63ms
 ss://d4769aab99d94491a3e3a58867915bdfOg==@104.18.26.94:443#RELAY%F0%9F%9A%A9+%7C+104.18.26.94-443+%7C+8.89ms
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:
 vless://c4929932-34f8-46dd-8cd6-7b1539dc4416@104.18.27.94:443?encryption=none&security=tls&sni=esetsecuritylicense.inhkvez.workers.dev&type=ws&host=esetsecuritylicense.inhkvez.workers.dev&path=%2F#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NHdtTW9NUGttcldoZ1NnM3FvV1RUTGR5RFhUb1F5TDY1NHBNZVFxOTF1TXBXWTJoVVp4ZzVOUlFmS2ZpVkdYdnlSbnQ5ZmQ4b1Y1UldhQ2ZDajVZdTdWRkdyaGtpeEU%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3EADL-%3E%40Sezar_Sec
 vless://d4769aab-99d9-4491-a3e3-a58867915bdf@104.18.26.94:443?encryption=none&security=tls&sni=esetsecuritylicense.cfmglpqb.workers.dev&fp=randomized&type=ws&host=esetsecuritylicense.cfmglpqb.workers.dev&path=%2F%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.155:443?encryption=none&security=tls&sni=147135004002.sec20org.com&fp=random&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec

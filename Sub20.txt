@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://1aae9657-c653-495d-e8ad-8ca52916cea8@104.21.9.137:443?security=tls&sni=de.bolagskontaktstockholm.se&type=ws&path=%2Fws&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒
-ss://1aae9657-c653-495d-e8ad-8ca52916cea8@172.67.160.44:443?security=tls&sni=de.bolagskontaktstockholm.se&type=ws&path=%2Fws&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒
+        ss://1aae9657-c653-495d-e8ad-8ca52916cea8@172.67.160.44:443?security=tls&sni=de.bolagskontaktstockholm.se&type=ws&path=%2Fws&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒
 ss://1ac72b71-2d33-4c34-cda0-3428474c4467@104.21.5.169:2083?security=tls&flow=xtls-rprx-vision&sni=mas4jd2.shang2025.ggff.net&type=ws&host=mas4jd2.shang2025.ggff.net&path=%2F#🔒
 ss://1ac72b71-2d33-4c34-cda0-3428474c4467@172.67.133.166:2053?security=tls&flow=xtls-rprx-vision&sni=mas4jd1.shang2025.ggff.net&type=ws&host=mas4jd1.shang2025.ggff.net&path=%2F#🔒
 ss://1ac72b71-2d33-4c34-cda0-3428474c4467@172.67.133.166:2083?security=tls&flow=xtls-rprx-vision&sni=mas4jd2.shang2025.ggff.net&type=ws&host=mas4jd2.shang2025.ggff.net&path=%2F#🔒
@@ -503,3 +502,4 @@ ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tl
 ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s29.digikalacomirdivarir.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s29.digikalacomirdivarir.com&fp=#⚡Telegram
 ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s29.yozplhost.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s29.yozplhost.ir&fp=#telegram
 ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s30.afaghnegwork.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.afaghnegwork.ir&fp=#telegram
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s30.digikalacomirdivarir.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.digikalacomirdivarir.com&fp=#@meli_proxyy

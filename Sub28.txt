@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-80+%7C+5.88ms
-ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-80+%7C+6.45ms
+        ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-80+%7C+6.45ms
 ss://5419c4db-9964-4461-9a16-5da7579ad8a4@142.91.104.35:443?security=reality&flow=xtls-rprx-vision&sni=music.apple.com&type=tcp&fp=chrome&pbk=fdylZcT0rIVg3-NxuFbYaYLqwiSsHVLGjPAqAK5JWSI&sid=346c049d#🔒
 ss://5419c4db-9964-4461-9a16-5da7579ad8a4@146.190.107.100:443?security=reality&flow=xtls-rprx-vision&sni=music.apple.com&type=tcp&fp=chrome&pbk=IMRUYqTjjaqgC6JO_Y7S1I_jxUAP721ajl3IlhhiBB0&sid=35437d72#@Hope_Net-join-us-on-Teleg
 ss://542094fe-c01c-4b7c-9688-d012d3fc7544@104.21.91.90:2096?security=tls&sni=team.infinitespd.com&type=ws&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
@@ -503,3 +502,4 @@ ss://583ceab3-4022-4553-9158-9bedc625ad4e@104.129.164.39:8880?allowInsecure=0&sn
 ss://583ceab3-4022-4553-9158-9bedc625ad4e@104.129.164.39:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳
 ss://583ceab3-4022-4553-9158-9bedc625ad4e@104.129.164.39:8880?sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳&allowInsecure=0#🔒
 ss://583ceab3-4022-4553-9158-9bedc625ad4e@185.238.228.39:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3
+ss://583ceab3-4022-4553-9158-9bedc625ad4e@185.238.228.39:8880?sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
