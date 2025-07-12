@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://347b41ac-a0ad-4b39-a335-ca42b624ba9c@89.221.224.166:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#RELAY🚩 | sourceforge.net-443 | 10.39ms
-vless://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷 | barghchi.com-80 | 411.9ms
+        vless://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷 | barghchi.com-80 | 411.9ms
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#RELAY🚩 | Ft77Ta8Q1m.EmShAbKhObE.oRg-2096 | 187.69ms
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&fp=chrome&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#RELAY🚩 | Ft77Ta8Q1m.EmShAbKhObE.oRg-2096 | 9.82ms
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&path=%2F#RELAY🚩 | Ft77Ta8Q1m.EmShAbKhObE.oRg-2096 | 9.6ms
@@ -503,3 +502,4 @@ ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.139:8880#CY%F0%9F%87%A8%F0%9
 ss://e1d3a347d3804ef68145ae76318002d1Og==@www.visa.com:8080#RELAY%F0%9F%9A%A9+%7C+www.visa.com-8080+%7C+33.69ms
 ss://e1d3a347d3804ef68145ae76318002d1Og==@104.18.15.19:2086#RELAY%F0%9F%9A%A9+%7C+104.18.15.19-2086+%7C+9.48ms
 ss://df0680cae43c498ded8=@95.164.45.95:8880#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+95.164.45.95-8880+%7C+132.66ms
+ss://df0680cae43c498ded8=@95.164.45.94:8880#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+95.164.45.94-8880+%7C+132.38ms
