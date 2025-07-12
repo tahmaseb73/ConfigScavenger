@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://SVNTEAM1@SvnFree.GiSvn.ir:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=%2F#🌐سرور
+        ss://SVNTEAM1@SVNTEAM.MiSVN.iR:443?security=reality&encryption=none&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.refersion.com#@VIPro
+ss://SVNTEAM1@SVNTEAM.MiSVN.iR:443?security=reality&encryption=none&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.refersion.com#@VIProxys
+ss://SVNTEAM1@SvnFree.GiSvn.ir:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=%2F#🌐سرور
 ss://SVNTEAM1@svnteam.misvn.ir:443?security=reality&encryption=none&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com#@VIPro
 ss://SVNTEAM1@svnteam.misvn.ir:443?security=reality&encryption=none&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com#@VIProxys
 ss://SVNTEAM1Og==@151.101.194.133:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+151.101.194.133-443+%7C+1.56ms
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@54.251.238.225:6666#@Hope_Net⚠️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg@35.89.114.253:9898#%E7%BE%8E%E5%9B%BD6%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZ3Rya2Q2dUNBZVM=@62.60.233.83:443#🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmVmZDI4ZS1iMmU2LTQ0NjItYTM3OC1jYmM1OGE4NzQ4Zjk=@80.225.223.49:21451#🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaHNrVzQ1SnpjM1loSmk0MTVPdVhV@38.107.235.239:58080#🔒

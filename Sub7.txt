@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#US-%3EDE-%3EMTN-%3E%40Sezar_Sec
+        vless://d4769aab-99d9-4491-a3e3-a58867915bdf@104.18.26.94:443?encryption=none&security=tls&sni=esetsecuritylicense.cfmglpqb.workers.dev&fp=randomized&type=ws&host=esetsecuritylicense.cfmglpqb.workers.dev&path=%2F%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.155:443?encryption=none&security=tls&sni=147135004002.sec20org.com&fp=random&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#US-%3EDE-%3EMTN-%3E%40Sezar_Sec
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.27:8880?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3E-%3EMCI-%3E%40Sezar_Sec
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNOLT5DTi0+TVROLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNDcuMTE2LjE2Ni4xNzgiLA0KICAicG9ydCI6ICI1MDAwMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v3.nature27.shop:8880?encryption=none&security=none&type=grpc#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
@@ -501,5 +503,3 @@ vless://80236d0b-58e0-45d3-b906-12232c23c411@217.219.78.234:1000?encryption=none
 vless://dd155336-2b3b-13c6-8557-ad6b2c2a54fe@185.143.233.1:80?encryption=none&security=none&type=ws&host=cscscsc-414cdd80f5-scc.apps.ir-central1.arvancaas.ir&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.143.233.1%3A80
 vless://d1b5f42a-5b48-496c-8db7-373b98d9892f@37.202.231.220:1045?encryption=none&security=none&type=tcp&headerType=http&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-37.202.231.220%3A1045
 vless://2b7240a7-ef93-4876-8fcb-641e924122a1@185.143.235.201:2086?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.143.235.201%3A2086
-vless://1ca22665-c6c5-455a-ba74-c9d318eea59b@85.9.105.146:8443?encryption=none&security=none&type=tcp&headerType=http&host=onedrive.live.com%2Ccdnjs.cloudflare.com%2Craw.githubusercontent.com%2Cdrive.google.com%2Cdropbox.com%2Cbox.com%2Carchive.org#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.9.105.146%3A8443
-vless://9c1e8a4c-eae4-4f9b-bbce-d58572af446b@109.95.67.138:10021?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-109.95.67.138%3A10021
