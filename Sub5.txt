@@ -3,7 +3,23 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.74ms
+        vless://2fc52230-4426-4c5b-a662-7cc85d8eee9e@eventx.faraservice.space:5005?security=reality&encryption=none&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=e3631859&path=%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292#REALITY|IR🇮🇷 | eventx.faraservice.space-5005 | 435.65ms
+vless://2f6b3367-a0cc-4b06-c4d5-35b42ea24da0@94.182.136.184:80?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷 | 94.182.136.184-80 | 301.35ms
+vless://2ee1ec37-c543-47ce-946c-2f689b20af86@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=jobinja.pages.dev&fp=firefox&type=ws&sni=pages.dev#RELAY🚩 | pages.dev-443 | 48.44ms
+vless://2ee1ec37-c543-47ce-946c-2f689b20af86@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#US🇺🇸 | Zmaoz.Faculty.Ucdavis.Edu-443 | 283.9ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#RELAY🚩 | zula.ir-443 | 15.48ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.66ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#RELAY🚩 | zula.ir-443 | 15.71ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.17ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#RELAY🚩 | zula.ir-443 | 15.22ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 14.89ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 14.86ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 14.61ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.26ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.187.235:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#RELAY🚩 | zula.ir-443 | 14.84ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.44ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 14.85ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.74ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.71ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#RELAY🚩 | zula.ir-443 | 14.39ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.7ms
@@ -487,19 +503,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#KR%F0%9F%87%B0%F
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#MX%F0%9F%87%B2%F0%9F%87%BD+%7C+147.78.1.230-989+%7C+41.88ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+103.163.218.2-989+%7C+216.92ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#RS%F0%9F%87%B7%F0%9F%87%B8+%7C+194.71.126.31-989+%7C+133.93ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.61.59:989#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+192.36.61.59-989+%7C+247.97ms
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@5.188.181.201:9000#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+5.188.181.201-9000+%7C+113.75ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.18:38388#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+103.186.155.18-38388+%7C+222.25ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.33:38388#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+103.186.154.33-38388+%7C+219.92ms
-ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#US%F0%9F%87%BA%F0%9F%87%B8+%7C+45.55.2.232-14293+%7C+41.72ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+173.244.56.6-443+%7C+46.83ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+37.19.198.243-443+%7C+46.99ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+37.19.198.236-443+%7C+47.29ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.80-443+%7C+105.6ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.79-443+%7C+105.65ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.197-443+%7C+105.72ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.196-443+%7C+105.82ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.195-443+%7C+100.55ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.194-443+%7C+105.95ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+212.102.47.131-443+%7C+62.8ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+212.102.47.130-443+%7C+49.22ms
