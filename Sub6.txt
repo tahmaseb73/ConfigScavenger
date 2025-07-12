@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.179:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.179-8880+%7C+11.06ms
-ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.171:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.171-8880+%7C+11.47ms
-ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.170:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.170-8880+%7C+11.57ms
+        ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.170:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.170-8880+%7C+11.57ms
 ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.166:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.166-8880+%7C+11.22ms
 ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.166:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.166-8880+%7C+11.95ms
 ss://e48241934f54453bd03788368e85ef0eOg==@45.82.251.163:8880#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.82.251.163-8880+%7C+11.98ms
@@ -503,3 +501,5 @@ vless://bc0a2570-d5fb-4906-b0f0-d47cdcd0a381@104.18.26.94:80?encryption=none&sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#US-%3ENL-%3EMTN-%3E%40Sezar_Sec
 vless://c4929932-34f8-46dd-8cd6-7b1539dc4416@104.18.27.94:443?encryption=none&security=tls&sni=esetsecuritylicense.inhkvez.workers.dev&type=ws&host=esetsecuritylicense.inhkvez.workers.dev&path=%2F#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NHdtTW9NUGttcldoZ1NnM3FvV1RUTGR5RFhUb1F5TDY1NHBNZVFxOTF1TXBXWTJoVVp4ZzVOUlFmS2ZpVkdYdnlSbnQ5ZmQ4b1Y1UldhQ2ZDajVZdTdWRkdyaGtpeEU%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3EADL-%3E%40Sezar_Sec
+vless://d4769aab-99d9-4491-a3e3-a58867915bdf@104.18.26.94:443?encryption=none&security=tls&sni=esetsecuritylicense.cfmglpqb.workers.dev&fp=randomized&type=ws&host=esetsecuritylicense.cfmglpqb.workers.dev&path=%2F%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.155:443?encryption=none&security=tls&sni=147135004002.sec20org.com&fp=random&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec

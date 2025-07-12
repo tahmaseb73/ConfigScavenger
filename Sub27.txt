@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.119:2095?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram:TM-@AZARBAYJAB1+TM-@AZARBAYJAB1+TM-@AZARBAYJAB1+TM-@AZARBAYJAB1+TM-@AZARBAYJAB1#🔒
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.124:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%20%28Frankfurt%20am%20Main%20S%C3%BCd%29%F0%9F%85%BF%EF%B8%8Fping%3A8.29ms
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.124:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒
+        ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.124:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.134:80?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Channel&allowInsecure=0#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.166:80?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%20%28Frankfurt%20am%20Main%20S%C3%BCd%29%F0%9F%85%BF%EF%B8%8Fping%3A8.95ms
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.166:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
@@ -503,3 +501,5 @@ ss://54b3cbba-e6ac-485a-9481-976a0873eab9@172.67.190.221:2082?security=none&allo
 ss://54b48dfb-846d-561e-a1d0-77707b8dd9dc@95.164.34.105:8880?encryption=none&security=none&type=grpc&authority=%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&serviceName=vless-grpc&mode=gun#@VIPro
 ss://54b48dfb-846d-561e-a1d0-77707b8dd9dc@95.164.34.105:8880?encryption=none&security=none&type=grpc&authority=%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&serviceName=vless-grpc&mode=gun#@VIProxys
 ss://54c5f9f1-1f0d-4d61-9eb8-db65a1f62d56@104.17.177.51:443?security=tls&sni=salad.1945157171.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=salad.1945157171.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://54c5f9f1-1f0d-4d61-9eb8-db65a1f62d56@104.17.177.51:443?security=tls&sni=salad.1945157171.workers.dev&type=ws&host=salad.1945157171.workers.dev&path=%2F#🔒
+ss://54cf82ae-7e94-4826-f713-459072381ff6@151.101.130.228:80?security=none&type=ws&host=foffmelo.com#🔒
