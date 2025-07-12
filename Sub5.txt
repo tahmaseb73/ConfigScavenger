@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.71ms
+        vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.44ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 14.85ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.74ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.71ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#RELAY🚩 | zula.ir-443 | 14.39ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.7ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.56ms
@@ -500,6 +503,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#GB%F0%9F%87%AC%F0%9F%87
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.196-443+%7C+105.82ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.195-443+%7C+100.55ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.194-443+%7C+105.95ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+212.102.47.131-443+%7C+62.8ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+212.102.47.130-443+%7C+49.22ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+212.102.47.129-443+%7C+63.27ms
