@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://97ffead1-6e2e-40e4-8e74-bc2c6667d4a0@speedtest.net:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&host=medcezir6.global.ssl.fastly.net&type=xhttp#US🇺🇸 | medcezir6.global.ssl.fastly.net-80 | 40.58ms
-vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷 | exo.ir-443 | 565.88ms
-vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷 | exo.ir-443 | 292.85ms
-vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#IR🇮🇷 | exo.ir-443 | 549.56ms
+        vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#IR🇮🇷 | exo.ir-443 | 549.56ms
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&encryption=none%3Dghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann&host=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&sni=IyFpLkXk10.jOoLaJoOlA.OrG#RELAY🚩 | IyFpLkXk10.jOoLaJoOlA.OrG-8443 | 321.51ms
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&encryption=none&host=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&sni=IyFpLkXk10.jOoLaJoOlA.OrG#RELAY🚩 | IyFpLkXk10.jOoLaJoOlA.OrG-8443 | 15.04ms
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&type=ws&sni=TpBeFuEh16.aBbAsAlIrAhMaTdIkH.OrG&alpn=h3%2Ch2&fp=chrome&path=%2F&host=TpBeFuEh16.aBbAsAlIrAhMaTdIkH.OrG#RELAY🚩 | TpBeFuEh16.aBbAsAlIrAhMaTdIkH.OrG-8443 | 329.16ms
@@ -503,3 +500,6 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 14.61ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.26ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.187.235:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#RELAY🚩 | zula.ir-443 | 14.84ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.44ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 14.85ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.74ms

@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.187:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.188:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.192:443?sni=vb.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.194:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.194:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.203:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.205:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.207:443?sni=vb.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
@@ -503,3 +500,6 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?security=none&allowI
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.96.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/TM@AZAFBAYJAB1&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 vless://10d9df89-9a20-4110-9711-bca119490ee9@172.66.44.193:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/TM@AZAFBAYJAB1flow%3D-udp443&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 vless://10d9df89-9a20-4110-9711-bca119490ee9@172.66.44.193:80?security=none&type=ws&host=masaleini.mahsaamini.dpdns.org&path=%2FTM%40AZAFBAYJAB1flow%3D-udp443#🔒
+vless://10d9df89-9a20-4110-9711-bca119490ee9@172.66.47.63:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+vless://10d9df89-9a20-4110-9711-bca119490ee9@172.66.47.63:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/TM@AZAFBAYJAB1flow%3D-udp443&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+vless://10d9df89-9a20-4110-9711-bca119490ee9@172.66.47.63:80?security=none&type=ws&host=masaleini.mahsaamini.dpdns.org&path=%2FTM%40AZAFBAYJAB1flow%3D-udp443#🔒
