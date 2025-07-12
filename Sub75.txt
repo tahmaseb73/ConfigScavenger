@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.85.59.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%BE%C2%AE%EF%B8%8FCyprus%C2%A9%EF%B8%8FK%C3%A1to%20Lakat%C3%A1meia%F0%9F%85%BF%EF%B8%8Fping%3A8.59ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.85.59.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒
+        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.85.59.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.85.59.38:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@198.41.192.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@198.41.199.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
@@ -503,3 +502,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.15:8880?sni=reedfree8mahsa
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.163:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.164:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.166:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=0#🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.16:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒

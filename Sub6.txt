@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://ea286109d20f415e849e4af20ab04b65Og==@135.148.152.105:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.152.105-443+%7C+20.63ms
-ss://ea286109d20f415e849e4af20ab04b65Og==@135.148.152.103:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.152.103-443+%7C+16.95ms
+        ss://ea286109d20f415e849e4af20ab04b65Og==@135.148.152.103:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.152.103-443+%7C+16.95ms
 ss://ea286109d20f415e849e4af20ab04b65Og==@135.148.152.102:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.152.102-443+%7C+20.84ms
 ss://e9e437c21ee54f0dae094bfafc835e47Og==@185.143.233.5:2086#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.233.5-2086+%7C+47.52ms
 ss://e677672c3091575b10ea99059009ff50Og==@tr.crocodilserver.top:9007#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+tr.crocodilserver.top-9007+%7C+700.47ms
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.182.1:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?encryption=none&security=none&type=ws&host=redfree8mahsang6.redfree8.ir&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.26:8880?encryption=none&security=none&type=ws&host=sk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#GB-%3EFR-%3EMCI-%3E%40Sezar_Sec
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.101:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec

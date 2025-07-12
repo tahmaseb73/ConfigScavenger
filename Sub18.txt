@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.187:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.188:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.188:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.192:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.194:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.203:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
@@ -503,3 +502,4 @@ ss://0e90aa87-5fa9-4037-b25b-b78761517776@fr-2-rvp.rayan-dns.dpdns.org:443?secur
 ss://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2ray_Alpha-59
 ss://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[44959]
 ss://0e9ceb3d-d8cb-4922-8bf7-a3f744fdc1c1@62.60.198.103:8443?security=reality&encryption=none&pbk=oEUevfK4ZYD7IXa3KkveDQLScHeXIkilyrRWDj-DpDo&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=e8#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey
+ss://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.14.85:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=QW.VU6d72nt9y.zULaiR.orG.&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3

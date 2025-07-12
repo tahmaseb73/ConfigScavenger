@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.168:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.183:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
+        vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.183:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.204:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.213:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Teleg
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.213:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#🇧🇷BR_556_@Surfboardv2ray
@@ -503,3 +502,4 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=%2F%3Fed%3D25
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2059%20%28%40Outline_Vpn%29
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🇨🇦CA_605_@Surfboardv2ray
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🇨🇦CA_606_@Surfboardv2ray
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🇨🇦CA_607_@Surfboardv2ray

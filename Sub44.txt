@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://a268ce39-7687-4817-aa5f-def4f653fb88@104.24.231.66:443?sni=cf.501508.xyz&type=ws&host=cf.501508.xyz&allowInsecure=0#🔒
-ss://a268ce39-7687-4817-aa5f-def4f653fb88@188.114.98.82:443?security=tls&sni=zeyichen.sbs&allowInsecure=1&fp=chrome&type=ws&path=/&host=zeyichen.sbs&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+        ss://a268ce39-7687-4817-aa5f-def4f653fb88@188.114.98.82:443?security=tls&sni=zeyichen.sbs&allowInsecure=1&fp=chrome&type=ws&path=/&host=zeyichen.sbs&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://a268ce39-7687-4817-aa5f-def4f653fb88@188.114.98.82:443?security=tls&sni=zeyichen.sbs&type=ws&host=zeyichen.sbs&path=%2F&fp=chrome#🔒
 ss://a268ce39-7687-4817-aa5f-def4f653fb88@190.93.245.90:443?security=tls&sni=cf.501508.xyz&type=ws&host=cf.501508.xyz&path=%2F%3Fed%3D2560security%3Dtls#🔒
 ss://a268ce39-7687-4817-aa5f-def4f653fb88@192.0.54.6:443?security=tls&sni=cf.501508.xyz&type=ws&host=cf.501508.xyz&path=%2F#🔒
@@ -503,3 +502,4 @@ ss://b3386bb5-4445-4fc6-84aa-c17e2e0bb664@151.101.3.6:443?security=tls&sni=test.
 ss://b3419257-b3f2-41bd-949c-a4ff4664e573@95.38.210.142:35022?security=none&type=tcp&host=skyroom.online&path=%2F&headerType=http#🔒
 ss://b368fa2c-1a37-4c53-9705-765fb0b86c7b@85.239.60.43:443?security=tls&sni=lon5.vpntype.dev&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20VL-TCP-TLS%204%E2%83%A3
 ss://b369ba77-268c-4034-b8d2-2344f525d3dd@185.146.173.58:8880?security=none&type=httpupgrade&host=UA.Debiaan.iR.&path=%2FSmartUkraine%3Fed%3D8880#🔒
+ss://b37621a5-b06a-45ee-a5a8-7050f3f3201a@91.107.162.135:80?security=none&type=tcp&host=fast.com&headerType=http#🔒

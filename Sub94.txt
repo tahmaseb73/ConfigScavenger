@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.176:443?security=tls&sni=rakhsh.4972616e.xyz&type=ws&host=rakhsh.4972616e.xyz&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560flow%3D-udp443flow%3D-udp443flow%3D-udp443#🔒
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?security=tls&sni=rakhsh.4972616e.xyz&type=ws&host=rakhsh.4972616e.xyz&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560flow%3D-udp443flow%3D-udp443flow%3D-udp443#🔒
+        vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?security=tls&sni=rakhsh.4972616e.xyz&type=ws&host=rakhsh.4972616e.xyz&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560flow%3D-udp443flow%3D-udp443flow%3D-udp443#🔒
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?security=tls&sni=rakhsh.4972616e.xyz&type=ws&host=rakhsh.4972616e.xyz&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560flow%3D-udp443flow%3D-udp443flow%3D-udp443#🔒
 vless://ec8c3763-8b55-5184-810a-7b152df1c223@185.113.139.103:443?security=tls&sni=185.113.139.103&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.113.139.103&encryption=none#Rayan%20-%20SSM%20-%20WSDR-113%20-%20LV%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://ec8c3763-8b55-5184-810a-7b152df1c223@zula.ir:443?security=tls&sni=lv-s-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lv-s-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-113%20-%20LV%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
@@ -503,3 +502,4 @@ vless://f35dcf93-ffda-434f-bd7c-4730c37f9ff1@85.133.206.14:23079?type=ws&path=te
 vless://f35dcf93-ffda-434f-bd7c-4730c37f9ff1@85.133.206.14:23079?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_1275_@Surfboardv2ray
 vless://f366e744-abcd-4b5b-bd5e-2bd97b6443bf@185.135.9.105:443?security=tls&sni=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&type=ws&host=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&path=/#🔒
 vless://f366e744-abcd-4b5b-bd5e-2bd97b6443bf@185.135.9.193:2086?type=ws&host=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&path=/#🔒
+vless://f366e744-abcd-4b5b-bd5e-2bd97b6443bf@45.131.5.160:2086?security=none&type=ws&host=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒

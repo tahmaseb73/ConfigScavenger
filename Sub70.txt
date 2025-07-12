@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://25db390a-8924-4ea3-b36d-47f63716dc52@148.113.46.244:2052?security=none&type=grpc&serviceName=vless-grpc&sid=%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🔒
-vless://25ee0c23-9a3c-4cd0-ab35-095dc7d2a756@104.16.2.197:2087?sni=bettercf.724719.xyz&type=ws&host=bettercf.724719.xyz&allowInsecure=0#🔒
+        vless://25ee0c23-9a3c-4cd0-ab35-095dc7d2a756@104.16.2.197:2087?sni=bettercf.724719.xyz&type=ws&host=bettercf.724719.xyz&allowInsecure=0#🔒
 vless://25ee0c23-9a3c-4cd0-ab35-095dc7d2a756@104.16.58.158:443?sni=bettercf.724719.xyz&type=ws&host=bettercf.724719.xyz&allowInsecure=0#🔒
 vless://25ee0c23-9a3c-4cd0-ab35-095dc7d2a756@104.24.254.122:2083?sni=bettercf.724719.xyz&type=ws&host=bettercf.724719.xyz&allowInsecure=0#🔒
 vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@45.131.6.6:8080?type=ws&host=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&path=Telegram%40WangCai2%2F%3Fed#🔒
@@ -503,3 +502,4 @@ vless://3232953e-5959-495c-b969-d6d86a635089@188.114.99.144:443?security=tls&sni
 vless://3232953e-5959-495c-b969-d6d86a635089@188.114.99.239:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://3232953e-5959-495c-b969-d6d86a635089@198.41.204.40:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://32561a76-b738-48b9-b3f2-37856346fbd8@104.21.83.155:443?security=tls&sni=mo.4056860.xyz&type=ws&host=mo.4056860.xyz&alpn=h3%2Ch2%2Chttp/1.1#🔒
+vless://32608c3d-f66a-493f-9a6e-9e164aff5847@[2a01:4f8:1c1b:202e::1]:443?mode=gun&security=reality&encryption=none&authority=&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&fp=chrome&spx=/&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&sni=gsmarena.com&sid=32d7a82d#@fastkanfig+chanl+telegram
