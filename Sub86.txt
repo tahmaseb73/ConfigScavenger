@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.18.27.200:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        vless://a587d010-d29e-4efa-abf6-5e76ec035fcd@194.87.54.137:443?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=bKzUS_Mj69PvW0XCkWVnTNpLtYJpYte6ERga53Ft_Ws&sid=981e0de01b#🔒
+vless://a5c6f225-4cb9-4e58-edea-1e0793b656b7@47.57.190.3:443?security=tls&sni=clawhk.costs.asia&type=ws&path=%2Fbing#🔒
+vless://a5d8f419-7776-5afd-a765-e57d868d1c47@85.209.194.2:2052?path=/vless#🇺🇸US_917_@Surfboardv2ray
+vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.18.27.200:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.18.28.209:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.20.161.27:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.20.17.25:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -500,6 +503,3 @@ vless://b55059e9-6adf-409a-a110-c1cf0a36bd7e@Join.VPNCUSTOMIZE.cloud1.hosting-ip
 vless://b55059e9-6adf-409a-a110-c1cf0a36bd7e@Join.VPNCUSTOMIZE.cloud1.hosting-ip.com:8880?path=%2FTelegram—VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.sik.ddns-ip.net&fp=randomized&type=ws#⚡Telegram
 vless://b55059e9-6adf-409a-a110-c1cf0a36bd7e@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?path=%2FTelegram%E2%80%94VPNCUSTOMIZE%3Fed2048&security=none&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws#⚡Telegram
 vless://b55059e9-6adf-409a-a110-c1cf0a36bd7e@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Telegram—VPNCUSTOMIZE%3Fed2048#⚡Telegram
-vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?encryption=none&security=none&type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev&path=%2F#t.me%2Fpeterjest
-vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev#🔒
-vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.101.64.155:80?type=ws&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir#🔒
