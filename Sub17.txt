@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v23.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#telegram
-ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v25.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#REALITY|FR🇫🇷
-ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v25.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#_165_@Surfboardv2ray
-ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v27.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#_166_@Surfboardv2ray
+        ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v27.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#_166_@Surfboardv2ray
 ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v27.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#telegram
 ss://0109e82c-f969-42cb-8057-f443071206a3@172.66.44.125:8443?security=tls&sni=MaHdISeRveR-4aY.pageS.dEV&type=ws&host=mahdiserver-4ay.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒
 ss://011037be-bead-472b-8201-4cdbdab8f2fa@93.113.238.32:225?security=&encryption=none&host=tci.ir&headerType=http&type=tcp&path=%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292#[44423]
@@ -503,3 +500,6 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.75:443?sni=zx.ylks0033.dpdn
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.106:443?security=tls&sni=sz.ylks0033.dpdns.org&type=ws&host=sz.ylks0033.dpdns.org&path=%2F%3Fed#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.109:443?sni=sl.ylka.dpdns.org&type=ws&host=sl.ylka.dpdns.org&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.119:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.134:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.142:443?sni=hl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.146:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒

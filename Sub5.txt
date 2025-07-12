@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://2fc52230-4426-4c5b-a662-7cc85d8eee9e@eventx.faraservice.space:5005?security=reality&encryption=none&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=e3631859&path=%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292#REALITY|IR🇮🇷 | eventx.faraservice.space-5005 | 435.65ms
-vless://2f6b3367-a0cc-4b06-c4d5-35b42ea24da0@94.182.136.184:80?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷 | 94.182.136.184-80 | 301.35ms
-vless://2ee1ec37-c543-47ce-946c-2f689b20af86@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=jobinja.pages.dev&fp=firefox&type=ws&sni=pages.dev#RELAY🚩 | pages.dev-443 | 48.44ms
-vless://2ee1ec37-c543-47ce-946c-2f689b20af86@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#US🇺🇸 | Zmaoz.Faculty.Ucdavis.Edu-443 | 283.9ms
+        vless://2ee1ec37-c543-47ce-946c-2f689b20af86@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#US🇺🇸 | Zmaoz.Faculty.Ucdavis.Edu-443 | 283.9ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#RELAY🚩 | zula.ir-443 | 15.48ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 15.66ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#RELAY🚩 | zula.ir-443 | 15.71ms
@@ -503,3 +500,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#KR%F0%9F%87%B0%F
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#MX%F0%9F%87%B2%F0%9F%87%BD+%7C+147.78.1.230-989+%7C+41.88ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+103.163.218.2-989+%7C+216.92ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#RS%F0%9F%87%B7%F0%9F%87%B8+%7C+194.71.126.31-989+%7C+133.93ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.61.59:989#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+192.36.61.59-989+%7C+247.97ms
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@5.188.181.201:9000#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+5.188.181.201-9000+%7C+113.75ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.18:38388#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+103.186.155.18-38388+%7C+222.25ms

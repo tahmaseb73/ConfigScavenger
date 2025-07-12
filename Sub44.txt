@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@188.114.98.144:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@188.114.98.184:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@188.114.99.123:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@195.85.23.58:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        ss://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@195.85.23.58:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@104.21.71.131:443?security=tls&sni=m5rtghj.999854.xyz&type=ws&host=m5rtghj.999854.xyz&path=%2FGsJV4ORk0e0CScyGqcQZW&fp=chrome&alpn=http%2F1.1#🔒
 ss://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@172.67.170.147:443?security=tls&sni=m5rtghj.999854.xyz&type=ws&host=m5rtghj.999854.xyz&path=%2FGsJV4ORk0e0CScyGqcQZW&fp=chrome&alpn=http%2F1.1#🔒
 ss://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@172.67.220.32:443?security=tls&sni=m5rtnm.999836.xyz&type=ws&host=m5rtnm.999836.xyz&path=%2FGsJV4ORk0e0CScyGqcQZW&fp=chrome&alpn=http%2F1.1#🔒
@@ -503,3 +500,6 @@ ss://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.67.27.46:80?type=ws&host=cc.ailicf
 ss://b5cdabf0-e048-4fa2-90da-9379b1a4926e@190.93.246.84:80?sni=cc.ailicf.us.kg&type=ws&host=cc.ailicf.us.kg#🔒
 ss://b5ce53db-c018-4ae9-a201-cf5a18987155@151.101.130.133:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=Lightning.ir&type=ws#🇺🇸US_972_@Surfboardv2ray
 ss://b611cdc4-9107-4e5d-aa1d-e494af7fac2e@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=%2FTelegram%40viturey%3Fed%3D2048&mode=auto#US🇺🇸
+ss://b611cdc4-9207-4e5d-aa1d-e494af7fac2e@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=%2FTelegram%40viturey%3Fed%3D2048&mode=auto#US🇺🇸
+ss://b64c1afa-a034-4b66-ab24-711a8664c346@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=&encryption=none&host=foffmelo.com&type=ws#%40Artemisvpn1
+ss://b66a1cb8-3c03-4678-a45b-bfd045604dad@172.66.44.211:2083?security=tls&sni=MAHDISerVer-3zo.PAgES.deV&type=ws&host=mahdiserver-3zo.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒
