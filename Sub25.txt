@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://508a5202-d450-42d2-a74c-9326dcda8b63@104.21.81.192:443?encryption=none&security=tls&sni=sssdeCVBnh.999156.XYz&alpn=http%2F1.1&type=ws&host=sssdecvbnh.999156.xyz&path=%2FprUFeqTNsRZbl4sVHqtMKS#t.me%2Fpeterjest
-ss://508a5202-d450-42d2-a74c-9326dcda8b63@104.21.81.192:443?path=/prUFeqTNsRZbl4sVHqtMKS&security=tls&encryption=none&alpn=http/1.1&host=sssdecvbnh.999156.xyz&fp=chrome&type=ws&sni=sssdeCVBnh.999156.XYz#🇨🇦CA_434_@Surfboardv2ray
-ss://508a5202-d450-42d2-a74c-9326dcda8b63@104.21.81.192:443?security=tls&sni=sssdeCVBnh.999156.XYz&type=ws&host=sssdecvbnh.999156.xyz&path=/prUFeqTNsRZbl4sVHqtMKS&fp=chrome&alpn=http/1.1#🔒
-ss://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?security=tls&sni=XCdvFRTtt.fREEvpnATM.dPDNS.oRg&type=ws&host=xcdvfrttt.freevpnatm.dpdns.org&path=%2FprUFeqTNsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#🔒
-ss://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.190.149:443?security=tls&sni=sssdeCVBnh.999156.XYz&type=ws&host=sssdecvbnh.999156.xyz&path=%2FprUFeqTNsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#🔒
+        ss://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.190.149:443?security=tls&sni=sssdeCVBnh.999156.XYz&type=ws&host=sssdecvbnh.999156.xyz&path=%2FprUFeqTNsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#🔒
 ss://50b7fc2c-10b6-4f46-b59d-0d9c674ced40@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🌐سرور
 ss://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=purlitefastest.pages.dev&type=ws&sni=purlitefastest.pages.dev#⚡Telegram
 ss://50c017ff-4271-4e22-8e16-7e4367898af8@213.108.198.149:443?security=reality&sni=www.cdn77.com&type=tcp&fp=chrome&pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&sid=e54b5ad736ae4c38#🔒
@@ -503,3 +499,7 @@ ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.16.110.20:8880?security=none&sni=r
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.228.165:8880?path=Telegram%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%40Orange_support
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.228.165:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.228.191:80?type=ws&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560%2F%3FJoin_Bade_Channel%40ShadowProxy66#🔒
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.228.196:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.137:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.177:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%2F%3Fed%3D2560#🔒
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.181:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒

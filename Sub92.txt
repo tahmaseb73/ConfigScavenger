@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?mode=gun&security=none&encryption=none&type=grpc#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?mode=gun&security=none&encryption=none&type=grpc#⚡Telegram
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?type=grpc#🇱🇹[openproxylist.com]
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?type=grpc#🔒
+        vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?type=grpc#🔒
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614817.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇳🇱NL_1154_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749214.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
@@ -503,3 +499,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.105:8880?security=none&sn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?encryption=none&security=none&sni=pqf1v5.fomula1race.shop&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A99.91ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqf1v5.fomula1race.shop#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?security=none&sni=pqf1v5.fomula1race.shop&type=grpc#🇺🇸[openproxylist.com]
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?security=none&sni=pqf1v5.fomula1race.shop&type=grpc#🔒
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A104.32ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?security=none&type=grpc#🇺🇸[openproxylist.com]
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?security=none&type=grpc#🔒
