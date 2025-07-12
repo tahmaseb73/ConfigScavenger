@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.208.62:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&alpn=h2%2Chttp/1.1#🔒
+        ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.208.237:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
+ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.208.62:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&alpn=h2%2Chttp/1.1#🔒
 ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.209.115:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.209.166:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.210.170:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
@@ -502,4 +503,3 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@147.185.161.234:443?security=tls&sni=p
 ss://401374e6-df77-41fb-f638-dad8184f175b@154.197.64.43:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒
 ss://401374e6-df77-41fb-f638-dad8184f175b@154.206.12.140:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒
 ss://401374e6-df77-41fb-f638-dad8184f175b@154.211.8.100:443?security=tls&sni=pqh44v2.hiddendom.shop&type=grpc&host=pqh44v2.hiddendom.shop&alpn=h2#🔒
-ss://401374e6-df77-41fb-f638-dad8184f175b@154.211.8.125:443?security=tls&sni=pqh44v2.hiddendom.shop&type=grpc&host=pqh44v2.hiddendom.shop&alpn=h2#🔒

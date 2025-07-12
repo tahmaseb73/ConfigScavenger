@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.136:80?sni=teleirani.ir&type=ws&host=teleirani.ir&path=Telegram@proxy_mtm/?ed%3D2560&fp=random&alpn=h2,http/1.1#🔒
+        ss://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.105:80?type=ws&host=teleirani.ir&path=/?ed%3D2048#🔒
+ss://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.136:80?sni=teleirani.ir&type=ws&host=teleirani.ir&path=Telegram@proxy_mtm/?ed%3D2560&fp=random&alpn=h2,http/1.1#🔒
 ss://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?security=none&type=ws&host=teleirani.ir#🔒
 ss://25468dd2-7fb0-478c-8ce7-3e72cf65936d@146.75.74.62:443?encryption=none&security=tls&sni=app.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=wow-online.ir&path=%2F#V2rayngninja
 ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni=divarcdn.com&fp=chrome#1%7C%F0%9F%8C%802-TR%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDi...
@@ -502,4 +503,3 @@ ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@31.43.179.133:2087?security=tls&sni=Tp
 ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.12.31.0:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.12.31.95:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&allowInsecure=1&fp=chrome&type=ws&path=/&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.12.31.95:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
-ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.208.237:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒

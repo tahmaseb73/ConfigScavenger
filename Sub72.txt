@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://401374e6-df77-41fb-f638-dad8184f175b@45.194.53.43:443?security=tls&sni=pqh44v2.hiddendom.shop&type=grpc&alpn=h2#🔒
+        vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.165:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🇺🇸[openproxylist.com]
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.165:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.189:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.200:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.219.144:443?security=tls&sni=pqh23v4.hiddendom.shop&type=grpc&host=pqh23v4.hiddendom.shop&alpn=h2#🔒
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.194.53.43:443?security=tls&sni=pqh44v2.hiddendom.shop&type=grpc&alpn=h2#🔒
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.205.0.142:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.205.0.170:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.205.0.58:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒
@@ -498,8 +503,3 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&headerType=none#q1_136
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&headerType=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FNew%20York%F0%9F%85%BF%EF%B8%8Fping%3A93.07ms
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@meli_proxyy♾نامحدود
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#⚡Telegram
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&flow=xtls-rprx-vision&sni=speed.cloudflare.com&type=tcp&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#🔒
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=tls&flow=xtls-rprx-vision-udp443&sni=speed.cloudflare.com&fp=chrome#🔒
-vless://49fb4955-1dd0-441e-8d74-dff7da060cab@162.159.20.126:80?type=httpupgrade&host=v2ngfast.nanvrfood.ir.&path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048#🔒

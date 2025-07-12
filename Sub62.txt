@@ -3,7 +3,22 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@162.159.153.223:443?sni=epccf.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@162.159.143.235:443?sni=epccu.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.143.23:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒
+trojan://Aimer@162.159.143.31:443?sni=epccu.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.143.47:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒
+trojan://Aimer@162.159.143.89:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.143.8:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒
+trojan://Aimer@162.159.152.11:443?sni=epmq.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.152.120:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A580
+trojan://Aimer@162.159.152.120:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.152.192:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.153.103:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.153.116:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.153.125:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.153.187:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒
+trojan://Aimer@162.159.153.212:443?sni=epmq.ambercc.filegear-sg.me&allowInsecure=0#🔒
+trojan://Aimer@162.159.153.223:443?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@162.159.153.237:443?sni=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@162.159.153.9:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒
 trojan://Aimer@162.159.34.21:443?sni=epccu.ambercc.filegear-sg.me#🔒
@@ -85,7 +100,11 @@ trojan://Aimer@172.64.33.128:443?sni=epccz.ambercc.filegear-sg.me&allowInsecure=
 trojan://Aimer@172.64.33.128:443?sni=epme.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.64.33.144:443?sni=epma.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.64.33.201:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
+trojan://Aimer@172.64.33.73:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@172.64.33.73:2096?sni=epcch.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.34.52:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@172.64.34.52:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[44419]
+trojan://Aimer@172.64.34.52:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#🦀PF486203
 trojan://Aimer@172.64.34.52:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@172.64.35.127:443?sni=epccv.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.64.35.168:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
@@ -256,6 +275,8 @@ trojan://Aimer@188.164.159.74:8443?security=tls&sni=epmw.ambercc.filegear-sg.me&
 trojan://Aimer@188.164.159.91:2083?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒
 trojan://Aimer@188.164.159.98:2083?sni=epccv.ambercc.filegear-sg.me#🔒
 trojan://Aimer@188.166.162.201:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒
+trojan://Aimer@192.0.54.221:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@192.0.54.221:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[44414]
 trojan://Aimer@192.0.54.221:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@192.0.54.7:443?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@192.0.54.7:443?sni=epccn.ambercc.filegear-sg.me#🔒
@@ -396,6 +417,8 @@ trojan://Aimer@27.50.49.41:2096?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@27.50.49.47:2083?sni=agepn.ambercc.filegear-sg.me#🔒
 trojan://Aimer@27.50.49.61:2096?sni=epccd.ambercc.filegear-sg.me#🔒
 trojan://Aimer@27.50.49.74:2087?sni=epmq.ambercc.filegear-sg.me#🔒
+trojan://Aimer@3.18.196.26:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@3.18.196.26:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#🦀PF486201
 trojan://Aimer@31.43.179.27:443?sni=epmd.ambercc.filegear-sg.me#🔒
 trojan://Aimer@31.43.179.60:2053?sni=epcci.ambercc.filegear-sg.me#🔒
 trojan://Aimer@34.218.130.79:443?sni=ngepx.ambercc.filegear-sg.me#🔒
@@ -427,6 +450,8 @@ trojan://Aimer@45.67.215.217:2087?sni=epccg.ambercc.filegear-sg.me#@Hope_Net-joi
 trojan://Aimer@45.67.215.217:2087?sni=epccg.ambercc.filegear-sg.me#🔒
 trojan://Aimer@45.67.215.250:2096?security=tls&sni=ageph.ambercc.filegear-sg.me&type=ws&host=ageph.ambercc.filegear-sg.mehttp/1.1&path=/#🔒
 trojan://Aimer@45.86.229.28:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒
+trojan://Aimer@46.254.92.142:2087?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@46.254.92.142:2087?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#🦀PF486214
 trojan://Aimer@46.254.92.142:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒
 trojan://Aimer@46.254.92.191:443?security=tls&sni=epcct.ambercc.filegear-sg.me&type=ws&host=epcct.ambercc.filegear-sg.me#🔒
 trojan://Aimer@46.254.92.201:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
@@ -438,6 +463,8 @@ trojan://Aimer@46.254.93.251:2087?security=tls&sni=ageph.ambercc.filegear-sg.me&
 trojan://Aimer@46.254.93.37:8443?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@46.254.93.52:8443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@46.254.93.52:8443?security=tls&type=tcp&sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
+trojan://Aimer@46.32.184.187:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram⚠️
+trojan://Aimer@46.32.184.187:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#🦀PF486204
 trojan://Aimer@47.245.105.192:443?sni=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@47.245.95.160:1443?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@47.79.84.167:443?sni=epccc.ambercc.filegear-sg.me#🔒
@@ -476,30 +503,3 @@ trojan://Aimer@66.81.247.230:2096?sni=epccn.ambercc.filegear-sg.me&allowInsecure
 trojan://Aimer@66.81.247.88:2083?security=tls&sni=ameqo.esslh.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@67.226.221.102:80?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@67.226.221.104:80?sni=epcca.ambercc.filegear-sg.me#🔒
-trojan://Aimer@77.232.140.101:2053?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@77.232.140.7:443?sni=epccf.ambercc.filegear-sg.me#🔒
-trojan://Aimer@77.238.236.134:8443?security=tls&sni=agepq.ambercc.filegear-sg.me&type=tcp#🔒
-trojan://Aimer@77.74.228.4:2087?security=tls&sni=agepm.ambercc.filegear-sg.me&type=ws&host=agepm.ambercc.filegear-sg.me#🔒
-trojan://Aimer@79.137.204.220:2053?sni=epcco.ambercc.filegear-sg.me#🔒
-trojan://Aimer@8.20.125.1:443?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒
-trojan://Aimer@8.217.47.218:36374?sni=epcca.ambercc.filegear-sg.me#🔒
-trojan://Aimer@8.219.126.137:491?sni=epms.ambercc.filegear-sg.me#🔒
-trojan://Aimer@82.115.6.219:8443?sni=ngepz.ambercc.filegear-sg.me#🔒
-trojan://Aimer@86.38.214.186:443?sni=epme.ambercc.filegear-sg.me#🔒
-trojan://Aimer@87.120.237.36:81?security=tls&sni=ageph.ambercc.filegear-sg.me&type=ws&host=ageph.ambercc.filegear-sg.mehttp/1.1&path=/#🔒
-trojan://Aimer@89.248.207.37:443?sni=epcci.ambercc.filegear-sg.me#🔒
-trojan://Aimer@91.149.239.198:443?sni=epmw.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@91.149.239.62:443?sni=epcci.ambercc.filegear-sg.me#🔒
-trojan://Aimer@92.243.74.115:443?sni=epccg.ambercc.filegear-sg.me#🔒
-trojan://Aimer@92.243.74.180:8443?security=tls&sni=tyep.esslh.filegear-sg.me&allowInsecure=1&fp=chrome&type=ws&path=/&host=tyep.esslh.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-WS-TLS%204%E2%83%A3
-trojan://Aimer@92.243.74.180:8443?sni=tyep.esslh.filegear-sg.me#🔒
-trojan://Aimer@92.243.74.239:8443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5115
-trojan://Aimer@92.243.74.239:8443?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@92.243.74.23:2096?sni=epcct.ambercc.filegear-sg.me#🔒
-trojan://Aimer@92.243.74.2:8443?sni=epcca.ambercc.filegear-sg.me#🔒
-trojan://Aimer@92.243.74.3:8443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A585
-trojan://Aimer@92.243.74.3:8443?sni=epccj.ambercc.filegear-sg.me#🔒
-trojan://Aimer@92.53.190.161:2087?sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me#🔒
-trojan://Aimer@92.63.192.110:444?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒
-trojan://Aimer@arvind.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@kip.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram

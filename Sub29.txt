@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?security=tls&sni=de02.abvpn.ru&type=ws&host=de02.abvpn.ru&path=%2Fwebsocket#🔒
+        ss://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?security=tls&sni=de02.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&host=de02.abvpn.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?security=tls&sni=de02.abvpn.ru&type=ws&host=de02.abvpn.ru&path=%2Fwebsocket#🔒
 ss://588f094b-431b-422c-b80b-007945037072@de02.abvpn.ru:443?encryption=none&security=tls&sni=de02.abvpn.ru&type=ws&host=de02.abvpn.ru&path=%2Fwebsocket#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping%3A27.77ms
 ss://588f094b-431b-422c-b80b-007945037072@de02.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&host=de02.abvpn.ru&type=ws&sni=de02.abvpn.ru#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 ss://588f094b-431b-422c-b80b-007945037072@de02.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&host=de02.abvpn.ru&type=ws&sni=de02.abvpn.ru#DE🇩🇪
@@ -220,6 +221,7 @@ ss://599a3443-4db5-4d91-9117-066ef0bda053@188.114.99.234:443?security=tls&sni=xx
 ss://599a3443-4db5-4d91-9117-066ef0bda053@188.114.99.69:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://59f14c09-0c21-4634-9752-82738b8f2595@104.21.5.169:2053?security=tls&flow=xtls-rprx-vision&sni=mas2jd1.shang2025.ggff.net&type=ws&host=mas2jd1.shang2025.ggff.net&path=%2Fa#🔒
 ss://5a03f84f-5130-4a98-9beb-122b6bdcb091@85.239.60.43:443?security=tls&sni=lon5.vpntype.dev&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20VL-TCP-TLS%204%E2%83%A3
+ss://5a1e5c0d-92ec-44f0-86f7-add44c41aa83@185.143.233.122:8080?encryption=none&security=none&type=httpupgrade&host=snapp-ir.nadi-kala.shop&path=%2F#@VIProxys
 ss://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FChiyoda%F0%9F%85%BF%EF%B8%8Fping%3A325.13ms
 ss://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=&encryption=none&headerType=&type=tcp#@meli_proxyy
 ss://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=&encryption=none&headerType=&type=tcp#UA🇺🇦
@@ -501,5 +503,3 @@ ss://62cefde80f4d43f7a531804c37e066d9Og==@faculty.ucdavis.edu:443#US%F0%9F%87%BA
 ss://62cefde80f4d43f7a531804c37e066d9Og==@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com-80+%7C+19.8ms
 ss://62cefde80f4d43f7a531804c37e066d9Og==@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com-80+%7C+24.65ms
 ss://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?security=tls&sni=ConFIgmr.PaGeS.dEV&type=ws&host=ConFIgmr.PaGeS.dEV&allowInsecure=0#🔒
-ss://630c01ee-92db-4a15-9573-0955853ce362@104.21.61.43:443?encryption=none&security=tls&sni=w26io.deonta-yancy.workers.dev&alpn=http%2F1.1&type=ws&host=w26io.deonta-yancy.workers.dev&path=%2F#t.me%2Fpeterjest
-ss://630c01ee-92db-4a15-9573-0955853ce362@104.21.61.43:443?security=tls&sni=w26io.deonta-yancy.workers.dev&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&host=w26io.deonta-yancy.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
