@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.181:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed#🔒
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.19:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒
+        vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.19:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.233:443?sni=cl.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.254:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%20%20re.vs2024.us.kg&fp=chrome#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.79:443?sni=ca.bgm2024.dpdns.org&type=ws&host=ca.bgm2024.dpdns.org&allowInsecure=1#🔒
@@ -503,3 +502,4 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2045%20%28%40Outline_Vpn%29
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2057%20%28%40Outline_Vpn%29
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2062%20%28%40Outline_Vpn%29
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2087%20%28%40Outline_Vpn%29

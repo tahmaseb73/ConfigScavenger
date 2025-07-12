@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://3f789164-ca20-4041-89c0-bc553819970c@45.150.174.82:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒
-ss://3f789164-ca20-4041-89c0-bc553819970c@45.150.174.84:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒
+        ss://3f789164-ca20-4041-89c0-bc553819970c@45.150.174.84:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒
 ss://3f789164-ca20-4041-89c0-bc553819970c@45.150.174.86:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒
 ss://3f789164-ca20-4041-89c0-bc553819970c@91.238.82.242:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒
 ss://3fac30f6-b9f8-4670-8ffb-ddf639a87bb2@[2a01:4f8:1c1b:3e2::1]:443?mode=gun&security=reality&encryption=none&authority=&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&fp=chrome&spx=/&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&sni=gsmarena.com&sid=32d7a82d#🇩🇪+@fastkanfig
@@ -503,3 +502,4 @@ ss://4587e98c-ec45-408e-b395-67923b6e9ded@104.18.158.239:443?security=tls&sni=xx
 ss://4587e98c-ec45-408e-b395-67923b6e9ded@104.21.8.24:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://4587e98c-ec45-408e-b395-67923b6e9ded@104.21.92.241:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://4587e98c-ec45-408e-b395-67923b6e9ded@162.159.192.56:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://4587e98c-ec45-408e-b395-67923b6e9ded@162.159.192.60:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

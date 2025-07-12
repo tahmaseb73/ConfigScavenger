@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.199:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.211:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.211:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.219:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.221:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#@Hope_Net-join-us-on-Telegram
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.221:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#RELAY🚩
@@ -503,3 +502,4 @@ ss://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@104.17.147.22:2086?security=none&type=
 ss://c1659206-d827-41f6-9f73-f18ca30102d3@104.16.53.48:80?sni=still-forest-e3e8-ppal03.mekah93880.workers.dev&type=ws&path=%2F#🔒
 ss://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.14.19:443?security=tls&sni=bpb-worker-panel3.pages.dev&type=ws&host=bpb-worker-panel3.pages.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒
 ss://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.15.19:443?security=tls&sni=bpb-worker-panel3.pages.dev&type=ws&host=bpb-worker-panel3.pages.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒
+ss://c1b972a3-9da3-5051-8dee-88e160001da1@104.24.31.100:2083?security=tls&sni=nikuw.sspeednetokala.Us.KG&type=ws&host=nikuw.sspeednetokala.Us.KG&path=vless-ws%2F%3Fed%3D2048&fp=android&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒

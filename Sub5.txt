@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&alpn=h3h2&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&path=%2F#RELAY🚩 | Ft77Ta8Q1m.EmShAbKhObE.oRg-2096 | 9.8ms
-vless://33707040-edcf-4185-94e4-2a071315c602@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&sid=7def4dde#REALITY|DE🇩🇪 | vpn_proxy_channel_vpn_proxy_channel.hohod.ir-443 | 568.57ms
+        vless://33707040-edcf-4185-94e4-2a071315c602@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&sid=7def4dde#REALITY|DE🇩🇪 | vpn_proxy_channel_vpn_proxy_channel.hohod.ir-443 | 568.57ms
 vless://32895c66-fe57-49ad-ba5a-1936f2d5a7a8@m1.darkkabir.site:8080?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷 | m1.darkkabir.site-8080 | 512.93ms
 vless://31b98d93-fc14-40d8-a354-5ae2ebf382a7@178.128.140.219:1418?security=reality&encryption=none&pbk=jQ57qzsj0i2bl4jSewqwbm2ZFxrEBcbOwN5hVoaYGgs&headerType=none&fp=firefox&type=tcp&sni=journalofbigdata.springeropen.com&sid=672ec9309ef82bb8#REALITY|NL🇳🇱 | 178.128.140.219-1418 | 138.08ms
 vless://316caa7e-71d0-4bb1-8dba-6e8a16f7198a@vpconnect.ahadbala.ir:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&host=turin6.global.ssl.fastly.net&type=xhttp#US🇺🇸 | turin6.global.ssl.fastly.net-80 | 27.43ms
@@ -503,3 +502,4 @@ ss://df0680cae43c498ded8=@638822414354206802.dezful-shledrc-acbs.info:8880#FR%F0
 ss://df0680cae43c498ded8=@45.89.111.250:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+45.89.111.250-8880+%7C+132.58ms
 ss://db7d4b580aff4408a637c72cd0f8a774Og==@[::ffff:185.79.158.149]:8091#US%F0%9F%87%BA%F0%9F%87%B8+%7C+%5B%3A%3Affff%3A185.79.158.149%5D-8091+%7C+316.63ms
 ss://d4769aab99d94491a3e3a58867915bdfOg==@104.18.26.94:443#RELAY%F0%9F%9A%A9+%7C+104.18.26.94-443+%7C+8.89ms
+ss://d34e592ba56d4e31a8c725da5844d6aaOg==@85.133.247.37:2095#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+85.133.247.37-2095+%7C+246.28ms

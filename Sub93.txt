@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?encryption=none&security=none&sni=pqh25v1.vetdomok.shop&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A98.11ms
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A98.11ms
+        vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A98.11ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2raying
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#⚡Telegram
@@ -503,3 +502,4 @@ vless://ec488803-fc5a-4d96-9138-4fe14793b20a@91.107.198.79:443?security=reality&
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@104.16.226.10:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@104.17.225.171:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@104.18.22.208:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@104.21.46.149:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

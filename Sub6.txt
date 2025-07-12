@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d34e592ba56d4e31a8c725da5844d6aaOg==@85.133.247.37:2095#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+85.133.247.37-2095+%7C+246.28ms
-ss://d342d11ed4244583b36e524ab1f0afa4Og==@141.101.121.55:8080#RELAY%F0%9F%9A%A9+%7C+141.101.121.55-8080+%7C+8.7ms
+        ss://d342d11ed4244583b36e524ab1f0afa4Og==@141.101.121.55:8080#RELAY%F0%9F%9A%A9+%7C+141.101.121.55-8080+%7C+8.7ms
 ss://d2b0d37b5f0e46d6b167fa09470d9976Og==@balckgold2304-70445.wizardplus.online:47322#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+balckgold2304-70445.wizardplus.online-47322+%7C+353.06ms
 ss://d0d63657bd5a42a8b4ed72c0c0c04be6Og==@[::ffff:87.248.155.85]:155#US%F0%9F%87%BA%F0%9F%87%B8+%7C+%5B%3A%3Affff%3A87.248.155.85%5D-155+%7C+321.34ms
 ss://d0a811b0a3754ff49686cd5d60e3b6bf@146.75.38.133:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+146.75.38.133-80+%7C+59.43ms
@@ -503,3 +502,4 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encrypti
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.27:8880?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3E-%3EMCI-%3E%40Sezar_Sec
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNOLT5DTi0+TVROLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNDcuMTE2LjE2Ni4xNzgiLA0KICAicG9ydCI6ICI1MDAwMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v3.nature27.shop:8880?encryption=none&security=none&type=grpc#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?encryption=none&security=tls&sni=FrEev2Rng---Freev2RnG---FrEEV2RnG---FreEV2rNG---FrEeV2RnG.s88p4JH.wOrKERS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=freev2rng---freev2rng---freev2rng---freev2rng---freev2rng.s88p4jh.workers.dev&path=%2FxfEwYSAtKPDzLBqD%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec

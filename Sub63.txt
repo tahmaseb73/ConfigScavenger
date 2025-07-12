@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@5.182.84.244:443?sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@5.182.84.50:2096?sni=epcch.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@5.182.84.50:2096?sni=epcch.ambercc.filegear-sg.me#🔒
 trojan://Aimer@5.182.84.52:2083?sni=epccv.ambercc.filegear-sg.me#🔒
 trojan://Aimer@5.182.84.66:2083?sni=epccf.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@5.182.84.66:2083?sni=epccf.ambercc.filegear-sg.me#🔒
@@ -503,3 +502,4 @@ trojan://bpb-trojan@japan.com:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim
 trojan://bpb-trojan@www.vpslook.com:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#Telegram%20%3A%20%40vless_vmess
 trojan://c1451ff5-d32c-48a4-914c-188985a3d5d7@104.18.14.19:443?security=tls&sni=azarandooz.azarina.workers.dev&type=ws&host=azarandooz.azarina.workers.dev&path=/trojan-ws/@AzarAndoozVPN#🔒
 trojan://c1451ff5-d32c-48a4-914c-188985a3d5d7@104.18.15.19:443?security=tls&sni=azarandooz.azarina.workers.dev&type=ws&host=azarandooz.azarina.workers.dev&path=/trojan-ws/@AzarAndoozVPN#🔒
+trojan://c21b972a-bc92-4f8c-8e6a-6868001f7f88@141.193.213.106:443?sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com#🔒
