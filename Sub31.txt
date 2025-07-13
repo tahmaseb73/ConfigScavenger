@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://6e34f2c5-6c68-4d3a-a93d-93385c2026c8@104.21.20.148:443?security=tls&sni=worker-proud-waterfall-c38e.amir1.workers.dev&type=ws&host=worker-proud-waterfall-c38e.amir1.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒
-ss://6e4e1e18-3238-4bad-8829-fe8421d146f1@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi4.global.ssl.fastly.net&path=%2FTelegram%40viturey%3Fed%3D2048&mode=auto#US🇺🇸
-ss://6e4e1e18-3238-4bad-8829-fe8421d146f1@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=%2FTelegram%40viturey%3Fed%3D2048&mode=auto#US🇺🇸
-ss://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#@FalconPolV2rayNG
+        ss://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#@FalconPolV2rayNG
 ss://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&fp=randomized&alpn=h2,http/1.1#🔒
 ss://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.18.165.38:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#@FalconPolV2rayNG
 ss://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.18.165.38:8443?security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&type=ws&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&fp=chrome&alpn=h3,h2,http/1.1#🔒
@@ -503,3 +500,6 @@ ss://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-07.
 ss://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-08.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-2
 ss://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-09.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-3
 ss://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-10.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-10.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-4
+ss://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-11.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-11.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-5
+ss://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-12.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-6
+ss://7a8ad9a0-d01b-4c40-a697-965ac8ae4da7@62.60.193.226:8443?security=none&type=tcp&host=ponisha.ir&headerType=http#🔒

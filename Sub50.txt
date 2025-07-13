@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://da8e396e-5430-4214-b221-8f6836db5507@162.159.152.4:443?security=tls&sni=disvpn-channel.us.kg&type=ws&host=disvpn-channel.us.kg&path=%2F---------DisVpn---------DisVpn---------DisVpn&fp=randomized&alpn=null#🔒
-ss://dad060e4-bfdc-438e-8400-05c15cfec3ba@173.245.58.100:80?security=none&type=httpupgrade&host=ger1.nanowaash-shop.ir#🔒
-ss://dadbf1eb-93c5-4cd9-83f3-ed02fb539c6e@134.122.3.240:443?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=U-Crw9zWynOztMJJd-fYzl-rDkb7i7pyxMhORpmFzgU&sid=5a2003125d#🔒
-ss://daf24a6d-2f78-4cab-867a-4da0f4c91cff@45.131.210.157:80?security=none&sni=1224.j9q1xuv8.workers.dev&type=ws&host=1224.j9q1xuv8.workers.dev&path=%2FTelegram#🔒
+        ss://daf24a6d-2f78-4cab-867a-4da0f4c91cff@45.131.210.157:80?security=none&sni=1224.j9q1xuv8.workers.dev&type=ws&host=1224.j9q1xuv8.workers.dev&path=%2FTelegram#🔒
 ss://daf24a6d-2f78-4cab-867a-4da0f4c91cff@45.131.211.51:80?sni=1224.j9q1xuv8.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒
 ss://db16a5af-bb88-4577-ba01-b71ac3671bab@[2a01:4f8:1c1e:eaed::1]:36451/?type=grpc&serviceName=&authority=&security=reality&pbk=QlN3OQ5kpQUQ8W1SyVlgOQWDRZJ3fmDgrxsYhPNItQg&fp=chrome&sni=yahoo.com&sid=0036fd540fe2&spx=/#ایرانسل-Vpfreen2
 ss://db32951c-f6f7-40de-8ff1-100b218d7777@146.19.233.138:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none#Rayan%20-%20VPH%20-%20gRPC-103%20-%20DE%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
@@ -503,3 +500,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.32:8880?security=none&allow
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.33:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.34:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.38:8880?mode=gun&security=none&encryption=none&type=grpc#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.38:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
