@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.67.209.163:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%40VPNHTTPInjectorfree#t.me%2Fpeterjest
+        ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram@v2ray_alpha?ed%3D2048&host=v2ra1.ecrgpk.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=/#🔒
+ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.67.209.163:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%40VPNHTTPInjectorfree#t.me%2Fpeterjest
 ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.67.209.163:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=@VPNHTTPInjectorfree#🔒
 ss://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@104.18.39.141:443?security=tls&sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&type=ws&host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D5460#🔒
 ss://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@172.64.148.115:443?security=tls&sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&type=ws&host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&path=%2FTelegram-JOKERRVPN_Join_Bade_Channel@JOKERRVPN%3Fed%3D5460#🔒
@@ -501,5 +503,3 @@ ss://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.23:8080?security=none&type=
 ss://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.84:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.#🔒
 ss://6dfdd5a6-4e19-461c-84d3-81cbbdee179b@54.255.22.244:44333?security=tls&sni=111.workerscf.dpdns.org&type=ws&host=111.workerscf.dpdns.org&path=%2F%3Fed#🔒
 ss://6e34f2c5-6c68-4d3a-a93d-93385c2026c8@104.21.20.148:443?security=tls&sni=worker-proud-waterfall-c38e.amir1.workers.dev&type=ws&host=worker-proud-waterfall-c38e.amir1.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒
-ss://6e4e1e18-3238-4bad-8829-fe8421d146f1@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi4.global.ssl.fastly.net&path=%2FTelegram%40viturey%3Fed%3D2048&mode=auto#US🇺🇸
-ss://6e4e1e18-3238-4bad-8829-fe8421d146f1@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=%2FTelegram%40viturey%3Fed%3D2048&mode=auto#US🇺🇸
