@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://64768b60-88b8-4414-80e7-ac04b6223259@151.101.194.133:80?mode=auto&path=%2F%3Fed%3D2048--Telegram%40V2ray_Alpha&security=none&encryption=none&host=today-db-load.com&type=xhttp#%40V2rayNG3
+        vless://646777a6-e34e-491f-8c7d-433a2c43b6cd@91.107.131.168:2053?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#🔒
+vless://6475e370-b6fb-45de-b377-5796ba96e645@104.26.6.149:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒
+vless://6475e370-b6fb-45de-b377-5796ba96e645@104.26.7.149:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒
+vless://6475e370-b6fb-45de-b377-5796ba96e645@172.67.73.213:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒
+vless://6475e370-b6fb-45de-b377-5796ba96e645@maralhost.com:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&type=ws&sni=cconfigv2ray.ceren49639.worKErS.DeV#🇨🇦CA_642_@Surfboardv2ray
+vless://64768b60-88b8-4414-80e7-ac04b6223259@151.101.194.133:80?mode=auto&path=%2F%3Fed%3D2048--Telegram%40V2ray_Alpha&security=none&encryption=none&host=today-db-load.com&type=xhttp#%40V2rayNG3
 vless://647c5c62-01e4-426e-90ac-b97e00d039b5@104.16.13.0:2096?sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org#🔒
 vless://647c5c62-01e4-426e-90ac-b97e00d039b5@104.16.157.127:2083?security=tls&sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org&path=%2F%3Fed%3D2560#🔒
 vless://647c5c62-01e4-426e-90ac-b97e00d039b5@104.16.228.187:443?sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org#🔒
@@ -498,8 +503,3 @@ vless://72c0d6c7-5960-4adf-af8b-46d58d462322@Join.VPNCUSTOMIZE.cloud1.hosting-ip
 vless://72c0d6c7-5960-4adf-af8b-46d58d462322@Join.VPNCUSTOMIZE.cloud1.hosting-ip.com:8880?path=%2FTelegram—VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.yout.ddns-ip.net&fp=randomized&type=ws#⚡Telegram
 vless://72c0d6c7-5960-4adf-af8b-46d58d462322@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?path=%2FTelegram%E2%80%94VPNCUSTOMIZE%3Fed2048&security=none&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws#⚡Telegram
 vless://72c0d6c7-5960-4adf-af8b-46d58d462322@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?path=/Telegram—VPNCUSTOMIZE?ed2048&security=none&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws#🇺🇸US_688_@Surfboardv2ray
-vless://72c0d6c7-5960-4adf-af8b-46d58d462322@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Telegram—VPNCUSTOMIZE%3Fed2048#@meli_proxyy
-vless://72c0d6c7-5960-4adf-af8b-46d58d462322@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Telegram—VPNCUSTOMIZE%3Fed2048#⚡Telegram
-vless://72c1e757-6f85-40ed-b149-b059954c3400@test652.s8573.ir:443?security=none&encryption=none&headerType=none&type=tcp#%40persianelon
-vless://72d7ab94-4849-4a27-a840-ece6c8b53355@172.66.45.6:8443?security=tls&sni=BEsTvpn-7qP.PAgES.DEV&type=ws&host=bestvpn-7qp.pages.dev&path=%2Fw3hpwHp7sY86IaTl%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
-vless://72d7ab94-4849-4a27-a840-ece6c8b53355@172.66.46.250:8443?security=tls&sni=bEsTVPN-7Qp.paGEs.deV&type=ws&host=bestvpn-7qp.pages.dev&path=%2FjqiJQs5mh9TKXzbe%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
