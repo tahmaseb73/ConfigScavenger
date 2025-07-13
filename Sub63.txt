@@ -3,19 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@45.153.7.216:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
-trojan://Aimer@45.154.98.230:5006?sni=epma.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@45.194.53.13:2053?sni=agept.ambercc.filegear-sg.me#🔒
-trojan://Aimer@45.194.53.81:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒
-trojan://Aimer@45.66.129.147:46741?sni=epccj.ambercc.filegear-sg.me#🔒
-trojan://Aimer@45.67.214.140:8443?sni=epccj.ambercc.filegear-sg.me#🔒
-trojan://Aimer@45.67.214.3:2096?sni=epccv.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@45.67.214.41:2083?sni=epme.ambercc.filegear-sg.me#🔒
-trojan://Aimer@45.67.215.148:443?sni=epmq.ambercc.filegear-sg.me#🔒
-trojan://Aimer@45.67.215.217:2087?sni=epccg.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@45.67.215.217:2087?sni=epccg.ambercc.filegear-sg.me#🔒
-trojan://Aimer@45.67.215.250:2096?security=tls&sni=ageph.ambercc.filegear-sg.me&type=ws&host=ageph.ambercc.filegear-sg.mehttp/1.1&path=/#🔒
-trojan://Aimer@45.86.229.28:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒
+        trojan://Aimer@45.86.229.28:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@46.254.92.142:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒
 trojan://Aimer@46.254.92.191:443?security=tls&sni=epcct.ambercc.filegear-sg.me&type=ws&host=epcct.ambercc.filegear-sg.me#🔒
 trojan://Aimer@46.254.92.201:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
@@ -48,6 +36,7 @@ trojan://Aimer@5.182.85.189:2096?sni=epccn.ambercc.filegear-sg.me#🔒
 trojan://Aimer@5.182.85.255:2096?sni=epmq.ambercc.filegear-sg.me&allowInsecure=0#🔒
 trojan://Aimer@5.182.85.28:443?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@5.35.68.249:2053?sni=epccv.ambercc.filegear-sg.me#🔒
+trojan://Aimer@51.116.121.75:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@51.195.47.243:8443?sni=epcch.ambercc.filegear-sg.me#🔒
 trojan://Aimer@52.32.90.142:80?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒
 trojan://Aimer@52.40.102.162:443?sni=ngepx.ambercc.filegear-sg.me#🔒
@@ -91,6 +80,7 @@ trojan://Aimer@92.243.74.3:8443?sni=epccj.ambercc.filegear-sg.me#🔒
 trojan://Aimer@92.53.190.161:2087?sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me#🔒
 trojan://Aimer@92.63.192.110:444?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@arvind.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@damien.ns.cloudflare.com:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@kip.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@lynn.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram⚠️
 trojan://Aimer@pranab.ns.cloudflare.com:443?security=tls&sni=epms.ambercc.filegear-sg.me&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
@@ -135,7 +125,6 @@ trojan://GlxLO2T3Gz@104.21.48.1:2096?security=tls&sni=tabnak.twn24.ir&type=ws&ho
 trojan://GlxLO2T3Gz@104.21.80.1:2096?security=tls&sni=tabnak.twn24.ir&type=ws&host=tabnak.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf&type=tcp&headerType=none#%40Golestan_VPN%20-%20JOIN‏⬅️
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#%40NoForcedHeaven@NoForcedHeaven
 trojan://IQYD1kSiuYJW@172.67.142.21:2087?security=tls&sni=leader.andishehnegariran.ir&type=httpupgrade&host=leader.andishehnegariran.ir&path=/рЯЖФ@M3HDIO1#🔒
 trojan://IRoTiZfh4J@iran.farsonline24.ir:2053?security=tls&type=ws&host=iran.farsonline24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
@@ -503,3 +492,14 @@ trojan://bpb-trojan@168.138.184.172:443?sni=skwygx.top#🔒
 trojan://bpb-trojan@168.138.185.234:443?sni=skwygx.top#🔒
 trojan://bpb-trojan@172.66.213.38:443?security=tls&sni=bpb-hd.aaronchin.xyz&type=ws&host=bpb-hd.aaronchin.xyz#🔒
 trojan://bpb-trojan@172.66.44.141:2083?security=tls&sni=fB0887ca.BPB-WorkEr-pAnel-e3c.paGes.DeV&type=ws&host=fb0887ca.bpb-worker-panel-e3c.pages.dev#🔒
+trojan://bpb-trojan@172.66.44.203:443?security=tls&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv&type=tcp#🔒
+trojan://bpb-trojan@172.67.2.238:443?security=tls&sni=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev&type=tcp#🔒
+trojan://bpb-trojan@172.67.209.80:443?security=tls&sni=403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev&type=tcp#🔒
+trojan://bpb-trojan@172.67.70.92:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#%40Golestan_
+trojan://bpb-trojan@172.67.70.92:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#RELAY🚩
+trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&allowInsecure=1&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#%5BTrojan%2005%5D%20%40ResistalProxy
+trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#t.me%2Fpeterjest
+trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#🔒
+trojan://bpb-trojan@185.176.24.2:443?security=tls&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#🔒
+trojan://bpb-trojan@185.238.228.6:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&type=tcp#🔒
+trojan://bpb-trojan@188.114.97.88:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev#🔒
