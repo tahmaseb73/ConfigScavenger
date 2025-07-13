@@ -3,7 +3,20 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://3df9e1f8-9d05-4452-b5b6-dede049231a2@104.16.116.19:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        ss://3dc9015f-20cb-42d6-adab-55ce831bae61@104.19.222.79:2087?security=tls&sni=gvsoe.bangkok-amrikayekesafat.org&type=ws&host=gvsoe.bangkok-amrikayekesafat.org&path=/morano#🔒
+ss://3dc9015f-20cb-42d6-adab-55ce831bae61@104.19.223.79:2087?security=tls&sni=gvsoe.bangkok-amrikayekesafat.org&type=ws&host=gvsoe.bangkok-amrikayekesafat.org&path=/morano#🔒
+ss://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.3.52:2087?security=tls&sni=vqscy.bamako-hipersonictodolist.info&type=ws&host=vqscy.bamako-hipersonictodolist.info&path=%2Fmorano#🔒
+ss://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.41.202:2087?security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=/morano#🔒
+ss://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.46.246:2087?security=tls&sni=divrt.bamako-amrikayekesafat.org&type=ws&host=divrt.bamako-amrikayekesafat.org&path=/morano#🔒
+ss://3dc9015f-20cb-42d6-adab-55ce831bae61@172.67.130.66:2087?security=tls&sni=wsxaa.aleppo-janinan.info&type=ws&host=wsxaa.aleppo-janinan.info&path=/morano#🔒
+ss://3dc9015f-20cb-42d6-adab-55ce831bae61@172.67.167.35:2087?security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=/morano#🔒
+ss://3dc9015f-20cb-42d6-adab-55ce831bae61@172.67.169.136:2087?security=tls&sni=divrt.bamako-amrikayekesafat.org&type=ws&host=divrt.bamako-amrikayekesafat.org&path=/morano#🔒
+ss://3df4aabf-29d7-457e-f228-016156fc686a@138.197.175.155:443?security=tls&sni=imn90-plkdefss5487-jhnvgfdf.ssaaddaaffmmoottaahhaarrii.store&type=ws&host=imn90-plkdefss5487-jhnvgfdf.ssaaddaaffmmoottaahhaarrii.store&path=%2F#🔒
+ss://3df93bd0-ae17-46db-92e5-90bff99762c0@104.16.198.126:443?sni=cmp.danjun.ddns-ip.net&type=ws&host=cmp.danjun.ddns-ip.net&allowInsecure=0#🔒
+ss://3df93bd0-ae17-46db-92e5-90bff99762c0@104.16.24.117:2096?sni=cmp.danjun.ddns-ip.net&type=ws&host=cmp.danjun.ddns-ip.net&allowInsecure=0#🔒
+ss://3df93bd0-ae17-46db-92e5-90bff99762c0@188.114.97.253:2083?sni=cmp.danjun.ddns-ip.net&type=ws&host=cmp.danjun.ddns-ip.net&allowInsecure=0#🔒
+ss://3df93bd0-ae17-46db-92e5-90bff99762c0@190.93.245.101:2087?sni=cmp.danjun.ddns-ip.net&type=ws&host=cmp.danjun.ddns-ip.net&allowInsecure=0#🔒
+ss://3df9e1f8-9d05-4452-b5b6-dede049231a2@104.16.116.19:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://3df9e1f8-9d05-4452-b5b6-dede049231a2@104.18.7.235:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://3df9e1f8-9d05-4452-b5b6-dede049231a2@104.21.43.13:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://3df9e1f8-9d05-4452-b5b6-dede049231a2@104.21.69.164:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -490,16 +503,3 @@ ss://439dbc9e-5519-40ae-9856-47070807d87a@162.159.136.234:2087?security=tls&sni=
 ss://43aa184c-531f-6c57-cc83-88c3f1921a76@199.232.212.3:80?security=none&type=ws&host=connectiran.ir#🔒
 ss://43be6ae5-48a9-4715-8b83-af3ee81c46fd@www.speedtest.net:80?path=%2FISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#RELAY🚩
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#@meli_proxyy
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#⚡Telegram
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#@meli_proxyy
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#⚡Telegram
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20VL-TCP-TLS%204%E2%83%A3
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&type=tcp&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-ss://440a5fc6-4d97-46d5-93f7-adf90996081e@104.16.0.41:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
-ss://440a5fc6-4d97-46d5-93f7-adf90996081e@104.17.250.75:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
-ss://440a5fc6-4d97-46d5-93f7-adf90996081e@104.26.110.49:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
-ss://442ac940-bbdd-4044-9b2c-e4e53cbe0055@104.16.197.224:80?security=none&type=ws&host=little-grass-d3f7az.cijof58321.workers.dev&path=%2Ftelegram%40mtmvpn%3Fed%3D2560#🔒
-ss://443f6977-8d2b-4b6d-9f99-f16efb69f232@104.21.92.57:8443?security=tls&sni=panel.proxystore11.news&type=xhttp&host=panel.proxystore11.news&path=prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒

@@ -3,7 +3,20 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.138:8880?type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560&fp=chrome#🔒
+        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.104:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.106:8880?type=ws&host=yd.laoyoutiao.link&path=/Telegram🇨🇳
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.106:8880?type=ws&host=yd.laoyoutiao.link&path=/Telegram🇨🇳#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.117:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.119:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.11:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.121:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram&allowInsecure=0#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.122:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.124:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.125:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.128:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.131:8880?security=none&sni=sg.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.132:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.138:8880?type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560&fp=chrome#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.139:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.142:8880/?type=ws&encryption=none&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#⚡Telegram
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.142:8880?type=ws&encryption=none&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#RELAY🚩
@@ -490,16 +503,3 @@ ss://fb9866d0-7130-4e5d-b580-07d444902a3d@Join.VPNCUSTOMIZE.cloud1.hosting-ip.co
 ss://fb9866d0-7130-4e5d-b580-07d444902a3d@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?path=%2FTelegram%E2%80%94VPNCUSTOMIZE%3Fed2048&security=none&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws#⚡Telegram
 ss://fb9866d0-7130-4e5d-b580-07d444902a3d@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Telegram—VPNCUSTOMIZE%3Fed2048#⚡Telegram
 ss://fbb84ab6-fffa-4115-9155-809e531398ad@174.138.119.91:80?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@104.21.1.12:8443?security=tls&sni=main.kasler.lol&type=xhttp&host=Main.kasler.lol&fp=chrome&alpn=h3#🔒
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@172.67.151.188:8443?security=tls&sni=main.kasler.lol&type=xhttp&host=Main.kasler.lol&fp=chrome&alpn=h3#🔒
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1323_@Surfboardv2ray
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1324_@Surfboardv2ray
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab653328@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1325_@Surfboardv2ray
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab653328@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1326_@Surfboardv2ray
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1327_@Surfboardv2ray
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1328_@Surfboardv2ray
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e1@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1329_@Surfboardv2ray
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e1@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1330_@Surfboardv2ray
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e9@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1331_@Surfboardv2ray
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e9@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1332_@Surfboardv2ray
-ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ec@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1333_@Surfboardv2ray
