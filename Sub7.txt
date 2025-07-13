@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?encryption=none&security=none&type=ws&host=M4.nF9JZ2st7N.zULAiR.ORG.&path=%2F%3Fed%2FTELEGRAM%40MARAMBASHI_MARAMBASHI#CA-%3E-%3EMTN-%3E%40Sezar_Sec
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLT5GUi0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiYmV5b25kZHN6LmNmZCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJleW9uZGRzei5jZmQiLA0KICAicGF0aCI6ICIvbGlua3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImJleW9uZGRzei5jZmQiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+        vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLT5GUi0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiYmV5b25kZHN6LmNmZCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJleW9uZGRzei5jZmQiLA0KICAicGF0aCI6ICIvbGlua3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImJleW9uZGRzei5jZmQiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?encryption=none&security=none&type=ws&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed#US-%3EAZ-%3EMCI-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#GB-%3E-%3EMTN-%3E%40Sezar_Sec
 vless://e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.15.19:2086?encryption=none&security=none&type=ws&host=0110.wdpkomyt.workers.dev&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048#CA-%3E-%3EMCI-%3E%40Sezar_Sec
@@ -503,3 +502,4 @@ vless://5a1e5c0d-92ec-44f0-86f7-add44c41aa83@185.143.234.122:8080?encryption=non
 vless://89b6b1fb-02ab-4089-a905-f2de29427015@85.133.197.219:2053?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.197.219%3A2053
 vless://290be591-627c-4790-99ce-0d94f331141f@2.189.175.46:7073?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.189.175.46%3A7073
 vless://47bf2abb-a85f-4923-b022-519052bb5dea@85.133.215.3:5366?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.215.3%3A5366
+vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.148:18010?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.148%3A18010
