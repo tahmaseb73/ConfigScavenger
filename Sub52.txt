@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e72e106e-cc38-434c-871a-d3345a27a99f@51.89.228.214:2053/?type=grpc&encryption=none&serviceName=xyz&sni=reality.gamegh2.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#⚡Telegram
+        ss://e72e106e-cc38-434c-871a-d3345a27a99f@188.245.193.124:8443?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|DE🇩🇪
+ss://e72e106e-cc38-434c-871a-d3345a27a99f@51.89.228.214:2053/?type=grpc&encryption=none&serviceName=xyz&sni=reality.gamegh2.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#⚡Telegram
 ss://e72e106e-cc38-434c-871a-d3345a27a99f@51.89.228.214:2053?security=reality&sni=reality.gamegh2.ir&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
 ss://e72e106e-cc38-434c-871a-d3345a27a99f@78.47.165.78:8443/?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#⚡Telegram
 ss://e72e106e-cc38-434c-871a-d3345a27a99f@78.47.165.78:8443?security=reality&sni=www.gameup.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
@@ -502,4 +503,3 @@ ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.134.199:443?sni=edcci.aimercc.
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.135.157:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.125:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.186:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.27:443?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒

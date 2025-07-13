@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.21.86.21:2087?security=tls&sni=50C1iGiMpI.mYsPdMmEtI.cOm&type=grpc#🔒
+        vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.21.17.92:2087?security=tls&sni=50C1iGiMpI.mYsPdMmEtI.cOm&type=grpc#🔒
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.21.86.21:2087?security=tls&sni=50C1iGiMpI.mYsPdMmEtI.cOm&type=grpc#🔒
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.152.2:2053?security=tls&sni=1F9o0U7j2D.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.152.2:2096?security=tls&sni=XpSiNnBoCh.BaBaUsMaN2.iNfO&type=ws&host=XpSiNnBoCh.BaBaUsMaN2.iNfO&path=/&alpn=h3h2#🔒
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.153.2:2053?security=tls&sni=1F9o0U7j2D.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒
@@ -502,4 +503,3 @@ vless://31348b17-4ab2-40c0-b79e-c81032331d30@185.135.9.138:2086?security=none&sn
 vless://315b209c-bdcd-412e-95b1-1d7608641dcc@91.107.131.168:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔒
 vless://3184a816-4c34-4e93-96b1-a8449e92a150@128.140.7.144:1717?security=none&type=grpc&serviceName=1717vless#🔒
 vless://3184a816-4c34-4e93-96b1-a8449e92a150@128.140.7.144:2226?security=none&type=grpc&serviceName=2226vless#🔒
-vless://3184a816-4c34-4e93-96b1-a8449e92a150@128.140.7.144:6893?security=none&type=grpc&serviceName=6893vless#🔒

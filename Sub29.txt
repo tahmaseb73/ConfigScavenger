@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://57145038-e3ab-41d3-8f8e-17464f772139@172.67.213.239:443?security=tls&sni=1dA8C916-rOuNd-moON-05E0.SoreN-cyBGU.WOrkERS.dEV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒
+        ss://57145038-e3ab-41d3-8f8e-17464f772139@104.21.23.215:443?security=tls&sni=1da8C916-rouND-moon-05e0.Soren-CybGu.WORKERS.deV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+ss://57145038-e3ab-41d3-8f8e-17464f772139@172.67.213.239:443?security=tls&sni=1dA8C916-rOuNd-moON-05E0.SoreN-cyBGU.WOrkERS.dEV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒
 ss://57145038-e3ab-41d3-8f8e-17464f772139@172.67.213.239:8443?security=tls&sni=1Da8c916-RoUnd-Moon-05E0.soreN-CYbgU.WorkERs.DEV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev&path=%2FhdaIk62s4zwH5G55%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 ss://57147109-749f-4c9b-c6b3-2dce03f0466f@104.17.148.22:8880?type=httpupgrade&path=%2FFreeConfig%3Fed%3D2560&host=KhodeAlfred.tehran-gamee.ir&security=none#@LOCKEY_VPN
 ss://571b311b-4a34-4792-93f9-a5c0cfa66f66@157.173.127.238:443?security=reality&sni=analytics.google.com&type=raw&fp=chrome&pbk=p2iqEmOs4u682Jz5S-E-s7k8AbsNZbc-mitgU89PRi4&sid=db06#🔒
@@ -502,4 +503,3 @@ ss://5f0b488f-c3e1-5db0-a236-070455375af1@194.147.35.250:2052?security=none&type
 ss://5f0b488f-c3e1-5db0-a236-070455375af1@194.147.35.250:2052?security=none&type=grpc&serviceName=vless-grpc&sid=%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🔒
 ss://5f244ece-1072-413d-bf81-6d3ba2060618@104.16.32.86:80/?type=ws&encryption=none&host=us3.xyxy.dpdns.org&path=%2F5f244ece#⚡Telegram
 ss://5f244ece-1072-413d-bf81-6d3ba2060618@104.16.32.86:80?type=ws&encryption=none&host=us3.xyxy.dpdns.org&path=%2F5f244ece#RELAY🚩
-ss://5f244ece-1072-413d-bf81-6d3ba2060618@104.16.32.86:80?type=ws&host=us3.xyxy.dpdns.org&path=%2F5f244ece#🔒

@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@66.203.144.241:7656?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒
+        vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@62.192.175.250:443?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@66.203.144.241:7656?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@66.203.150.211:7656?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@8.216.81.183:3939?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram&allowInsecure=0#🔒
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@8.218.107.42:6669?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=1#🔒
@@ -502,4 +503,3 @@ vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.138:443?security=tls&sn
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.139:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.100:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.101:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.102:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
