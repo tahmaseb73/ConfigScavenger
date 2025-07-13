@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&encryption=none&host=analytics.google.com&headerType=http&type=tcp#@V2rayNG3
-ss://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&type=tcp&host=analytics.google.com&headerType=http#🔒
-ss://19b6fa27-c968-46be-b980-ca371ff5c0f6@157.90.117.244:50552?mode=gun&security=reality&encryption=none&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&fp=chrome&type=grpc&sni=yahoo.com&sid=09#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍭
-ss://19b6fa27-c968-46be-b980-ca371ff5c0f6@188.245.109.124:50552?security=reality&sni=yahoo.com&type=grpc&fp=chrome&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&sid=09#🔒
-ss://19b6fa27-c968-46be-b980-ca371ff5c0f6@kryos.cloudupdate.ir:50552?type=grpc&serviceName=&authority=&security=reality&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&fp=chrome&sni=yahoo.com&sid=09&spx=/#🇩🇪DE_249_@Surfboardv2ray
+        ss://19b6fa27-c968-46be-b980-ca371ff5c0f6@kryos.cloudupdate.ir:50552?type=grpc&serviceName=&authority=&security=reality&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&fp=chrome&sni=yahoo.com&sid=09&spx=/#🇩🇪DE_249_@Surfboardv2ray
 ss://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.109:2082?security=none&type=httpupgrade&host=Join-bede-CONFIGT.wordperessweb.ir&path=%2FChannel-CONFIGT%3Fed%3D2082#🔒
 ss://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.232:2082?security=none&type=httpupgrade&host=Join-bede-CONFIGT.wordperessweb.ir&path=%2FChannel-CONFIGT%3Fed%3D2082#🔒
 ss://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.253:2082?security=none&type=httpupgrade&host=Join-bede-CONFIGT.wordperessweb.ir#🔒
@@ -503,3 +499,7 @@ ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tl
 ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s15.drlimit.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s15.drlimit.com&fp=#⚡Telegram
 ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s15.rtyadserver.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s15.rtyadserver.ir&fp=#telegram
 ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s15.yozpalangserver.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s15.yozpalangserver.ir&fp=#telegram
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s16.africacloud1.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s16.africacloud1.ir&fp=#telegram
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s16.drlimit.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s16.drlimit.com&fp=#@meli_proxyy
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s16.drlimit.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s16.drlimit.com&fp=#telegram
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s16.drlimit.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s16.drlimit.com&fp=#⚡Telegram

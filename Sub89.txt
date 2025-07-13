@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c3ca1fa4-3022-4806-8072-9d744bb554c6@188.114.97.1:8880?security=none&type=ws&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.netty.ip-ddns.com.&path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-vless://c3f840ae-9b7a-4846-84d7-a7b52f215f0a@104.16.147.32:8443?security=tls&sni=vs.irandownloadi.ir.&type=grpc&serviceName=sepahanvpn&fp=chrome#🔒
-vless://c3f840ae-9b7a-4846-84d7-a7b52f215f0a@104.16.163.32:8443?security=tls&sni=vs.irandownloadi.ir.&type=grpc&serviceName=sepahanvpn&fp=chrome#🔒
-vless://c40bb8e1-3fce-4f4e-b8c3-008a8f4427cb@151.101.63.8:80?security=none&type=ws&host=vistapcit.com&path=/@vistav2ray---@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vist#🔒
-vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.18.6.215:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560#🔒
+        vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.18.6.215:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560#🔒
 vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.18.7.215:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir#🔒
 vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@141.193.213.10:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560#🔒
 vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@141.193.213.11:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir#🔒
@@ -503,3 +499,7 @@ vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@162.159.7.226:443?security=tls&sni=
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@173.245.58.100:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2550&fp=chrome#🔒
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@199.34.228.170:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPN#🔒
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@199.34.228.177:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPN#🔒
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@199.34.228.179:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPN&fp=chrome#🔒
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@199.34.228.71:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPNflow%3D-udp443&fp=chrome#🔒
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@66.235.200.146:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPNflow%3D-udp443&fp=chrome#🔒
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@92.53.191.43:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPN#🔒

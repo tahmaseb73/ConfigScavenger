@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://575d2e5e-e7a4-48b8-a55e-aa38e16a3106@104.24.161.187:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=flat-bird-3aa7-ppal03.hesiwap437.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://575e55f1-d619-4c65-85fe-e2b757b6477b@151.101.170.133:80?security=none&type=ws&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.#🔒
-ss://575e55f1-d619-4c65-85fe-e2b757b6477b@151.101.194.165:80?security=none&type=ws&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.#🔒
-ss://575e55f1-d619-4c65-85fe-e2b757b6477b@66.211.168.155:80?security=none&type=ws&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.#🔒
-ss://575e55f1-d619-4c65-85fe-e2b757b6477b@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE?ed=2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#🇺🇸US_570_@Surfboardv2ray
+        ss://575e55f1-d619-4c65-85fe-e2b757b6477b@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE?ed=2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#🇺🇸US_570_@Surfboardv2ray
 ss://576c8681-b9e8-4751-a1ae-02e08d18d6d7@212.95.33.206:11045?type=grpc&serviceName=Tel#🔒
 ss://576d1c42-4b4a-4bba-c786-f1c43700d05d@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@VIPro
 ss://576d1c42-4b4a-4bba-c786-f1c43700d05d@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@VIProxys
@@ -503,3 +499,7 @@ ss://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@172.67.160.179:8880?security=none&type
 ss://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@66.235.200.94:8880?security=none&type=ws&host=channel-falcunargo.efa180b5d7.workers.Dev&path=%2F%E2%9C%A6%E2%9D%B0+%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB+%E2%9E%AA+%40AZARBAYJAB1+%E2%9D%B1%E2%9C%A6%E2%9C%A6%E2%9D%B0+%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB+%E2%9E%AA+%40AZARBAYJAB1+%E2%9D%B1%E2%9C%A6%E2%9C%A6%E2%9D%B0+%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB+%E2%9E%AA+%40AZARBAYJAB1+%E2%9D%B1%E2%9C%A6%3Fed%3D2560#🔒
 ss://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443?security=tls&sni=mm8x01.890689.xyz&type=ws&host=mm8x01.890689.xyz&path=%2FqzS0GzXjVWvcbs2HOmaeWimvT3&fp=chrome&alpn=http%2F1.1#🔒
 ss://6040a753-e35b-4384-8713-96f3c639b621@172.67.200.238:443?security=tls&sni=mm8x01.890689.xyz&type=ws&host=mm8x01.890689.xyz&path=%2FqzS0GzXjVWvcbs2HOmaeWimvT3&fp=chrome&alpn=http%2F1.1#🔒
+ss://60630c28-378d-45f3-9917-ee181f12faaf@190.93.245.137:2087?security=tls&sni=WWW.adabefarsi.eu.&type=ws&host=WWW.adabefarsi.eu.&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
+ss://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?path=/?ed=2048&security=tls&encryption=none&host=pages.20230619.love&fp=chrome&type=ws&sni=pages.20230619.love#🇨🇦CA_633_@Surfboardv2ray
+ss://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&fp=chrome#🔒
+ss://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.64.33.100:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=%2F%3Fed%3D2048#🔒
