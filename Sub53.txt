@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.27:443?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.138.17:443?security=tls&sni=edccy.aimercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.138.62:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.118:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
+        ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.118:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.160:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.188:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.245:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
@@ -503,3 +500,6 @@ ss://eyJ2IjogIjIiLCAicHMiOiAiMjh88J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqD
 ss://eyJ2IjogIjIiLCAicHMiOiAiMjh88J+HuvCfh7hfVVNf576O5Zu9LT7wn4er8J+Ht19GUl/ms5Xlm70gIzIiLCAiYWRkIjogIjE3Mi42Ny4xMzAuMTQwIiwgInBvcnQiOiAyMDgyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCAiaG9zdCI6ICJzMWMudjIudjAwMXNzcy54eXoiLCAicGF0aCI6ICIvIn0=
 ss://eyJ2IjogIjIiLCAicHMiOiAiMjh88J+HuvCfh7jnvo7lm70gMDEiLCAiYWRkIjogImF3cy5hcHBsZWlkLmJmIiwgInBvcnQiOiAiMjA4NiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjM5NjBmMTI4LTExNjMtNDBhMy04ZGQ3LTdjOTExNzZlMTRhNSIsICJob3N0IjogImd3LmFsaWNkbi5jb20iLCAicGF0aCI6ICIvQ0FUIn0=
 ss://eyJ2IjogIjIiLCAicHMiOiAiMjh88J+PgVJFTEFZLTE2Mi4xNTkuMTUzLjItMTI2NiIsICJhZGQiOiAidmlzYS5jbiIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjk4MTRlODU4LTY5ZDUtNGZmZi05NWU3LTY0NTM0MzdhZDRjOCIsICJzbmkiOiAiIiwgImhvc3QiOiAiZGVlZS5ob3JyeWFuNC5ldS5vcmciLCAicGF0aCI6ICIvc2JhLXZtP2VkPTIwNDgifQ==
+ss://eyJ2IjogIjIiLCAicHMiOiAiMjh88J+PgVJFTEFZLTE3Mi42NC44MC4xLTAxMjIiLCAiYWRkIjogInVzNjUubmV0ZmlseC5saXZlIiwgInBvcnQiOiA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNjBmMTI0MzUtYmI1NS00ZGEyLWNiN2QtNGZlYTM0ZWNmYTM3IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJ1czY1Lm5ldGZpbHgubGl2ZSIsICJwYXRoIjogIi8ifQ==
+ss://eyJ2IjogIjIiLCAicHMiOiAiMjh88J+PgVJFTEFZLTE3Mi42NC4xMzQuNDgtMTExMSIsICJhZGQiOiAiMTcyLjY0LjEzNC40OCIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjFjZmFhZDE2LWQyYmEtNGM0OS1hZjA3LWQ3YjlmMTFmNDNkMCIsICJzbmkiOiAiIiwgImhvc3QiOiAibmV3ZGUxMS54bi0tbWVzNTNkZHlzdTBvM2dsLnRvcCIsICJwYXRoIjogIi94bi0tbWVzNTNkZHlzdTBvM2dsIn0=
+ss://eyJ2IjogIjIiLCAicHMiOiAiMjh88J+PgVJFTEFZLTE3Mi42Ny43Mi4yLTAxMTciLCAiYWRkIjogIjE3Mi42Ny43Mi4yIiwgInBvcnQiOiA4ODgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlZGJmMzE3ZC03NjcxLTQwODktODdlZi04OWRiYzA1NWY0MjgiLCAic25pIjogIiIsICJob3N0IjogImVWMnJheXNhZEVycnJnVnh1M3B3ZU1UbXJhcy5kYWxpZG9tLmNvbSIsICJwYXRoIjogIi9naXRodWIifQ==

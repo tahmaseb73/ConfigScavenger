@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://44060d3f-59ff-48ed-9456-6ecb3ff6b70c@sakotak.storecoco.online:2082?type=xhttp&path=%2F&host=sakotak.storecoco.online&mode=auto&security=reality&pbk=B0semxM5nxVNGbS0sRR_K13_KL8EtEmeoDTHrtUHlVg&fp=chrome&sni=sourceforge.net&sid=3de49377&spx=%2F#REALITY|FI🇫🇮 | sakotak.storecoco.online-2082 | 173.37ms
-vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2028?mode=gun&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#REALITY|DE🇩🇪 | parrot-love.ir-2028 | 389.37ms
-vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2027?mode=gun&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#REALITY|DE🇩🇪 | parrot-love.ir-2027 | 341.08ms
-vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2027?mode=gun&security=reality&encryption=none&authority=&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#REALITY|DE🇩🇪 | parrot-love.ir-2027 | 114.91ms
+        vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2027?mode=gun&security=reality&encryption=none&authority=&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#REALITY|DE🇩🇪 | parrot-love.ir-2027 | 114.91ms
 vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2026?mode=gun&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#REALITY|DE🇩🇪 | parrot-love.ir-2026 | 114.9ms
 vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@tr.panelmarzban.com:3036?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|DE🇩🇪 | tr.panelmarzban.com-3036 | 167.43ms
 vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fi.panelmarzban.com:3031?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|DE🇩🇪 | fi.panelmarzban.com-3031 | 148.97ms
@@ -503,3 +500,6 @@ ss://0a44145f59dc4e5ba233677b97f5114cOg==@135.148.97.106:443#US%F0%9F%87%BA%F0%9
 ss://0875a3815e5648d1867b08a2c3db13bfOg==@85.133.247.31:2086#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+85.133.247.31-2086+%7C+185.83ms
 ss://06fc8c6501f14c7cb9e54f4775a3cfe6Og==@dl-6.ainossupport.com:8060#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+dl-6.ainossupport.com-8060+%7C+490.36ms
 ss://01d68a9bbe484c7bb4f971b29c4cfacaOg==@95.217.206.161:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+95.217.206.161-443+%7C+128.09ms
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFLT5ERS0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNTcuMTI5LjI0LjEyNCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImF2ZWlyb3IuY29tIiwNCiAgInBhdGgiOiAiL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidmt2ZDEyNy5teWNkbi5tZSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.83:1001?encryption=none&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec

@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.13:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒
-vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.72:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒
-vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.80:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?security=tls&sni=nooshin-2d9.pages.dev&type=ws&host=nooshin-2d9.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒
+        vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?security=tls&sni=nooshin-2d9.pages.dev&type=ws&host=nooshin-2d9.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒
 vless://cc7b671b-b8ad-4b99-b896-d8c0c4fd416a@104.16.163.32:8880?security=none&type=httpupgrade&host=app.mobilewersach.ir.&path=%2F%3Fed%3D1024-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam#🔒
 vless://cc9310a4-5505-47b6-8fcb-59d8434c9066@89.110.104.14:4434?security=reality&flow=xtls-rprx-vision&sni=teamdocs.su&type=tcp&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🔒
 vless://cc937d99-240d-4d50-a7c5-600cfc975066@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
@@ -503,3 +500,6 @@ vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?path=@Selinc/?ed=2
 vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?security=none&type=ws&host=JoinBede-ELiV2.Ray.io&path=%2F%3Fed%3D2048#🔒
 vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=pamchall.com.&type=ws#@meli_proxyy
 vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=pamchall.com.&type=ws#RELAY🚩
+vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=pamchall.com.&type=ws#⚡Telegram
+vless://d424ae34-8aff-4093-b1c9-715de61aa144@104.26.14.85:2082?type=httpupgrade&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&path=/?ed%3D2082,telegram,v2rayng_vpnrog,telegram,v2rayng_vpnrog,telegram,v2rayng_vpnrog,?ed%3D2082#🔒
+vless://d424ae34-8aff-4093-b1c9-715de61aa144@104.26.15.85:2082?security=none&type=httpupgrade&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082#🔒

@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        hy2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.255:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒
-hy2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.189:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒
-hy2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.215:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒
-hy2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.79:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒
+        hy2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.79:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒
 hy2://bc65e87d-f3a7-46cc-b76c-da7ec1f0228b@195.58.49.84:31000?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#🔒
 hy2://bc97f674-c578-4940-3548-0a1da46041b9@37.27.65.125:21160/?insecure=1&sni=www.bing.com#Channel
 hy2://bc97f674-c578-4940-3548-0a1da46041b9@37.27.65.125:21160?insecure=1&sni=www.bing.com#🔒
@@ -503,3 +500,6 @@ ss://05dc7e04-4ee0-4c72-8acb-145b8122077d@188.114.97.161:443?security=tls&sni=sw
 ss://05dc7e04-4ee0-4c72-8acb-145b8122077d@188.114.99.108:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://05e2f43a-258f-4ed9-9dc5-900b0a05148f@78.46.190.158:1616?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=ZtIueP7duO8oy49YFWwsMzzYfuTCz3YtY0kFr31emAI&sid=666dbac6955fdf50#🔒
 ss://05ed4027-cfdd-4361-9489-1b4e5808d699@104.21.72.137:443?security=tls&sni=pw.9901157.xyz&type=ws&host=pw.9901157.xyz&alpn=h3,h2,http/1.1#🔒
+ss://05fc66e3-c445-4ebd-9eea-ed7bc95b204b@190.93.246.175:443?security=tls&sni=hfhahfahff.38xf.top&type=ws&host=hfhahfahff.38xf.top#🔒
+ss://0601ffa4-b613-45ea-ac15-2834bccc948a@104.16.53.11:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=breeZy-AdvIce.onEEat.CO.&type=ws#telegram
+ss://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=4Qekb9y1dqO8hvRzVSGeSRNyhko_gqpeWD94zrLCvjs&sid=5488b0e7#🇺🇸[openproxylist.com]
