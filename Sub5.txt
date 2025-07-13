@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#RELAY🚩 | ensHOLP-91s.pageS.DEv-443 | 3.4ms
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#RELAY🚩 | ensHOLP-91s.pageS.DEv-443 | 3.58ms
+        vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#RELAY🚩 | ensHOLP-91s.pageS.DEv-443 | 3.58ms
 vless://25eb0cf9-b6bc-475b-bda5-b76ac9b766f6@5.255.120.217:80?mode=auto&path=%2Fpwp%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#REALITY|NL🇳🇱 | 5.255.120.217-80 | 102.88ms
 vless://25b0f5db-5405-40d7-85eb-663cfa7e918d@172.67.219.196:80?type=ws&encryption=none&flow=&host=cddfrt678.852224.dpdns.org&path=%2Fl3y4CZ9KUctFw6Ri5y2#RELAY🚩 | cddfrt678.852224.dpdns.org-80 | 107.66ms
 vless://25aade4d-4910-4a73-9857-0fd43a70fce4@62.60.222.136:8443?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷 | 62.60.222.136-8443 | 295.57ms
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+193.29.139.202-8080+%7C+101.17ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+193.29.139.177-8080+%7C+101.12ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+193.29.139.144-8080+%7C+101.56ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.132:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+193.29.139.132-8080+%7C+101.22ms

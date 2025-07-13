@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram⚠️
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#🇧🇷BR_702_@Surfboardv2ray
+        vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#🇧🇷BR_702_@Surfboardv2ray
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#🔒
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.16.110.70:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2F%3Fed%3D2560security%3Dtls#🔒
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.26:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&path=%2F%3Fed#🔒
@@ -503,3 +502,4 @@ vless://84fcffc1-4f4f-4b66-bd2c-31a59681268b@104.21.59.22:2096?security=tls&sni=
 vless://84fcffc1-4f4f-4b66-bd2c-31a59681268b@172.67.211.140:2096?sni=void.crehistory.org&type=ws&host=void.crehistory.org&allowInsecure=1#🔒
 vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=%2F%3Fed%3D2560#%40Golestan_VPN%20-%20JOIN‏⬅️
 vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#🇨🇦CA_730_@Surfboardv2ray
+vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3

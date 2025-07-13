@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://64ce3550-595a-4327-ba2c-5af2590b3d3b@151.101.158.204:80?security=none&type=ws&host=fatmelo.com&path=/olem/ws#🔒
-ss://64ce3550595a4327ba2c5af2590b3d3bOg==@151.101.158.204:80#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+151.101.158.204-80+%7C+247.32ms
+        ss://64ce3550595a4327ba2c5af2590b3d3bOg==@151.101.158.204:80#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+151.101.158.204-80+%7C+247.32ms
 ss://64d02e12-2db7-479b-89c9-8fd89b5db0f7@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
 ss://64d39d67-62dc-470c-a592-1d5a6ee87cb5@45.159.218.17:80?sni=worker-flat-disk-100d.b9563f65aef681.workers.dev&type=ws&host=worker-flat-disk-100d.b9563f65aef681.workers.dev&path=/&allowInsecure=0#🔒
 ss://64f05df5-3f67-41ae-dbfe-56e55cfb72f3@188.34.164.75:2053?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#🇩🇪DE_648_@Surfboardv2ray
@@ -503,3 +502,4 @@ ss://736e4ed1-63dc-4d63-af14-451c17ac059a@104.18.15.19:80?security=none&allowIns
 ss://736e4ed1-63dc-4d63-af14-451c17ac059a@104.18.15.19:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0124.5zvmocbv.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.169:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒
 ss://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒
+ss://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.1:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒

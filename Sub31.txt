@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.1:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒
-ss://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.83:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒
+        ss://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.83:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒
 ss://739b7052-1e58-444d-b068-6cdbbe487663@188.114.97.3:443?encryption=none&security=tls&sni=DFb32Af2.panLO-eSCObaR0099269.Pages.deV&fp=randomized&type=ws&host=DFb32Af2.panLO-eSCObaR0099269.Pages.deV&path=%2FD7UhD7IgkjUTf9Hl%3Fed%3D2560#q1_084
 ss://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443?security=reality&flow=xtls-rprx-vision&sni=pingless.com&type=tcp&fp=random&pbk=y_kHGyJmpYqiGgeh5gTgDRda0d_l6p-_2at2HHBrWEU&sid=700c1d3ddf2f99#🔒
 ss://73bf4bac-98cf-4423-b728-3cc8a0e56424@139.180.146.164:2020?type=tcp&security=reality&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&fp=chrome&sni=ea.com&sid=05fb89d5&spx=/&flow=xtls-rprx-vision#🇸🇬SG_690_@Surfboardv2ray
@@ -503,3 +502,4 @@ ss://800a78d8-7ee3-442e-8ec2-e3309953dec3@43.156.181.97:4646?security=tls&sni=mo
 ss://800a78d8-7ee3-442e-8ec2-e3309953dec3@45.76.192.129:24434?security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒
 ss://800a78d8-7ee3-442e-8ec2-e3309953dec3@45.77.25.6:48828?security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒
 ss://800a78d8-7ee3-442e-8ec2-e3309953dec3@45.95.186.44:50004?security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒
+ss://800a78d8-7ee3-442e-8ec2-e3309953dec3@45.95.186.48:50004?security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒

@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/vmess_iran
-trojan://telegram-id-privatevpns@51.44.100.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
+        trojan://telegram-id-privatevpns@51.44.100.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@51.44.125.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@51.44.191.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@51.44.45.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
@@ -503,3 +502,4 @@ vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&enc
 vless://04c73880-8479-4164-bd2c-e7d49eb82c2c@84.234.29.94:1300?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA#🔒
 vless://04c76e86-2702-e786-a826-ce73de558e03@167.82.231.255:443?security=tls&sni=google.com&type=ws&host=www.digiato.com&path=/home?id%3D10&fp=safari&alpn=h2,http/1.1#🔒
 vless://04d533ee-51ba-47cc-a703-6336470898ad@104.21.69.22:443?security=tls&sni=mhsang2c3.afsharidempire.uk&type=ws&host=mhsang2c3.afsharidempire.uk&path=/8Ku2BGY685PUNtppXQIC9t&fp=chrome&alpn=http/1.1#🔒
+vless://04d533ee-51ba-47cc-a703-6336470898ad@172.67.202.213:443?security=tls&sni=mhsang2c3.afsharidempire.uk&type=ws&host=mhsang2c3.afsharidempire.uk&path=/8Ku2BGY685PUNtppXQIC9t&fp=chrome&alpn=http/1.1#🔒

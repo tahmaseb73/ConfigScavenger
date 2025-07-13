@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://03ae39fd-ec71-4db5-b234-94de99a6e514@162.159.195.178:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://03ae39fd-ec71-4db5-b234-94de99a6e514@162.159.195.61:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        ss://03ae39fd-ec71-4db5-b234-94de99a6e514@162.159.195.61:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://03ae39fd-ec71-4db5-b234-94de99a6e514@162.159.44.158:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://03ae39fd-ec71-4db5-b234-94de99a6e514@172.66.132.128:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://03ae39fd-ec71-4db5-b234-94de99a6e514@172.66.47.113:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -503,3 +502,4 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@175.205.86.108:32414?encryption=none&s
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.103:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.112:443?sni=hj.ylka.dpdns.org&type=ws&host=hj.ylka.dpdns.org&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.160:443?sni=sl.ylka.dpdns.org&type=ws&host=sl.ylka.dpdns.org&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.181:443?security=tls&sni=sz.ylks0033.dpdns.org&type=ws&host=sz.ylks0033.dpdns.org&path=%2F%3Fed#🔒

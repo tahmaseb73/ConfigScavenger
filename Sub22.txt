@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:2096?security=tls&sni=us-228.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒
-ss://34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:443?security=tls&sni=gb-3.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒
+        ss://34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:443?security=tls&sni=gb-3.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒
 ss://34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:8443?security=tls&sni=us-252.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒
 ss://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2053?security=tls&sni=gb-0.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒
 ss://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2083?security=tls&sni=us-240.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒
@@ -503,3 +502,4 @@ ss://4056a8de-5850-4782-b20a-4ee3b5570d67@104.16.157.108:8080?type=httpupgrade&h
 ss://405f0726-89dc-6729-5bd6-a1464e61b6ea@104.21.43.116:8880?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#🔒
 ss://405f0726-89dc-6729-5bd6-a1464e61b6ea@104.21.95.156:8880?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#🔒
 ss://405f0726-89dc-6729-5bd6-a1464e61b6ea@172.67.145.177:8880?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#🔒
+ss://405f0726-89dc-6729-5bd6-a1464e61b6ea@172.67.178.144:8880?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#🔒

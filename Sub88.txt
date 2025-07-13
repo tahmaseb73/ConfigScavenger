@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://bb29c155-d55e-4c07-8403-0581e384f7a2@172.64.32.154:2087?security=tls&sni=a4.mzotamel-01.fun&type=grpc&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-vless://bb29c155-d55e-4c07-8403-0581e384f7a2@172.64.32.217:2087?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=ba19.bewface-smart.rest#%40V2rayNG3
+        vless://bb29c155-d55e-4c07-8403-0581e384f7a2@172.64.32.217:2087?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=ba19.bewface-smart.rest#%40V2rayNG3
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@172.64.32.217:2087?security=tls&sni=ba19.bewface-smart.rest&type=grpc&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@173.245.58.154:2087?security=tls&sni=a17.nnotamel-01.fun&type=grpc&fp=chrome&alpn=h3,h2,http/1.1#🔒
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@192.200.160.0:2087?security=tls&sni=a2.flcode.ir&type=grpc#🔒
@@ -503,3 +502,4 @@ vless://c6945a21-0abf-4e19-91dd-e9145ce4a8cc@172.67.149.227:80?encryption=none&s
 vless://c6945a21-0abf-4e19-91dd-e9145ce4a8cc@172.67.149.227:80?type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev&path=%2FaVSm9J5XUEFUKs1i%3Fed%3D2560#🔒
 vless://c69733a8-dc27-4d7d-a1f8-f8918e48f495@104.21.2.234:443?security=tls&sni=mmad.mmadvip8563.ir&type=xhttp&host=mmad.mmadvip8563.ir&path=%2Fws&fp=chrome&alpn=h3#🔒
 vless://c69733a8-dc27-4d7d-a1f8-f8918e48f495@Www.speedtest.net:443?mode=auto&path=%2Fws&security=tls&alpn=h3&encryption=none&host=mmad.mmadvip8563.ir&fp=chrome&type=xhttp&sni=mmad.mmadvip8563.ir#⚡Telegram
+vless://c69733a8-dc27-4d7d-a1f8-f8918e48f495@mmad.mmadvip8563.ir:443?mode=auto&path=%2Fws&security=tls&alpn=h3&encryption=none&host=mmad.mmadvip8563.ir&fp=chrome&type=xhttp&sni=mmad.mmadvip8563.ir#⚡Telegram

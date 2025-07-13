@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#RU-%3ERU-%3EADL-%3E%40Sezar_Sec
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:443?encryption=none&security=tls&sni=U3sK98eJnV.sOlIjOnItO.cOm&alpn=h3h2&type=ws&host=U3sK98eJnV.sOlIjOnItO.cOm&path=%2F#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
+        vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:443?encryption=none&security=tls&sni=U3sK98eJnV.sOlIjOnItO.cOm&alpn=h3h2&type=ws&host=U3sK98eJnV.sOlIjOnItO.cOm&path=%2F#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcWdtVXpkN1p4R3lQTGpYQlhyendUVTRqa3o3RXZiWTJYY0JnY3A3N0xoS1RYWXZVYU5SWk5aaTlaMUVlOUpCell5NWRuSzFMWk5ZdnRkVUplOTdTREhVTHo5Mzl4dWE%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLT5VUy0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMi41OC44Ny4yMjEiLA0KICAicG9ydCI6ICIxNDU1NSIsDQogICJpZCI6ICI2Yzc2NGEwMy1iYjFhLTRiYzYtYmFjYS00NTI0NTNmY2UxYWUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?encryption=none&security=none&type=grpc#FR-%3EFR-%3EMTN-%3E%40Sezar_Sec
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.119.47-0357
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0333
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMWhqaVVtU2d1Y2d6WVlKMFd0cXdX@77.246.102.112:60117#%F0%9F%87%B3%F0%9F%87%B1NL-77.246.102.112-0317
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.152-0350
