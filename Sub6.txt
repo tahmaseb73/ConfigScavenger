@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://trojan@109.234.211.66:8443?path=%2F&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#RELAY🚩 | store.timimi.dpdns.org-8443 | 450.37ms
-trojan://trojan@109.234.211.66:8443?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org#RELAY🚩 | store.timimi.dpdns.org-8443 | 6.09ms
+        trojan://trojan@109.234.211.66:8443?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org#RELAY🚩 | store.timimi.dpdns.org-8443 | 6.09ms
 trojan://trojan@104.18.13.229:8880?security=tls&type=ws&host=azadnet.vileyo6708.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | azadnet.vileyo6708.workers.dev-8880 | 30.09ms
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | pangpi.pages.dev-8443 | 81.44ms
 trojan://redfree8@104.17.148.22:80?security=tls&type=ws&host=redfree8-p1.pooriashop.ir&path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560#RELAY🚩 | redfree8-p1.pooriashop.ir-80 | 363.95ms
@@ -503,3 +502,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.214:8880?encryption=none
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#FI-%3EFI-%3EMTN-%3E%40Sezar_Sec
 vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@www.visa.com:2082?encryption=none&security=none&type=ws&host=0108.9ro3grfw.workers.dev&path=%2F%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.109:443?encryption=none&security=tls&sni=147135001195.sec22org.com&fp=chrome&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
+vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@tgju.org:8080?encryption=none&security=none&type=ws&host=IO.IhJtq0hklC.ZULAiR.OrG.&path=%2F%3Fed%3D2048#US-%3EFR-%3EMTN-%3E%40Sezar_Sec

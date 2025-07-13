@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d75fe375-dd82-431a-84f7-d6348dbdf2a1@85.133.221.55:56028?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.221.55%3A56028
-vless://d1b5f42a-5b48-496c-8db7-373b98d9892f@37.202.231.220:1044?encryption=none&security=none&type=tcp&headerType=http&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-37.202.231.220%3A1044
+        vless://d1b5f42a-5b48-496c-8db7-373b98d9892f@37.202.231.220:1044?encryption=none&security=none&type=tcp&headerType=http&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-37.202.231.220%3A1044
 vless://6296d808-4cce-4c3b-be64-f79bed4dc939@185.143.232.201:443?encryption=none&security=tls&sni=mydigipay.com&fp=firefox&type=ws&host=pl.cloud.ir-sub.fun&path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.143.232.201%3A443
 vless://bc22dfaf-ddad-4e59-99c9-3a9844b71408@85.133.201.177:2087?encryption=none&security=none&type=ws&host=stream48.cdn.asset.filimo.com&path=%2F#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.201.177%3A2087
 vless://f3f06aab-0a2c-43bf-80da-2bcbc7b332f2@194.147.212.178:80?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-194.147.212.178%3A80
@@ -503,3 +502,4 @@ ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25256#%F0%9F%87%A8%F0%9F
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25284#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1727
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25272#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1731
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@162.251.61.47:806#%F0%9F%87%BA%F0%9F%87%B8US-162.251.61.47-1741
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24003#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1749
