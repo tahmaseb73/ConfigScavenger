@@ -3,17 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.63-0283
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0295
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.23.63-0296
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0313
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-0303
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-0302
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#%F0%9F%87%B7%F0%9F%87%B8RS-194.71.126.31-0309
-vmess://ewogICAgImFkZCI6ICJyYWsxZGluZy44OTA2MDAwNC54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJyYWsxZDMuOTg4OTg4LnNob3AiLAogICAgImlkIjogIjc1ZDk2MzY1LTEyMjktNGZjNC1kYmRhLTg1NTcxN2Y4NzZjZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDgzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuMy4xODktMDI4NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.119.47-0304
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.60-0332
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0322
+        ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0322
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.158.56.33-0238
 vmess://ewogICAgImFkZCI6ICJvcnZwczIuaG9yc2VubWEubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAib3J2cHMyLmhvcnNlbm1hLm5ldCIsCiAgICAiaWQiOiAiNTdlNTk1ZTYtZWY1NC00ZTBkLWI4ZGYtZTk2ZGI5NjEyYjk5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2hvcnNlbiIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4yMC4xNjItMDY3OCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMjAuMTYyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAib3J2cHMyLmhvcnNlbm1hLm5ldCIsCiAgICAiaWQiOiAiNTdlNTk1ZTYtZWY1NC00ZTBkLWI4ZGYtZTk2ZGI5NjEyYjk5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2hvcnNlbiIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4yMC4xNjItMDY3NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -503,3 +493,13 @@ vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?type=xhttp&p
 vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?type=xhttp&path=%2Fgftrdd%3Fed%3D2560&host=take3.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | take3.global.ssl.fastly.net-80 | 10.74ms
 vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?mode=auto&path=%2Fgftrdd%3Fed%3D2560&security=none&encryption=none&host=take4.global.ssl.fastly.net&type=xhttp#US🇺🇸 | take4.global.ssl.fastly.net-80 | 7.11ms
 vless://d56a5f79-b198-4146-a372-2bb57ca738f4@NLpizza.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-8880 | 340.08ms
+vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.16.183.83:80?security=none&type=ws&host=jolly-fog-9e08-ppal03.revog68198.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | jolly-fog-9e08-ppal03.revog68198.workers.dev-80 | 28.56ms
+vless://d4d0e4a4-630c-4439-b8da-f8dd80490648@nl1.cowjuice.me:443?security=reality&encryption=none&pbk=O9DMPpwicRcMofaplcvpQStNRogPS_HJY0s5_4EaKQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nu.nl#REALITY|NL🇳🇱 | nl1.cowjuice.me-443 | 147.1ms
+vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2Ffp&security=tls&encryption=none&host=mylearn-8zx.pages.dev&type=ws&sni=mylearn-8zx.pages.dev#RELAY🚩 | mylearn-8zx.pages.dev-443 | 38.55ms
+vless://d449ba28-d545-474d-ad97-6e8a9fbc336b@91.99.166.65:80?mode=auto&path=%2Flunavo-vpn&security=reality&encryption=none&pbk=nuNgT0HxAJ7YZPfM5uYM_-8aDKvCmr9jQpxBUMRjJRE&host=shahin2001lunavo.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=aider.chat&sid=39f0afc3#REALITY|DE🇩🇪 | 91.99.166.65-80 | 116.05ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cloudflare.182682.xyz:443?path=%2Fsnippets&security=tls&encryption=none&host=test.saas.cname.123153.xyz&type=ws&sni=test.saas.cname.123153.xyz#RELAY🚩 | test.saas.cname.123153.xyz-443 | 839.82ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3254.outline-vpn.cloud:2087?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#RELAY🚩 | baipiao1.curly-train.pages.dev-2087 | 23.24ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#RELAY🚩 | 1750293123492.china.baidu.bilibili.china.aeko.cn-8080 | 2083.79ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D%23TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI%3Fed%3D2560&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#RELAY🚩 | 1750293123492.china.baidu.bilibili.china.aeko.cn-8080 | 3.95ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#RELAY🚩 | 1750293123492.china.baidu.bilibili.china.aeko.cn-8080 | 3.57ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#RELAY🚩 | 1750293123492.china.baidu.bilibili.china.aeko.cn-8080 | 3.3ms
