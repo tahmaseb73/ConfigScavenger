@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=google.com&type=ws#🇩🇪DE_1128_@Surfboardv2ray
+        ss://dc580147-c87c-4527-bf90-192eb1cf62d1@172.67.163.189:8880?security=none&type=ws&host=stARt.SItEG52770.wORkERS.DEV&path=%2FoqisYFWsXbEI2upX%2FMC4wLjAuMA%3D%3D%3Fed%3D2560#🔒
+ss://dc64c508-ee7e-4054-9765-7356e1c6f6c5@173.245.59.100:2095?security=none&type=ws&host=www.speedtest.net.isv.spEedtest5.sOckschanGert.ir.&path=%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam%3Fed%3D2048#🔒
+ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=google.com&path=%2Fhttp#%5BVLESS%2022%5D%20%40ResistalProxy
+ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=google.com&type=ws#🇩🇪DE_1128_@Surfboardv2ray
 ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&host=google.com&path=/http#🔒
 ss://dc977bb9-e998-48a2-9459-f1931cd7fa9b@104.24.146.230:443?security=tls&sni=kx.yage.pp.ua&type=ws&host=kx.yage.pp.ua#🔒
 ss://dc9d3399-395e-4268-983a-f728c8a6aa97@146.59.239.223:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=146.59.239.223&encryption=none#Rayan%20-%20CBT%20-%20WSDR-102%20-%20FR%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
@@ -500,6 +503,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=no
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR_1190_@Surfboardv2ray
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR_1191_@Surfboardv2ray
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇫🇷FR_1192_@Surfboardv2ray
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#v2raynplus
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=none&type=grpc#🇫🇷[openproxylist.com]
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc#🔒

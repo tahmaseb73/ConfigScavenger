@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b26e6aca-66c8-491f-8389-b33ac192ffe8@151.101.2.219:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/olem/ws?ed%3D1024&host=foffmelo.com&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
+        ss://b22d2e2a-2133-5dbb-b788-97f6d06e7f9e@188.245.120.39:8247?security=none&sni=false&type=tcp&host=testspeed-foreign.tci.ir&path=/&headerType=http#🔒
+ss://b22d2e2a-2133-5dbb-b788-97f6d06e7f9e@49.13.237.7:8247?security=none&sni=false&type=tcp&host=testspeed-foreign.tci.ir&path=/&headerType=http#🔒
+ss://b26e6aca-66c8-491f-8389-b33ac192ffe8@151.101.130.228:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/olem/ws?ed%3D1024/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&host=foffmelo.com&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
+ss://b26e6aca-66c8-491f-8389-b33ac192ffe8@151.101.2.219:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/olem/ws?ed%3D1024&host=foffmelo.com&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
 ss://b26e6aca-66c8-491f-8389-b33ac192ffe8@151.101.2.219:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/olem/ws?ed%3D1024/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&host=foffmelo.com&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
 ss://b26e6aca-66c8-491f-8389-b33ac192ffe8@151.101.2.228:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/olem/ws?ed%3D1024&host=foffmelo.com&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
 ss://b26e6aca-66c8-491f-8389-b33ac192ffe8@151.101.66.219:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/olem/ws?ed%3D1024&host=foffmelo.com&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
@@ -500,6 +503,3 @@ ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.12.75.5:8880?security=none&type=htt
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.12.75.7:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.153:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.156:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.163:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.57:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.97:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒

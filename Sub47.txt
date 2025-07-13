@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?encryption=none&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&type=ws&security=tls&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&fp=randomized&alpn=http%2F1.1#@FNET00
+        ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?security=none&type=grpc&serviceName=vless-grpc#🔒
+ss://c0b9dd6c-9676-4cd1-9e7c-9c6ac59afd37@104.21.76.54:2096?security=tls&sni=app2.year2025appdatat.lat&type=grpc&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://c0b9dd6c-9676-4cd1-9e7c-9c6ac59afd37@172.67.188.175:2096?security=tls&sni=app2.year2025appdatat.lat&type=grpc&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?encryption=none&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&type=ws&security=tls&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&fp=randomized&alpn=http%2F1.1#@FNET00
 ss://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?security=tls&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&type=ws&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560%2F%3FJoin_Bade_Channel%40JOKERRVPN&fp=randomized&alpn=http%2F1.1#🔒
 ss://c11446db-adc4-417b-8a8d-e25c37f4f8c5@WWW.SPEEDTEST.NET:2095?path=%2F&security=none&encryption=none&host=PM.SODOGODPING.IR&type=httpupgrade#@meli_proxyy
 ss://c11446db-adc4-417b-8a8d-e25c37f4f8c5@WWW.SPEEDTEST.NET:2095?path=%2F&security=none&encryption=none&host=PM.SODOGODPING.IR&type=httpupgrade#⚡Telegram
@@ -500,6 +503,3 @@ ss://c92348f4-1ebb-4232-b546-c056f3721ffb@185.143.233.120:443?path=%2Fwp-content
 ss://c92348f4-1ebb-4232-b546-c056f3721ffb@185.143.233.120:443?path=%2Fwp-content%3Fed%3D2020&security=tls&encryption=none&host=mrpooya3.sbs&type=ws&sni=mydigipay.com#Free2%20%40s0013
 ss://c92348f4-1ebb-4232-b546-c056f3721ffb@185.143.233.120:443?path=%2Fwp-content%3Fed%3D2020&security=tls&encryption=none&host=mrpooya6.sbs&type=ws&sni=mydigipay.com#s0013
 ss://c92348f4-1ebb-4232-b546-c056f3721ffb@185.143.233.120:443?path=%2Fwp-content%3Fed%3D2020&security=tls&encryption=none&host=natgeo.sbs&type=ws&sni=mydigipay.com#%40s0013
-ss://c92348f4-1ebb-4232-b546-c056f3721ffb@185.143.233.120:443?path=%2Fwp-content%3Fed%3D2020&security=tls&encryption=none&host=www.mrpooyax.store.&type=ws&sni=mydigipay.com#Freenet%20%40s0013
-ss://c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443?encryption=none&security=tls&sni=freedom6.mamav81785.workers.dev&type=ws&host=freedom6.mamav81785.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#t.me%2Fpeterjest
-ss://c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443?security=tls&sni=freedom6.mamav81785.workers.dev&type=ws&host=freedom6.mamav81785.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=chrome#🔒
