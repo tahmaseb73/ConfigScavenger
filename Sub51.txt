@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#FR🇫🇷
+        ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#⚡Telegram
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?security=none&type=grpc#🇫🇷[openproxylist.com]
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?security=none&type=grpc#🔒
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?encryption=none&security=none&type=grpc#%5BVLESS%2009%5D%20%40ResistalProxy
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A57.44ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
@@ -499,7 +503,3 @@ ss://e72e106e-cc38-434c-871a-d3345a27a99f@116.203.147.118:8443?security=reality&
 ss://e72e106e-cc38-434c-871a-d3345a27a99f@188.245.193.124:8443/?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#⚡Telegram
 ss://e72e106e-cc38-434c-871a-d3345a27a99f@188.245.193.124:8443?security=reality&sni=www.gameup.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
 ss://e72e106e-cc38-434c-871a-d3345a27a99f@188.245.193.124:8443?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|DE🇩🇪
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@51.89.228.214:2053/?type=grpc&encryption=none&serviceName=xyz&sni=reality.gamegh2.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#⚡Telegram
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@51.89.228.214:2053?security=reality&sni=reality.gamegh2.ir&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@78.47.165.78:8443/?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#⚡Telegram
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@78.47.165.78:8443?security=reality&sni=www.gameup.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒

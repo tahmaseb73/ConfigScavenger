@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.22-0344
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk=@mx2.drawnrisha.one:55988#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-0339
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#%F0%9F%87%B9%F0%9F%87%BCTW-223.165.4.173-0321
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#%F0%9F%87%B3%F0%9F%87%B1NL-208.67.105.196-0338
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4CO-154.223.16.212-0324
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.22-0344
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.157-0221
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%F0%9F%87%B3%F0%9F%87%B1NL-103.104.247.47-0348
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%F0%9F%87%AE%F0%9F%87%B3IN-103.111.114.29-4866
@@ -499,7 +503,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.15:2053?type=ws&encrypt
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.153:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&fp=randomized&type=ws&sni=1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua#RELAY🚩 | 1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua-8443 | 1377.71ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.102:2053?type=ws&encryption=none&flow=&host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&path=%2F%3Fed%3D2048&security=tls&sni=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&fp=randomized#RELAY🚩 | 1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua-2053 | 3.71ms
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#RELAY🚩 | zula.ir-443 | 3.21ms
-vless://d1c1f516-7cde-4059-bab5-3c08a8c228bd@185.18.214.171:443?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷 | 185.18.214.171-443 | 304.16ms
-vless://d13b7a0f-6617-47e5-a900-320e7e0ae26c@104.16.53.11:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=pD.Xr6QsY3613.ZUlAIr.orG.&type=ws#RELAY🚩 | pD.Xr6QsY3613.ZUlAIr.orG.-8080 | 177.28ms
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@www.okcupid.com:443?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&fp=randomized&type=ws&sni=a.azadnet003.ddns-ip.net#RELAY🚩 | a.azadnet003.ddns-ip.net-443 | 185.07ms
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%40nethers_vpn----%40nethers_vpn---%40nethers_vpn----%40nethers_vpn----%40nethers_vpn----%40nethers_vpn----%40nethers_vpn----%40nethers_vpn----%40nethers_vpn----%40nethers_vpn---%3Fed%3D2560&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=randomized&type=ws&sni=azadnet-7py.pages.dev#RELAY🚩 | azadnet-7py.pages.dev-443 | 24.77ms

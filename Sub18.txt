@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://061ec9d5-ba40-428a-8be0-1947b10b5cfc@104.21.57.88:443?security=tls&sni=ddfRt.iRaN.pp.Ua&type=ws&host=ddfrt.iran.pp.ua&path=%2FmaYYKd6RvMo1YauoQwY5&fp=chrome&alpn=http%2F1.1#🔒
+        ss://0601ffa4-b613-45ea-ac15-2834bccc948a@104.16.53.11:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=breeZy-AdvIce.onEEat.CO.&type=ws#telegram
+ss://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=4Qekb9y1dqO8hvRzVSGeSRNyhko_gqpeWD94zrLCvjs&sid=5488b0e7#🇺🇸[openproxylist.com]
+ss://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=chrome&pbk=4Qekb9y1dqO8hvRzVSGeSRNyhko_gqpeWD94zrLCvjs&sid=5488b0e7#🔒
+ss://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=www.yahoo.com&fp=chrome&allowInsecure=1#🔒
+ss://061ec9d5-ba40-428a-8be0-1947b10b5cfc@104.21.57.88:443?security=tls&sni=ddfRt.iRaN.pp.Ua&type=ws&host=ddfrt.iran.pp.ua&path=%2FmaYYKd6RvMo1YauoQwY5&fp=chrome&alpn=http%2F1.1#🔒
 ss://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.162.74:443?security=tls&sni=ddfRt.iRaN.pp.Ua&type=ws&host=ddfrt.iran.pp.ua&path=%2FmaYYKd6RvMo1YauoQwY5&fp=chrome&alpn=http%2F1.1#🔒
 ss://0623826f-6b43-4a96-ac3f-4dabaeaa61a7@104.18.14.19:2052?type=ws&host=0601.nemister03.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://0623826f-6b43-4a96-ac3f-4dabaeaa61a7@104.18.14.19:2086?security=none&type=ws&host=0601.nemister03.workers.dev&path=%2F%3Fed%3D2560#🔒
@@ -499,7 +503,3 @@ ss://0b32d187-fbea-476d-a8f8-ae2a024631eb@188.114.99.53:443?security=tls&sni=xxx
 ss://0b32d187-fbea-476d-a8f8-ae2a024631eb@198.41.193.109:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://0b32d187-fbea-476d-a8f8-ae2a024631eb@198.41.206.125:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://0b32d187-fbea-476d-a8f8-ae2a024631eb@199.212.90.49:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://0b32d187-fbea-476d-a8f8-ae2a024631eb@199.212.90.8:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://0b565e9b-667a-4a9f-8472-b7ccda739cb7@151.101.192.223:80?security=none&type=xhttp&host=bia_to_vmessorg.ir&path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480#🔒
-ss://0b83a99a-62e1-4eff-97cf-894f865aaced@104.21.61.47:443?security=reality&sni=asoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top&type=tcp&fp=chrome&pbk=uVs_46PIq004Zu7T_n88y6EEL1me-9dcNVEaNKHFQEI&sid=b33f11f1#🔒
-ss://0b83a99a-62e1-4eff-97cf-894f865aaced@170.64.171.83:443?security=reality&sni=asoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top&type=tcp&fp=chrome&pbk=uVs_46PIq004Zu7T_n88y6EEL1me-9dcNVEaNKHFQEI&sid=b33f11f1#🔒
