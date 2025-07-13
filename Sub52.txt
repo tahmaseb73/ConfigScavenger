@@ -3,15 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e72e106e-cc38-434c-871a-d3345a27a99f@188.245.193.124:8443?security=reality&sni=www.gameup.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@188.245.193.124:8443?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|DE🇩🇪
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@51.89.228.214:2053/?type=grpc&encryption=none&serviceName=xyz&sni=reality.gamegh2.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#⚡Telegram
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@51.89.228.214:2053?security=reality&sni=reality.gamegh2.ir&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@78.47.165.78:8443/?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#⚡Telegram
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@78.47.165.78:8443?security=reality&sni=www.gameup.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@94.130.26.30:8443/?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#⚡Telegram
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@94.130.26.30:8443?security=reality&sni=www.gameup.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
-ss://e72e106e-cc38-434c-871a-d3345a27a99f@94.130.26.30:8443?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|DE🇩🇪
+        ss://e72e106e-cc38-434c-871a-d3345a27a99f@94.130.26.30:8443?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|DE🇩🇪
 ss://e74c23fa-44c0-425e-812d-5e2df4487ced@www.speedtest.net:8880?allowInsecure=1&sni=de-snapp23.academigroup.ir.&type=ws&host=de-snapp23.academigroup.ir.&path=/telegram---Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram----Academi_vpn--Mystic_vpn?ed=2048#1%7C%F0%9F%87%A9%F0%9F%87%AA4%20%7C%20%202.8MB/s%7C13%25%7CNetflix%7CYou...
 ss://e74d7639-3755-4624-b770-efa6e7ec09a8@104.21.82.14:443?path=%2FBt93qlsreYHzV5Ii9WW&security=tls&alpn=http%2F1.1&encryption=none&host=m3sdf.777259.xyz&fp=chrome&type=ws&sni=m3sdf.777259.xyz#%F0%9F%8F%B3%EF%B8%8F+prx11+%E2%9C%A8%F0%9F%8C%9F%F0%9F%8E%89
 ss://e74d7639-3755-4624-b770-efa6e7ec09a8@104.21.82.14:443?security=tls&sni=M3SDf.777259.xyz&type=ws&host=m3sdf.777259.xyz&path=%2FBt93qlsreYHzV5Ii9WW&fp=chrome&alpn=http%2F1.1#🔒
@@ -503,3 +495,11 @@ ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.134.164:443?security=tls&sni=e
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.134.199:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.135.157:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.125:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.186:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.27:443?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.138.17:443?security=tls&sni=edccy.aimercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.138.62:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.118:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.160:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.188:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.245:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒

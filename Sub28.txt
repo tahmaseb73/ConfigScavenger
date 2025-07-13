@@ -3,15 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.140.0.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.228.164.249:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.107:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.19:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FLondon%F0%9F%85%BF%EF%B8%8Fping%3A8.11ms
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.35:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.38:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.49:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+        ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.49:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.79:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.7:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.87:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
@@ -503,3 +495,11 @@ ss://56ce6fe8-775b-47ae-9923-f041d0f3a0d4@151.101.64.155:80?path=/-LiV2ry@LIGHTN
 ss://57145038-e3ab-41d3-8f8e-17464f772139@104.21.23.215:443?security=tls&sni=1da8C916-rouND-moon-05e0.Soren-CybGu.WORKERS.deV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 ss://57145038-e3ab-41d3-8f8e-17464f772139@172.67.213.239:443?security=tls&sni=1dA8C916-rOuNd-moON-05E0.SoreN-cyBGU.WOrkERS.dEV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒
 ss://57145038-e3ab-41d3-8f8e-17464f772139@172.67.213.239:8443?security=tls&sni=1Da8c916-RoUnd-Moon-05E0.soreN-CYbgU.WorkERs.DEV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev&path=%2FhdaIk62s4zwH5G55%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+ss://57147109-749f-4c9b-c6b3-2dce03f0466f@104.17.148.22:8880?type=httpupgrade&path=%2FFreeConfig%3Fed%3D2560&host=KhodeAlfred.tehran-gamee.ir&security=none#@LOCKEY_VPN
+ss://571b311b-4a34-4792-93f9-a5c0cfa66f66@157.173.127.238:443?security=reality&sni=analytics.google.com&type=raw&fp=chrome&pbk=p2iqEmOs4u682Jz5S-E-s7k8AbsNZbc-mitgU89PRi4&sid=db06#🔒
+ss://57331f6d-aa7e-4241-8981-ca53ee2dee79@62.60.148.14:25756/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=QYKUzjbRc3V_-SwJ7DbChBt5nT6miAoFuNCqbflDF2o&sid=61#⚡Telegram
+ss://57331f6d-aa7e-4241-8981-ca53ee2dee79@62.60.148.14:25756?security=reality&encryption=none&pbk=QYKUzjbRc3V_-SwJ7DbChBt5nT6miAoFuNCqbflDF2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=61#@meli_proxyy
+ss://57331f6d-aa7e-4241-8981-ca53ee2dee79@62.60.148.14:25756?security=reality&encryption=none&pbk=QYKUzjbRc3V_-SwJ7DbChBt5nT6miAoFuNCqbflDF2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=61#REALITY|FR🇫🇷
+ss://57331f6d-aa7e-4241-8981-ca53ee2dee79@62.60.148.14:25756?security=reality&encryption=none&pbk=QYKUzjbRc3V_-SwJ7DbChBt5nT6miAoFuNCqbflDF2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=61#⚡Telegram
+ss://5739c92e-4e9c-47eb-8c35-15e35b88b9c3@94.177.225.237:53695?encryption=none&security=none&type=tcp&headerType=none#test
+ss://5739c92e-4e9c-47eb-8c35-15e35b88b9c3@94.177.225.237:53695?type=tcp&headerType=none&security=none#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
