@@ -3,7 +3,16 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.210.150:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&allowInsecure=1#🔒
+        ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.155.150:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&allowInsecure=1#🔒
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.156.117:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.145:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed%3D2560#🔒
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.145:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed%3D2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.145:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#🇨🇦CA_1085_@Surfboardv2ray
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.21:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&allowInsecure=1#🔒
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.31:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.199.19:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.199.19:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed%3DMARAMBASHI_MARAMBASHI/?ed%3D2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.210.150:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&allowInsecure=1#🔒
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.6.3:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.70.99:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#🔒
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?encryption=none&security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40prroxyng
@@ -494,12 +503,3 @@ ss://dc100d19-987f-4eae-8f40-6ef942fb9e96@172.66.44.93:2083?security=tls&sni=Joi
 ss://dc100d19-987f-4eae-8f40-6ef942fb9e96@172.66.47.163:2083?security=tls&sni=JoiNMAhdiSeRVEr-tc5.Pages.dEV&type=ws&host=joinmahdiserver-tc5.pages.dev&path=%2Fd6Yfzw560AUxW64Q%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 ss://dc105fdf-3635-4a59-9e9e-d36ab7a318b4@g.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#_1124_@Surfboardv2ray
 ss://dc105fdf-3635-4a59-9e9e-d36ab7a318b4@g.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#_1125_@Surfboardv2ray
-ss://dc2f7568-c749-488f-a767-980eb81d13c6@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#🇨🇦CA_1126_@Surfboardv2ray
-ss://dc4b13cf-f231-4c2e-d037-5185628e7232@188.245.144.74:443?mode=gun&security=reality&encryption=none&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&spx=/&type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#🇩🇪DE_1127_@Surfboardv2ray
-ss://dc4b37b8-43e7-4acb-b677-0d59fad4a45e@172.64.34.232:443?security=tls&sni=6wfcny.ulavpnx1.work&type=ws&host=6wfcny.ulavpnx1.work&path=/wss&alpn=http/1.1#@VIPro
-ss://dc4b37b8-43e7-4acb-b677-0d59fad4a45e@172.64.34.232:443?security=tls&sni=6wfcny.ulavpnx1.work&type=ws&host=6wfcny.ulavpnx1.work&path=/wss&alpn=http/1.1#@VIProxys
-ss://dc4b37b843e74acbb6770d59fad4a45eOg==@172.64.34.232:443#RELAY%F0%9F%9A%A9+%7C+172.64.34.232-443+%7C+2ms
-ss://dc4fd820-19e5-435d-b3ed-27487fca3852@vip1.proxystore11.news:2052?type=xhttp&path=%2Fprx11&host=&mode=auto&security=reality&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&sni=vultr.com&sid=f8fcb589&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1+prx11+%F0%9F%8C%9F%F0%9F%8E%88%F0%9F%8C%BA
-ss://dc4fd820-19e5-435d-b3ed-27487fca3852@vip1.proxystore11.news:2052?type=xhttp&path=%2Fprx11&host=&mode=auto&security=reality&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&sni=vultr.com&sid=f8fcb589&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1+prx11+%F0%9F%8C%9F%F0%9F%8E%88%F0%9F%8C%BA🤯
-ss://dc580147-c87c-4527-bf90-192eb1cf62d1@104.21.34.188:8880?security=none&type=ws&host=stARt.SItEG52770.wORkERS.DEV&path=%2FoqisYFWsXbEI2upX%2FMC4wLjAuMA%3D%3D%3Fed%3D2560#🔒
-ss://dc580147-c87c-4527-bf90-192eb1cf62d1@172.67.163.189:2095?security=none&type=ws&host=sTART.siTeg52770.WoRkErs.DEV&path=%2Ft0DCEkrZ7kAbLwDv%2FMC4wLjAuMA%3D%3D%3Fed%3D2560#🔒
