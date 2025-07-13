@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.2:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=/@vemessvpn-channel-telegram#🔒
+        ss://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.2:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=/@vemessvpn-channel-telegram#🇨🇦CA_736_@Surfboardv2ray
+ss://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.2:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=/@vemessvpn-channel-telegram#🔒
 ss://8865c40c-1344-42f9-9bb8-892d7c5dbccf@45.85.119.139:443?encryption=none&security=tls&sni=InBarZendegi.site&alpn=h3&fp=chrome&type=xhttp&host=inbarzendegi.site&path=/azadi?ed=2560&mode=auto&extra={
 ss://8865c40c-1344-42f9-9bb8-892d7c5dbccf@45.85.119.139:443?mode=auto&path=%2Fazadi%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=inbarzendegi.site&fp=chrome&type=xhttp&sni=InBarZendegi.site#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 ss://8865c40c-1344-42f9-9bb8-892d7c5dbccf@zula.ir:443?encryption=none&security=tls&sni=InBarZendegi.Site.&alpn=h3&fp=chrome&type=xhttp&host=inbarzendegi.site&path=/azadi?ed=2560&mode=auto&extra={
@@ -502,4 +503,3 @@ ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.157.234:443?sni=xv6.jpmj.dpdns.
 ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.157.71:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.157.71:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.157.90:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
-ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.158.148:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒

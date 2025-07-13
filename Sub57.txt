@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.194:8880?type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒
+        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.191:8880?security=none&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.194:8880?type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.195:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.197:8880/?type=ws&encryption=none&host=yd.laoyoutiao.link&path=%2F#⚡Telegram
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.197:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3
@@ -502,4 +503,3 @@ ss://fc8512a3-4a9a-463a-a9d8-9679998a5a69@104.24.196.20:2086?type=grpc&serviceNa
 ss://fc8512a3-4a9a-463a-a9d8-9679998a5a69@104.24.196.20:2086?type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&host=wwW.speedtesT.net.eLectrolUxxv.ir.&type=httpupgrade#🇨🇦CA_1346_@Surfboardv2ray
 ss://fcbdbaeb-5b6f-40ea-8979-214e79d41566@188.114.99.99:2053?security=tls&sni=kanon.parhamtraberthos.IR.&type=grpc&serviceName=https://t.me/new_proxy_channel-@new_proxy_channel&fp=chrome&alpn=http/1.1#🔒
 ss://fcc65a17-2587-4af5-98ad-f1ea0471ac0f@157.180.23.58:2052?security=reality&sni=mediaworld.it&type=grpc&serviceName=2052vless&fp=chrome&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&sid=4156caa9#🔒
-ss://fcc65a17-2587-4af5-98ad-f1ea0471ac0f@hajlab.ucdavis.edu:80?path=/seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmtxmplus?ed=1024&security=none&encryption=none&host=SeyyedMTtelegramChannel.net&type=ws#🇺🇸US_1347_@Surfboardv2ray

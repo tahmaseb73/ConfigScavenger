@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        hy2://dongtaiwang.com@195.154.33.70:23587?insecure=1&sni=www.bing.com#🔒
+        hy2://dongtaiwang.com@108.181.5.130:65232?insecure=1&sni=apple.com#🔒
+hy2://dongtaiwang.com@195.154.33.70:23587?insecure=1&sni=www.bing.com#🔒
 hy2://dongtaiwang.com@195.154.33.70:4489?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Ivry-sur-Seine%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@195.154.33.70:4489?insecure=1&sni=www.bing.com#🔒
 hy2://dongtaiwang.com@45.129.2.108:30033/?insecure=1&sni=www.bing.com#Channel
@@ -502,4 +503,3 @@ ss://0623826f-6b43-4a96-ac3f-4dabaeaa61a7@www.visa.com:8880?path=%2F%3Fed%3D2560
 ss://06323b30-d2ec-42ba-8748-a8da00eebdf5@104.19.54.50:8080?type=grpc&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH&path=Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=chrome&type=ws#🇨🇦CA_183_@Surfboardv2ray
 ss://064e95f6-c83b-4ed4-a25e-b9c804a1020e@194.55.137.16:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.55.137.16&encryption=none#Rayan%20-%20VPH%20-%20WSDR-105%20-%20DE%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 ss://06948934-0e10-49d6-ba42-90b15ba6a7d1@151.101.64.156:80?type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#🔒
-ss://06948934-0e10-49d6-ba42-90b15ba6a7d1@151.101.64.157:80?type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#🔒

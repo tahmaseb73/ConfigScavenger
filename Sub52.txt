@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.219:443?security=tls&sni=hexaprop.dirih76753.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=hexaprop.dirih76753.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+        ss://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#🔒
+ss://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.219:443?security=tls&sni=hexaprop.dirih76753.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=hexaprop.dirih76753.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.219:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#🔒
 ss://e7a02158-d5d7-4f90-beb6-668400d6a84c@msjde.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=tamasha.com#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
 ss://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#REALITY|US🇺🇸
@@ -502,4 +503,3 @@ ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.127:443?sni=edcca.ambercc.f
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.168:443?sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&allowInsecure=1#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.199:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.227:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.236:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
