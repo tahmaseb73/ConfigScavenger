@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://bm9uZTphYmFiYWNjLWNiYWEtYmNhYS1hY2JkLWNjYmFhY2FiYmFiYw==@127.0.0.1:2080#🤖
-ss://bm9uZTpiY2FhYWNiLWNhYmEtYWNiYS1jYWJkLWFhY2JiYWFiY2NiYw==@127.0.0.1:8080#👨🏻‍💻
-ss://bm9uZTpiY2FhYmFjLWFiYWMtY2JhYS1kY2JhLWJhY2FjYWNhYmJiYw==@127.0.0.1:3080#🛡
-ss://bm9uZTpiYWJjYWFjLWFhYmMtYWFjYi1iYWNkLWJiYWNjY2FhYWNiYg==@127.0.0.1:1080#🔄
-ss://bm9uZTpjYmFjYWFiLWFiYWMtY2FhYi1iZGNhLWJhYmNhYmNjY2FhYg==@127.0.0.1:1080#@Hope_Net
+        ss://bm9uZTpjYmFjYWFiLWFiYWMtY2FhYi1iZGNhLWJhYmNhYmNjY2FhYg==@127.0.0.1:1080#@Hope_Net
 ss://c007ac90-afe3-4c10-8f99-d5a6507326e3@162.159.152.80:443?sni=6606.dpdns.org&type=ws&host=6606.dpdns.org&allowInsecure=0#🔒
 ss://c01d6d82-6714-461c-82e1-7b3d0c8f6af8@104.18.14.19:2095?type=ws&host=0530.vauggcod.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://c01d6d82-6714-461c-82e1-7b3d0c8f6af8@104.18.15.19:2095?type=ws&host=0530.vauggcod.workers.dev&path=%2F%3Fed%3D2560#🔒
@@ -503,3 +499,7 @@ ss://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.98.158:443?security=tls&sni=xx
 ss://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.98.180:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.99.101:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.99.203:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.99.56:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://c8a4ced0-b100-4700-8857-d06ca3b251af@198.41.193.154:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://c8d0f8a3-58fa-4fe7-9307-8720791abee4@zula.ir:8443?security=tls&sni=de-3-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=de-3-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-120%20-%20DE%20-%20III%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
+ss://c8d38c10-8973-46d9-bc60-40e9f791d187@104.21.48.1:443?encryption=none&security=tls&sni=mEHDiaMA.JAwakI2348.WOrKeRS.DEV&fp=chrome&type=ws&host=mEHDiaMA.JAwakI2348.WOrKeRS.DEV&path=%2FZPYo6XE9nKhTQnTE%3Fed%3D2560#q1_364

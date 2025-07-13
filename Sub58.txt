@@ -3,7 +3,14 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ee@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1336_@Surfboardv2ray
+        ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e1@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1329_@Surfboardv2ray
+ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e1@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1330_@Surfboardv2ray
+ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e9@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1331_@Surfboardv2ray
+ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e9@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1332_@Surfboardv2ray
+ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ec@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1333_@Surfboardv2ray
+ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ec@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1334_@Surfboardv2ray
+ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ee@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1335_@Surfboardv2ray
+ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ee@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1336_@Surfboardv2ray
 ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ee@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1337_@Surfboardv2ray
 ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ee@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#🇨🇦CA_1338_@Surfboardv2ray
 ss://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ef@104.21.69.44:8443?security=tls&sni=main.kasler.lol&type=xhttp&host=Main.kasler.lol&fp=chrome&alpn=h3,h2,http/1.1#🔒
@@ -322,6 +329,7 @@ ssr://xximg.common-buy-intl.aliyun.com-alipay.site:34367:auth_aes128_md5:chacha2
 
 trojan://%3AZ%23%253cdIG
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443?security=tls&sni=JoinmAhDiSeRvER-csn.PaGeS.DEv&type=ws&host=JoinmAhDiSeRvER-csn.PaGeS.DEv#🔒
+trojan://%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vpn@62.60.176.240:36557?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#proxy_kafeeکانفیگ
 trojan://---@104.21.69.44:443?#🔒
 trojan://---@172.67.204.84:443?#🔒
 trojan://0000000@18.238.109.41:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒
@@ -398,10 +406,11 @@ trojan://0tMQHit1k77c@172.67.141.68:2083?security=tls&sni=iran.itn24.ir&type=ws&
 trojan://11258980-1234-11f0-a2b3-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://114ad614-fe6c-4422-b0af-be6161190d7a@172.67.211.136:443?security=tls&sni=DDrt.191266.Xyz&type=tcp&allowInsecure=1#🔒
 trojan://12345678@198.62.62.4:443?security=tls&sni=7bdfb97a.ikl.pages.dev&type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev#🔒
-trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#⚡Telegram
+trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#%40vpnaloo
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#RELAY🚩
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
+trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560#⚡Telegram
 trojan://123456@104.25.165.83:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
 trojan://123456@104.25.97.27:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
 trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
@@ -457,7 +466,6 @@ trojan://1aef2a80-fd1f-11ef-b537-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://1c1aabf0-1234-11f0-bdf0-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://1d158510-34de-11f0-99a6-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%F0%9F%AB%A0
 trojan://1ec653e0-d295-11ef-8eee-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@219.135.231.205:21019?allowInsecure=0#@Hope_Net-join-us-on-Telegram⚠️
 trojan://21246bde-fab7-424c-9723-d311acce3f34@206.189.34.134:443?security=tls&sni=m.zoom.us&type=tcp#🔒
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443?security=tls&sni=sscDfr5.999182.XyZ&alpn=http%2F1.1&type=ws&host=sscdfr5.999182.xyz&path=%2FcxZq9RPkYdTWbh4hKwvQX9#t.me%2Fpeterjest
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443?security=tls&sni=sscDfr5.999182.XyZ&type=ws&host=sscdfr5.999182.xyz&path=%2FcxZq9RPkYdTWbh4hKwvQX9&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com]
@@ -478,8 +486,6 @@ trojan://243eab52-9ac1-405c-887c-eb112c0985b8@20.2.156.164:443?security=tls&sni=
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@20.2.156.164:443?security=tls&sni=tw02.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@20.2.156.164:443?security=tls&sni=us01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@20.2.156.164:443?security=tls&sni=us02.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?sni=tw01.trojanyyds.xyz#@Hope_Net-join-us-on-Telegram
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw02.trojanyyds.xyz:443?sni=tw02.trojanyyds.xyz#@Hope_Net-join-us-on-Telegram
 trojan://25c41540-fd1f-11ef-ba0d-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://25c41540-fd1f-11ef-ba0d-1239d0255272@51.38.65.155:443?security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://26224a7a-804d-48cc-bc95-cd86e6faf525@144.202.22.147:443?security=tls&sni=v12.nmcf.me&type=tcp#🔒
@@ -497,9 +503,3 @@ trojan://2YDH6ktJOt@104.21.15.33:8443?security=tls&sni=support.sabapardaziran.ir
 trojan://2YDH6ktJOt@172.67.161.74:8443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 trojan://2YDH6ktJOt@support.sabapardaziran.ir:2096?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 trojan://2YDH6ktJOt@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=httpupgrade&host=support.sabapardaziran.ir&path=%2F48938%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-trojan://2YDH6ktJOt@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F33522%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-trojan://2add6241-8fe8-3922-8347-da25e8ced601@209.209.10.231:44445?security=tls&sni=flb.aaaa.gay&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Montreal%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://2add6241-8fe8-3922-8347-da25e8ced601@209.209.11.112:4586?security=tls&sni=ca1.aaaa.gay&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Montreal%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21102?allowInsecure=1&sni=120.233.44.201#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21102?sni=120.233.44.201&allowInsecure=1#%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%A7%BB%E5%8A%A8
-trojan://2b4b4090-ceb7-11ef-9292-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
