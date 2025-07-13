@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@162.159.195.75:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@162.159.195.38:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@162.159.195.75:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@172.67.199.79:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@172.67.68.23:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@172.67.70.22:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -502,4 +503,3 @@ vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?security=none&ty
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.0:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#🔒
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80?path=%2Fvless%2F%23telegram_freev2alpha&security=none&encryption=none&host=ov-germany1.09vpn.com&type=ws#@VIProxys
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%23telegram_freev2alpha#🔒
-vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.40:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#🔒

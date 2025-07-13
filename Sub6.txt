@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@172.67.173.64:443?path=%2FmXG7Hx4Y37nTr2Hdmy903WCeD85F1b&security=tls&alpn=http%2F1.1&host=ttttttyu.2032.pp.ua&fp=chrome&type=ws&sni=TttTtTYU.2032.PP.UA#RELAY🚩 | TttTtTYU.2032.PP.UA-443 | 347.96ms
+        trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#RELAY🚩 | zamim340.ggff.net-443 | 5.84ms
+trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@172.67.173.64:443?path=%2FmXG7Hx4Y37nTr2Hdmy903WCeD85F1b&security=tls&alpn=http%2F1.1&host=ttttttyu.2032.pp.ua&fp=chrome&type=ws&sni=TttTtTYU.2032.PP.UA#RELAY🚩 | TttTtTYU.2032.PP.UA-443 | 347.96ms
 trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#RELAY🚩 | S1.mitivpN.wOrKeRS.DEV-443 | 48.69ms
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 73.31ms
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf&type=tcp&headerType=none#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 23.52ms
@@ -502,4 +503,3 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.159:443?encryption=none&
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFLT5ERS0+QURMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNTcuMTI5LjI1LjI1IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.102:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=tcp&headerType=none#US-%3E-%3EMTN-%3E%40Sezar_Sec
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@67.220.95.102:8000#US-%3EUS-%3EADL-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc%3D@144.126.146.38:30789#US-%3EUS-%3EADL-%3E%40Sezar_Sec

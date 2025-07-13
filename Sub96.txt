@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.61:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+        vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.5:8880?type=ws&host=us.laoyoutiao.link&path=TelegramрЯЗ®рЯЗ≥#🔒
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.61:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.63:8880?type=ws&host=us.laoyoutiao.link&path=TelegramрЯЗ®рЯЗ≥#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.6:8880?type=ws&host=us.laoyoutiao.link&path=/TelegramрЯЗ®рЯЗ≥#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.70:8880?security=none&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒
@@ -502,4 +503,3 @@ vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.66.44.200:2053?security=tls&sni
 vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.66.44.200:2096?security=tls&sni=hP-duBaI.pAgeS.dEv&type=ws&host=hp-dubai.pages.dev&path=%2Fp2qsZmRCtRJSk3OC%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.67.71.187:2096?security=tls&sni=hp-duBai.pAGES.dEV&type=ws&host=hp-dubai.pages.dev&path=%2F9HzhcZ4yenwH1d9M%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 vless://fedc279b-ccb3-4205-bb47-31ac79ae4e7a@162.159.138.232:443?security=tls&sni=jenaei.movieland.top&type=grpc&serviceName=static43498&encryption=none#Suren%20TM
-vless://feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?type=tcp&headerType=http#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20✅️تا

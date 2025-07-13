@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?security=reality&flow=xtls-rprx-vision&sni=speed.cloudflare.com&type=tcp&fp=chrome&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA#🇫🇮[openproxylist.com]
+        ss://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&sid=#⚡Telegram
+ss://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?security=reality&flow=xtls-rprx-vision&sni=speed.cloudflare.com&type=tcp&fp=chrome&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA#🇫🇮[openproxylist.com]
 ss://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?security=reality&flow=xtls-rprx-vision&sni=speed.cloudflare.com&type=tcp&fp=chrome&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA#🏳[openproxylist.com]
 ss://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?security=reality&flow=xtls-rprx-vision&sni=speed.cloudflare.com&type=tcp&fp=chrome&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA#🔒
 ss://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?security=tls&flow=xtls-rprx-vision-udp443&sni=speed.cloudflare.com&fp=chrome&allowInsecure=0#🔒
@@ -502,4 +503,3 @@ ss://b20f8c7c-a47e-43b7-b4a4-bbab7d8014e3@ns.cloudflare.com:2086?path=%2FGoodLuc
 ss://b20f8c7c-a47e-43b7-b4a4-bbab7d8014e3@ns.cloudflare.com:2086?path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&host=rosiassn.digikala.com.snnapfood.ir.varzesh3.com.shobb.ir.kdvhgkri558rvhnfjrdghriuygfkrdhihifjdfjssiedhfgjung.sami0.ir.&type=httpupgrade#⚡Telegram
 ss://b2211bd9-5eba-4141-b80d-a6c335b2e751@172.66.44.207:443?security=tls&sni=bESttIvPN.paGEs.Dev&type=ws&host=bESttIvPN.paGEs.Dev&alpn=h2%2Chttp/1.1&allowInsecure=0#🔒
 ss://b2211bd9-5eba-4141-b80d-a6c335b2e751@172.66.47.49:443?security=tls&sni=bESttIvPN.paGEs.Dev&type=ws&host=besttivpn.pages.dev&path=%2Fg3fpXHnYa6VAnTBL%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://b22d2e2a-2133-5dbb-b788-97f6d06e7f9e@157.180.41.190:8247?security=none&sni=false&type=tcp&host=testspeed-foreign.tci.ir&path=/&headerType=http#🔒
