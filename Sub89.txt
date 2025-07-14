@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@141.193.213.10:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560#🔒
+        vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.18.6.215:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560#🔒
+vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.18.7.215:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir#🔒
+vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@141.193.213.10:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560#🔒
 vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@141.193.213.11:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir#🔒
 vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@185.146.173.7:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560#🔒
 vless://c43385ba-bce6-4fb6-a9b4-5411e031547e@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_1031_@Surfboardv2ray
@@ -501,5 +503,3 @@ vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@199.34.228.179:443?security=tls&sni
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@199.34.228.71:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPNflow%3D-udp443&fp=chrome#🔒
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@66.235.200.146:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPNflow%3D-udp443&fp=chrome#🔒
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@92.53.191.43:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPN#🔒
-vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@ns1.cloudflare.com:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2550&security=tls&encryption=none&host=cr7.medicaldream.ir&fp=chrome&type=ws&sni=cr7.medicaldream.ir#@V2rayNG3
-vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@ns1.cloudflare.com:443?type=ws&host=cr7.medicaldream.ir&path=/?ed%3D2550?/&security=tls&fp=chrome&sni=cr7.medicaldream.ir#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87

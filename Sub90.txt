@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://cd01db3b-4b0a-4718-98dd-1d38f55be03f@193.9.49.241:443?security=tls&sni=eua.kobtty.me&type=ws&path=/bing#🔒
+        vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@ns1.cloudflare.com:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2550&security=tls&encryption=none&host=cr7.medicaldream.ir&fp=chrome&type=ws&sni=cr7.medicaldream.ir#@V2rayNG3
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@ns1.cloudflare.com:443?type=ws&host=cr7.medicaldream.ir&path=/?ed%3D2550?/&security=tls&fp=chrome&sni=cr7.medicaldream.ir#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87
+vless://cd01db3b-4b0a-4718-98dd-1d38f55be03f@193.9.49.241:443?security=tls&sni=eua.kobtty.me&type=ws&path=/bing#🔒
 vless://cd0e795a-4f26-4f8c-9981-ed8b7dcb6126@104.21.23.115:443?security=tls&sni=eRt.852224.GgFf.NEt&type=ws&host=ert.852224.ggff.net&path=%2FekUVEk0GkPbqU8RhisheV&fp=chrome&alpn=http%2F1.1#🔒
 vless://cd0e795a-4f26-4f8c-9981-ed8b7dcb6126@172.67.210.210:443?security=tls&sni=eRt.852224.GgFf.NEt&type=ws&host=ert.852224.ggff.net&path=%2FekUVEk0GkPbqU8RhisheV&fp=chrome&alpn=http%2F1.1#🔒
 vless://cd24511a-c6d9-4147-8ae4-9b355e0729a8@104.21.69.44:80?security=none&type=httpupgrade&host=FySuMyYk3.aMirsiTesos.sItE.#🔒
@@ -501,5 +503,3 @@ vless://d49b7b53-6697-4165-afb6-dce05a65a3c1@91.107.152.229:443?security=reality
 vless://d49b7b53-6697-4165-afb6-dce05a65a3c1@cld1.niassa.ir:443?security=reality&encryption=none&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=eset.com&sid=2f#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://d49b7b53-6697-4165-afb6-dce05a65a3c1@cld1.niassa.ir:443?security=reality&encryption=none&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=eset.com&sid=2f#REALITY|DE🇩🇪
 vless://d4a637d6-0c7c-4a0f-8ec4-9a5f643e6bfc@151.101.63.2:80?security=none&type=xhttp&host=telegram-netpie.com&path=%2Fnetpie#🔒
-vless://d4a97a6f-a734-41d2-870e-b3eb2c045c0f@95.164.69.101:80?security=&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.164.69.101&encryption=none#Rayan%20-%20GSS%20-%20WSCT-109%20-%20UK%20-%20%F0%9F%9F%A2%20t.me/Rayan_Config
-vless://d4e36d8c-623b-4413-b461-a99d786c4b55@128.140.113.136:38290?security=reality&sni=lunavopershiansni369871.adas.monster&type=xhttp&path=%2Fshahin2001&fp=chrome&pbk=YwovOka4bw_cog0WRI_245U9NC4I26TaGxhAKfGSskM&sid=e559dd#🔒
