@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#RELAY🚩 | sub.divib.dynv6.net-2053 | 626.98ms
-vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F&security=tls&encryption=none&host=sub.divib.dynv6.net&fp=chrome&type=ws&sni=sub.divib.dynv6.net#RELAY🚩 | sub.divib.dynv6.net-2053 | 2.69ms
+        vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F&security=tls&encryption=none&host=sub.divib.dynv6.net&fp=chrome&type=ws&sni=sub.divib.dynv6.net#RELAY🚩 | sub.divib.dynv6.net-2053 | 2.69ms
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#RELAY🚩 | sub.divib.dynv6.net-2053 | 2.54ms
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sub.divib.dynv6.net&fp=chrome&type=ws&sni=sub.divib.dynv6.net#RELAY🚩 | sub.divib.dynv6.net-2053 | 2.66ms
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F%3Fed%3D%23TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#RELAY🚩 | sub.divib.dynv6.net-2053 | 2.93ms
@@ -503,3 +502,4 @@ vless://458cf96d-41ab-4978-84df-2f5dacfc0f0b@tunnelman.godali.org:9443?security=
 vless://453aeace-638f-441e-98cd-6dbab6e0c75e@143.198.196.86:80?path=%2FFREE+by+Tharuwa+%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#US🇺🇸 | zoom.us-80 | 93.97ms
 vless://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.24.73.254:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ghh.wsthh.site&fp=chrome&type=ws&sni=ghh.wsthh.site#RELAY🚩 | ghh.wsthh.site-2087 | 193.31ms
 vless://4520a2f6-6661-4591-a9e4-039ff705bfae@104.16.1.106:2082?security=none&type=ws&headerType=&path=%2F%3Fed%3D2052&host=tehrangaming.com.nl.systemgamingirani.ir#RELAY🚩 | tehrangaming.com.nl.systemgamingirani.ir-2082 | 151.06ms
+vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&path=%2Fgfsfdsese%3Fed%3D2560&host=lake8.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake8.global.ssl.fastly.net-80 | 11.85ms

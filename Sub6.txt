@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://1UUks8qp3f@46.62.153.8:443?mode=auto&path=%2F&security=reality&pbk=1DT1gbnx43QGMYoBkam0b9fzSd00qghvlrmbdO-WaHc&fp=chrome&spx=%2F&type=xhttp&sni=eset.com&sid=9bbb8aa1afa8e9#REALITY|SK🇸🇰 | eset.com-443 | 171.25ms
-trojan://1PvCIrxP6l@ru2.asc-sam.ir:8443?type=tcp&path=%2F%40NoForcedHeavan%40NoForcedHeavan%40NoForcedHeavan%40NoForcedHeavan%40NoForcedHeavan&host=ru2.asc-sam.ir&headerType=http&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#RU🇷🇺 | ru2.asc-sam.ir-8443 | 187.99ms
+        trojan://1PvCIrxP6l@ru2.asc-sam.ir:8443?type=tcp&path=%2F%40NoForcedHeavan%40NoForcedHeavan%40NoForcedHeavan%40NoForcedHeavan%40NoForcedHeavan&host=ru2.asc-sam.ir&headerType=http&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#RU🇷🇺 | ru2.asc-sam.ir-8443 | 187.99ms
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2053?security=tls&sni=iNvIncIbLE.faFA20.SHop&alpn=http%2F1.1&fp=randomized&type=ws&host=invincible.fafa20.shop&path=%2FtrMryZDCWFzixHzF4I%2FNzguNDcuMTU3LjY%3D%3Fed%3D2560#RELAY🚩 | iNvIncIbLE.faFA20.SHop-2053 | 40.34ms
 trojan://123456@104.25.97.27:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2F#RELAY🚩 | top-azx.pages.dev-8443 | 161.25ms
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560#RELAY🚩 | top-azx.pages.dev-8443 | 141.45ms
@@ -503,3 +502,4 @@ vless://17a6e953-8fac-428c-b86c-8585722b0b52@cherry.bitiboot.com:443?encryption=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBLT5GUi0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMTcyLjY3LjE3MC4xMDMiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnbHdlaWRmLnNicyIsDQogICJwYXRoIjogIi9saW5rd3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZ2x3ZWlkZi5zYnMiLA0KICAiYWxwbiI6ICJoMyIsDQogICJmcCI6ICJjaHJvbWUiDQp9
 vless://ea286109-d20f-415e-849e-4af20ab04b65@51.81.37.5:443?encryption=none&security=tls&sni=147135001195.sec22org.com&fp=chrome&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?encryption=none&security=none&type=grpc#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
+trojan://vpn@109.120.132.80:2025?type=ws&host=vkvd127.mycdn.me&path=%2F#SE-%3ESE-%3ERTL-%3E%40Sezar_Sec
