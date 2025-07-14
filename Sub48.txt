@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052?security=&encryption=none&type=grpc&serviceName=vless-grpc#@meli_proxyy
-ss://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052?security=&encryption=none&type=grpc&serviceName=vless-grpc#US🇺🇸
+        ss://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052?security=&encryption=none&type=grpc&serviceName=vless-grpc#US🇺🇸
 ss://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052?security=&encryption=none&type=grpc&serviceName=vless-grpc#⚡Telegram
 ss://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052?security=&encryption=none&type=grpc&serviceName=vless-grpc#🇺🇸
 ss://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052?security=none&type=grpc&serviceName=vless-grpc#🇺🇸[openproxylist.com]
@@ -503,3 +502,4 @@ ss://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.5.207:80?type=ws&host=a.mifeng.
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.5.37:80?type=ws&host=a.mifeng.us.kg&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.7.167:80?security=none&sni=abaaba.9pcvkb68.workers.dev&type=ws&host=abaaba.9pcvkb68.workers.dev&path=Telegram%40WangCai2%2F%3Fed#🔒
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.7.169:80?security=none&sni=abaaba.9pcvkb68.workers.dev&type=ws&host=abaaba.9pcvkb68.workers.dev&path=Telegram%40WangCai2%2F%3Fed#🔒
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.7.207:80?sni=abaaba.9pcvkb68.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒

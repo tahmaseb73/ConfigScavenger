@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://f3b7552c-d4f6-43c9-b87b-2990c3063a6b@172.67.204.84:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#RELAY🚩
-vless://f3ba3679-f2f4-465f-92a5-de320b775a88@185.22.155.105:42632?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=qtqcKrPLXaN-jpo7Zs1_80QDmA2uvCZKFGanJLJFFXA&sid=1f8b5201&type=tcp&headerType=none#q1_168
+        vless://f3ba3679-f2f4-465f-92a5-de320b775a88@185.22.155.105:42632?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=qtqcKrPLXaN-jpo7Zs1_80QDmA2uvCZKFGanJLJFFXA&sid=1f8b5201&type=tcp&headerType=none#q1_168
 vless://f3cee0a1-f523-4d86-d5ec-585ca975827a@104.17.148.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.#@Hope_Net-join-us-on-Telegram
 vless://f3da061b-cb73-4457-959c-447d92ab7ae2@172.66.44.191:2083?security=tls&sni=maHdISeRveR-AlO.PAGeS.DeV&type=ws&host=mahdiserver-alo.pages.dev&path=%2FPWgwYmGN6dhCn3Y8%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒
 vless://f3da061b-cb73-4457-959c-447d92ab7ae2@172.66.47.65:2083?security=tls&sni=maHdISeRveR-AlO.PAGeS.DeV&type=ws&host=mahdiserver-alo.pages.dev&path=%2FPWgwYmGN6dhCn3Y8%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒
@@ -503,3 +502,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.137.29:8880?sni=hk.laoyouti
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.104.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.105.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@161.145.150.29:8880?security=none&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🔒
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@162.120.94.20:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒

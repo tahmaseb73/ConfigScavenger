@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://5130522b-1ca5-4435-bf18-ac5b5b3bde56@172.66.168.227:443?security=tls&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&type=ws&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&path=%2Flinkws%3Fed%3D2560#🔒
-ss://5130522b-1ca5-4435-bf18-ac5b5b3bde56@cloudgetservice.mcloudservice.site:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&type=ws&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM#RELAY🚩
+        ss://5130522b-1ca5-4435-bf18-ac5b5b3bde56@cloudgetservice.mcloudservice.site:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&type=ws&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM#RELAY🚩
 ss://51331216-24fe-4eda-8bf1-0f03d2c97915@190.93.247.56:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=rsde.hpcdn.info&type=ws#Free%2034%20%28%40Outline_Vpn%29
 ss://51385ef4-f91d-40f0-9acd-10fda0032ac8@172.66.47.45:2083?security=tls&sni=MaHdiSerVER-3ZO.PAgeS.DeV&type=ws&host=mahdiserver-3zo.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒
 ss://5150600b-d270-4be8-8d78-c5784d3c093b@146.75.118.133:443?security=tls&sni=unternehmen.rossmann.de&type=ws&host=sv2traifdersgfdmine.com#🔒
@@ -503,3 +502,4 @@ ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.230.6:80?allowInsecure=1&sni=r
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.230.6:80?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FSouthport%F0%9F%85%BF%EF%B8%8Fping%3A8.24ms
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.230.6:80?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.231.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FSouthport%F0%9F%85%BF%EF%B8%8Fping%3A8.19ms
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.231.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=0#🔒
