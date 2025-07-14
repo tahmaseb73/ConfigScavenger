@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#CO-%3ECO-%3EADL-%3E%40Sezar_Sec
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.4:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNOLT5DTi0+TVROLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMTEyLjEzMi4yMTUuMTIiLA0KICAicG9ydCI6ICI1MDAwMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?encryption=none&security=none&type=grpc#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
+        vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?encryption=none&security=none&type=grpc#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.159:443?encryption=none&security=tls&sni=147135004002.sec20org.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTmZYY2JiUDhQMnlrYzF5cGpWMjJKNGhkTndUV3V4RFdxczVHWDJtbkg2R01DcUw1WHloTnp0cG43b1B6SzlueVRvUmVORGJuYlYzRTFnc0VoOThHWUpyQktNZjZIclM%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 vless://ee8626d3-0295-4753-9c37-4cbe1c5eac0e@www.speedtest.net:443?encryption=none&security=tls&sni=VENomsERvers.niakaNi-ArmAn.worKerS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=venomservers.niakani-arman.workers.dev&path=%2F5W0YgMbMiBRQ4MAJ%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
@@ -503,3 +500,6 @@ vless://b69bce2c-4661-4bfb-9e05-d258f4952696@37.202.233.176:59346?encryption=non
 vless://2b9fe769-ba91-4212-80c6-80dde4c030a3@62.60.160.184:31665?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.160.184%3A31665
 vless://226ee423-c081-4bdc-a87f-6f58edbfce66@92.114.24.6:20255?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-92.114.24.6%3A20255
 vless://7141b3e6-e314-465d-83df-243a7850edeb@178.239.146.76:2010?encryption=none&security=none&fp=chrome&type=tcp&headerType=http&host=api4.callback.cdn.nim.file.plsvi.online#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-178.239.146.76%3A2010
+vless://1edd9e0f-703f-49ab-8ecd-0380f8b37da3@85.133.234.125:6000?encryption=none&security=none&type=ws&path=%2Fconnect%2Fws%2F#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.234.125%3A6000
+vless://75a3914d-ca97-4bfb-98c0-c0e736c0f3c6@188.121.100.206:34300?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-188.121.100.206%3A34300
+vless://99480324-c2a2-4909-9178-210428276912@89.33.129.242:443?encryption=none&security=tls&sni=fn1.faradarsi.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=http&host=fn1.faradarsi.com#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-89.33.129.242%3A443

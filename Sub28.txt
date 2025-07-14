@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://54565f37-1afb-403b-a29a-350c928007b2@178.63.228.220:443?security=reality&sni=fauxid.com&type=grpc&serviceName=@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&fp=chrome&pbk=Aa3FogZ9ohTiRHsdnoyiMg7TFARWEeZs_m290juxEzs#🔒
-ss://54568d51-2365-4f1f-9367-0cf255c22d60@141.227.140.214:1991?security=reality&sni=stackoverflow.com&type=xhttp&host=stackoverflow.com&path=%2FCANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_configCANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&fp=chrome&pbk=4qOKlkttwn8Yw2FN4ZYCint9k-TK9QU56tOXiXgXsGM&sid=fce601089937b01a#🔒
-ss://5463817d-30ea-4bef-805e-ae714070fb30@152.42.227.39:443?security=tls&sni=account.garena.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20VL-TCP-TLS%204%E2%83%A3
-ss://5463817d-30ea-4bef-805e-ae714070fb30@152.42.227.39:443?security=tls&sni=free.theekshana.store&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20VL-TCP-TLS%204%E2%83%A3
+        ss://5463817d-30ea-4bef-805e-ae714070fb30@152.42.227.39:443?security=tls&sni=free.theekshana.store&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20VL-TCP-TLS%204%E2%83%A3
 ss://5463817d-30ea-4bef-805e-ae714070fb30@152.42.227.39:443?security=tls&sni=fxtwitter.com&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20VL-TCP-TLS%204%E2%83%A3
 ss://5467fe26-87fd-459c-95b8-2e8da008b71d@3.112.214.42:443?security=tls&flow=xtls-rprx-vision-udp443&sni=download-porter.hoyoverse.com&fp=chrome&allowInsecure=0#🔒
 ss://54694a33-a8dc-47dd-bc38-acd3971e0055@129.159.241.172:443?security=tls&sni=147135004002.sec20org.com&allowInsecure=0#🔒
@@ -503,3 +500,6 @@ ss://585acd30-52bf-4b70-a537-e13649fafefc@172.67.163.14:443?security=tls&sni=Dfc
 ss://585acd30-52bf-4b70-a537-e13649fafefc@172.67.163.14:443?security=tls&sni=DfcVrf.2031.pp.Ua&type=ws&host=dfcvrf.2031.pp.ua&path=%2FrU9rSjDSOd4yY2fOe&fp=chrome&alpn=http%2F1.1#🔒
 ss://585acd30-52bf-4b70-a537-e13649fafefc@172.67.212.59:443?security=tls&sni=bBA.890601.pP.UA&type=ws&host=bba.890601.pp.ua&path=%2FrU9rSjDSOd4yY2fOe&fp=chrome&alpn=http%2F1.1#🔒
 ss://5870e7d7-24e6-411a-914e-c965d7f7ae8a@104.17.82.198:80?path=%2FTelegram%3A%40%40vpnclashfa+-+582#RELAY🚩
+ss://5870e7d7-24e6-411a-914e-c965d7f7ae8a@154.197.75.80:80?path=%2FTelegram%3A%40%40vpnclashfa+-+583#SC🇸🇨
+ss://5870e7d7-24e6-411a-914e-c965d7f7ae8a@172.67.193.36:80?path=%2FTelegram%3A%40%40vpnclashfa+-+584#RELAY🚩
+ss://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?encryption=none&security=tls&sni=lv01.abvpn.ru&fp=random&type=ws&host=lv01.abvpn.ru&path=%2Fwebsocket%3Fed%3D2048-%40ShadowProxy66#q1_429
