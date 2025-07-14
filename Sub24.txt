@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?security=none&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sPeedtest2.sbs.br.vless.sitespeedtest.net&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?type=ws&host=sPeedtest2.sbs.br.vless.sitespeedtest.net&path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🔒
+        ss://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?type=ws&host=sPeedtest2.sbs.br.vless.sitespeedtest.net&path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🔒
 ss://460ecbbe-0775-41cf-9c62-60c3fbc73c14@zula.ir:2087?security=tls&sni=fr-1-gss.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fr-1-gss.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20GSS%20-%20WSCT-110%20-%20FR%20-%20I%20-%20%E2%98%A2%EF%B8%8F%20t.me/Rayan_Config
 ss://46153d1a-ebe7-4218-9155-19618285a286@188.212.96.165:1720?security=none&type=tcp&host=speedtest.net&headerType=http#🔒
 ss://462f65e5-4c0e-41af-a6d1-4393433d64b3@185.14.160.166:54694?encryption=none&security=none&type=tcp&headerType=http&host=alibaba.ir#@VIProxys
@@ -503,3 +502,4 @@ ss://5130522b-1ca5-4435-bf18-ac5b5b3bde56@172.66.168.223:443?security=tls&sni=ma
 ss://5130522b-1ca5-4435-bf18-ac5b5b3bde56@172.66.168.226:443?security=tls&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&type=ws&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&path=%2Flinkws%3Fed%3D2560#🔒
 ss://5130522b-1ca5-4435-bf18-ac5b5b3bde56@172.66.168.227:443?security=tls&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&type=ws&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&path=%2Flinkws%3Fed%3D2560#🔒
 ss://5130522b-1ca5-4435-bf18-ac5b5b3bde56@cloudgetservice.mcloudservice.site:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&type=ws&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM#RELAY🚩
+ss://51331216-24fe-4eda-8bf1-0f03d2c97915@190.93.247.56:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=rsde.hpcdn.info&type=ws#Free%2034%20%28%40Outline_Vpn%29

@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2053?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2082?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+        ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2082?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2083?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2086?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2087?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
@@ -503,3 +502,4 @@ ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@199.34.228.41:2096?security=tls&sni=D6
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@199.34.228.65:2096?security=tls&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM#🔒
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@199.34.228.71:2096?security=tls&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM#🔒
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@208.86.168.210:2096?security=tls&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM&path=%2F#🔒
+ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@209.208.227.61:2096?security=tls&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM&path=%2F#🔒

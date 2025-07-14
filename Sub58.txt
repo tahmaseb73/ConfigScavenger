@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.66.44.200:2096?security=tls&sni=hP-duBaI.pAgeS.dEv&type=ws&host=hp-dubai.pages.dev&path=%2Fp2qsZmRCtRJSk3OC%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.67.71.187:2096?security=tls&sni=hp-duBai.pAGES.dEV&type=ws&host=hp-dubai.pages.dev&path=%2F9HzhcZ4yenwH1d9M%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+        ss://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.67.71.187:2096?security=tls&sni=hp-duBai.pAGES.dEV&type=ws&host=hp-dubai.pages.dev&path=%2F9HzhcZ4yenwH1d9M%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 ss://fedc279b-ccb3-4205-bb47-31ac79ae4e7a@162.159.138.232:443?security=tls&sni=jenaei.movieland.top&type=grpc&serviceName=static43498&encryption=none#Suren%20TM
 ss://feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?type=tcp&headerType=http#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20✅️تا
 ss://fefba36d-5142-42f1-b14d-db5249511d93@107.172.132.248:443?security=reality&sni=iyfglobal.org&allowInsecure=1&fp=chrome&pbk=qM1XlrSeyJsPBUvrGWi46okbeljt0ksMuMFPraXrmFg&sid=4b61d108&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Buffalo%20%F0%9F%8C%8E%20VL-TCP-RLT%204%E2%83%A3
@@ -503,3 +502,4 @@ trojan://35fefe20-29cd-11f0-a536-1239d0255272@51.210.182.170:443?security=tls&sn
 trojan://35fefe20-29cd-11f0-a536-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%F0%9F%A9%B7
 trojan://361ddf70-1af3-11f0-9a84-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://361ddf70-1af3-11f0-9a84-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%E2%9D%A4%EF%B8%8F
+trojan://364d3aa0-58fc-11ed-b738-225401db9d57@54.36.191.211:443?security=tls&sni=ebank.bmi.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
