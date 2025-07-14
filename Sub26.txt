@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.243:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%40ShadowProxy66#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FSouthport%F0%9F%85%BF%EF%B8%8Fping%3A8.23ms
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.243:8880?path=/Telegram@ShadowProxy66&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇬🇧GB_492_@Surfboardv2ray
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.243:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%40ShadowProxy66#🔒
+        ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.243:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%40ShadowProxy66#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.230.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FSouthport%F0%9F%85%BF%EF%B8%8Fping%3A8.58ms
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.230.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.230.228:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
@@ -503,3 +501,5 @@ ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.99:80?security=none&type=ws
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.149.12.183:2052?security=none&type=ws&host=redw.pooriam.ir&path=%2F%40ShadowProxy66%3Fed%3D2560#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.149.12.20:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@meli_proxyy
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.149.12.20:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#⚡Telegram
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.149.12.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.206:8880?path=/Channel
