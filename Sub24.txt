@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://45c3ceef-af58-45ba-83e9-6fad74dbb663@104.21.33.210:8443?security=tls&sni=iVZ693Ye8O0lmp70bD7vr407bwM2ib8r.kiCIgE4119.WORkeRS.deV&type=ws&host=ivz693ye8o0lmp70bd7vr407bwm2ib8r.kicige4119.workers.dev&path=%2FExjL1zO3udKC9ygB&alpn=http%2F1.1#🔒
+        ss://45c3ceef-af58-45ba-83e9-6fad74dbb663@104.21.33.210:443?security=tls&sni=ivz693ye8o0LMp70Bd7vR407BWM2ib8R.kIciGE4119.woRKERs.dEv&type=ws&host=ivz693ye8o0lmp70bd7vr407bwm2ib8r.kicige4119.workers.dev&path=%2FNBuFH5KdNl08Dm06&alpn=http%2F1.1#🔒
+ss://45c3ceef-af58-45ba-83e9-6fad74dbb663@104.21.33.210:8443?security=tls&sni=iVZ693Ye8O0lmp70bD7vr407bwM2ib8r.kiCIgE4119.WORkeRS.deV&type=ws&host=ivz693ye8o0lmp70bd7vr407bwm2ib8r.kicige4119.workers.dev&path=%2FExjL1zO3udKC9ygB&alpn=http%2F1.1#🔒
 ss://45c3ceef-af58-45ba-83e9-6fad74dbb663@172.67.166.217:443?security=tls&sni=ivz693ye8o0LMp70Bd7vR407BWM2ib8R.kIciGE4119.woRKERs.dEv&type=ws&host=ivz693ye8o0lmp70bd7vr407bwm2ib8r.kicige4119.workers.dev&path=%2FNBuFH5KdNl08Dm06&alpn=http%2F1.1#🔒
 ss://45ce6f5fd81c414286cad87e5ba1f61a@104.21.79.132:80?type=ws&host=inconigto.web.id&path=%2Ft.me%2FInconigto_Mode%2F35.219.50.99%2F443#🔒
 ss://45ce6f5fd81c414286cad87e5ba1f61a@104.22.28.114:80#🔒
@@ -502,4 +503,3 @@ ss://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2Fpurlitefaste
 ss://50c017ff-4271-4e22-8e16-7e4367898af8@213.108.198.149:443?security=reality&sni=www.cdn77.com&type=tcp&fp=chrome&pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&sid=e54b5ad736ae4c38#🔒
 ss://50c017ff-4271-4e22-8e16-7e4367898af8@de-vpnmizban.gamingbazirani.ir:443?security=reality&encryption=none&pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&headerType=none&fp=chrome&type=tcp&sni=www.cdn77.com&sid=e54b5ad736ae4c38#%40VpnMizban%20%E2%9E%A3%20%F0%9F%87%A9%F0%9F%87%AA%20%281%29👇👇👇https://t.me/VpnMizban
 ss://50c2a064-551a-4ae3-893b-8ad2be17c07e@www.speedtest.net:2086?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=none&encryption=none&host=www.speedtest24.ir&type=httpupgrade#🇨🇦CA_435_@Surfboardv2ray
-ss://50c32afb-ee63-443c-ad0a-a3f4866e4106@23.227.38.0:443?security=tls&sni=us5.pqvip.top&type=ws&host=us5.pqvip.top&path=%2Fpq%2Fus5&fp=ios#🔒

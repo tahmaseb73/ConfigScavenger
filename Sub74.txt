@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.166.20:8880/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#⚡Telegram
+        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.165.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.166.20:8880/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#⚡Telegram
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.166.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.167.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F%3Fed%3D2560%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@VIProxys
@@ -502,4 +503,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?path=%2F%3Fed%3D2
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.213:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.35:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%2F%3Fed%3D2560#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.54:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
