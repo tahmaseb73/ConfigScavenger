@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://f14d0d37-9c0e-4376-9d33-94aba1859e47@185.193.158.11:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒
+        ss://f14d0d37-9c0e-4376-9d33-94aba1859e47@185.193.158.10:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒
+ss://f14d0d37-9c0e-4376-9d33-94aba1859e47@185.193.158.11:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒
 ss://f14d0d37-9c0e-4376-9d33-94aba1859e47@185.193.158.8:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒
 ss://f14d0d37-9c0e-4376-9d33-94aba1859e47@185.193.158.9:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒
 ss://f14d0d37-9c0e-4376-9d33-94aba1859e47@194.127.173.201:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒
@@ -502,4 +503,3 @@ ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.142:8880/?type=ws&encryptio
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.142:8880?type=ws&encryption=none&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#RELAY🚩
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.142:8880?type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.143:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.149:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒

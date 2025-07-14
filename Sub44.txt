@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://a0bd15ab-577a-47ea-940c-741319e89069@162.159.136.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc#🔒
+        ss://a0bd15ab-577a-47ea-940c-741319e89069@162.159.135.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc#🔒
+ss://a0bd15ab-577a-47ea-940c-741319e89069@162.159.136.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc#🔒
 ss://a0bf4979-b135-4396-c2b3-e492911dbda4@151.101.2.228:80?allowInsecure=1&sni=foffmelo.com&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#@Hope_Net-join-us-on-Telegram
 ss://a0bf4979-b135-4396-c2b3-e492911dbda4@151.101.2.228:80?allowInsecure=1&sni=foffmelo.com&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#🇺🇸US_911_@Surfboardv2ray
 ss://a0bf4979-b135-4396-c2b3-e492911dbda4@speedtest.net:80?allowInsecure=1&sni=foffmelo.com&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ ss://b1f58d90-e65f-4566-91f3-1b96e9a68617@Speedtest.net:80?path=/@Digiv2ray--@Di
 ss://b1f58d90-e65f-4566-91f3-1b96e9a68617@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#🇺🇸US_960_@Surfboardv2ray
 ss://b1f58d90-e65f-4566-91f3-1b96e9a68618@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Digiv2ray
 ss://b1f58d90-e65f-4566-91f3-1b96e9a68618@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Digiv2ray🇩🇪
-ss://b1f58d90-e65f-4566-91f3-1b96e9a68618@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#🇺🇸US_961_@Surfboardv2ray
