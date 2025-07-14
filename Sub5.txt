@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://4520a2f6-6661-4591-a9e4-039ff705bfae@104.16.1.106:2082?security=none&type=ws&headerType=&path=%2F%3Fed%3D2052&host=tehrangaming.com.nl.systemgamingirani.ir#RELAY🚩 | tehrangaming.com.nl.systemgamingirani.ir-2082 | 151.06ms
+        vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&host=core.pod.ir.oadeflantrogmuk4.iranaircdn.com&fp=randomized&type=ws&sni=core.pod.ir#IR🇮🇷 | core.pod.ir-443 | 343.98ms
+vless://458cf96d-41ab-4978-84df-2f5dacfc0f0b@tunnelman.godali.org:9443?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷 | tunnelman.godali.org-9443 | 547.16ms
+vless://453aeace-638f-441e-98cd-6dbab6e0c75e@143.198.196.86:80?path=%2FFREE+by+Tharuwa+%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#US🇺🇸 | zoom.us-80 | 93.97ms
+vless://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.24.73.254:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ghh.wsthh.site&fp=chrome&type=ws&sni=ghh.wsthh.site#RELAY🚩 | ghh.wsthh.site-2087 | 193.31ms
+vless://4520a2f6-6661-4591-a9e4-039ff705bfae@104.16.1.106:2082?security=none&type=ws&headerType=&path=%2F%3Fed%3D2052&host=tehrangaming.com.nl.systemgamingirani.ir#RELAY🚩 | tehrangaming.com.nl.systemgamingirani.ir-2082 | 151.06ms
 vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&path=%2Fgfsfdsese%3Fed%3D2560&host=lake8.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake8.global.ssl.fastly.net-80 | 11.85ms
 vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&path=%2Fgfsfdsese%3Fed%3D2560&host=lake3.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake3.global.ssl.fastly.net-80 | 7.78ms
 vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&path=%2Fgfsfdsese%3Fed%3D2560&host=lake2.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake2.global.ssl.fastly.net-80 | 6.94ms
@@ -499,7 +503,3 @@ trojan://3763495982449565696@crack-muskrat.treefrog761.one:443?allowInsecure=0#D
 trojan://3763495894587285504@35.180.240.183:443?security=tls&sni=honest-cow.goat627.mom&type=tcp#DE🇩🇪 | honest-cow.goat627.mom-443 | 180.85ms
 trojan://3760559353321758720@crisp-collie.treefrog761.one:443?allowInsecure=1#DE🇩🇪 | crisp-collie.treefrog761.one-443 | 337.25ms
 trojan://3723507166611775488@35.155.4.93:443?security=tls&headerType=none&type=tcp&sni=usable-toad.treefrog761.one#DE🇩🇪 | usable-toad.treefrog761.one-443 | 163.94ms
-trojan://344ObcMIAb@ru2.asc-sam.ir:443?type=xhttp&path=%2F%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&host=&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#RU🇷🇺 | ru2.asc-sam.ir-443 | 341.3ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#US🇺🇸 | rc6.freeguard.org-443 | 79.33ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?type=tcp&security=tls&sni=rc6.freeguard.org#US🇺🇸 | rc6.freeguard.org-443 | 173.29ms
-trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@103.224.182.210:443?security=tls&sni=sg.stablize.top&type=tcp#US🇺🇸 | sg.stablize.top-443 | 347.99ms

@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://585acd30-52bf-4b70-a537-e13649fafefc@172.67.163.14:443?security=tls&sni=DfcVrf.2031.pp.Ua&type=ws&host=dfcvrf.2031.pp.ua&path=%2FrU9rSjDSOd4yY2fOe&fp=chrome&alpn=http%2F1.1#🔒
+        ss://585acd30-52bf-4b70-a537-e13649fafefc@162.159.140.167:443?security=tls&sni=XszAW34.7282728.xYZ&type=ws&host=xszaw34.7282728.xyz&path=%2FrU9rSjDSOd4yY2fOe%3Fed%3D2048%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&fp=chrome&alpn=http%2F1.1#🔒
+ss://585acd30-52bf-4b70-a537-e13649fafefc@172.67.138.187:443?path=/rU9rSjDSOd4yY2fOe?ed=2048/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&encryption=none&alpn=http/1.1&host=xszaw34.7282728.xyz&type=ws&sni=XszAW34.7282728.xYZ#🇨🇦CA_578_@Surfboardv2ray
+ss://585acd30-52bf-4b70-a537-e13649fafefc@172.67.138.187:443?security=tls&sni=XszAW34.7282728.xYZ&type=ws&host=xszaw34.7282728.xyz&alpn=http/1.1#🔒
+ss://585acd30-52bf-4b70-a537-e13649fafefc@172.67.163.14:443?security=tls&sni=DfcVrf.2031.pp.Ua&type=ws&host=dfcvrf.2031.pp.ua&path=%2FrU9rSjDSOd4yY2fOe&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com]
+ss://585acd30-52bf-4b70-a537-e13649fafefc@172.67.163.14:443?security=tls&sni=DfcVrf.2031.pp.Ua&type=ws&host=dfcvrf.2031.pp.ua&path=%2FrU9rSjDSOd4yY2fOe&fp=chrome&alpn=http%2F1.1#🔒
 ss://585acd30-52bf-4b70-a537-e13649fafefc@172.67.212.59:443?security=tls&sni=bBA.890601.pP.UA&type=ws&host=bba.890601.pp.ua&path=%2FrU9rSjDSOd4yY2fOe&fp=chrome&alpn=http%2F1.1#🔒
 ss://5870e7d7-24e6-411a-914e-c965d7f7ae8a@104.17.82.198:80?path=%2FTelegram%3A%40%40vpnclashfa+-+582#RELAY🚩
 ss://5870e7d7-24e6-411a-914e-c965d7f7ae8a@154.197.75.80:80?path=%2FTelegram%3A%40%40vpnclashfa+-+583#SC🇸🇨
@@ -499,7 +503,3 @@ ss://61958b98-d52a-420e-bb42-a3fd22985895@162.159.140.100:2096?security=tls&sni=
 ss://61958b98-d52a-420e-bb42-a3fd22985895@172.66.0.98:2096?security=tls&sni=pol.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒
 ss://61aca72a-5964-4cbb-b95a-d380c95a651f@hajlab.ucdavis.edu:443/?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#@VIPro
 ss://61aca72a-5964-4cbb-b95a-d380c95a651f@hajlab.ucdavis.edu:443/?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#@VIProxys
-ss://61aca72a-5964-4cbb-b95a-d380c95a651f@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#@VIPro
-ss://61aca72a-5964-4cbb-b95a-d380c95a651f@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#@VIProxys
-ss://61aca72a59644cbbb95ad380c95a651fOg==@hajlab.ucdavis.edu:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+hajlab.ucdavis.edu-443+%7C+24.94ms
-ss://61aca72a59644cbbb95ad380c95a651fOg==@hajlab.ucdavis.edu:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+hajlab.ucdavis.edu-443+%7C+25.71ms

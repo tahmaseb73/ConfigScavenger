@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://2b9fe769-ba91-4212-80c6-80dde4c030a3@62.60.160.184:31665?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.160.184%3A31665
+        vless://cb7f2367-33c8-424b-9378-18f7c1895ad9@178.239.146.154:60?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-178.239.146.154%3A60
+vless://dbe8f806-7ddd-4934-8a0e-1d9204107212@5.202.8.213:1194?encryption=none&security=tls&sni=r14.irlancer.ir&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.202.8.213%3A1194
+vless://09aaaf34-4be3-a68d-6ac4-b7e0bcc6789c@94.139.183.195:621?encryption=none&security=none&type=ws&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&path=%2Fws%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.139.183.195%3A621
+vless://b69bce2c-4661-4bfb-9e05-d258f4952696@37.202.233.176:59346?encryption=none&security=none&type=tcp&headerType=http&host=P30afzar.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-37.202.233.176%3A59346
+vless://2b9fe769-ba91-4212-80c6-80dde4c030a3@62.60.160.184:31665?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.160.184%3A31665
 vless://226ee423-c081-4bdc-a87f-6f58edbfce66@92.114.24.6:20255?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-92.114.24.6%3A20255
 vless://7141b3e6-e314-465d-83df-243a7850edeb@178.239.146.76:2010?encryption=none&security=none&fp=chrome&type=tcp&headerType=http&host=api4.callback.cdn.nim.file.plsvi.online#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-178.239.146.76%3A2010
 vless://1edd9e0f-703f-49ab-8ecd-0380f8b37da3@85.133.234.125:6000?encryption=none&security=none&type=ws&path=%2Fconnect%2Fws%2F#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.234.125%3A6000
@@ -499,7 +503,3 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#%F0%9F%87%B5%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-1992
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8118#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1995
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@80.92.204.106:9011#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-1996
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1998
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.139-1999
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#%F0%9F%87%BA%F0%9F%87%B8US-184.170.241.194-2001
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.208.170.155:443#%F0%9F%87%BA%F0%9F%87%B8US-34.208.170.155-2002
