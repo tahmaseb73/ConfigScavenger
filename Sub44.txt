@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://a268ce39-7687-4817-aa5f-def4f653fb88@192.0.54.6:443?security=tls&sni=cf.501508.xyz&type=ws&host=cf.501508.xyz&path=%2F#🔒
+        ss://a268ce39-7687-4817-aa5f-def4f653fb88@188.114.98.82:443?security=tls&sni=zeyichen.sbs&allowInsecure=1&fp=chrome&type=ws&path=/&host=zeyichen.sbs&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://a268ce39-7687-4817-aa5f-def4f653fb88@188.114.98.82:443?security=tls&sni=zeyichen.sbs&type=ws&host=zeyichen.sbs&path=%2F&fp=chrome#🔒
+ss://a268ce39-7687-4817-aa5f-def4f653fb88@190.93.245.90:443?security=tls&sni=cf.501508.xyz&type=ws&host=cf.501508.xyz&path=%2F%3Fed%3D2560security%3Dtls#🔒
+ss://a268ce39-7687-4817-aa5f-def4f653fb88@192.0.54.6:443?security=tls&sni=cf.501508.xyz&type=ws&host=cf.501508.xyz&path=%2F#🔒
 ss://a268ce39-7687-4817-aa5f-def4f653fb88@199.34.228.186:443?security=tls&sni=cf.501508.xyz&type=ws&path=%2F%3Fed#🔒
 ss://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&packetEncoding=xudp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20Iran,%20Islamic%20Republic%20Of%20-%20Tehran%20%F0%9F%8C%8F%20VL-WS-NONE%204%E2%83%A3
 ss://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?security=none&fp=chrome&type=ws&path=/&packetEncoding=xudp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20Iran,%20Islamic%20Republic%20Of%20-%20Tehran%20%F0%9F%8C%8F%20VL-WS-NONE%204%E2%83%A3
@@ -500,6 +503,3 @@ ss://b3419257-b3f2-41bd-949c-a4ff4664e573@95.38.210.142:35022?security=none&type
 ss://b368fa2c-1a37-4c53-9705-765fb0b86c7b@85.239.60.43:443?security=tls&sni=lon5.vpntype.dev&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20VL-TCP-TLS%204%E2%83%A3
 ss://b369ba77-268c-4034-b8d2-2344f525d3dd@185.146.173.58:8880?security=none&type=httpupgrade&host=UA.Debiaan.iR.&path=%2FSmartUkraine%3Fed%3D8880#🔒
 ss://b37621a5-b06a-45ee-a5a8-7050f3f3201a@91.107.162.135:80?security=none&type=tcp&host=fast.com&headerType=http#🔒
-ss://b3d43b62-aca2-4157-bf0a-d7500510f86e@188.245.206.53:1598?security=none&encryption=none&host=stackoverflow.com&headerType=http&type=tcp#%40v2raying
-ss://b3d4cf64-be93-4bc5-a58f-3145a70e29c3@172.66.44.124:2083?security=tls&sni=mAHDiSeRver-D9N.PAGES.Dev&type=ws&host=mahdiserver-d9n.pages.dev&path=%2F0nV5bznLGDhgkift%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://b3ec1385-e08f-422e-b32a-9d032f80ea01@172.66.44.197:443?path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mahdiserver-xnr.pages.dev&fp=randomized&type=ws&sni=MahDISERveR-xnr.pAgES.dev#@VIPro
