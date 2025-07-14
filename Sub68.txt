@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?type=ws&host=cr7.traneh.dpdns.org&path=/&security=tls&fp=chrome&sni=cr7.traneh.dpdns.org#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
-vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.1.5:443?security=tls&sni=ZYzzZoAO.putata.eU.Org&type=ws&host=zyzzzoao.putata.eu.org&fp=randomized#🔒
-vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.11.155:443?security=tls&sni=ZYZzZoAO.PuTATa.EU.org&type=ws&host=zyzzzoao.putata.eu.org&path=%2FeR9eo6sq6TUid1Fe%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.15.166:443?security=tls&sni=zYzzzOAo.pUtATa.eu.oRG&type=ws&host=zyzzzoao.putata.eu.org&path=%2FtbSRLeOuwtLBToSL%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.252.217:443?security=tls&sni=ZYzzZoAO.putata.eU.Org&type=ws&host=zyzzzoao.putata.eu.org#🔒
+        vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.252.217:443?security=tls&sni=ZYzzZoAO.putata.eU.Org&type=ws&host=zyzzzoao.putata.eu.org#🔒
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.92.98:443?security=tls&sni=ZyzZzoAo.pUTaTA.EU.Org&type=ws&host=zyzzzoao.putata.eu.org&fp=chrome#🔒
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.18.181.3:443?security=tls&sni=ZyZZZOAO.PutaTa.EU.oRG&type=ws&host=zyzzzoao.putata.eu.org&path=%2FrcSLZKdweUgLgufD%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.19.102.16:443?security=tls&sni=zYzzzOAo.pUtATa.eu.oRG&type=ws&host=zyzzzoao.putata.eu.org&path=%2FtbSRLeOuwtLBToSL%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
@@ -503,3 +499,7 @@ vless://1cd20fd5-caca-47d6-8b35-4fbe05f8c1c7@104.21.69.44:8080?security=none&typ
 vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@104.17.183.66:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@104.18.4.158:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@104.21.234.121:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@104.26.0.198:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@104.26.14.49:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@104.26.14.59:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@104.26.15.80:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

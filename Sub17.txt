@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        hy2://f869f5c5-18d0-4971-9d50-013ecef19daf@91.149.233.178:32002?insecure=1&obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D#🔒
-hy2://f9134608-4bb8-43d5-b99e-4b4369fff5f6@82.152.90.200:8443?sni=tw.bailian.uk#🔒
-hy2://fceba144-0aa0-11ee-bf3c-f23c9164ca5d@107.167.18.102:8443?insecure=1&sni=7de3017c-svsps0-sz6btt-1fee.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
-hy2://fcfea73c-d5c6-484c-b5ae-caf9fee6be6a@185.85.242.177:1443?sni=gbr1.587458.xyz#🔒
-hy2://fcfea73c-d5c6-484c-b5ae-caf9fee6be6a@94.159.107.136:1443?sni=de2.587458.xyz#🔒
+        hy2://fcfea73c-d5c6-484c-b5ae-caf9fee6be6a@94.159.107.136:1443?sni=de2.587458.xyz#🔒
 hy2://nfsn666@130.162.182.250:8888?insecure=1&sni=ld-arm.nfsn666.gq#🔒
 hy2://nfsn666@192.9.129.48:8888?insecure=1&sni=sj-arm.nfsn666.gq#🔒
 hy2://sysadmin.sysadmin@167.234.249.46:444?insecure=1&sni=a.961229.xyz#🔒
@@ -503,3 +499,7 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.13.23:443?sni=lx.ylks0033.dpdns
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.2.36:443?security=tls&sni=vb.ylks0033.dpdns.org&type=ws&host=vb.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.3.36:443?security=tls&sni=vb.ylks0033.dpdns.org&type=ws&host=vb.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.6.112:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.6.37:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.6.89:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.7.112:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.7.37:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
