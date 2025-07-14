@@ -3,13 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://518d0495-2139-4bfd-94df-2a029108f1af@104.18.26.90:443?path=%2F1E6TZkrhu3EWOwlQ%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=nextmusichamrah.site&fp=randomized&type=ws&sni=nextMusIcHAMraH.Site#RELAY🚩 | nextMusIcHAMraH.Site-443 | 31.35ms
-vless://518d0495-2139-4bfd-94df-2a029108f1af@104.17.148.22:443?path=%2F1E6TZkrhu3EWOwlQ%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=nextmusichamrah.site&fp=randomized&type=ws&sni=nextMusIcHAMraH.Site#RELAY🚩 | nextMusIcHAMraH.Site-443 | 2.65ms
-vless://5150600b-d270-4be8-8d78-c5784d3c093b@151.101.194.133:443?security=tls&sni=live.skornorth.com&type=ws&host=sv4traiersdmine.com#US🇺🇸 | live.skornorth.com-443 | 16.82ms
-vless://509f1edc-e6cf-4d21-9b89-5ea5d54a7cb2@real-all3.sdcards1.ir:8520?security=reality&sni=tgju.org&fp=firefox&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&sid=e701a013553059ba&type=tcp&packetEncoding=xudp&encryption=none#REALITY|DE🇩🇪 | real-all3.sdcards1.ir-8520 | 596.77ms
-vless://509f1edc-e6cf-4d21-9b89-5ea5d54a7cb2@real-all3.sdcards1.ir:8520?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=e701a013553059ba#REALITY|DE🇩🇪 | real-all3.sdcards1.ir-8520 | 169.66ms
-vless://509f1edc-e6cf-4d21-9b89-5ea5d54a7cb2@real-all3.sdcards1.ir:8520?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=e701a013553059ba#REALITY|DE🇩🇪 | real-all3.sdcards1.ir-8520 | 443.07ms
-vless://501e344a-0b50-42b9-841f-9aa51fbe3e95@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷 | panel-feri2.todecentral.info-38495 | 432.53ms
+        vless://501e344a-0b50-42b9-841f-9aa51fbe3e95@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷 | panel-feri2.todecentral.info-38495 | 432.53ms
 vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@172.67.73.163:8080?path=%2F%3Fed%3D2048%40ShadowProxy66&security=none&encryption=none&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&type=ws#RELAY🚩 | J9.oDOtZrHUoO.ZuLAIR.ORg.-8080 | 138.16ms
 vless://4e4a22ba-7a59-4a6f-9af4-2f9705fc4745@91.107.180.100:443?mode=gun&security=reality&encryption=none&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=%2F&type=grpc&serviceName=%40SobyV2ray&sni=zula.ir&sid=f3#REALITY|DE🇩🇪 | 91.107.180.100-443 | 160.47ms
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@172.67.145.189:443?path=%2F&security=tls&encryption=none&host=rayan-08.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-08.parastoo.dpdns.org#RELAY🚩 | rayan-08.parastoo.dpdns.org-443 | 30.16ms
@@ -503,3 +497,9 @@ vless://0a86e519-6980-4e37-af1b-09b35052db6c@54.36.113.30:2025?encryption=none&s
 vless://06f5a7cb-3842-49d0-a498-d4165c0eb956@test-lets-wildcard.spotifycdn.org:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&fp=chrome&type=xhttp&sni=www.tgju.org&sid=7f2798f9#REALITY|DE🇩🇪 | test-lets-wildcard.spotifycdn.org-443 | 386.81ms
 vless://05bb063f-16d2-46c9-b78f-5447c67898b8@178.62.14.113:54842?mode=gun&security=reality&encryption=none&pbk=YHM42QLc0uBoE8Bh5u4G_NUCA5S9CXPf6cb80-S-bgA&fp=firefox&type=grpc&serviceName=Ahadhsksfhdg&sni=journalofbigdata.springeropen.com&sid=56e4a920d89b2912#REALITY|GB🇬🇧 | 178.62.14.113-54842 | 146.8ms
 trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=google.com#US🇺🇸 | google.com-443 | 12.46ms
+trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#IR🇮🇷 | wivip.dtsazino.com-443 | 357.98ms
+trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 14.63ms
+trojan://vip@www.pcmag.com:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#RELAY🚩 | heihu880.pages.dev-443 | 2.2ms
+trojan://vip@104.21.90.78:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 2.42ms
+trojan://ttfang@128.199.237.143:443?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#RELAY🚩 | ttfang.fange.me-443 | 2.6ms
+trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#RELAY🚩 | azadnet-9ya.pages.dev-443 | 11.98ms

@@ -3,13 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#IR🇮🇷 | wivip.dtsazino.com-443 | 357.98ms
-trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 14.63ms
-trojan://vip@www.pcmag.com:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#RELAY🚩 | heihu880.pages.dev-443 | 2.2ms
-trojan://vip@104.21.90.78:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 2.42ms
-trojan://ttfang@128.199.237.143:443?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#RELAY🚩 | ttfang.fange.me-443 | 2.6ms
-trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#RELAY🚩 | azadnet-9ya.pages.dev-443 | 11.98ms
-trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=a.azadnet001.ddns-ip.net&fp=random&type=ws&sni=a.azadnet001.ddns-ip.net#RELAY🚩 | a.azadnet001.ddns-ip.net-443 | 290.8ms
+        trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=a.azadnet001.ddns-ip.net&fp=random&type=ws&sni=a.azadnet001.ddns-ip.net#RELAY🚩 | a.azadnet001.ddns-ip.net-443 | 290.8ms
 trojan://trojan@109.234.211.66:8443?path=%2F&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#RELAY🚩 | store.timimi.dpdns.org-8443 | 5019.58ms
 trojan://trojan@104.18.13.229:8880?security=tls&type=ws&host=azadnet.vileyo6708.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | azadnet.vileyo6708.workers.dev-8880 | 21.26ms
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | pangpi.pages.dev-8443 | 18.63ms
@@ -503,3 +497,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkJSLT5CUi0+QURMLT5ARGVhbU5ldF9Qcm94eSIs
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.159:443?encryption=none&security=tls&sni=147135004002.sec20org.com&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFLT5ERS0+QURMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNTcuMTI5LjI1LjI1IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.102:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=tcp&headerType=none#US-%3E-%3EMTN-%3E%40Sezar_Sec
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@67.220.95.102:8000#US-%3EUS-%3EADL-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc%3D@144.126.146.38:30789#US-%3EUS-%3EADL-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQTFCWVU3SlJCUW1ZVXNzRDRpaHN1UzloZWhFWkdlYzVOZ2hpUmJXYU1QZW1lQVFxTVdmVWpmVlBSWkdRNGVaaDVVTWlWSkRjN1F6a2RqbUhIcWhGV3hGN1VBQ2FkNTc%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=tcp&headerType=none#US-%3EUS-%3ERTL-%3E%40Sezar_Sec
+vless://6c7f1db4-a488-446a-a518-fc1d24575385@172.67.157.34:443?encryption=none&security=tls&sni=pewz2rlwg3v8rwvkh9sj2pwvmwpwvkzg84zblgho9a4tyicfdnmqvahwzxk5kzx.8bj6fgy.workers.Dev&fp=chrome&type=ws&host=pewz2rlwg3v8rwvkh9sj2pwvmwpwvkzg84zblgho9a4tyicfdnmqvahwzxk5kzx.8bj6fgy.workers.Dev&path=%2F#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNm5RclhTMmdIenJlN3A5a3JBMXZoMUVoM2JoZGNoZTk2Z1lSc0EzSlgzMzhTaFV6QlpFNE00ZFdOVlVlOTlXVEpWZG5ncFRqUkwxUHBuMlhBcnlucFYyOTZ3aDNVNnc%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
