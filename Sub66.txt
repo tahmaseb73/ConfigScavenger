@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒
-
+        
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-250@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=%50%61%72%73%61%73%68%6F%6E%61%6D-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#🌐سرور
 vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79%39@151.101.64.155:80?Telegram=&path=/-A%72V2r%79%40Ar%562ry%2dTEL%2d-%40A%72V2r%79-TE%4c--%40%41rV2%72y-T%45L--%40ArV%32ry-%4aOIN%2d%40Ar%562ry%2dTEL%2d-%40A%72V2r%79-JO%49N-%40%41rV2%72y-T%45L-%40%41rV2%72y-T%45L--%40ArV%32ry-%4aOIN%2d%40Ar%562ry%2dTEL%2d-%40A%72V2r%79?ed%3d204%38&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#⚡Telegram
 vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%794@193.46.81.83:3567?mode=gun&security=reality&encryption=none&pbk=_5Hw5RRcDyCnW7H3Ubmp9UnqNiQUaKfB5rPTDqI_kAA&fp=chrome&type=grpc&serviceName=telegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79&sni=maps.google.com&sid=c14b9292de5a8d6f#🇩🇪All
@@ -503,3 +501,5 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.83:443?security=tls&sni
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@116.65.153.5:31112?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@116.65.153.5:36184?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@119.197.201.29:11481?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@121.128.107.69:16923?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@128.14.140.2:55555?sni=nl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
