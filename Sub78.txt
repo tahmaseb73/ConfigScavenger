@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://593e463e-e2b7-4288-8767-a7c1ff4338b0@91.107.188.51:8443?encryption=none&security=reality&sni=cloudflare-ech.com&fp=chrome&pbk=AawjFGJ1AjN90LWMGgokxJJF-Ar_au0RXSVdMjliaSw&sid=dd5ff44f&type=xhttp&host=www.tgju.org&path=/telegram-@baraye_azadi_info-@baraye_azadi_info?ed=2056&mode=auto#🇩🇪DE_589_@Surfboardv2ray
-vless://593e463e-e2b7-4288-8767-a7c1ff4338b0@www.speedtest.net:443?encryption=none&security=tls&sni=inbarzendegi.site&alpn=h3&fp=chrome&type=xhttp&host=inbarzendegi.site&path=/azadi?ed=2560&mode=auto&extra={
+        vless://593e463e-e2b7-4288-8767-a7c1ff4338b0@www.speedtest.net:443?encryption=none&security=tls&sni=inbarzendegi.site&alpn=h3&fp=chrome&type=xhttp&host=inbarzendegi.site&path=/azadi?ed=2560&mode=auto&extra={
 vless://594e62b9-bb88-4264-b3fe-57f66202a96d@148.135.195.96:44356?mode=gun&security=reality&encryption=none&pbk=hoyeyIygWaTAIdW2Cw42wBdeXfRkQCWoKq278YyyuU8&fp=chrome&type=grpc&sni=github.com&sid=67dea0af00c9d222#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 vless://594e62b9-bb88-4264-b3fe-57f66202a96d@148.135.195.96:44356?mode=gun&security=reality&encryption=none&pbk=hoyeyIygWaTAIdW2Cw42wBdeXfRkQCWoKq278YyyuU8&fp=chrome&type=grpc&sni=github.com&sid=67dea0af00c9d222#REALITY|US🇺🇸
 vless://594e62b9-bb88-4264-b3fe-57f66202a96d@148.135.195.96:44356?mode=gun&security=reality&encryption=none&pbk=hoyeyIygWaTAIdW2Cw42wBdeXfRkQCWoKq278YyyuU8&fp=chrome&type=grpc&sni=github.com&sid=67dea0af00c9d222#🇩🇪DE_591_@Surfboardv2ray
@@ -503,3 +502,4 @@ vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@23.226.8.80:443?sni=steep.skyfigure
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@45.12.134.250:443?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@45.12.134.250:443?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@46.149.203.202:7656?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/TelegramU0001F1E8U0001F1F3
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@46.149.203.202:7656?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳

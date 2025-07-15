@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ab32904a-2456-4745-8d86-0535ca8d3c3d@62.60.221.63:1121?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.221.63%3A1121
-vless://5a1e5c0d-92ec-44f0-86f7-add44c41aa83@185.143.234.122:8080?encryption=none&security=none&type=httpupgrade&host=snapp-ir.nadi-kala.shop&path=%2F#%F0%9F%94%92%20VL-HTTPUPGRADE-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.143.234.122%3A8080
+        vless://5a1e5c0d-92ec-44f0-86f7-add44c41aa83@185.143.234.122:8080?encryption=none&security=none&type=httpupgrade&host=snapp-ir.nadi-kala.shop&path=%2F#%F0%9F%94%92%20VL-HTTPUPGRADE-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.143.234.122%3A8080
 vless://89b6b1fb-02ab-4089-a905-f2de29427015@85.133.197.219:2053?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.197.219%3A2053
 vless://290be591-627c-4790-99ce-0d94f331141f@2.189.175.46:7073?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.189.175.46%3A7073
 vless://47bf2abb-a85f-4923-b022-519052bb5dea@85.133.215.3:5366?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.215.3%3A5366
@@ -503,3 +502,4 @@ ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25226#%F0%9F%87%A8%F0%9F
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25261#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1678
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25267#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1679
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25233#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1680
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25238#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1681

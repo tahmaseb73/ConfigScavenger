@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&security=tls&sni=pq-brazil1.09vpn.com&fp=chrome&type=ws&path=%2Fvless%2F#BR-%3EBR-%3EMTN-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVVg2QW5Qd1M0eW1mOVJLRHdhVzIxdnl4WHV3Vm5WQ3JtbUxzeFVYampaaTdDZkNKeG9NYk5yendRZlpTb2d6YkRQSGhrQjh6YTFSdWhqMWhHbnd5VG4zcTFubzFYUlg%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVVg2QW5Qd1M0eW1mOVJLRHdhVzIxdnl4WHV3Vm5WQ3JtbUxzeFVYampaaTdDZkNKeG9NYk5yendRZlpTb2d6YkRQSGhrQjh6YTFSdWhqMWhHbnd5VG4zcTFubzFYUlg%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#GB-%3E-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#HK-%3EHK-%3EADL-%3E%40Sezar_Sec
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?encryption=none&security=none&type=grpc#FR-%3EFR-%3EMTN-%3E%40Sezar_Sec
@@ -503,3 +502,4 @@ vless://f638c87c-d064-42ac-a710-f5755ee45a81@85.9.101.194:38323?encryption=none&
 vless://cc37532d-3158-44b6-aa05-1eb9064fcff0@62.60.147.73:23245?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.147.73%3A23245
 vless://cd96be4b-be61-4778-8fe2-9e5fcb23b224@62.60.195.144:9820?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.195.144%3A9820
 vless://b78a6e05-8898-4758-92a9-814a0901ec9c@85.133.247.44:2086?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.44%3A2086
+vless://ab32904a-2456-4745-8d86-0535ca8d3c3d@62.60.221.63:1121?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.221.63%3A1121

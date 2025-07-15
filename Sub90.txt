@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://cc5ef30a-effc-4054-967a-5b474cd1e056@77.75.199.163:443?security=tls&sni=k10de1.djjc.sbs&type=ws&host=k10de1.djjc.sbs&path=%2Fdjjc%2Fde1&fp=ios#🔒
-vless://cc6b985d-0362-4129-8763-38564174fb3e@108.165.152.172:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒
+        vless://cc6b985d-0362-4129-8763-38564174fb3e@108.165.152.172:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒
 vless://cc6b985d-0362-4129-8763-38564174fb3e@141.193.213.19:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.194.12.188:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.194.12.96:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http%2F1.1%2Ch2#🔒
@@ -503,3 +502,4 @@ vless://d3c62dea-ac54-4163-ab3f-20d6ef9f8420@104.16.117.93:2087?security=tls&sni
 vless://d3c62dea-ac54-4163-ab3f-20d6ef9f8420@104.16.138.167:2083?security=tls&sni=1.659118019.uk&type=ws&host=1.659118019.uk&allowInsecure=0#🔒
 vless://d3c62dea-ac54-4163-ab3f-20d6ef9f8420@188.114.97.179:2087?security=tls&sni=1.659118019.uk&type=ws&host=1.659118019.uk#🔒
 vless://d41bf778-df73-4cc6-9b88-7ef4bfe16014@27.50.48.231:8443?security=tls&sni=ham12-dsadsaddsa-dsadsadsad.gameha9.ir&type=ws&host=ham12-dsadsaddsa-dsadsadsad.gameha9.ir&path=/#🔒
+vless://d41c3a84-0dcc-45fd-8b8d-0552197ae314@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
