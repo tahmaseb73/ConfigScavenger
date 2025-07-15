@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.51:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
+        trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.254%3A443#@Hope_Net-join-us-on-Telegram
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.254%3A443#RELAY🚩
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2F#t.me%2Fpeterjest
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.51:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2F#t.me%2Fpeterjest
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.51:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.89:443?sni=icecream.955850.xyz#%E6%9C%AA%E7%9F%A5133
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.89:443?sni=icecream.955850.xyz#🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@23.227.38.33:443?security=tls&sni=icecream.955850.xyz&alpn=h3&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull#t.me%2Fpeterjest
@@ -498,8 +503,3 @@ trojan://Aimer@104.18.139.18:443?security=tls&sni=epcca.ambercc.filegear-sg.me&t
 trojan://Aimer@104.18.15.120:443?sni=epccv.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.18.173.160:2083?security=tls&sni=agepa.ambercc.filegear-sg.me&type=ws&host=agepa.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.18.178.157:443?sni=epccu.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.18.179.229:443?sni=epccu.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.18.186.145:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A591
-trojan://Aimer@104.18.186.145:443?sni=epccf.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.18.186.45:443?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.18.187.94:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5120

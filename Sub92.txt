@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=&encryption=none&type=grpc#⚡Telegram
+        vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&authority=/v2rayNplus&type=grpc#⚡Telegram
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#GB🇬🇧
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#⚡Telegram
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧GB_1152_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=&encryption=none&type=grpc#GB🇬🇧
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=&encryption=none&type=grpc#⚡Telegram
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&type=grpc#🇬🇧[openproxylist.com]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&type=grpc#🔒
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2raying
@@ -498,8 +503,3 @@ vless://e3a62b76-8a54-4043-83b4-9b0a1ed5aa6e@190.93.244.30:443?sni=tunnel.ethcdn
 vless://e3b74b3a-38f3-489b-bdf0-2d4019e801ec@151.101.1.194:80?type=ws&host=www.bmaustriabm.com#🔒
 vless://e3b79749-005b-4387-f7d7-7aa4025b646a@104.21.44.185:2052?security=none&type=ws&host=zoornazanfarsineveshtam.onetwothree123.ir&path=%2F%40MEHDIO1#🔒
 vless://e3b79749-005b-4387-f7d7-7aa4025b646a@172.67.202.155:2052?security=none&type=ws&host=zoornazanfarsineveshtam.onetwothree123.ir&path=%2F%40MEHDIO1#🔒
-vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed%3D1861&security=none#@V2fetch
-vless://e40799ef-6343-450a-95cf-88b12749e492@195.15.215.198:443?security=reality&flow=xtls-rprx-vision&sni=www.samsung.com&type=tcp&fp=chrome&pbk=FpsSPBGXGa6c1mIGmCMmrnsdnVSHQAYnQNur-QMiDTw&sid=65bd65cb739aeebe#🔒
-vless://e43de720-1508-499b-900d-adf6a5e7732e@192.200.160.188:2087?security=tls&sni=Vpnmizban.iranigamepars.ir&type=ws&path=%2FV2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-vless://e4552995-efee-4277-8a7c-7741e2d08d1e@104.21.3.52:8080?security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#🔒
-vless://e4552995-efee-4277-8a7c-7741e2d08d1e@162.159.128.53:8080?security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#🔒

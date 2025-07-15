@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&path=%2Fgfsfdsese%3Fed%3D2560&host=lake6.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake6.global.ssl.fastly.net-80 | 44.79ms
+        vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&host=core.pod.ir.oadeflantrogmuk4.iranaircdn.com&fp=randomized&type=ws&sni=core.pod.ir#IR🇮🇷 | core.pod.ir-443 | 648.99ms
+vless://45962322-6132-4121-a4b1-af3adbfe124e@62.60.163.34:17253?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷 | 62.60.163.34-17253 | 184.42ms
+vless://458cf96d-41ab-4978-84df-2f5dacfc0f0b@tunnelman.godali.org:9443?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷 | tunnelman.godali.org-9443 | 541.51ms
+vless://4520a2f6-6661-4591-a9e4-039ff705bfae@104.16.1.106:2082?security=none&type=ws&headerType=&path=%2F%3Fed%3D2052&host=tehrangaming.com.nl.systemgamingirani.ir#RELAY🚩 | tehrangaming.com.nl.systemgamingirani.ir-2082 | 518.33ms
+vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&path=%2Fgfsfdsese%3Fed%3D2560&host=lake8.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake8.global.ssl.fastly.net-80 | 45.86ms
+vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&path=%2Fgfsfdsese%3Fed%3D2560&host=lake6.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake6.global.ssl.fastly.net-80 | 44.79ms
 vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&path=%2Fgfsfdsese%3Fed%3D2560&host=lake2.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake2.global.ssl.fastly.net-80 | 51.24ms
 vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&path=%2Fgfsfdsese%3Fed%3D2560&host=lake10.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake10.global.ssl.fastly.net-80 | 44.56ms
 vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?mode=auto&path=%2Fgfsfdsese%3Fed%3D2560&security=none&encryption=none&host=lake6.global.ssl.fastly.net&type=xhttp#US🇺🇸 | lake6.global.ssl.fastly.net-80 | 29.58ms
@@ -498,8 +503,3 @@ trojan://NISHIKUITAN111@89.116.46.33:443?security=tls&type=ws&sni=zb.ylks.xyz&pa
 trojan://NISHIKUITAN111@69.48.218.10:443?security=tls&type=ws&sni=zb.ylks.xyz&path=%2F&host=zb.ylks.xyz#US🇺🇸 | zb.ylks.xyz-443 | 125.04ms
 trojan://NISHIKUITAN111@46.254.92.27:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#US🇺🇸 | zb.ylks.xyz-443 | 99.72ms
 trojan://NISHIKUITAN111@45.131.209.89:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#US🇺🇸 | za.ylks.xyz-443 | 209.39ms
-trojan://NISHIKUITAN111@198.41.217.62:443#RELAY🚩 | 198.41.217.62-443 | 14.16ms
-trojan://NISHIKUITAN111@185.193.29.193:443#GB🇬🇧 | 185.193.29.193-443 | 14.71ms
-trojan://NISHIKUITAN111@185.148.106.44:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#US🇺🇸 | za.ylks.xyz-443 | 90.92ms
-trojan://NISHIKUITAN111@104.24.60.239:443#RELAY🚩 | 104.24.60.239-443 | 14.11ms
-trojan://NISHIKUITAN111@104.21.84.200:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#US🇺🇸 | zb.ylks.xyz-443 | 94.52ms
