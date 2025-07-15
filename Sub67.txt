@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@119.197.201.29:11481?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@121.128.107.69:16923?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
+        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@121.128.107.69:16923?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@128.14.140.2:55555?sni=nl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.151.198.3:2053?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.159.129.107:2053?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
@@ -503,3 +502,4 @@ vless://0ee275fd-726e-4d7e-a7ef-c429982974c3@104.16.166.158:443?security=tls&sni
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.45.20:443?security=tls&sni=M2-1CM.paGes.DeV&type=ws&host=M2-1CM.paGes.DeV&path=%2Fognicwivyrkxih6r#🔒
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?security=tls&sni=M2-1CM.paGes.DeV&type=ws&host=M2-1CM.paGes.DeV#🔒
 vless://0f0897cf-469f-421b-9018-b739fb47b721@185.16.110.30:2052?security=none&type=httpupgrade&host=WWW.tehrANSiman.coM.#🔒
+vless://0f39484d-5293-4fa2-8406-1c1af59168b9@172.66.44.73:2053?security=tls&sni=mahdiSeRveR-hjS.PagES.DEV&type=ws&host=mahdiserver-hjs.pages.dev&path=%2FKwDmZ27ImEUmeAUj%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒

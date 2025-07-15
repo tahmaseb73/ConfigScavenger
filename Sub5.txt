@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#RELAY🚩 | pqh23v4.hiddendom.shop-443 | 29.42ms
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.135.9.144:443?security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#RELAY🚩 | pqh23v4.hiddendom.shop-443 | 5.91ms
+        vless://401374e6-df77-41fb-f638-dad8184f175b@185.135.9.144:443?security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#RELAY🚩 | pqh23v4.hiddendom.shop-443 | 5.91ms
 vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.95:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#RELAY🚩 | pqh24v3.hiddendom.shop-443 | 48.45ms
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.117:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#RELAY🚩 | pqh36v4.hiddendom.shop-443 | 6.28ms
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#RELAY🚩 | pqh36v4.hiddendom.shop-443 | 6.08ms
@@ -503,3 +502,4 @@ trojan://100b5163-fbb8-425d-9621-44d119555aa4@104.21.75.120:2053?path=%2FtrWCuRI
 trojan://0RiSuJPsug%23v@104.21.43.168:443?security=tls&sni=2.link-kon.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=ws&host=2.lINK-KoN.IR&path=%2FtrTcwZRw8JC0TPp6d1%3Fed%3D2560#RELAY🚩 | 2.link-kon.ir-443 | 454.84ms
 trojan://0RiSuJPsug%23v@104.21.43.168:443?path=%2FtrTcwZRw8JC0TPp6d1%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#RELAY🚩 | 2.link-kon.ir-443 | 5.99ms
 trojan://0RiSuJPsug%23v@104.21.43.168:443?path=%2FtrTcwZRw8JC0TPp6d1%3Fed%3D%23%2FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#RELAY🚩 | 2.link-kon.ir-443 | 6.06ms
+trojan://0000000@52.84.18.5:443?security=tls&sni=www.lovelive-anime.jp&type=tcp&allowInsecure=1#US🇺🇸 | www.lovelive-anime.jp-443 | 560ms
