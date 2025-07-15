@@ -3,15 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.12.75.7:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.153:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.156:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.163:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.57:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.97:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.105:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.158:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.173:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.173:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.226:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.249:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.25:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
@@ -503,3 +495,11 @@ ss://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.24.157.37:80?security=none&type=ws
 ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#ES🇪🇸
 ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇬🇧GB_1019_@Surfboardv2ray
+ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇬🇧GB_1020_@Surfboardv2ray
+ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇬🇧GB_1021_@Surfboardv2ray
+ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?security=none&type=grpc&serviceName=vless-grpc#🇬🇧[openproxylist.com]
+ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?security=none&type=grpc&serviceName=vless-grpc#🔒
+ss://c0b9dd6c-9676-4cd1-9e7c-9c6ac59afd37@104.21.76.54:2096?security=tls&sni=app2.year2025appdatat.lat&type=grpc&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://c0b9dd6c-9676-4cd1-9e7c-9c6ac59afd37@172.67.188.175:2096?security=tls&sni=app2.year2025appdatat.lat&type=grpc&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?encryption=none&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&type=ws&security=tls&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&fp=randomized&alpn=http%2F1.1#@FNET00
+ss://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?security=tls&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&type=ws&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560%2F%3FJoin_Bade_Channel%40JOKERRVPN&fp=randomized&alpn=http%2F1.1#🔒

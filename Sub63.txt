@@ -3,15 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@45.150.115.195:2087?sni=epme.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@45.153.7.216:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
-trojan://Aimer@45.154.98.230:5006?sni=epma.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@45.194.53.13:2053?sni=agept.ambercc.filegear-sg.me#🔒
-trojan://Aimer@45.194.53.81:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒
-trojan://Aimer@45.66.129.147:46741?sni=epccj.ambercc.filegear-sg.me#🔒
-trojan://Aimer@45.67.214.140:8443?sni=epccj.ambercc.filegear-sg.me#🔒
-trojan://Aimer@45.67.214.3:2096?sni=epccv.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@45.67.214.41:2083?sni=epme.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@45.67.214.41:2083?sni=epme.ambercc.filegear-sg.me#🔒
 trojan://Aimer@45.67.215.148:443?sni=epmq.ambercc.filegear-sg.me#🔒
 trojan://Aimer@45.67.215.217:2087?sni=epccg.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@45.67.215.217:2087?sni=epccg.ambercc.filegear-sg.me#🔒
@@ -503,3 +495,11 @@ trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&allowInse
 trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#t.me%2Fpeterjest
 trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#🔒
 trojan://bpb-trojan@108.165.216.155:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒
+trojan://bpb-trojan@119.188.204.76:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net#🔒
+trojan://bpb-trojan@123.111.169.70:443?sni=skwygx.top&type=ws&host=skwygx.top#🔒
+trojan://bpb-trojan@13.250.131.37:443?sni=skwygx.top#🔒
+trojan://bpb-trojan@138.2.122.191:443?sni=skwygx.top&type=ws&host=skwygx.top#🔒
+trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%40vless_vmess
+trojan://bpb-trojan@146.56.46.84:443?sni=skwygx.top&type=ws&host=skwygx.top#🔒
+trojan://bpb-trojan@154.211.8.48:443?sni=skwygx.top&type=ws&host=skwygx.top#🔒
+trojan://bpb-trojan@154.211.8.48:443?type=ws&sni=skwygx.top&host=skwygx.top#US36
