@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://72c0d6c7-5960-4adf-af8b-46d58d462322@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?path=/Telegram—VPNCUSTOMIZE?ed2048&security=none&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws#🇺🇸US_688_@Surfboardv2ray
-vless://72c0d6c7-5960-4adf-af8b-46d58d462322@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Telegram—VPNCUSTOMIZE%3Fed2048#@meli_proxyy
-vless://72c0d6c7-5960-4adf-af8b-46d58d462322@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Telegram—VPNCUSTOMIZE%3Fed2048#⚡Telegram
+        vless://72c0d6c7-5960-4adf-af8b-46d58d462322@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Telegram—VPNCUSTOMIZE%3Fed2048#⚡Telegram
 vless://72c1e757-6f85-40ed-b149-b059954c3400@test652.s8573.ir:443?security=none&encryption=none&headerType=none&type=tcp#%40persianelon
 vless://72d7ab94-4849-4a27-a840-ece6c8b53355@172.66.45.6:8443?security=tls&sni=BEsTvpn-7qP.PAgES.DEV&type=ws&host=bestvpn-7qp.pages.dev&path=%2Fw3hpwHp7sY86IaTl%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
 vless://72d7ab94-4849-4a27-a840-ece6c8b53355@172.66.46.250:8443?security=tls&sni=bEsTVPN-7Qp.paGEs.deV&type=ws&host=bestvpn-7qp.pages.dev&path=%2FjqiJQs5mh9TKXzbe%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
@@ -503,3 +501,5 @@ vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@140.248.129.58:443?security=tls&sni
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@140.248.129.58:80?path=%2FChannel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=Telegram-----ELiV2ray.ir&type=ws#@meli_proxyy
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@140.248.129.58:80?security=none&type=ws&host=Telegram-----ELiV2ray.ir&path=%2FChannel-ELiV2RAY---ELiV2RAY%3Fed%3D2048#🔒
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?encryption=none&security=none&type=ws&host=domain2025.dpdns.org&path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.25ms`vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.114.221:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#[🇨🇦]t.me/ConfigsHub`
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?security=none&type=ws&host=domain2025.dpdns.org&path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560#🔒
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2086?security=none&type=ws&host=domain2025.dpdns.org&path=%2F5iOpl6glcE8I64UV%3Fed%3D2560#🔒

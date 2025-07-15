@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://3e11c334-1a82-4988-8dcc-b8bac99bab18@138.197.44.159:8585?security=none&encryption=none&headerType=http&type=tcp#🇺🇸US_362_@Surfboardv2ray
-ss://3e235d06-f9c9-450c-9a07-a8dc933326f0@172.66.44.162:443?security=tls&sni=bESTIVpN.paGeS.DEV&type=ws&host=bestivpn.pages.dev&path=%2FVTRW8C7XmWQUCZd5%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://3e268a3f-cd8a-4519-8738-1c67e22c8e0f@www.speedtest.net:2053?type=ws&host=g.yUSEFkharE.SBS&path=/Tel:@AnGuS_VPN&security=tls&fp=chrome&sni=g.yUSEFkharE.SBS&alpn=h3,h2,http/1.1#🇨🇦CA_363_@Surfboardv2ray
+        ss://3e268a3f-cd8a-4519-8738-1c67e22c8e0f@www.speedtest.net:2053?type=ws&host=g.yUSEFkharE.SBS&path=/Tel:@AnGuS_VPN&security=tls&fp=chrome&sni=g.yUSEFkharE.SBS&alpn=h3,h2,http/1.1#🇨🇦CA_363_@Surfboardv2ray
 ss://3e2be9f4-363f-419d-a23a-28e171c6bc54@172.67.140.149:8880?security=none&type=ws&host=telegram-falcunargo.31186fb105.workers.Dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒
 ss://3e30012d-5bb2-4a8c-b576-c87c5f68169d@104.21.82.137:8443?security=tls&sni=eq.lunarmc.ir&type=ws&path=%2Ftp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 ss://3e30012d-5bb2-4a8c-b576-c87c5f68169d@172.67.202.125:8443?security=tls&sni=eq.lunarmc.ir&type=ws&fp=chrome&alpn=h3,h2,http/1.1#🔒
@@ -503,3 +501,5 @@ ss://44a6e3f3-a45b-446c-8c84-4fd753a4f62d@104.21.96.1:8080?security=none&allowIn
 ss://44ae2a63-403b-40b2-9102-45eaf462df02@104.16.168.63:443?sni=sol.us.kg&type=ws&host=sol.us.kg#🔒
 ss://44ae2a63-403b-40b2-9102-45eaf462df02@104.24.145.237:443?sni=sol.us.kg&type=ws&host=sol.us.kg#🔒
 ss://44ae2a63-403b-40b2-9102-45eaf462df02@104.24.75.75:443?security=tls&sni=sol.us.kg&type=ws&host=sol.us.kg&path=%2F%3Fed%3D2560#🔒
+ss://44b3cbba-e6ac-485a-9481-981a0415eab9@172.67.193.80:80?encryption=none&security=none&type=ws&host=BRoKEn-bar-5948.NEpog45969.WoRKERS.dev&path=%2F#t.me%2Fpeterjest
+ss://44b3cbba-e6ac-485a-9481-981a0415eab9@172.67.193.80:80?security=none&type=ws&host=BRoKEn-bar-5948.NEpog45969.WoRKERS.dev&path=%2F#🔒
