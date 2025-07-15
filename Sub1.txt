@@ -8,6 +8,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/tahmaseb73/ConfigScavenger
 #profile-web-page-url: https://github.com/tahmaseb73/ConfigScavenger
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE4Ni4xOTAuMjE1LjE5MyIsICJwb3J0IjogMjIzMjQsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlZFx1MDBhZVx1ZmUwZlN3aXR6ZXJsYW5kXHUwMGE5XHVmZTBmWnVyaWNoXHVkODNjXHVkZDdmXHVmZTBmcGluZzo0Mi4wbXMifQ==
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjM4LjExLjUwLjgwIiwgInBvcnQiOiAiMzEwMDUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczNzcxNDQyNzEwNCIsICJob3N0IjogInd3dy42NTQyMDY4Mi54eXoiLCAidGxzIjogInRscyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogInMxLmRiLWxpbmswMS50b3AiLCAicG9ydCI6ICI4MDgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RhYmFpLmluMTcyLjY0LjU1LjIwMyIsICJob3N0IjogIjEwMC03OS0yOC0yNi5zMS5kYi1saW5rMDEudG9wIiwgInRscyI6ICIifQ==
@@ -437,8 +438,6 @@ hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy21.liangxin1.xyz:3000
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy22.liangxin1.xyz:30000?insecure=1&sni=www.apple.com#%40meli_proxyy%20%237
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy3.liangxin1.xyz:30000?insecure=1&sni=www.teslamotors.com#%40meli_proxyy%20%238
 hysteria2://4f8aeb3a-db06-4a0d-a30b-c7f01f520ec3@us3do.interld123456789.com:443?insecure=1&sni=1231231.1234567890spcloud.com#%40meli_proxyy%20%239
-hysteria2://5396a628-0c30-43d6-8a71-bca4f7614be0@hk.xn--vpn-3f0h822m.com:443?insecure=0#telegram%20%20%40v2rayNG_Matsuri
-hysteria2://5396a628-0c30-43d6-8a71-bca4f7614be0@us.xn--vpn-3f0h822m.com:443?insecure=0#telegram%20%20%40v2rayNG_Matsuri%20%231
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@au.saigonfly.com:17169?insecure=0#%20%40game_file2020
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@au.saigonfly.com:17275?insecure=0#%20%40game_file2020%20%231
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@au.saigonfly.com:17887?insecure=0#%20%40game_file2020%20%232
@@ -472,8 +471,8 @@ hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@108.181.23.249:443?insecure=1&s
 hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@108.181.23.255:443?insecure=1&sni=www.bing.com#USA-Hysteria2-%40Filter_breaker%20%232
 hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@204.10.194.86:443?insecure=1&sni=www.bing.com#USA-Hysteria2-%40Filter_breaker%20%233
 hysteria2://67828a6e-0144-4e57-8169-2447a3dd2e61@23.80.81.213:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de%20%231
-hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:19338?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%40Moft_Vpn%20
-hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:40408?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%40Moft_Vpn%20%20%231
+hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:19338?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%20%20%40V2rayNG_CaFe%20%7C%20%20%20
+hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:40408?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%20%20%40V2rayNG_CaFe%20%7C%20%20%20%20%231
 hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:47294?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal3
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#%40V2rayNG3%20%233
 hysteria2://7fae5f8e-7963-4cbe-ae1a-31cd952573a2@139.185.36.59:55000?insecure=1&sni=www.bing.com#https%3A//t.me/V2ry_Proxy%20%231
@@ -487,7 +486,7 @@ hysteria2://%40warp_city@jnir-5.pichondan.com:35000?insecure=0&sni=pichondan.com
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#%40V2rayNG3%20%235
 hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?insecure=1&obfs=salamander&obfs-password=bleepbloop#%40V2rayNG3%20%236
 hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?insecure=1&obfs=salamander&obfs-password=bluhbluh#%40V2rayNG3%20%237
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=0&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%40HIBYEVPNN
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=0&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%20%20%40V2rayNG_CaFe%20%7C%20%20%20%20%232
 hysteria2://VPNHubMaRKeT@3.123.253.70:9999?insecure=1&obfs=salamander&obfs-password=tel:@VPNHubMaRKeT#%20%40VPNHubMaRKeT%20%20%20%40VpnHubMarKeT...%20%231
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40warp_city%20%231
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40Filter_breaker%20%7C%20United%20Kingd...
@@ -503,3 +502,4 @@ hysteria2://dongtaiwang.com@46.17.41.217:30033?insecure=1#hibyevpn--IR-10%20%40H
 hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1#hibyevpn--IR-14%20%40HiByeVPNN
 hysteria2://e9f0g1h2-3456-7bcd-8abc-9012abcdef34@185.146.173.2450:443?insecure=0&sni=hysteria.de.vpnfree.org#%40Filter_breaker%20%7C%20Germany
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#%40V2rayNG3%20%239
+hysteria2://jvTJxLMlcl@p4.3dfigures.ir:20627?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal2#%40v2ray313%20%20
