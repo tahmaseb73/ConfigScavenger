@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#GB-%3EGB-%3ERTL-%3E%40Sezar_Sec
+        vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=tcp&headerType=none#US-%3EUS-%3ERTL-%3E%40Sezar_Sec
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBLT4tPlJUTC0+QERlYW1OZXRfUHJveHkiLA0KICAiYWRkIjogIjE3Mi42Ny4xNzAuMTAzIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZ2x3ZWlkZi5zYnMiLA0KICAicGF0aCI6ICIvbGlua3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImdsd2VpZGYuc2JzIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogImNocm9tZSINCn0=
+vless://9ffa6da8-26dc-435c-884b-32662e7ffe7e@www.visa.com:2082?encryption=none&security=none&type=ws&host=0314.hiyasta2.workers.dev&path=%2F%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#GB-%3EGB-%3ERTL-%3E%40Sezar_Sec
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?encryption=none&security=none&type=tcp&headerType=none#NL-%3ENL-%3EADL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVdmanBudHpTaDgxRmZNeDlSN3JKVzZMVG16SDc4U3RURWhDZDd3MzJaTXhiR0paUzk4Z3BuMW96cjlqQWJNb2E%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3EADL-%3E%40Sezar_Sec
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.81.247.20:8880?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#US-%3EFR-%3EMCI-%3E%40Sezar_Sec
@@ -500,6 +503,3 @@ vless://0875a381-5e56-48d1-867b-08a2c3db13bf@85.133.247.31:2086?encryption=none&
 vless://4c183cd1-0079-45ce-9204-4360a643601c@5.159.49.232:2052?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.159.49.232%3A2052
 vless://e10a6d1d-0bcf-4ccd-8f95-e20d1fbc0fbf@85.133.247.31:2082?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.31%3A2082
 vless://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.30%3A2086
-vless://afa3cd54-f05d-4e0b-a4d6-9f046f5d1c05@193.134.100.183:6666?encryption=none&security=none&type=tcp&headerType=http&host=cloudflare.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.134.100.183%3A6666
-vless://40de89d7-7e4e-4310-80cf-0cc5e098ae85@85.133.247.46:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.46%3A2086
-vless://2d6f2f46-5b1d-4b23-8d13-e91f27137771@193.228.169.140:2081?encryption=none&security=tls&sni=client.imesaagetext.ir&alpn=h2%2Chttp%2F1.1&fp=random&type=tcp&headerType=none&host=Join_Bade_Channel%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.228.169.140%3A2081

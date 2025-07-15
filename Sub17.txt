@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        hy2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Moscow%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+        hy2://dongtaiwang.com@46.17.41.217:64816?insecure=1&sni=apple.com#🔒
+hy2://dongtaiwang.com@46.17.41.5:12904/?insecure=1&sni=apple.com#@drakvpn🐉
+hy2://dongtaiwang.com@46.17.41.5:12904/?insecure=1&sni=apple.com#Channel
+hy2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Moscow%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#🔒
 hy2://dongtaiwang.com@46.29.163.171:10011?insecure=1&sni=www.bing.com#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Moscow%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@46.29.163.171:10011?insecure=1&sni=www.bing.com#🔒
@@ -500,6 +503,3 @@ ss://06ae8a15-3ceb-455d-a3c1-04696510f676@91.107.180.100:45489?security=none&enc
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@103.44.255.81:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%E7%94%B5%E6%8A%A5%E7%BE%A4%EF%BC%9Ahttps%3A%2F%2Ft.me%2Fvvkj11
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.143.237:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.144.63:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.152.64:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.223.254:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.228.229:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
