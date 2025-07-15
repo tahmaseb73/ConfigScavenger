@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2052?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2053?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2082?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2083?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2086?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2087?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+        vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2087?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2095?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2096?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
@@ -503,3 +498,8 @@ vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@45.83.141.23:443?security=reality&s
 vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=usa.mizbangostar.com&type=httpupgrade#@meli_proxyy
 vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=usa.mizbangostar.com&type=httpupgrade#RELAY🚩
 vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=usa.mizbangostar.com&type=httpupgrade#⚡Telegram
+vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@fr.hiska.store:3993?path=%2F&security=tls&encryption=none&type=ws&sni=marzban.negintel.xyz#@meli_proxyy
+vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@fr.hiska.store:3993?path=%2F&security=tls&encryption=none&type=ws&sni=marzban.negintel.xyz#DE🇩🇪
+vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@fr.hiska.store:3993?path=%2F&security=tls&encryption=none&type=ws&sni=marzban.negintel.xyz#⚡Telegram
+vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@macedonia.my-iranparspack.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#@meli_proxyy
+vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@macedonia.my-iranparspack.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#⚡Telegram

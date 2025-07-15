@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#%DB%8C%D8%A7%20%D8%A8%D8%A7%20%D8%B1%D8%A8%D8%A7%D8%AA%20%3D%E2%80%BA%20http%3A%2F%2Ft.me%2Fsubcr_robot%3Fstart
-trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#New%20Link%20in%20%40AzadNet%20Pin%20Post
-trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#Or%20Goto%3D%E2%80%BA%20http%3A%2F%2Ft.me%2Fsubcr_robot%3Fstart
-trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#Subscription%20link%20Ghanged
-trojan://your_password@43.218.139.54:443?security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20-%20Jakarta%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://your_password@51.112.147.185:443?security=tls&sni=aws-uae-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+        trojan://your_password@51.112.147.185:443?security=tls&sni=aws-uae-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://your_password@52.56.183.187:443?security=tls&sni=aws-uk-london-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://your_password@54.93.172.88:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://ypDt8RkT7J@89.187.181.179:43118?security=tls&sni=89.187.181.179&type=tcp#🔒
@@ -136,7 +131,6 @@ vless://0109e82c-f969-42cb-8057-f443071206a3@172.66.44.125:8443?security=tls&sni
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%94%B9%40MTMVPN
 vless://017c320f-e573-46a9-a86d-edd8f4a8cbbf@188.114.98.224:2095?path=/V2rayCUSTOMIZE?ed=1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#🇨🇦CA_167_@Surfboardv2ray
 vless://01842c9c-d03c-4765-a950-5da4b096ee74@104.17.214.22:443?path=%2FTelegram-%40proxy_mtm-Telegram-%40proxy_mtm-Telegram-%40proxy_mtm%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=SaEED-9j2.paGes.deV&fp=randomized&type=ws&sni=SAEEd-9j2.pAGEs.dEV#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%40vless_vmess
-vless://01a196f2-94ef-4d3c-9065-db19ed2123f5@151.101.64.155:80?security=none&type=ws&host=spdnet.spdnet.tm.spdnet.com&path=%2Fspdnet%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
 vless://01abdb29-cca0-47c6-844d-9f4e29f21c56@www.fast.hosting-ip.com:80?host=www.fjld34.com&mode=auto&path=%2FPossimusliberoEoscumque&security=none&type=xhttp#%40Ahmedhamoomi_Servers
 vless://01be6498-eb5c-42c3-a84c-71879900f037@212.16.71.254:80?type=tcp&headerType=http&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7+prx11+%F0%9F%92%96%F0%9F%8C%BA%F0%9F%8C%88
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
@@ -359,7 +353,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.102.83:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.102.83:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.113.162:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIPro
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.143.120:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.216.86:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.72.238:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.8.53:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.8.53:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🌐سرور
@@ -503,3 +496,10 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.12.23:443?sni=nl.ylka.dpdns.
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.13.23:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.2.36:443?security=tls&sni=vb.ylks0033.dpdns.org&type=ws&host=vb.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.3.36:443?security=tls&sni=vb.ylks0033.dpdns.org&type=ws&host=vb.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.6.112:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.6.37:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.6.89:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.7.112:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.7.37:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.7.89:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@107.174.228.38:23234?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD

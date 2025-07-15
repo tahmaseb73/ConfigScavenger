@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@104.17.255.80:443?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.17.28.186:443?sni=epccf.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.17.30.161:443?sni=epccu.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.17.30.254:443?sni=epcca.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@104.17.30.254:443?sni=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.17.31.60:443?sni=epccu.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.17.51.61:443?sni=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.17.56.33:443?sni=epccj.ambercc.filegear-sg.me#🔒
@@ -259,6 +256,7 @@ trojan://Aimer@108.162.193.110:443?sni=epmd.ambercc.filegear-sg.me&allowInsecure
 trojan://Aimer@108.162.193.128:443?sni=epccz.ambercc.filegear-sg.me&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@108.162.193.128:443?sni=epmd.ambercc.filegear-sg.me&allowInsecure=0#🔒
 trojan://Aimer@108.162.193.144:443?sni=epma.ambercc.filegear-sg.me&allowInsecure=0#🔒
+trojan://Aimer@108.162.193.190:2096?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram⚠️
 trojan://Aimer@108.162.193.201:443?sni=epms.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.162.194.193:443?sni=agepy.aimercc.filegear-sg.me#🔒
 trojan://Aimer@108.162.194.221:2096?sni=epcch.ambercc.filegear-sg.me#🔒
@@ -298,6 +296,7 @@ trojan://Aimer@108.165.152.252:2096?security=tls&sni=epccf.ambercc.filegear-sg.m
 trojan://Aimer@108.165.152.25:2087?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@108.165.152.29:2096?sni=epccv.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.31:2083?sni=epccx.ambercc.filegear-sg.me#🔒
+trojan://Aimer@108.165.152.36:2096?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram⚠️
 trojan://Aimer@108.165.152.36:2096?sni=epmq.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.38:8443?sni=epccf.ambercc.filegear-sg.me#US12
 trojan://Aimer@108.165.152.38:8443?sni=epccf.ambercc.filegear-sg.me#🔒
@@ -386,6 +385,7 @@ trojan://Aimer@154.197.64.67:443?sni=epmq.ambercc.filegear-sg.me#🔒
 trojan://Aimer@154.197.64.98:8443?security=tls&sni=epccs.ambercc.filegear-sg.me&type=ws&host=epccs.ambercc.filegear-sg.me#🔒
 trojan://Aimer@154.21.83.154:443?sni=epmq.ambercc.filegear-sg.me#🔒
 trojan://Aimer@154.21.90.8:2443?sni=epccv.ambercc.filegear-sg.me#🔒
+trojan://Aimer@154.21.93.92:37955?allowInsecure=0&sni=ngep.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@154.211.8.109:2087?security=tls&sni=epccd.ambercc.filegear-sg.me&type=ws&host=epccd.ambercc.filegear-sg.me#🔒
 trojan://Aimer@154.211.8.12:2096?sni=epccv.ambercc.filegear-sg.me&allowInsecure=0#🔒
 trojan://Aimer@154.211.8.150:2096?sni=epmw.ambercc.filegear-sg.me#🔒
@@ -415,6 +415,7 @@ trojan://Aimer@16.162.225.15:443?sni=epcco.ambercc.filegear-sg.me#🔒
 trojan://Aimer@160.79.104.131:8443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@160.79.105.133:8443?sni=epccx.ambercc.filegear-sg.me#🔒
 trojan://Aimer@160.79.105.160:8443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@161.129.41.140:6352?allowInsecure=0&sni=ngep.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@161.145.150.14:443?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@161.145.150.26:2087?sni=epme.ambercc.filegear-sg.me#🔒
 trojan://Aimer@161.145.150.29:2083?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ trojan://Aimer@162.159.135.66:443?sni=epcco.ambercc.filegear-sg.me#%E6%9C%AA%E7%
 trojan://Aimer@162.159.135.66:443?sni=epcco.ambercc.filegear-sg.me#🔒
 trojan://Aimer@162.159.135.75:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@162.159.135.77:443?sni=epccu.ambercc.filegear-sg.me#🔒
-trojan://Aimer@162.159.135.88:443?sni=epcch.ambercc.filegear-sg.me#🔒
