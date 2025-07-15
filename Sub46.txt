@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.105:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.158:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.173:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.226:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.249:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.25:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
+        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.25:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.31.226:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.31.61:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.31.64:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -503,3 +498,8 @@ ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?security=none&type=
 ss://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?security=none&type=grpc&serviceName=vless-grpc#🔒
 ss://c0b9dd6c-9676-4cd1-9e7c-9c6ac59afd37@104.21.76.54:2096?security=tls&sni=app2.year2025appdatat.lat&type=grpc&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 ss://c0b9dd6c-9676-4cd1-9e7c-9c6ac59afd37@172.67.188.175:2096?security=tls&sni=app2.year2025appdatat.lat&type=grpc&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?encryption=none&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&type=ws&security=tls&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&fp=randomized&alpn=http%2F1.1#@FNET00
+ss://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?security=tls&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&type=ws&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560%2F%3FJoin_Bade_Channel%40JOKERRVPN&fp=randomized&alpn=http%2F1.1#🔒
+ss://c11446db-adc4-417b-8a8d-e25c37f4f8c5@WWW.SPEEDTEST.NET:2095?path=%2F&security=none&encryption=none&host=PM.SODOGODPING.IR&type=httpupgrade#@meli_proxyy
+ss://c11446db-adc4-417b-8a8d-e25c37f4f8c5@WWW.SPEEDTEST.NET:2095?path=%2F&security=none&encryption=none&host=PM.SODOGODPING.IR&type=httpupgrade#⚡Telegram
+ss://c11446db-adc4-417b-8a8d-e25c37f4f8c5@www.speedtest.net:2095/?type=httpupgrade&encryption=none&host=PM.SODOGODPING.IR&path=%2F#⚡Telegram
