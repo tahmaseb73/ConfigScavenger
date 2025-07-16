@@ -3,13 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.237.109:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.238.153:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.24.51:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.29.110:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.31.253:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.14.79:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.15.27:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+        vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.15.27:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.19.18:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.24.27:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.24.64:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
@@ -503,3 +497,9 @@ vless://8dea4f74-e9b9-40fd-d5d8-04fe72fcd958@151.101.64.155:80?type=grpc&service
 vless://8dea4f74-e9b9-40fd-d5d8-04fe72fcd958@151.101.64.155:80?type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&host=Bpalanenok.ir&type=ws#🇺🇸US_761_@Surfboardv2ray
 vless://8df9233f-96a8-4454-adcd-9b9479a3af60@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
 vless://8e4830a3-c976-45c6-b942-8954abf731b7@www.speedtest.net:80?path=%2FISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#RELAY🚩
+vless://8e63322f-94fc-4d6c-bbfa-5b89118e8930@198.71.188.119:8880?security=none&type=ws&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+vless://8e732062-d0c4-4e91-a288-572a359b5020@128.140.88.226:8880?security=none&type=tcp&host=eN.TwiTtER.cOM.:8880&headerType=http#🔒
+vless://8e732062-d0c4-4e91-a288-572a359b5020@demos.siasepid.com:8880?type=tcp&headerType=http&host=eN.TwiTtER.cOM.:8880&path=/?telegram=@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02&security=none#🇩🇪DE_762_@Surfboardv2ray
+vless://8e732062-d0c4-4e91-a288-572a359b5020@flmos.siasepid.com:8880?type=tcp&headerType=http&host=eN.TwiTtER.cOM.:8880&path=/?telegram=@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02&security=none#🇫🇮FI_763_@Surfboardv2ray
+vless://8e796f9b-b490-4ddf-b0e5-689e18f9670a@162.55.177.55:8295?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s#🔒
+vless://8e944e35-e17b-4ecb-8879-f62a2c4cf546@116.203.77.123:443?security=tls&sni=gift-4101664.FaraSorat.Net&type=ws&host=Nuremberg1.FaraSorat.net&path=%2FpV67LRFs428xHke56mDQ#🔒
