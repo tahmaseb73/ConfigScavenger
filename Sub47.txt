@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://c3f840ae-9b7a-4846-84d7-a7b52f215f0a@104.16.163.32:8443?security=tls&sni=vs.irandownloadi.ir.&type=grpc&serviceName=sepahanvpn&fp=chrome#🔒
+        ss://c3f840ae-9b7a-4846-84d7-a7b52f215f0a@104.16.147.32:8443?security=tls&sni=vs.irandownloadi.ir.&type=grpc&serviceName=sepahanvpn&fp=chrome#🔒
+ss://c3f840ae-9b7a-4846-84d7-a7b52f215f0a@104.16.163.32:8443?security=tls&sni=vs.irandownloadi.ir.&type=grpc&serviceName=sepahanvpn&fp=chrome#🔒
 ss://c40bb8e1-3fce-4f4e-b8c3-008a8f4427cb@151.101.63.8:80?security=none&type=ws&host=vistapcit.com&path=/@vistav2ray---@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vist#🔒
 ss://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.18.6.215:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560#🔒
 ss://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.18.7.215:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir#🔒
@@ -502,4 +503,3 @@ ss://cce821fb-3bda-4011-a460-ca73168de78a@live.989bull.com:80?mode=auto&path=%2F
 ss://ccf75d6a-d32a-47a3-a6fd-aadff59b8ef6@188.114.97.1:8443?security=tls&sni=vip.donghi.ir&type=ws&host=vip.donghi.ir&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7&fp=chrome&alpn=h3,h2,http/1.1#🔒
 ss://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?security=tls&sni=d1.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/&host=d1.medicaldream.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?security=tls&sni=d1.medicaldream.ir&type=ws&host=d1.medicaldream.ir&path=%2F&fp=chrome#🔒
-ss://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.13.149:443?security=tls&sni=d1.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/&host=d1.medicaldream.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
