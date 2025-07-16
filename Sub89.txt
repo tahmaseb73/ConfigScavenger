@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2F#🔒
+        vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2F#🔒
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=%2F&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#Free%200200%20%28%40Outline_Vpn%29
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=%2F&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#Free%2030%20%28%40Outline_Vpn%29
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2F#🔒
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.73:8080?security=none&type=ws&host=gozargah.validbv7996.ir&path=/@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY%3Fed%3D2560#🔒
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.73:80?type=ws&host=gozargah.validbv7996.ir&path=%2FMOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560#🔒
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.101:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒
@@ -500,6 +503,3 @@ vless://d118038f-0d72-4b45-8cce-bcf237487f41@188.114.96.164:443?security=tls&sni
 vless://d118038f-0d72-4b45-8cce-bcf237487f41@188.114.97.142:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://d118038f-0d72-4b45-8cce-bcf237487f41@188.114.98.175:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://d118038f-0d72-4b45-8cce-bcf237487f41@188.114.99.12:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-vless://d118038f-0d72-4b45-8cce-bcf237487f41@188.114.99.16:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-vless://d11fd54a-8fd4-4886-bad2-8264cb317ead@14.102.228.77:2052?security=none&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sPeedtest2.sbs.se.vless.sitespeedtest.net&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
-vless://d11fd54a-8fd4-4886-bad2-8264cb317ead@14.102.228.77:2052?security=none&type=ws&host=sPeedtest2.sbs.se.vless.sitespeedtest.net&path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🔒

@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d35eba2f-7504-48ab-84ab-b6460a3f303f@172.66.44.241:2096?path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mahdiserver-533.pages.dev&fp=randomized&type=ws&sni=MaHDiSERveR-533.PAges.Dev#@VIProxys
+        ss://d3541bb4-2cb5-4372-beab-fac34d5b8539@104.17.147.22:443?path=/netherlands/amsterdam/vl/ws/tls&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=72790032528889957475364702518915.v2line.online&fp=chrome&type=ws&sni=72790032528889957475364702518915.v2line.online#🇨🇦CA_1090_@Surfboardv2ray
+ss://d3541bb4-2cb5-4372-beab-fac34d5b8539@140.248.129.58:80?path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls&security=none&encryption=none&host=Channel--VPNCUSTOMIZE.ir&type=ws#⚡Telegram
+ss://d35eba2f-7504-48ab-84ab-b6460a3f303f@172.66.44.241:2096?path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mahdiserver-533.pages.dev&fp=randomized&type=ws&sni=MaHDiSERveR-533.PAges.Dev#@VIPro
+ss://d35eba2f-7504-48ab-84ab-b6460a3f303f@172.66.44.241:2096?path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mahdiserver-533.pages.dev&fp=randomized&type=ws&sni=MaHDiSERveR-533.PAges.Dev#@VIProxys
 ss://d35eba2f-7504-48ab-84ab-b6460a3f303f@172.66.47.15:2096?security=tls&sni=MaHDiSERveR-533.PAges.Dev&type=ws&host=mahdiserver-533.pages.dev&path=%2FdrJKqXievyg4Mlr6%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 ss://d35eba2f750448ab84abb6460a3f303f@172.66.44.241:2096#RELAY%F0%9F%9A%A9+%7C+172.66.44.241-2096+%7C+1.77ms
 ss://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=random#🔒
@@ -500,6 +503,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=no
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_1140_@Surfboardv2ray
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_1141_@Surfboardv2ray
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880/?mode=gun&security=none&encryption=none&type=grpc#@VIProxys
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?encryption=none&security=none&type=grpc#@VIProxys
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_1142_@Surfboardv2ray
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&type=grpc#Free%20110%20%28%40Outline_Vpn%29
