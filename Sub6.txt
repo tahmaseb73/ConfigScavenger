@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1nY206M0JHZExUM21YVw3D3A==@45.144.30.144:18873#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.144.30.144-18873+%7C+182.86ms
+        ss://YWVzLTI1Ni1nY206MGU5YjU4YWEtZWM3OS02ODI3LWM2NzktODAyZmYzMjliMWEx@37050813702269272654038283817908.international-ixp.com:11312#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+37050813702269272654038283817908.international-ixp.com-11312+%7C+314.11ms
+ss://YWVzLTI1Ni1nY206M0JHZExUM21YVw==@45.144.30.144:18873#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.144.30.144-18873+%7C+182.74ms
+ss://YWVzLTI1Ni1nY206M0JHZExUM21YVw3D3A==@45.144.30.144:18873#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.144.30.144-18873+%7C+182.86ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.76:15098#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+125.141.31.76-15098+%7C+129.03ms
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.18:9040#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9040+%7C+167.93ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@45.154.206.192:989#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.154.206.192-989+%7C+143.69ms
@@ -501,5 +503,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFLT5ERS0+TVROLT5ARGVhbU5ldF9Qcm94eSIs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUdnJ3VGlhRDNuWm5HeVFrd0xIZXhCN0thZTZaUTFuYVhuMzI2NTFBV3BUaVBLMjNnTlY5WGpONDJ4YWt0VHRHUzVDRThyNnR6amtCcHI5NFpYQ1g3Y0RFUWkyWms5Q3A%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3EADL-%3E%40Sezar_Sec
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?encryption=none&security=reality&sni=analytics.google.com&fp=chrome&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f&type=tcp&headerType=none#DE-%3EDE-%3EMTN-%3E%40Sezar_Sec
 vless://56652249-2e67-4429-b86c-3df8b838ad85@tgju.org:8080?encryption=none&security=none&type=ws&host=4j.QBAo1g5z6k.ZulaIR.org.&path=%2F%3Fed%3D2048#CA-%3E-%3EMTN-%3E%40Sezar_Sec
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@67.220.95.102:8009#US-%3EUS-%3EADL-%3E%40Sezar_Sec
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?encryption=none&security=none&type=grpc#FR-%3EFR-%3EMTN-%3E%40Sezar_Sec

@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.219:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.190:443?sni=hl.ylka.dpdns.org&type=ws&host=hl.ylka.dpdns.org&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.203:443?sni=vc.ylka.dpdns.org&type=ws&host=vc.ylka.dpdns.org&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.219:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.223:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.45:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.66:443?security=tls&sni=vc.ylka.dpdns.org&type=ws&host=vc.ylka.dpdns.org#🔒
@@ -501,5 +503,3 @@ ss://10525b84-7f6e-43ef-912b-87434df813f4@129.159.202.83:443?security=tls&sni=ne
 ss://10525b84-7f6e-43ef-912b-87434df813f4@158.101.214.54:443?security=tls&sni=news5.testsnew.com&type=ws&path=%2Fwss#🔒
 ss://10525b84-7f6e-43ef-912b-87434df813f4@172.64.34.232:443?security=tls&sni=news5.testsnew.com&type=ws&host=news5.testsnew.com&path=%2Fwss&alpn=http%2F1.1#🔒
 ss://105e8fc6-d8d5-4bcf-ba33-f2d602489fa6@151.101.130.133:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=Lightning.ir&type=ws#🇺🇸US_199_@Surfboardv2ray
-ss://1062fb45-0aec-4b36-abde-70ca84c50981@hajlab.ucdavis.edu:80/?type=ws&path=/&host=www.darcy.ir&security=none#🇺🇸US_200_@Surfboardv2ray
-ss://1077c841-97d9-45a4-8663-7876e6b0f053@146.75.8.88:80?security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#🔒
