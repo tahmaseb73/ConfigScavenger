@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://489ed7c4-103d-46a9-9a3e-370e0af56976@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=&encryption=none&host=mmad-jeta.global.ssl.fastly.net&type=xhttp#US🇺🇸 | mmad-jeta.global.ssl.fastly.net-80 | 18.11ms
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬 | 43.156.217.68-41283 | 209.16ms
+        vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬 | 43.156.217.68-41283 | 209.16ms
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?encryption=none&security=none&type=tcp&headerType=none#SG🇸🇬 | 43.156.217.68-41283 | 206.42ms
 vless://479b68f6-1b18-4fda-aab4-3959d7e52d06@188.245.110.172:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷 | exo.ir-443 | 292.96ms
 vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:2053?encryption=none&security=tls&sni=zula.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=karshenashamrah.ir&path=%2FasdasdsadA#RELAY🚩 | zula.ir-2053 | 3.66ms
@@ -503,3 +502,4 @@ vless://17a6e953-8fac-428c-b86c-8585722b0b52@cherry.bitiboot.com:443?encryption=
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&sid=974a74bf#REALITY|DE🇩🇪 | vpn_proxy_channel_vpn_proxy_channel.hohod.ir-443 | 606.56ms
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sid=974a74bf#REALITY|DE🇩🇪 | vpn_proxy_channel_vpn_proxy_channel.hohod.ir-443 | 221.6ms
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?encryption=none&security=reality&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf&type=tcp&headerType=none#REALITY|DE🇩🇪 | vpn_proxy_channel_vpn_proxy_channel.hohod.ir-443 | 222.56ms
+vless://12b49c8c-2ba7-4fbd-9ab5-801f6c497609@v28.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#REALITY|FR🇫🇷 | v28.vxlimir.com-1370 | 577.29ms

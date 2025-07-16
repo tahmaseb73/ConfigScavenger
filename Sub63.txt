@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@5.35.68.249:2053?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@51.195.47.243:8443?sni=epcch.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@51.195.47.243:8443?sni=epcch.ambercc.filegear-sg.me#🔒
 trojan://Aimer@52.32.90.142:80?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒
 trojan://Aimer@52.40.102.162:443?sni=ngepx.ambercc.filegear-sg.me#🔒
 trojan://Aimer@52.89.138.13:443?sni=epcca.ambercc.filegear-sg.me#🔒
@@ -503,3 +502,4 @@ trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@161.35.83.110:443?security=tls&sni
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@23.172.40.143:17742?#🔒
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@31.223.184.248:17721?sni=data.52daishu.life#🔒
 trojan://c4b3ca10-d294-11ef-adce-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@45.67.229.222:443?security=tls&sni=customer-45-67-229-222.stark-industries.solutions&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B2%F0%9F%87%A9%20Moldova,%20Republic%20of%20-%20Chisinau%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
