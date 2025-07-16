@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://6040a753-e35b-4384-8713-96f3c639b621@172.67.200.238:443?security=tls&sni=mm8x01.890689.xyz&type=ws&host=mm8x01.890689.xyz&path=%2FqzS0GzXjVWvcbs2HOmaeWimvT3&fp=chrome&alpn=http%2F1.1#🔒
-ss://60630c28-378d-45f3-9917-ee181f12faaf@190.93.245.137:2087?security=tls&sni=WWW.adabefarsi.eu.&type=ws&host=WWW.adabefarsi.eu.&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
+        ss://60630c28-378d-45f3-9917-ee181f12faaf@190.93.245.137:2087?security=tls&sni=WWW.adabefarsi.eu.&type=ws&host=WWW.adabefarsi.eu.&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?path=/?ed=2048&security=tls&encryption=none&host=pages.20230619.love&fp=chrome&type=ws&sni=pages.20230619.love#🇨🇦CA_633_@Surfboardv2ray
 ss://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&fp=chrome#🔒
 ss://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.64.33.100:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=%2F%3Fed%3D2048#🔒
@@ -503,3 +502,4 @@ ss://6f940fcf-6c3d-41e9-b23e-272a96b4c66d@151.101.64.155:80?path=/-LiV2ry@LIGHTN
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@104.215.58.230:443?security=tls&sni=gkkui8.azurewebsites.net&type=ws&host=gkkui8.azurewebsites.net#🔒
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@13.67.9.5:443?security=tls&sni=shg2.azurewebsites.net&type=ws&host=shg2.azurewebsites.net&path=%2F#🔒
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@13.75.34.176:443?security=tls&sni=hkklo.azurewebsites.net&type=ws&host=hkklo.azurewebsites.net#🔒
+ss://6f995056-7802-4a1d-bff7-61678e626c3f@20.189.104.97:443?security=tls&sni=dee33.azurewebsites.net&type=ws&host=dee33.azurewebsites.net&path=%2F&fp=chrome#🔒

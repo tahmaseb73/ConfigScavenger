@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?security=none&type=grpc#🔒
+        ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?security=none&type=grpc#🔒
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880/?type=grpc&encryption=none&flow=#🇫🇷FR_1189_@Surfboardv2ray
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A40.98ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
@@ -503,3 +502,4 @@ ss://e74e33c9-dd65-4957-83a3-83cac7b3b3e9@151.101.66.219:80?security=none&type=x
 ss://e74e33c9-dd65-4957-83a3-83cac7b3b3e9@speedtest.net:80?mode=auto&path=/@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray..../@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray?ed=2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#🇺🇸US_1227_@Surfboardv2ray
 ss://e7639e42-17b3-4b1f-e61d-133273faf2bf@snapp.ir.iraniantim.ir:80?security=reality&encryption=none&pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&headerType=none&fp=chrome&spx=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN?ed=2048&type=tcp&sni=refersion.com#🇳🇱NL_1228_@Surfboardv2ray
 ss://e7639e42-17b3-4b1f-e61d-133273faf2bf@snapp.ir.iraniantim.ir:80?type=tcp&security=reality&pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&fp=chrome&sni=refersion.com&sid=&spx=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN?ed=2048#🇳🇱NL_1229_@Surfboardv2ray
+ss://e78f654c-fa48-40d6-a840-07b8611bb2d8@49.12.225.140:443?security=reality&flow=xtls-rprx-vision&sni=tgju.org&type=tcp&fp=chrome&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&sid=105e89ba3d2a1c3b#@Hope_Net-join-us-on-Telegram
