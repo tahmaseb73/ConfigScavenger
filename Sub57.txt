@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.236:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.226:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.232:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.236:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.239:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/#14%7CUS_speednode_0053
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.239:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.239:8880?security=none&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=%2F#🔒
@@ -501,5 +503,3 @@ ss://fd99e44d-a046-4477-b48b-8f15bc0f217a@136.244.89.150:4191?security=reality&e
 ss://fd99e44d-a046-4477-b48b-8f15bc0f217a@159.203.57.161:3951?security=tls&sni=ukmci.cdnpark.net&type=ws&path=%2F#🔒
 ss://fd99e44d-a046-4477-b48b-8f15bc0f217a@165.22.252.188:3951?security=tls&sni=ukmci.cdnpark.net&type=ws&path=%2F#🔒
 ss://fd99e44d-a046-4477-b48b-8f15bc0f217a@188.213.173.232:2023?security=reality&sni=refersion.com&type=xhttp&fp=chrome&pbk=gDBtmJC-zpvrr8qB_IHk3S9jl7U2yW2bVyI1cMDmbGk#🔒
-ss://fdb9faa8-753a-40e2-ab35-6afc43389100@195.234.63.156:443?security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&type=tcp&fp=chrome&pbk=0jP7cs_Tp-_taIXbdueV7HMHZS7oS2xWp4v-JURR-jc&sid=4780a0c6d99de0c3#🔒
-ss://fdca651d-be66-43b6-cad0-dee49a6bbda6@104.17.148.22:8880?type=httpupgrade&path=%2FFreeConfig&host=KhodeAlfred.tehran-gamee.ir&security=none#@LOCKEY_VPN
