@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.192:2096?security=tls&sni=HiDyVnDe14.bInTeRmA.OrG&type=ws&host=HiDyVnDe14.bInTeRmA.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.215:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
+        vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.215:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.217:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.46:2096?path=%2F&security=tls&encryption=none&host=LhCgBjGr29.vElTrIxS.OrG&fp=chrome&type=ws&sni=LhCgBjGr29.vElTrIxS.OrG#%40v2raying
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.46:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome#🔒
@@ -503,3 +502,4 @@ vless://CHIK_682523@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0Ejuloh
 vless://CHIK_682538@77.91.85.161:443/?type=tcp&encryption=none&sni=whatsapp.com&fp=chrome&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&sid=ffffffffff#⚡Telegram
 vless://CHIK_682538@77.91.85.161:443?type=tcp&encryption=none&sni=whatsapp.com&fp=chrome&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&sid=ffffffffff#REALITY|SE🇸🇪
 vless://CHIK_682538@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#@meli_proxyy
+vless://CHIK_682538@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#REALITY|SE🇸🇪

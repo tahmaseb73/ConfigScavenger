@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://9c7e9c02-d37a-4f3c-b860-6460a6ff473b@104.24.21.212:2096?security=tls&sni=vless.vvzxyvv.sbs&type=ws&host=vless.vvzxyvv.sbs&path=%2F#🔒
-ss://9c8cc33e-99bc-4320-883d-808993aa330d@217.60.237.32:8444?security=none&type=tcp&host=apart.com&headerType=http#🔒
+        ss://9c8cc33e-99bc-4320-883d-808993aa330d@217.60.237.32:8444?security=none&type=tcp&host=apart.com&headerType=http#🔒
 ss://9cbd71c9-0419-4093-a8f8-883e29408a2f@173.245.59.132:80?security=none&type=httpupgrade&host=v2ngfast.nanvrfood.ir.#🔒
 ss://9cbf8251-71d2-4f48-915a-c3f4c8affe9e@162.55.165.114:2087?security=reality&encryption=none&pbk=j1N8CFNT1gjjlVqLOY3iyZ6GAe5lVpK27tT7sihjXQk&headerType=none&fp=chrome&type=tcp&sni=www.latimes.com#🇩🇪DE_830_@Surfboardv2ray
 ss://9ce5dc57-bfa3-4e9e-be9b-ca685d826feb@45.131.208.126:80?sni=worker-soft-mouse-6965.hevapey267.workers.Dev&type=ws&host=worker-soft-mouse-6965.hevapey267.workers.Dev&path=Telegram%40WangCai2#🔒
@@ -503,3 +502,4 @@ ss://Telegram-SRCVPN-@Fox1-ov.com:2050?type=grpc&serviceName=-@SRCVPN---@SRCVPN-
 ss://Telegram-ipV2Ray-cep@185.146.173.58:80?type=ws&path=/Telegram-ipV2Ray?ed=2048&host=15.ftp.debian.org.www.speedtest.net.免费上网69.Site.&security=none#🇸🇪SE_891_@Surfboardv2ray
 ss://Telegram-ipV2Ray-cep@185.146.173.58:80?type=ws&path=/Telegram-ipV2Ray?ed=2048&host=15.ftp.debian.org.www.speedtest.net.免费上网69.Site.&security=none#🇸🇪SE_892_@Surfboardv2ray
 ss://Telegram-ipV2Ray-daw@104.17.147.22:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#%40daredevill_404
+ss://Telegram-ipV2Ray-daw@104.17.147.22:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#🇨🇦CA_893_@Surfboardv2ray
