@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.189.206:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
+        ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.188.14:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
+ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.189.206:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
 ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.189.238:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
 ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.190.14:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.190.14:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
@@ -502,4 +503,3 @@ ss://7f559928-d85c-4d83-b44e-8be2d3062578@hajlab.ucdavis.edu:80?security=&type=w
 ss://7f56467b-597a-4549-b3a7-2288c47a1d86@104.16.213.133:2083?security=tls&sni=myv2ray-4xs.pages.dev&type=ws&host=myv2ray-4xs.pages.dev&allowInsecure=0#🔒
 ss://7f56467b-597a-4549-b3a7-2288c47a1d86@162.159.152.118:8443?sni=myv2ray-4xs.pages.dev&type=ws&host=myv2ray-4xs.pages.dev&allowInsecure=0#🔒
 ss://7f617e8f-e643-5795-af52-120c2a61de82@38.76.247.217:443?security=tls&sni=38.76.247.217&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.76.247.217&encryption=none#Rayan%20-%20SSO%20-%20WSDR-121%20-%20SG%20-%20II%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
-ss://7f617e8f-e643-5795-af52-120c2a61de82@git-scm.com:443?security=tls&sni=sg-2-sso.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sg-2-sso.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSO%20-%20WSCT-121%20-%20SG%20-%20II%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config

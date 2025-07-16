@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:26113?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=GUcD8LK1DFNuVun5yhsqeEego_p3PF2yIdvE2KY2Nng&sid=1fbd20fd&type=tcp&headerType=none#q1_166
+        vless://cfa105a9-f127-4369-b91f-040110a391a8@206.189.129.143:25874?type=tcp#🔒
+vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:26113?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=GUcD8LK1DFNuVun5yhsqeEego_p3PF2yIdvE2KY2Nng&sid=1fbd20fd&type=tcp&headerType=none#q1_166
 vless://chan3l%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#%40V2ray1_Ng
 vless://chan3l%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20V2rayng_Fast%40
 vless://chanel%3AV2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#@meli_proxyy
@@ -502,4 +503,3 @@ vless://d687fb60-b650-4429-9187-58bad6d689d5@162.159.24.142:443?security=tls&sni
 vless://d69b938c-cbf4-4b61-aa97-e5762c304a25@104.18.148.234:443?security=tls&sni=madcity2.777999.lol&type=ws&host=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=1#🔒
 vless://d69b938c-cbf4-4b61-aa97-e5762c304a25@5.10.244.109:443?allowInsecure=1&sni=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=madcity2.777999.lol&path=/?ed=2560fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B810%20%7C%20%202.0MB/s%7C0%25%7CNetflix%7CDis...
 vless://d69b938c-cbf4-4b61-aa97-e5762c304a25@5.10.244.109:443?security=tls&sni=madcity2.777999.lol&type=ws&host=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=1#🔒
-vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@104.16.187.41:443?security=tls&sni=d6.medicalhistory.ir&type=ws&host=d6.medicalhistory.ir&path=%2FJoin_Bade_Channel%40JOKERRVPN%3Fed%3D2560&fp=chrome#🔒

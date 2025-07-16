@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://ea286109d20f415e849e4af20ab04b65Og==@47.251.95.178:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+47.251.95.178-443+%7C+67.85ms
+        ss://ea286109d20f415e849e4af20ab04b65Og==@47.251.95.178:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+47.251.95.178-443+%7C+68.56ms
+ss://ea286109d20f415e849e4af20ab04b65Og==@47.251.95.178:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+47.251.95.178-443+%7C+67.85ms
 ss://ea286109d20f415e849e4af20ab04b65Og==@135.148.152.109:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.152.109-443+%7C+6.54ms
 ss://ea286109d20f415e849e4af20ab04b65Og==@135.148.152.108:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.152.108-443+%7C+6.58ms
 ss://ea286109d20f415e849e4af20ab04b65Og==@135.148.152.107:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.152.107-443+%7C+6.54ms
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NkVLYUNoSzF6RVlWZmN0eVhlVGZ5Q1NQUkZGSGNEUTF
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?encryption=none&security=tls&sni=147135001195.sec22org.com&fp=chrome&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?encryption=none&security=none&type=grpc#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
 vless://56652249-2e67-4429-b86c-3df8b838ad85@104.26.15.85:8080?encryption=none&security=none&type=ws&host=4j.QBAo1g5z6k.ZulaIR.org.&path=%2F#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.83:8880?encryption=none&security=none&type=ws&host=yd.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3EFR-%3EMCI-%3E%40Sezar_Sec

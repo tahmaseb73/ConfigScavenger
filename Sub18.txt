@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.17:443?security=tls&sni=bn.ylks0033.dpdns.org&type=ws&host=bn.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.173:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.17:443?security=tls&sni=bn.ylks0033.dpdns.org&type=ws&host=bn.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.180:443?sni=sl.ylka.dpdns.org&type=ws&host=sl.ylka.dpdns.org&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.18:443?sni=vc.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.203:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
@@ -502,4 +503,3 @@ ss://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-C
 ss://0fc8452a-17f9-47de-95dd-65de502d39da@147.182.246.69:58017?security=tls&sni=madcity2.777999.lol&type=ws&host=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=1#🔒
 ss://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?security=tls&sni=tnetplus3.pages.dev&type=ws&host=tnetplus3.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#🔒
 ss://0ff570d3-3452-4990-8144-fd2cb9357e09@104.18.14.19:8880?security=none&type=ws&host=925tg.s4ua8zqr.workers.dev&path=%2F%3Fed%3D2560#🔒
-ss://0ff570d3-3452-4990-8144-fd2cb9357e09@104.18.32.69:2052?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=925tg.s4ua8zqr.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3

@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2042%20%28%40Outline_Vpn%
+        vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560#%40awlix_ir
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2042%20%28%40Outline_Vpn%
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2083%20%28%40Outline_Vpn%29
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🇨🇦CA_612_@Surfboardv2ray
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=/Telegram@proxy_mtm/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🇨🇦CA_613_@Surfboardv2ray
@@ -502,4 +503,3 @@ vless://66623734-6266-4361-b037-613830383631@162.159.136.232:443?security=tls&sn
 vless://66623734-6266-4361-b037-613830383631@162.159.137.232:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔒
 vless://66623734-6266-4361-b037-613830383631@162.159.138.232:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔒
 vless://666a9bd9-c6c0-4c2b-8d78-69142424931d@104.16.156.65:443?security=tls&sni=paipai-kti.pages.dev&type=ws&host=paipai-kti.pages.dev&allowInsecure=0#🔒
-vless://666a9bd9-c6c0-4c2b-8d78-69142424931d@104.24.233.121:443?security=tls&sni=paipai-kti.pages.dev&type=ws&host=paipai-kti.pages.dev&allowInsecure=0#🔒

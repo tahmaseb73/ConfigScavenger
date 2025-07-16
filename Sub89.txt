@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c5293efa-28f8-4a0f-8f34-541078970cee@199.34.228.66:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&path=%2FoiBBYyE4WkprI2wD%3Fed#🔒
+        vless://c5293efa-28f8-4a0f-8f34-541078970cee@199.34.228.184:8443?security=tls&sni=gozargah.validbv7996.ir&type=ws&path=Telegram%40V2ray_Alpha%2F%3Fed#🔒
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@199.34.228.66:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&path=%2FoiBBYyE4WkprI2wD%3Fed#🔒
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@205.233.181.199:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=%2FoiBBYyE4WkprI2wD%3Fed&fp=chrome#🔒
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.109:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2#🔒
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.113:80?type=ws&host=gozargah.validbv7996.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒
@@ -502,4 +503,3 @@ vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@8.20.125.1:443?security=tls&sni=nge
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@92.243.74.23:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
 vless://cf5c2c9b-d49d-44c9-ae04-ca0eeac4d7f9@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
 vless://cf840488-f4b0-4e66-84d9-85022a8d12f9@151.101.64.155:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#tm%E2%9A%A1%7C%40lightning6
-vless://cfa105a9-f127-4369-b91f-040110a391a8@206.189.129.143:25874?type=tcp#🔒

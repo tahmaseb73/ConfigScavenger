@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v29.vxlimir.com:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#@meli_proxyy
+        ss://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v29.vxlimir.com:1370/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#⚡Telegram
+ss://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v29.vxlimir.com:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#@meli_proxyy
 ss://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v29.vxlimir.com:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#REALITY|FR🇫🇷
 ss://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v29.vxlimir.com:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#⚡Telegram
 ss://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v29.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#REALITY|FR🇫🇷
@@ -502,4 +503,3 @@ ss://9b8e5b9c-cac0-44c9-b135-383c6c5c3eea@104.18.27.94:80?security=none&type=ws&
 ss://9b956070-2332-4b9e-b700-b1c765fde16c@104.21.112.1:2083?security=tls&sni=mas43.890614.xyz&type=ws&host=mas43.890614.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 ss://9b956070-2332-4b9e-b700-b1c765fde16c@104.21.80.1:2083?security=tls&sni=mas43.890614.xyz&type=ws&host=mas43.890614.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 ss://9b956070-2332-4b9e-b700-b1c765fde16c@104.21.96.1:2083?security=tls&sni=mas43.890614.xyz&type=ws&host=mas43.890614.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-ss://9bb8610b-c76e-40e4-84e2-6591df2e0344@104.19.194.8:443?security=tls&sni=123456789-1xt.pages.dev&type=ws&host=123456789-1xt.pages.dev&path=%2F#🔒

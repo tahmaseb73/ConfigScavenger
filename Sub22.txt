@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.8.211.98:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
+        ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.8.211.26:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&alpn=h2,http/1.1#🔒
+ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.8.211.98:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@66.81.247.141:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@66.81.247.202:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://31adff17-0d00-4cdf-8434-3b560569c151@188.114.97.155:8080?security=none&type=ws&host=prnim.kipa2.ir&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir#🔒
@@ -502,4 +503,3 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@160.153.0.43:443?security=tls&sni=pqh3
 ss://401374e6-df77-41fb-f638-dad8184f175b@164.38.155.97:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&alpn=h2#🔒
 ss://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.168:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒
 ss://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.18:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒
-ss://401374e6-df77-41fb-f638-dad8184f175b@167.68.5.109:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒
