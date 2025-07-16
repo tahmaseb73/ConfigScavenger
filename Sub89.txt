@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#Free%2022%20%28%40Outline_Vpn%29
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#Free%203000%20%28%40Outline_Vpn%29
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#Free%2024%20%28%40Outline_Vpn%
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#Free%2031%20%28%40Outline_Vpn%29
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#🇨🇦CA_1038_@Surfboardv2ray
+        vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#🇨🇦CA_1038_@Surfboardv2ray
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?security=none&type=ws&host=gozargah.validbv7996.ir#🔒
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@199.34.228.162:8443?security=tls&sni=gozargah.validbv7996.ir&type=ws&path=Telegram%40V2ray_Alpha%2F%3Fed#🔒
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@199.34.228.164:8443?security=tls&sni=gozargah.validbv7996.ir&type=ws&path=Telegram%40V2ray_Alpha%2F%3Fed#🔒
@@ -503,3 +499,7 @@ vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@206.238.237.92:2087?security=tls&sn
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@220.77.114.12:11075?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🔒
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.48.115:2087?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.48.21:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.49.209:2087?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&host=ngedc.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.49.224:8443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.49.74:2087?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@43.155.30.252:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒

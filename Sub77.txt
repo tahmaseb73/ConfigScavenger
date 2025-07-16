@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.231:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒
-vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.246:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed#🔒
-vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.43:443?security=tls&sni=vb.bgm2024.dpdns.org&type=ws&host=vb.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒
-vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.70:443?sni=ca.bgm2024.dpdns.org&type=ws&host=ca.bgm2024.dpdns.org&allowInsecure=1#🔒
-vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.94:443?sni=ca.bgm2024.dpdns.org&type=ws&host=ca.bgm2024.dpdns.org&allowInsecure=1#🔒
+        vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.94:443?sni=ca.bgm2024.dpdns.org&type=ws&host=ca.bgm2024.dpdns.org&allowInsecure=1#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@216.221.213.189:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@216.24.57.108:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@216.24.57.113:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%20re.vs2024.us.kg&fp=chrome#🔒
@@ -503,3 +499,7 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=%2Fnet.net
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=%2Fnet.net%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2053%20%28%40Outline_Vpn%
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=%2Fnet.net%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2073%20%28%40Outline_Vpn%29
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2Fnet.net%3Fed%3D2560#🔒
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.16:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.200:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.152.2:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.152.2:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&path=/?ed=2560&host=5-55sfjslf.ifenxiang.cfd&encryption=none#🇨🇦CA_610_@Surfboardv2ray

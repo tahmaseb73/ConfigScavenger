@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.40:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.40-80+%7C+5.49ms
-ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.10:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.10-80+%7C+5.4ms
-ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.0:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.0-80+%7C+5.62ms
-ss://ee8626d3029547539c374cbe1c5eac0e@www.speedtest.net:443#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-443+%7C+8.02ms
-ss://ec8a65adaafc40959b8cea10890ca629Og==@154.92.9.151:443#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+154.92.9.151-443+%7C+5.7ms
+        ss://ec8a65adaafc40959b8cea10890ca629Og==@154.92.9.151:443#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+154.92.9.151-443+%7C+5.7ms
 ss://ebbd3aa760ac4a1a937791ef60b7d6e9Og==@185.143.235.1:443#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.235.1-443+%7C+55.71ms
 ss://ea286109d20f415e849e4af20ab04b65Og==@8.210.29.68:443#HK%F0%9F%87%AD%F0%9F%87%B0+%7C+8.210.29.68-443+%7C+209.42ms
 ss://ea286109d20f415e849e4af20ab04b65Og==@8.210.29.68:443#HK%F0%9F%87%AD%F0%9F%87%B0+%7C+8.210.29.68-443+%7C+213.2ms
@@ -503,3 +499,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?encryption=none&se
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.26:8880?encryption=none&security=none&type=ws&host=sk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#GB-%3EFR-%3EMCI-%3E%40Sezar_Sec
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.101:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7307#US-%3EUS-%3EADL-%3E%40Sezar_Sec
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?encryption=none&security=none&type=grpc#GB-%3EGB-%3EMTN-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#CY-%3ECY-%3EADL-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaYzZjTENxUmpFbmRoS3ZIVzNUdjkyRFhycE1tUUJoVlRpOFYzZzZHdm9OS1pBb1BiVWtpTHZBYTljR3pZMk54QTdONWZxcmdCV2V5cXhKVDJlclNaZFVKQjg0YjlvaUo%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3EADL-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV0piamF2RkhRdjd2Z0toeUhFTWc3b1lUTHpROThHcVRUVTdMbVcyWnVDSHk5ZVpMQmtvamNDeWdCMUd5ZGlXWW1EaXdoR0h1bjNYaTlEbTRzOUhvOVFTbkNNZUhhUEg%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
