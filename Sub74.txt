@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://538ec70c-b386-51ad-8155-aeaed37a22b6@172.67.245.156:2087?security=tls&sni=newus.sspeednetokala.US.KG&type=ws&host=newus.sspeednetokala.US.KG&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2&allowInsecure=1#🔒
+        vless://537d652c-97d9-4215-8464-3031c5669001@172.67.78.9:443?encryption=none&security=tls&sni=de2.xyxy.dpdns.org&type=ws&host=de2.xyxy.dpdns.org&path=%2F537d652c#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A15.91ms
+vless://5389571a-da53-47b1-9ea1-06eaab48f07f@140.248.149.43:80?type=ws&host=JoinBede--Eliv2-Ray.iR&path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY----Channel-ELiV2RAY%3Fed%3D2048#🔒
+vless://538d7fbb-6a3b-4bb8-a373-9025a9706be9@88.198.101.91:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw&fp=chrome&type=grpc&serviceName=yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP&sni=stackoverflow.com&sid=05a6d4aa5e314637#@meli_proxyy
+vless://538d7fbb-6a3b-4bb8-a373-9025a9706be9@88.198.101.91:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw&fp=chrome&type=grpc&serviceName=yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP&sni=stackoverflow.com&sid=05a6d4aa5e314637#⚡Telegram
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@162.159.195.212:443?security=tls&sni=newus.sspeednetokala.uS.kg&type=ws&host=newus.sspeednetokala.uS.kg&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2#🔒
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@172.67.245.156:2087?security=tls&sni=newus.sspeednetokala.US.KG&type=ws&host=newus.sspeednetokala.US.KG&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2&allowInsecure=1#🔒
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.232.201:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.233.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.234.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒
@@ -498,8 +503,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.0.63.20:8880?allowInsecure=0&sn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.0.63.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.0.63.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#🇺🇸US_499_@Surfboardv2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.0.63.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#t.me%2Fpeterjest
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#⚡Telegram
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#⚡Telegram
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%8D%91
