@@ -3,7 +3,22 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://telegram-id-privatevpns@3.121.14.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
+        trojan://telegram-id-privatevpns@18.159.76.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@18.184.108.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@18.184.137.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.184.137.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@18.184.137.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
+trojan://telegram-id-privatevpns@18.184.137.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
+trojan://telegram-id-privatevpns@18.184.137.206:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒
+trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)
+trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)🇩🇪t.me/vmess_iran
+trojan://telegram-id-privatevpns@18.196.117.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@18.196.247.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@18.198.119.39:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@VIProxys
+trojan://telegram-id-privatevpns@18.199.45.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@18.203.37.176:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@VIProxys
+trojan://telegram-id-privatevpns@3.121.14.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.121.14.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@3.121.14.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@3.121.14.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
 trojan://telegram-id-privatevpns@3.121.14.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
@@ -488,18 +503,3 @@ vless://020bd957-d34e-431c-8423-72fdcd800ecc@104.26.0.117:2052?path=%40Maznet--%
 vless://020bd957-d34e-431c-8423-72fdcd800ecc@104.26.0.117:2052?path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&security=none&encryption=none&host=wWw.SpeedtesT.net.mAzMaznet.store.&type=ws#US🇺🇸
 vless://0212fab5-e93c-4904-b7a8-187fd535f354@104.21.49.59:443?security=tls&sni=3qws.890617.xyz&type=ws&host=3qws.890617.xyz&path=%2FIcc2cX4ThvubEYxWO67qEaMINZ1&fp=chrome&alpn=http%2F1.1#🔒
 vless://0212fab5-e93c-4904-b7a8-187fd535f354@172.67.159.56:443?security=tls&sni=3qws.890617.xyz&type=ws&host=3qws.890617.xyz&path=%2FIcc2cX4ThvubEYxWO67qEaMINZ1&fp=chrome&alpn=http%2F1.1#🔒
-vless://0227ec29-4dce-4891-942a-191f2d29f005@95.164.35.169:32756/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=0w3vKmbzpqRs-4Kz9W0ECUfFKRXfzR5Oy1tqXPZ6als&sid=8852e484a776#⚡Telegram
-vless://02475224-e7cd-58a5-a6d7-81d7d025acac@86.38.214.22:2052?security=none&type=ws&host=sPeedtest2.sbs.gb.vless.sitespeedtest.net&path=%2Fvless#🔒
-vless://028e3bfe-bec5-44aa-ad20-0c37e4935f02@89.47.197.231:2020?security=none&encryption=none&host=uptv.ir&headerType=http&type=tcp#🇮🇷IR_158_@Surfboardv2ray
-vless://028e3bfe-bec5-44aa-ad20-0c37e4935f02@89.47.197.231:2020?security=none&encryption=none&host=uptv.ir&headerType=http&type=tcp#🇮🇷IR_169_@Surfboardv2ray
-vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?encryption=none&security=none&type=tcp&headerType=none#%40Golestan_VPN%20-%20JOIN
-vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=none&encryption=none&host=confingplus&headerType=http&type=tcp#freeiranianv2rey@freeiranianv2rey
-vless://02a2666f-fa33-4003-bc8b-581e4d20f66b@188.114.97.1:80?security=none&type=httpupgrade&host=speedtest.net.sholeshkon.ir.toshan.ip-ddns.com.&path=/Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG-Telegram-HqV2RayNG?ed#🔒
-vless://02a3e771-fb49-4662-db97-48100c811e09@188.245.246.141:11163?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&sid=f830f6#🔒
-vless://02aa01e3-7f27-4e47-82e2-27c0b41bda9a@194.182.79.113:26468?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-vless://02aa01e3-7f27-4e47-82e2-27c0b41bda9a@194.182.79.113:26468?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍉
-vless://02aa01e3-7f27-4e47-82e2-27c0b41bda9a@194.182.79.113:26468?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#all%20%F0%9F%87%A8%F0%9F%87%BF%20%28%40ZEDMODEON%29%20113
-vless://02fae33c-3137-48f6-abeb-8fd8c7aa5001@116.203.149.50:33274?security=none&type=ws&path=%2F%40drakvpn#@Hope_Net-join-us-on-Telegram⚠️
-vless://02fc8aa4-05fa-4c6a-bc39-82b5b6201156@171.22.26.124:8081?type=grpc&serviceName=&authority=&security=none#🇮🇷IR_159_@Surfboardv2ray
-vless://02fc8aa4-05fa-4c6a-bc39-82b5b6201156@171.22.26.124:8081?type=grpc&serviceName=&authority=&security=none#🇮🇷IR_170_@Surfboardv2ray
-vless://0330f16d-9d9a-4a6d-b3e0-981401edd5e2@104.16.242.94:2053?security=tls&sni=241888.xyz&type=ws&host=241888.xyz&path=%2F%3Fed%3D2560&fp=random#🔒
