@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://7f559928-d85c-4d83-b44e-8be2d3062578@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]
-ss://7f56467b-597a-4549-b3a7-2288c47a1d86@104.16.213.133:2083?security=tls&sni=myv2ray-4xs.pages.dev&type=ws&host=myv2ray-4xs.pages.dev&allowInsecure=0#🔒
-ss://7f56467b-597a-4549-b3a7-2288c47a1d86@162.159.152.118:8443?sni=myv2ray-4xs.pages.dev&type=ws&host=myv2ray-4xs.pages.dev&allowInsecure=0#🔒
-ss://7f617e8f-e643-5795-af52-120c2a61de82@38.76.247.217:443?security=tls&sni=38.76.247.217&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.76.247.217&encryption=none#Rayan%20-%20SSO%20-%20WSDR-121%20-%20SG%20-%20II%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
-ss://7f617e8f-e643-5795-af52-120c2a61de82@git-scm.com:443?security=tls&sni=sg-2-sso.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sg-2-sso.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSO%20-%20WSCT-121%20-%20SG%20-%20II%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
-ss://7f68a487-99e1-4d51-895c-a7864551edb3@www.speedtest.net:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#RELAY🚩
+        ss://7f68a487-99e1-4d51-895c-a7864551edb3@www.speedtest.net:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#RELAY🚩
 ss://7f93e196-1b2f-4a42-8051-5815554c05db@100.24.71.29:443?allowInsecure=1&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B816%20%7C%20%204.2MB/s%7COpenai
 ss://7f93e196-1b2f-4a42-8051-5815554c05db@13.217.2.236:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B849%20%7C%20%204.0MB/s%7C30%25%7COpenai
 ss://7f93e196-1b2f-4a42-8051-5815554c05db@13.217.2.236:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#@Hope_Net-join-us-on-Teleg
@@ -503,3 +498,8 @@ ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.34.65:443?sni=xv6.jpmj.dpdns.or
 ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.35.219:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.36.119:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.36.130:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.36.39:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.36.84:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.37.222:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.37.74:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.37.87:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒

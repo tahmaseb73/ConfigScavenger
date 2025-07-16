@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://8ca6df70-73af-4139-9f7e-685e71618c71@8.218.101.163:443?security=tls&sni=sga.costs.asia&type=ws&host=sga.costs.asia&path=%2Fbing#🔒
-vless://8cb143d6-ba4e-4217-987f-38abbf2ff4f2@172.67.174.89:443?security=tls&sni=pPaL03.liana-guTKowSKi.wOrKErs.dEv&type=ws&host=PPaL03.LiaNA-gUtKowskI.worKerS.dev&path=%2FTelegram@V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-vless://8cb62db2-cb4f-4531-bef4-39aed7a14dc4@185.18.212.125:2053?security=none&encryption=none&host=fast.speedgo.lol&headerType=http&type=tcp#🇮🇷IR_731_@Surfboardv2ray
-vless://8cb62db2-cb4f-4531-bef4-39aed7a14dc4@185.18.212.125:2053?security=none&encryption=none&host=fast.speedgo.lol&headerType=http&type=tcp#🇮🇷IR_752_@Surfboardv2ray
-vless://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇸🇰SK_753_@Surfboardv2ray
-vless://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇸🇰SK_754_@Surfboardv2ray
+        vless://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇸🇰SK_754_@Surfboardv2ray
 vless://8ce97a95-fdb1-4cd5-a9d0-38c7a5f2ccd9@104.21.1.12:2053?security=tls&sni=dl2.hupcloud.com&type=ws&host=dl2.hupcloud.com&path=%3Fed%3D2096&fp=chrome&alpn=h2#🔒
 vless://8ce97a95-fdb1-4cd5-a9d0-38c7a5f2ccd9@172.67.151.188:2053?security=tls&sni=dl2.hupcloud.com&type=ws&host=dl2.hupcloud.com&path=%3Fed%3D2096&fp=chrome&alpn=h2#🔒
 vless://8ce97a95-fdb1-4cd5-a9d0-38c7a5f2ccd9@ip.hupcloud.com:2053?type=ws&security=tls&host=dl2.hupcloud.com&sni=dl2.hupcloud.com&path=%3Fed%3D2096&fp=chrome&alpn=h2#RELAY🚩
@@ -503,3 +498,8 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.178:2096?security=tls&sn
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@208.86.168.210:443?security=tls&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&type=ws&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=/?ed%3D2048-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&fp=chrome#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@209.208.227.229:2096?security=tls&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&allowInsecure=1&fp=chrome&type=ws&path=/&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20VL-WS-TLS%204%E2%83%A3
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@209.208.227.229:2096?security=tls&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&type=ws&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&path=/&fp=chrome#🔒
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.103:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.112:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.134:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.139:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.158:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
