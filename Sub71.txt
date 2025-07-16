@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://34aeb3df-956b-4686-9db3-b6443408c802@top.cloudupdate.ir:29685/?type=grpc&serviceName=&authority=&security=reality&pbk=Ws0Bbou_txQJWcd1fGsdyRgVjwCyN0Tx0f95-QcHY18&fp=chrome&sni=yahoo.com&sid=8f9c09cd&spx=/#🇩🇪DE_336_@Surfboardv2ray
-vless://34b3cbba-e6ac-485a-9481-976a0415eab9@172.67.141.28:443?security=tls&sni=ESEtSeCuriTYliCEnse.nZEWlx.wOrKeRs.DeV&type=ws&host=esEtSecURITYLicEnse.NzeWLx.WorKErs.deV&path=%2FTelegram@V2ray_Alpha%2Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-vless://34b3cbba-e6ac-495a-9481-976a0419eab9@172.67.200.215:443?encryption=none&security=tls&sni=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&allowInsecure=1&type=ws&host=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.200.215%3A443
-vless://34b3cbba-e6ac-495a-9481-976a0419eab9@172.67.200.215:443?security=tls&sni=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&type=ws&host=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&path=%2F#🔒
-vless://34fca6a0-87ee-4921-ae91-c6304734f5a7@81.28.12.12:80?security=none&type=httpupgrade&host=r.com&path=%2FAzV2ry%3Fed%3D2056%2F%3FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN#🔒
+        vless://34fca6a0-87ee-4921-ae91-c6304734f5a7@81.28.12.12:80?security=none&type=httpupgrade&host=r.com&path=%2FAzV2ry%3Fed%3D2056%2F%3FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN#🔒
 vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:443?security=tls&sni=ooao14004.74gwenneth.workers.dev&type=ws&host=ooao14004.74gwenneth.workers.dev&path=/#🔒
 vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:80?encryption=none&security=none&type=ws&host=ooao14004.74gwenneth.workers.dev&path=%2F#t.me%2Fpeterjest
 vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=ooao14004.74gwenneth.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
@@ -503,3 +499,7 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.96.1:8880?security=none&type
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@108.160.139.154:8443?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#🔒
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@116.204.210.10:443?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=TelegramTW_%40WangCai2%2F%3Fed%3D2560#🔒
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@118.39.88.64:30071?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@119.199.206.40:39731?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#🔒
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@123.143.9.5:14041?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#🔒
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@138.2.89.64:32962?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@138.2.95.61:1111?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒

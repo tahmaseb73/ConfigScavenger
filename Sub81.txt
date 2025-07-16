@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:2096?security=tls&sni=QiSbUiWg0.ZuMiNhO.InFo&type=ws&host=QiSbUiWg0.ZuMiNhO.InFo&path=%2F#🔒
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?path=%2F&security=tls&encryption=none&host=MdLoXlYg.rIcKtMoUsE.InFo&fp=chrome&type=ws&sni=MdLoXlYg.rIcKtMoUsE.InFo#Free%20116%20%28%40Outline_Vpn%29
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?path=%2F&security=tls&encryption=none&host=PbDcFyWr0.KoTtArY.InFo&type=ws&sni=PbDcFyWr0.KoTtArY.InFo#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?security=none&type=httpupgrade&host=TdWwPlBs61.kOmAtSo.oRg&path=%2F#🔒
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&allowInsecure=1&fp=chrome&type=ws&path=/&host=ScGiYaSk.rOcKsToNeY.InFo&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+        vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&allowInsecure=1&fp=chrome&type=ws&path=/&host=ScGiYaSk.rOcKsToNeY.InFo&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&fp=chrome#🔒
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.176:2198?security=none&type=tcp#🔒
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=none&type=tcp#🔒
@@ -503,3 +499,7 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.236.250:443?sni=xv6.jpmj.dpd
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.237.109:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.238.153:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.24.51:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.29.110:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.31.253:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.14.79:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.15.27:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
