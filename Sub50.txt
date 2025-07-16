@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Falkenstein%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=none&encryption=none&type=grpc#Free%2056%20%28%40Outline_Vpn%29
+        ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=none&encryption=none&type=grpc#Free%2056%20%28%40Outline_Vpn%29
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.114.143:8880?security=&type=grpc&encryption=none#🇩🇪DE_1138_@Surfboardv2ray
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.219.115:8880/?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#@VIPro
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.219.115:8880/?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#@VIProxys
@@ -503,3 +502,4 @@ ss://e1ec0eef-2fde-53e4-b8d6-76f882e6b268@www.speedtest.net:2052?path=/vless#�
 ss://e1f8f779-bd78-46a0-b196-707d169f4061@104.20.18.168:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#🔒
 ss://e1f8f779-bd78-46a0-b196-707d169f4061@104.20.19.168:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#🔒
 ss://e1f8f779-bd78-46a0-b196-707d169f4061@172.67.2.238:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#🔒
+ss://e207c137-47aa-4f56-b82b-19e3d4ee72a6@51.77.108.99:13004?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#🇬🇧GB_1203_@Surfboardv2ray

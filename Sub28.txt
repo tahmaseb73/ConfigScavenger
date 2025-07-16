@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://5543ae5c-c24f-405a-9266-597cbc43c818@95.164.18.132:81?security=tls&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&path=%2F%3Fed#🔒
-ss://55520747-311e-4015-83ce-be46e2060ce3@104.16.250.22:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
+        ss://55520747-311e-4015-83ce-be46e2060ce3@104.16.250.22:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
 ss://55520747-311e-4015-83ce-be46e2060ce3@104.17.25.173:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
 ss://55520747-311e-4015-83ce-be46e2060ce3@104.18.185.26:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
 ss://55520747-311e-4015-83ce-be46e2060ce3@104.21.224.5:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
@@ -503,3 +502,4 @@ ss://597e868b-6e42-4120-bcd9-32e193b950f9@104.18.160.63:443?security=tls&sni=fm3
 ss://5985a6e3-1ed7-48bb-871d-6a432870642a@www.speedtest.net:8880?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=chrome&type=ws#🇨🇦CA_594_@Surfboardv2ray
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Golestan_VPN‏⬅️
+ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%20100%20%28%40Outline_Vpn%29

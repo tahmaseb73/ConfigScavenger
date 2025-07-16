@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://a8e59566-4420-4493-91ba-029ee0ff6d74@172.67.69.236:2083?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=%2F2083%2F%40VRayyNGvpn&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
-vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@172.67.180.227:443?path=/a8e84392&security=tls&encryption=none&host=dewuxian.pai50288.uk&type=ws&sni=dewuxian.pai50288.uk#🇨🇦CA_923_@Surfboardv2ray
+        vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@172.67.180.227:443?path=/a8e84392&security=tls&encryption=none&host=dewuxian.pai50288.uk&type=ws&sni=dewuxian.pai50288.uk#🇨🇦CA_923_@Surfboardv2ray
 vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@172.67.180.227:443?security=tls&sni=dewuxian.pai50288.uk&type=ws&host=dewuxian.pai50288.uk&path=/a8e84392#🔒
 vless://a8fa86e3-03e3-4db9-98b0-fa52a2ba1ff1@172.66.47.94:443?security=tls&sni=jOInMahDisErveR-KMA.PagES.dEV&type=ws&host=joinmahdiserver-kma.pages.dev&path=%2FhFvNs2xfH0f16GB7%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 vless://a90e3756-d330-4597-bcc3-ab7905741e52@86.104.72.211:32401?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=8RJPuc5C7fcVe5LSQ0olGnhiqFL8LX-0pnLMrEHD1Bs&sid=7fb7a1507826c540&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FSecaucus%F0%9F%85%BF%EF%B8%8Fping%3A98.26ms
@@ -503,3 +502,4 @@ vless://b8c59cae-73a8-4f44-88f9-4e40a7b94058@104.19.54.50:8080?type=grpc&service
 vless://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?security=tls&sni=ShAh-aGz.pAGes.DEV&type=ws&host=ShAH-AGZ.PAGES.dEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒
 vless://b90c3bef-d146-400d-a1e5-c5368fc8840c@www.speedtest.net:2053?type=ws&host=g.yUSEFkharE.SBS&path=/Tel:@AnGuS_VPN&security=tls&fp=chrome&sni=g.yUSEFkharE.SBS&alpn=h3,h2,http/1.1#🇨🇦CA_982_@Surfboardv2ray
 vless://b96c861d-156a-4e8b-c1e9-15412c63d691@188.245.144.74:443?mode=gun&security=reality&encryption=none=#🇩🇪DE_983_@Surfboardv2ray
+vless://b97490d7-e509-4ef7-b218-130a680bcd4c@138.128.225.100:2083?security=tls&sni=design-mobo.ir&type=xhttp&host=shark.cloud&path=%2Ftelegram-shrakpublic%2Flog.rar&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
