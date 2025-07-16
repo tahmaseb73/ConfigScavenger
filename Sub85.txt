@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://CHIK_781333@77.91.76.14:443?security=reality&encryption=none&pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#REALITY|FR🇫🇷
+        vless://CHIK_682538@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#REALITY|SE🇸🇪
+vless://CHIK_682538@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#⚡Telegram
+vless://CHIK_781333@77.91.76.14:443?security=reality&encryption=none&pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#REALITY|FR🇫🇷
 vless://CHIK_781333@77.91.76.14:443?security=reality&encryption=none&pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&headerType=&fp=chrome&spx=/&type=tcp&sni=whatsapp.com&sid=ffffffffff#🇫🇷FR_846_@Surfboardv2ray
 vless://CHIK_781376@77.91.85.161:443?security=reality&encryption=none&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#REALITY|SE🇸🇪
 vless://CHIK_781793@77.91.85.161:443?security=reality&encryption=none&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&headerType=&fp=chrome&spx=/&type=tcp&sni=whatsapp.com&sid=ffffffffff#🇸🇪SE_847_@Surfboardv2ray
@@ -501,5 +503,3 @@ vless://a88cb5df-7efc-44a5-a078-d1dde8bfc327@216.24.57.38:2096?security=tls&sni=
 vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.16.108.84:443?security=tls&sni=shutu.pages.dev&type=ws&host=shutu.pages.dev&allowInsecure=0#🔒
 vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.24.10.235:443?sni=shutu.pages.dev&type=ws&host=shutu.pages.dev&allowInsecure=0#🔒
 vless://a89d62d3-34e3-4240-b105-3a18a9433dd6@192.200.160.188:8443?security=tls&sni=crm.iranigamebaz.ir&type=grpc&serviceName=V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-vless://a8e59566-4420-4493-91ba-029ee0ff6d74@104.26.14.16:2083?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=%2F2083%2F%40VRayyNGvpn&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
-vless://a8e59566-4420-4493-91ba-029ee0ff6d74@172.67.69.236:2083?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=%2F2083%2F%40VRayyNGvpn&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒

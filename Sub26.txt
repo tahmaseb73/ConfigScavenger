@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒
+        ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.0.63.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#t.me%2Fpeterjest
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#⚡Telegram
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#⚡Telegram
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%8D%91
@@ -501,5 +503,3 @@ ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.118.20:8880?security=none&type=w
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.118.32:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.119.134:8880?path=Telegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.119.134:8880?path=Telegram:@Selinc/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇬🇧GB_537_@Surfboardv2ray
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.119.134:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir#🔒
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.119.156:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒

@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.214.142:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
+        ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.179.138:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
+ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.179.139:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
+ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.214.142:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
 ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.46.174:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
 ss://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.46.238:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒
 ss://721a6c8e-809f-404d-91d6-582860af9cc3@172.217.1.110:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Teleg
@@ -501,5 +503,3 @@ ss://7f93e196-1b2f-4a42-8051-5815554c05db@3.80.244.42:443?allowInsecure=0&sni=zu
 ss://7f93e196-1b2f-4a42-8051-5815554c05db@3.81.35.73:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B812%20%7C%20%202.2MB/s%7C30%25%7COpenai
 ss://7f93e196-1b2f-4a42-8051-5815554c05db@3.81.35.73:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#@Hope_Net-join-us-on-Teleg
 ss://7f93e196-1b2f-4a42-8051-5815554c05db@3.84.217.14:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B813%20%7C%20%203.1MB/s%7C30%25%7COpenai
-ss://7f93e196-1b2f-4a42-8051-5815554c05db@3.85.75.102:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B854%20%7C%20%204.6MB/s%7C30%25%7COpenai
-ss://7f93e196-1b2f-4a42-8051-5815554c05db@3.87.11.247:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B827%20%7C%20%201.1MB/s%7C30%25%7COpenai
