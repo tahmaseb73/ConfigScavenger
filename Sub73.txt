@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://4b7251f3-d895-4c5b-8108-b83e80c73c3f@104.16.124.207:443?sni=pzdxlzk97.dpdns.org&type=ws&host=pzdxlzk97.dpdns.org#🔒
+        vless://4b6123d9-ced4-431b-9480-102e0729887e@bermuda.jahanmataleb.ir:443?type=tcp&security=reality&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&fp=chrome&sni=www.refersion.com&sid=e869&spx=/#🇩🇪DE_418_@Surfboardv2ray
+vless://4b7251f3-d895-4c5b-8108-b83e80c73c3f@104.16.124.207:443?sni=pzdxlzk97.dpdns.org&type=ws&host=pzdxlzk97.dpdns.org#🔒
 vless://4b7251f3-d895-4c5b-8108-b83e80c73c3f@104.16.74.176:443?sni=pzdxlzk97.dpdns.org&type=ws&host=pzdxlzk97.dpdns.org#🔒
 vless://4b7251f3-d895-4c5b-8108-b83e80c73c3f@104.24.29.17:443?sni=pzdxlzk97.dpdns.org&type=ws&host=pzdxlzk97.dpdns.org#🔒
 vless://4b7b95c7-6cdf-45a7-af08-0da9f1222224@171.22.120.10:443?security=reality&sni=www.cdn77.com&type=grpc&serviceName=MTMVPN----MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&fp=qq&pbk=pWvBPhxqJjzAUrKKHI9rQtokKAHGtSLHZ_wrl-ArERg&sid=76#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=%2FRiuadVWEiFm
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=%2FRiuadVWEiFmFyL3C%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%88%DB%8C%DA%98%D9%87+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ipsycho.suex12.ir&fp=chrome&type=ws&sni=iPsyCHO.SUEx12.iR#🇨🇦CA_452_@Surfboardv2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.24.17.194:2082?security=none&type=ws&host=redw.pooriam.ir&path=%2Fvless.txt%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2048#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.24.229.98:80?encryption=none&security=none&type=ws&host=REEdfREe8MahSaNg2.rEDOrG.IR&path=%2FTM%40AZAFBAYJAB1#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A15.93ms

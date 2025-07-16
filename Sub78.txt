@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.252:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒
+        vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.250:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.252:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.31:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?encryption=none&security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F#t.me%2Fpeterjest
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F#🔒
@@ -502,4 +503,3 @@ vless://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@157.180.41.190:1524?security=none&t
 vless://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@188.245.120.39:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒
 vless://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@49.13.237.7:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒
 vless://6741c0e0-7069-4ff2-8247-aec9a569295e@www.speedtest.net:2096?type=ws&security=tls&path=%2FTel%3A%40%40vpnclashfa+-+660#RELAY🚩
-vless://675537c4-5916-446f-b90d-15f64f3ccf67@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&encryption=none&host=s2.cdn.hulkirani.shop&type=ws&sni=mydigipay.com#s0013

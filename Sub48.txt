@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://cca45b57-0f24-43c8-8911-f8dab5af1e10@172.67.162.36:8880?type=ws&host=0522.yeyefeng.dpdns.org&path=%2F#🇸🇬[openproxylist.com]
+        ss://cca45b57-0f24-43c8-8911-f8dab5af1e10@104.21.10.25:8880?type=ws&host=0522.yeyefeng.dpdns.org&path=%2F#🔒
+ss://cca45b57-0f24-43c8-8911-f8dab5af1e10@172.67.162.36:8880?type=ws&host=0522.yeyefeng.dpdns.org&path=%2F#🇸🇬[openproxylist.com]
 ss://cca45b57-0f24-43c8-8911-f8dab5af1e10@172.67.162.36:8880?type=ws&host=0522.yeyefeng.dpdns.org&path=%2F#🔒
 ss://ccbaaab-baac-bcaa-bdac-abbccaacbbca@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram⚠️
 ss://ccbd413f-4aa0-4b36-8fd8-68f5ddb8b404@145.239.86.241:2052?security=none&allowInsecure=1&fp=chrome&type=grpc&serviceName=vless-grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20-%20Wroclaw%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
@@ -502,4 +503,3 @@ ss://d342d11e-d424-4583-b36e-524ab1f0afa4@workers.cloudflare.cyou:2052?encryptio
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@workers.cloudflare.cyou:2053?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@workers.cloudflare.cyou:2082?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@workers.cloudflare.cyou:2083?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@workers.cloudflare.cyou:2086?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗

@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20-%20Vienna%20%F0%9F%8C%8D%20VL-TCP-NONE%204%E2%83%A3
+        ss://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80?security=none&type=ws&host=workerr.johnstoner.workers.dev&path=%2F%3Fed%3D2048#🔒
+ss://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20-%20Vienna%20%F0%9F%8C%8D%20VL-TCP-NONE%204%E2%83%A3
 ss://53525369-63e2-4cff-8c85-09cd64f4cd25@194.182.79.108:50513?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#🇨🇿CZ_442_@Surfboardv2ray
 ss://53721970-2138-4263-8c9c-21397e759c06@172.67.193.228:443?security=tls&sni=M3vVvbNFFfG.777289.XyZ&type=ws&host=m3vvvbnfffg.777289.xyz&path=%2FBt93qlsreYHzV5Ii9WW&fp=chrome&alpn=http%2F1.1#🔒
 ss://537d652c-97d9-4215-8464-3031c5669001@172.67.78.9:443?encryption=none&security=tls&sni=de2.xyxy.dpdns.org&type=ws&host=de2.xyxy.dpdns.org&path=%2F537d652c#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A15.91ms
@@ -502,4 +503,3 @@ ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.237:8880?security=none&type=
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.91:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%B7%C2%AE%EF%B8%8FCosta%20Rica%C2%A9%EF%B8%8FPozos%F0%9F%85%BF%EF%B8%8Fping%3A8.18ms
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.246.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#⚡Telegram

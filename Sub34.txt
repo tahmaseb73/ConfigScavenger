@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.226:2096?security=tls&sni=mahDiSERver-x1p.pageS.dEv&type=ws&host=mahDisErvEr-X1p.pages.DEv&fp=chrome&alpn=h2,http/1.1#🔒
+        ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.12:8443?security=tls&sni=mAhdisErver-338.pagEs.deV&type=ws&host=MAHDiserVeR-338.pagES.deV&fp=chrome&alpn=h2,http/1.1#🔒
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.226:2096?security=tls&sni=mahDiSERver-x1p.pageS.dEv&type=ws&host=mahDisErvEr-X1p.pages.DEv&fp=chrome&alpn=h2,http/1.1#🔒
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?security=tls&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&path=%2Ftelegram-%40v2ray_alpha%2F%3Fed%3D2560#🔒
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?security=tls&sni=V2NGfASt.pAgeS.dev&type=ws&host=V2ngfAST.PaGEs.dEV#🔒
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.181:443?security=tls&sni=v2ngFAst-JcR.PAGES.DEv&type=ws&host=V2NGfAST-JCR.PAGES.DEv#🔒
@@ -502,4 +503,3 @@ ss://9322430d-84fd-4fdf-808d-5c146fcde700@104.26.14.85:8080?security=none&allowI
 ss://9322430d-84fd-4fdf-808d-5c146fcde700@104.26.15.85:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048flow%3D-udp443&host=06.GDyA7g7K11.ZuLair.ORG.&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://9322430d-84fd-4fdf-808d-5c146fcde700@172.67.73.163:8080?path=%2F%3Fed%3D2048flow%3D-udp443&security=none&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 ss://9322430d-84fd-4fdf-808d-5c146fcde700@172.67.73.163:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048flow%3D-udp443&host=06.GDyA7g7K11.ZuLair.ORG.&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://9322430d-84fd-4fdf-808d-5c146fcde700@172.67.73.163:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048flow%3D-udp443-@&host=06.GDyA7g7K11.ZuLair.ORG.&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
