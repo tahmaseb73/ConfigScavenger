@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://c3aea77c-cb41-442b-a083-2811707ba623@104.18.15.19:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0305.reandoor.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://c3aea77c-cb41-442b-a083-2811707ba623@104.18.15.19:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0305.reandoor.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+        ss://c3aea77c-cb41-442b-a083-2811707ba623@104.18.15.19:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0305.reandoor.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://c3b4b127-a7d9-4ded-b221-0023ccbe3f69@78.39.57.73:443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40V2rayNG3
 ss://c3c07679-bddc-4ce8-9cc4-57b550a1c000@104.26.12.140:443?security=tls&sni=ssss4SssSsssssSssS.paGES.DeV&type=ws&host=sssS4SsSsssSSSsSSS.PageS.dEV&fp=chrome&alpn=h2,http/1.1#🔒
 ss://c3c07679-bddc-4ce8-9cc4-57b550a1c000@104.26.13.140:443?security=tls&sni=ssss4SssSsssssSssS.paGES.DeV&type=ws&host=sssS4SsSsssSSSsSSS.PageS.dEV&fp=chrome&alpn=h2,http/1.1#🔒
@@ -503,3 +502,4 @@ ss://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.72:443?security=tls&sni=iryi
 ss://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.80:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒
 ss://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?security=tls&sni=nooshin-2d9.pages.dev&type=ws&host=nooshin-2d9.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒
 ss://cc7b671b-b8ad-4b99-b896-d8c0c4fd416a@104.16.163.32:8880?security=none&type=httpupgrade&host=app.mobilewersach.ir.&path=%2F%3Fed%3D1024-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam#🔒
+ss://cc9310a4-5505-47b6-8fcb-59d8434c9066@89.110.104.14:4434?security=reality&flow=xtls-rprx-vision&sni=teamdocs.su&type=tcp&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🔒

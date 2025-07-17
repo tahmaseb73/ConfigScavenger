@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://7f93e196-1b2f-4a42-8051-5815554c05db@13.48.49.132:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CSE_speednode_0045
-ss://7f93e196-1b2f-4a42-8051-5815554c05db@13.53.186.195:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CSE_speednode_0044
+        ss://7f93e196-1b2f-4a42-8051-5815554c05db@13.53.186.195:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CSE_speednode_0044
 ss://7f93e196-1b2f-4a42-8051-5815554c05db@13.53.217.148:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CSE_speednode_0043
 ss://7f93e196-1b2f-4a42-8051-5815554c05db@18.175.189.187:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CGB_speednode_0018
 ss://7f93e196-1b2f-4a42-8051-5815554c05db@18.175.226.50:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CGB_speednode_0021
@@ -503,3 +502,4 @@ ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.38.3:443?sni=xv6.jpmj.dpdns.org
 ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.38.52:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.39.114:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.39.37:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.39.43:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒

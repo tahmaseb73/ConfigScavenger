@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg&type=ws&alpn=h3h2&host=EbRhP7yUx0.ToRsAnSpOrT16.oRg&path=%2F#RELAY🚩 | EbRhP7yUx0.ToRsAnSpOrT16.oRg-443 | 133.12ms
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=%2F&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#RELAY🚩 | NpFzCqA01g.V2pLuSmLm.OrG-443 | 2.62ms
+        vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=%2F&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#RELAY🚩 | NpFzCqA01g.V2pLuSmLm.OrG-443 | 2.62ms
 vless://33707040-edcf-4185-94e4-2a071315c602@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&sid=7def4dde#REALITY|DE🇩🇪 | vpn_proxy_channel_vpn_proxy_channel.hohod.ir-443 | 550.71ms
 vless://32895c66-fe57-49ad-ba5a-1936f2d5a7a8@m1.darkkabir.site:8080?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷 | m1.darkkabir.site-8080 | 383.32ms
 vless://32622124-139e-4eab-8fb8-faaf021acd3f@poseidex.house0of1nyxora.top:2096?security=reality&encryption=none&pbk=jM7JL3cp1HdLpEuvRDGJlzI-zUXW_6z8FkQBqimt4BE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=88dfa714#REALITY|AT🇦🇹 | poseidex.house0of1nyxora.top-2096 | 576.54ms
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.19:38388#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+103.186.154.19-38388+%7C+266.58ms
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.18:9041#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9041+%7C+98.67ms
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.18:9045#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9045+%7C+98.52ms
+ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@217.30.10.18:9050#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9050+%7C+100.14ms
