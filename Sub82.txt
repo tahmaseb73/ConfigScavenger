@@ -3,7 +3,23 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.60.175:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+        vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.48.182:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.50.194:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.50.220:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.50.76:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.53.160:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.53.174:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.53.227:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.53.56:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.53.67:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.54.16:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.54.173:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.55.71:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.58.78:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.59.101:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.6.130:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.6.58:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.60.175:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.60.199:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.60.236:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.60.95:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
@@ -487,19 +503,3 @@ vless://8edae61f-5940-4abe-a30e-570dcdec8e18@104.18.6.36:8443?security=tls&sni=t
 vless://8edae61f-5940-4abe-a30e-570dcdec8e18@104.18.6.36:8443?sni=testvless2-ah2.pages.dev&type=ws&host=testvless2-ah2.pages.dev&allowInsecure=0#🔒
 vless://8edae61f-5940-4abe-a30e-570dcdec8e18@104.18.7.36:8443?security=tls&sni=testvless2-ah2.pages.dev&type=ws&host=testvless2-ah2.pages.dev#🔒
 vless://8f320d6a-9953-4065-b61c-d62f89a6767f@104.26.12.23:2083?security=tls&sni=e.exedu.ip-ddns.com&type=ws&host=e.exedu.ip-ddns.com&path=/?ed%3D2048&fp=chrome#🔒
-vless://8f320d6a-9953-4065-b61c-d62f89a6767f@104.26.13.23:2083?security=tls&sni=e.exedu.ip-ddns.com&type=ws&host=e.exedu.ip-ddns.com&path=/?ed%3D2048&fp=chrome#🔒
-vless://8f320d6a-9953-4065-b61c-d62f89a6767f@172.66.40.87:2083?security=tls&sni=e.exedu.ip-ddns.com&type=ws&host=e.exedu.ip-ddns.com&allowInsecure=0#🔒
-vless://8f320d6a-9953-4065-b61c-d62f89a6767f@172.66.43.169:2083?security=tls&sni=e.exedu.ip-ddns.com&type=ws&host=e.exedu.ip-ddns.com&path=%2F%3Fed%3D2048&fp=chrome#🔒
-vless://8f320d6a-9953-4065-b61c-d62f89a6767f@172.67.69.129:2083?security=tls&sni=e.exedu.ip-ddns.com&type=ws&host=e.exedu.ip-ddns.com&path=/?ed%3D2048&fp=chrome#🔒
-vless://8f6598b8-54fa-4cf1-b968-0fe82d993779@144.76.221.140:80?security=reality&sni=google.com&type=xhttp&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed&fp=randomized&pbk=ObQOo9ITwA070UeCANkuKo7sFVYQr-k_rGWgWBwPCn8&sid=7214#🔒
-vless://8f7fe273-e06d-47d5-9deb-d7b3c95dc573@104.16.216.90:443?sni=hai.gdz.buzz&type=ws&host=hai.gdz.buzz&allowInsecure=1#🔒
-vless://8f7fe273-e06d-47d5-9deb-d7b3c95dc573@104.24.71.251:443?security=tls&sni=hai.gdz.buzz&type=ws&host=hai.gdz.buzz#🔒
-vless://8f7fe273-e06d-47d5-9deb-d7b3c95dc573@172.64.68.58:443?security=tls&sni=hai.gdz.buzz&type=ws&host=hai.gdz.buzz#🔒
-vless://8f9b3f34-b7e5-48cc-96d3-91ae26a8973f@live.skornorth.com:443?encryption=none&security=tls&sni=live.skornorth.com&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=meldszina.net&path=%2F%40grizzlyvpn%3Fed%3D2048#US🇺🇸
-vless://8faf943c-9f25-4052-93a6-3359bbdd3baa@172.66.44.155:8443?security=tls&sni=maHdiSERveR-HJA.pAGES.DEv&type=ws&host=mahdiserver-hja.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒
-vless://8faf943c-9f25-4052-93a6-3359bbdd3baa@172.66.47.101:8443?security=tls&sni=maHdiSERveR-HJA.pAGES.DEv&type=ws&host=mahdiserver-hja.pages.dev&path=%2Fb6C76B0qVLCG0tcY%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@www.speedtest.net:2052?path=/&security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#🇨🇦CA_764_@Surfboardv2ray
-vless://900c3383-d60f-cba1-0c4a-05d0156ea4ad@195.234.191.139:8880?security=none&type=tcp&path=%2F&headerType=http#🔒
-vless://901a96a1-6952-44a1-8389-4a323c1fb59f@151.101.64.155:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=Lightning.ir&type=ws#🇺🇸US_765_@Surfboardv2ray
-vless://905b744f-d213-4cd3-9306-53f0ea86b2c4@91.92.40.78:2070?security=none&type=tcp#🔒
-vless://9068848e-9a94-4cf8-b466-7c7a9f13bf2e@172.67.21.239:2052?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇨🇦CA_766_@Surfboardv2ray

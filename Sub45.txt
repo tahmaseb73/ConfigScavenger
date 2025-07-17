@@ -3,7 +3,23 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.26.3.67:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@104.21.7.193:2095?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@104.21.7.193:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@104.21.7.193:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:2052?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:2082?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:2086?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:2095?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=11tg.w79kip11.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.18.15.229:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.18.9.101:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&alpn=h3,h2#🔒
+ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.18.9.150:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.21.211.74:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.22.24.112:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.25.56.79:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.26.1.229:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.26.3.67:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.26.9.91:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@162.159.192.152:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://b6f52521-c65d-43d6-bca4-76790c68d6fd@162.159.193.4:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&fp=chrome&alpn=h3,h2#🔒
@@ -487,19 +503,3 @@ ss://b99590df-eda0-4e34-e1a9-3d1118faed83@46.254.92.222:8880?security=none&type=
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@46.254.92.93:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.244.104:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.244.23:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.244.52:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.245.225:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.245.233:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.245.235:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.245.251:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.245.36:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.246.122:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.246.128:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.246.130:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.246.184:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.246.214:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.246.224:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.246.90:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.247.185:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.247.50:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.247.90:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
