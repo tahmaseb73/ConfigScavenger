@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://amclubs@154.83.2.61:8443?security=tls&sni=tran.amclubstest.nyc.mn&type=ws#🔒
+        trojan://amclubs@103.160.204.1:443?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒
+trojan://amclubs@103.160.204.1:443?security=tls&type=ws&sni=tran.amclubstest.nyc.mn&path=/Telegram@V2ray_Alpha/?ed=2560&host=tran.amclubstest.nyc.mn#%E6%9C%AA%E7%9F%A537
+trojan://amclubs@104.16.134.27:2083?sni=tran.amclubs.rr.nu#🔒
+trojan://amclubs@154.83.2.125:2087?sni=tran.amclubstest.nyc.mn#🔒
+trojan://amclubs@154.83.2.61:8443?security=tls&sni=tran.amclubstest.nyc.mn&type=ws#🔒
 trojan://amclubs@154.83.2.94:2053?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn#🔒
 trojan://amclubs@156.238.19.69:2096?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn#🔒
 trojan://amclubs@162.159.129.11:2053?sni=tran.amclubs.rr.nu&type=ws&host=tran.amclubs.rr.nu#🔒
@@ -127,6 +131,7 @@ trojan://bpb-trojan@101.69.122.104:443?security=tls&sni=zamim340.ggff.net&type=w
 trojan://bpb-trojan@104.16.149.244:2053?security=tls&sni=g1-21N.paGeS.deV&type=tcp#🔒
 trojan://bpb-trojan@104.16.4.103:443?security=tls&sni=bpb-hd.aaronchin.xyz&type=ws&host=bpb-hd.aaronchin.xyz#🔒
 trojan://bpb-trojan@104.17.102.149:2053?security=tls&sni=bpb-WorkEr-panel-bcr.PagEs.DEv&type=ws&host=bpb-worker-panel-bcr.pages.dev#🔒
+trojan://bpb-trojan@104.17.147.22:2053/?type=tcp&security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV&allowInsecure=1#%F0%9F%8F%81RELAY-104.17.147.22-0288
 trojan://bpb-trojan@104.18.107.117:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒
 trojan://bpb-trojan@104.18.182.198:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒
 trojan://bpb-trojan@104.18.37.111:443?security=tls&sni=mindrOOm-5cz.pAgEs.dEV&type=ws&host=mindroom-5cz.pages.dev#@Hope_Net-join-us-on-Telegram⚠️
@@ -209,6 +214,9 @@ trojan://c2c7da10-f546-11ef-b6ee-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@161.35.83.110:443?security=tls&sni=nl2-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@23.172.40.143:17742?#🔒
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@31.223.184.248:17721?sni=data.52daishu.life#🔒
+trojan://c4843eba-b070-403f-b43f-ef1ef7db571e@jp.lydurlclub.top:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
+trojan://c4843eba-b070-403f-b43f-ef1ef7db571e@usa.lydurlclub.top:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
+trojan://c4843eba-b070-403f-b43f-ef1ef7db571e@usa.lydurlclub.top:443?allowInsecure=1#@v2Source🇸🇬🌍
 trojan://c4b3ca10-d294-11ef-adce-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@45.67.229.222:443?security=tls&sni=customer-45-67-229-222.stark-industries.solutions&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B2%F0%9F%87%A9%20Moldova,%20Republic%20of%20-%20Chisinau%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@94.131.115.71:443?security=tls&sni=customer-94-131-115-71.stark-industries.solutions&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -495,11 +503,3 @@ trojan://iSqfn7KIf1@iran.farsonline24.ir:2053?security=tls&type=ws&host=iran.far
 trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%B8%F0%9F%87%AC%20SG-38.180.249.177%3A8443
 trojan://installshield@38.180.249.177:8443?security=tls&headerType=none&type=tcp&sni=38.180.249.177#Singapore%20M247
 trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&type=tcp#🔒
-trojan://installshield@38.180.249.177:8443?security=tls&type=tcp&sni=38.180.249.177#%E6%9C%AA%E7%9F%A575
-trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
-trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🔒
-trojan://juzi@104.20.29.149:2087?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@104.248.241.182:443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@104.25.252.185:8443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@104.25.254.197:2096?sni=juzi8186-sr1.pages.dev#🔒

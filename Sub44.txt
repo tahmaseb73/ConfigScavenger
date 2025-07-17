@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://ac7d60bc-fa2d-4632-aa30-03d7e96aaa5e@nl-2-rvp.rayan-dns.dpdns.org:443?security=tls&sni=nl-2-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=nl-2-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-121%20-%20NL%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+        ss://ac7bcf0a-ef69-4949-aff2-a93630021826@104.26.13.101:443?security=tls&sni=0C9CF137-telegRAM-CaSsIUsvpn-tElegrAm-cAsSIusvpn-teLEgrAm.eamOnN-120.workers.DEV&type=ws&host=0c9cf137-telegram-cassiusvpn-telegram-cassiusvpn-telegram.eamonn-120.workers.dev&path=%2FqmMTvZWWZJIvtX37%2FMy43MC4yMTkuMTk2%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+ss://ac7bcf0a-ef69-4949-aff2-a93630021826@172.67.70.123:443?security=tls&sni=0C9CF137-telegRAM-CaSsIUsvpn-tElegrAm-cAsSIusvpn-teLEgrAm.eamOnN-120.workers.DEV&type=ws&host=0c9cf137-telegram-cassiusvpn-telegram-cassiusvpn-telegram.eamonn-120.workers.dev&path=%2FqmMTvZWWZJIvtX37%2FMy43MC4yMTkuMTk2%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+ss://ac7d60bc-fa2d-4632-aa30-03d7e96aaa5e@nl-2-rvp.rayan-dns.dpdns.org:443?security=tls&sni=nl-2-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=nl-2-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-121%20-%20NL%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://ac8a603b-81a3-4011-b11d-0d1e05664c7a@151.101.3.8:80?path=%2Fspdnet%3Fed%3D1024%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=Ws.speedtest.a.Spdnet.ir&type=ws#%40flyv2ray%20%F0%9F%8E%81%D9%88%D8%B5%D9%84%20%D9%85%DB%8C%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%F0%9F%92%9C
 ss://ac8a603b-81a3-4011-b11d-0d1e05664c7a@151.101.3.8:80?security=none&type=ws&host=Ws.speedtest.a.Spdnet.ir&path=%2Fspdnet%3Fed%3D1024#🔒
 ss://ac928b9c-5cb4-4271-973b-0555cb81f4c7@103.180.236.42:18866/?security=reality&encryption=none&pbk=Fnl6q44shvR7L5PBIZWdBA34BIftx1w65F357zMrs0w&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=58bc#@VIPro
@@ -501,5 +503,3 @@ ss://b99590df-eda0-4e34-e1a9-3d1118faed83@108.165.216.136:8880?security=none&typ
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@108.165.216.162:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@108.165.216.163:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@108.165.216.56:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.228.131:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.228.170:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒

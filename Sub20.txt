@@ -3,12 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://228bf403-6198-4dc1-bc98-65ee1792d772@104.16.136.35:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
-ss://228bf403-6198-4dc1-bc98-65ee1792d772@188.114.96.2:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
-ss://229a61b0-5925-43dc-83f9-661670cfe41d@188.114.96.9:443?path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=tls&encryption=none&host=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev&type=ws&sni=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev#@VIPro
+        ss://229a61b0-5925-43dc-83f9-661670cfe41d@188.114.96.9:443?path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=tls&encryption=none&host=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev&type=ws&sni=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev#@VIPro
 ss://229a61b0-5925-43dc-83f9-661670cfe41d@188.114.96.9:443?path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=tls&encryption=none&host=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev&type=ws&sni=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev#@VIProxys
 ss://229a61b0-5925-43dc-83f9-661670cfe41d@188.114.96.9:443?security=tls&sni=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev&type=ws&host=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev&path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560#🔒
 ss://229a61b0592543dc83f9661670cfe41dOg==@188.114.96.9:443#RELAY%F0%9F%9A%A9+%7C+188.114.96.9-443+%7C+1.96ms
+ss://22b2c850-750e-456a-b916-c94f8638588b@128.140.95.85:57740?mode=auto&path=%2F%3Fed%3D2052&security=reality&encryption=none&pbk=uF5gsacUUmi8DyV8YZENFpnMtcYFShVh-WF6n11MhDU&fp=chrome&spx=%2Fexample&type=xhttp&sni=refersion.com&sid=0f#@meli_proxyy
 ss://22b35816-d926-4c7e-9c2e-d4d5379b3016@91.194.161.69:80?security=&sni=zula.ir&allowInsecure=1&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none#Rayan%20-%20VPH%20-%20gRPC-110%20-%20IS%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
 ss://22b35816-d926-4c7e-9c2e-d4d5379b3016@91.194.161.69:80?security=&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=91.194.161.69&encryption=none#Rayan%20-%20VPH%20-%20WSCT-110%20-%20IS%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
 ss://22bacfc5-73ff-453e-8703-784d45a4f9a7@ca-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=ca-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=ca-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-122%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -25,6 +24,7 @@ ss://236b64ca-e4c7-40ad-a49a-d3a8937b9b9b@germany.gamingbazirani.ir:600?security
 ss://236d825d-ff2e-4751-af97-6ba3a34675fe@104.16.94.219:443?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒
 ss://236d825d-ff2e-4751-af97-6ba3a34675fe@104.24.180.93:443?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒
 ss://236d825d-ff2e-4751-af97-6ba3a34675fe@172.64.154.222:2053?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒
+ss://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#telegram
 ss://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#@VIPro
 ss://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#@VIProxys

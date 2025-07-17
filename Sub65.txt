@@ -3,7 +3,15 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://trojan@172.67.75.172:8443?sni=fofang.pages.dev#🔒
+        trojan://trojan@104.21.22.11:8443?security=tls&sni=betashop.foz.rf.gd&type=ws&host=betashop.foz.rf.gd&path=%2F#t.me%2Fpeterjest
+trojan://trojan@104.21.22.11:8443?security=tls&type=ws&sni=betashop.foz.rf.gd&host=betashop.foz.rf.gd#%E6%9C%AA%E7%9F%A566
+trojan://trojan@104.21.3.52:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev#🔒
+trojan://trojan@104.26.12.31:8443?sni=fofang.pages.dev&type=ws#🔒
+trojan://trojan@104.26.13.31:8443?security=tls&sni=qianlang.pages.dev&type=ws&host=qianlang.pages.dev#🔒
+trojan://trojan@172.64.155.16:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
+trojan://trojan@172.64.155.16:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#🔒
+trojan://trojan@172.67.130.66:443?security=tls&sni=test-a23.pages.dev&type=tcp#🔒
+trojan://trojan@172.67.75.172:8443?sni=fofang.pages.dev#🔒
 trojan://trojan@45.192.222.112:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org#🔒
 trojan://trojan@47.236.181.185:8443?sni=store.timimi.dpdns.org#🔒
 trojan://trojan@91.193.58.0:443?sni=wahaha.yingyangkuaixian.dpdns.org&type=ws&host=wahaha.yingyangkuaixian.dpdns.org#🔒
@@ -69,7 +77,6 @@ trojan://vip@172.67.71.122:443?security=tls&sni=heihu880.pages.dev&type=ws&host=
 trojan://vip@172.67.71.187:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://vip@172.67.71.187:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#RELAY🚩
 trojan://vip@172.67.71.187:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒
-trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#%40Golestan_VPN%20-%20JOIN
 trojan://vpn@109.120.132.80:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@109.120.132.80:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@109.120.132.80:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
@@ -136,7 +143,6 @@ trojan://vs6f8hvt@162.159.140.1:2087?security=tls&sni=trojan.cchappy.eu.org&type
 trojan://vs6f8hvt@172.66.47.179:443?sni=trojan.cchappy.eu.org#🔒
 trojan://vs6f8hvt@172.67.68.204:443?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#🔒
 trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#🔒
-trojan://vzhXXZVw@223.113.54.149:51377?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://wb6368@172.66.44.86:443?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒
 trojan://wb6368@172.66.47.170:443?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒
 trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒
@@ -230,7 +236,6 @@ vless://00651706-0d2d-448b-80f2-7678f3e5187c@35.178.235.225:443?security=tls&sni
 vless://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?path=%2F&security=none&encryption=none&type=ws#%40config_v2ray_vpn%F0%9F%91%88%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%E2%80%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 vless://009363c7-92f2-48c2-8b18-25f28e52294a@172.67.21.239:2052?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇨🇦CA_148_@Surfboardv2ray
 vless://00a9a559-8bb0-425e-bc97-c9885a575455@5.10.244.44:443?sni=usargo.lzj520hxw.dpdns.org&type=ws&host=usargo.lzj520hxw.dpdns.org#🔒
-vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@www.speedtest.net:2096?path=%2Fgflzprws&security=tls&encryption=none&host=638879176706376779.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706376779.amsterdam-prx-dnraaal.info#Channel%20id%3A%20%40ShadowProxy66%20
 vless://00b91c86-78b2-76b5-8664-25fbcd00c724@104.16.127.115:2086?security=none&type=httpupgrade&host=DarkShield.nl.wowshops.ir.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒
 vless://00b91c86-78b2-76b5-8664-25fbcd00c724@104.16.127.23:2086?security=none&type=httpupgrade&host=DarkShield.nl.wowshops.ir.#🔒
 vless://00b91c86-78b2-76b5-8664-25fbcd00c724@104.16.127.84:2086?security=none&type=httpupgrade&host=DarkShield.nl.wowshops.ir.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒
@@ -391,7 +396,6 @@ vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443?security=tls&sni
 vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.4.120:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒
 vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.5.114:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒
 vless://04314541-ba99-49d9-9547-868e16961a1c@51.89.71.174:2053?security=reality&sni=sourceforge.net&type=tcp&fp=chrome&pbk=FfxMkKZQbG8Cdua7TSwH2NCOr-7JnJHSqfVq7dEHrCQ&sid=a153ba05a5faf65a#🔒
-vless://04327cef-1084-431a-d595-cfcf9593cbc3@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&host=qeshmserverfree.global.ssl.fastly.net&type=xhttp#%40VPN
 vless://0460e65b-0c2c-4767-ae4a-0086bed6a2af@zula.ir:8443?security=tls&sni=us-1-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=us-1-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-126%20-%20US%20-%20I%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
 vless://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eleven.dilik.co#🇵🇱PL_174_@Surfboardv2ray
 vless://0467eb58-29e0-4ecd-9b09-3b909862c377@140.248.180.62:443?path=/Channel-MOSIV2--MOSIV2--Channel-MOSIV2--MOSIV2?ed=2560&security=tls&encryption=none=#🇺🇸US_175_@Surfboardv2ray
@@ -483,7 +487,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.128.215:22224?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.128.215:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.131.37:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.244.192:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.123.58:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.13.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🌐سرور
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.59.146:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.59.146:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🌐سرور
@@ -500,6 +503,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.160.82:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.137.206:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.137.206:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.137.206:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🌐سرور
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.196.33.68:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIPro
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.210.178.84:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIPro
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.14.56:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig

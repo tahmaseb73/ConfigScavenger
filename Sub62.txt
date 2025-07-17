@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@188.164.159.98:2083?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@188.166.162.201:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒
-trojan://Aimer@188.93.140.11:443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#馃憠馃啍@v2ray_configs_pool馃摗馃嚫馃嚜庐锔廠weden漏锔廠tockholm馃吙锔弍ing:7.16ms
-trojan://Aimer@192.0.54.221:2083?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#馃憠馃啍@v2ray_configs_pool馃摗馃嚭馃嚫庐锔廢nited
-trojan://Aimer@192.0.54.221:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
+        trojan://Aimer@192.0.54.221:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@192.0.54.7:443?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@192.0.54.7:443?sni=epccn.ambercc.filegear-sg.me#🔒
 trojan://Aimer@192.18.134.22:443?sni=epmq.ambercc.filegear-sg.me#🔒
@@ -390,8 +386,16 @@ trojan://RISBa%3B60%40iJ0Y9j%24@cool-paper-b369.h-175.workers.dev:443?security=t
 trojan://RISBa%3B60%40iJ0Y9j%24@www.speedtest.net:443?security=tls&sni=COol-PAper-B369.h-175.WorKeRS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrFwkcT6K7A2tA3gxx%3Fed%3D2560#%F0%9F%92%A7%202%20-%20Trojan%20-%20Domain%20%3A%20443
 trojan://RlzoEILU@36.151.251.62:13542?security=tls&sni=cdn.egvra.cn&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://SDYlNZ6z5DA8TZqz33YnN4lzpp88YBZOyXC5we8AZBqn6YXwI0gISyalXjIOyNwCaDpDORKSyDCSg9S@154.17.10.32:28333?security=tls&sni=rolling.homeofbrave.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://SSorg@103.137.63.3:443?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&ws=1&wspath=%2F#@Hope_Net-join-us-on-Telegram
+trojan://SSorg@103.137.63.3:443?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&ws=1&wspath=%2F#@Hope_Net-join-us-on-Telegram⚠️
 trojan://SSorg@104.19.60.104:2096?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒
+trojan://SSorg@154.197.64.248:8443?allowInsecure=1&sni=sstjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://SSorg@154.29.147.199:443?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&ws=1&wspath=%2F#@Hope_Net-join-us-on-Telegram
+trojan://SSorg@156.255.90.175:8443?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&ws=1&wspath=%2F#@Hope_Net-join-us-on-Telegram
 trojan://SSorg@172.67.156.115:2087?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒
+trojan://SSorg@172.67.157.40:2096?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://SSorg@172.67.222.51:2053?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram⚠️
+trojan://SSorg@176.53.144.206:8443?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&ws=1&wspath=%2F#@Hope_Net-join-us-on-Telegram⚠️
 trojan://SSorg@199.34.228.71:8443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒
 trojan://SSorg@199.34.228.71:8443?security=tls&type=tcp&sni=ssjj.esslh.filegear-sg.me#US16
 trojan://SYlC7B9Tgl@tabnak.itn24.ir:8443?security=tls&allowInsecure=1&type=ws&host=tabnak.itn24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
@@ -499,7 +503,3 @@ trojan://afd7d730-2132-11f0-af80-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://amclubs2024@154.83.2.200:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg#🔒
 trojan://amclubs2024@198.62.62.156:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg#🔒
 trojan://amclubs@103.160.204.1:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#@V2rayNG3trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1ch-ovh.devefun.net#@V2rayNG3trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1es-ovh.devefun.net#@V2rayNG3trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#@V2rayNG3trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#@V2rayNG3trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3✈️@V2rayNG3✈️@SERVER444
-trojan://amclubs@103.160.204.1:443?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒
-trojan://amclubs@103.160.204.1:443?security=tls&type=ws&sni=tran.amclubstest.nyc.mn&path=/Telegram@V2ray_Alpha/?ed=2560&host=tran.amclubstest.nyc.mn#%E6%9C%AA%E7%9F%A537
-trojan://amclubs@104.16.134.27:2083?sni=tran.amclubs.rr.nu#🔒
-trojan://amclubs@154.83.2.125:2087?sni=tran.amclubstest.nyc.mn#🔒
