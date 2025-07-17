@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?path=/&security=none&encryption=none&host=photographipictureai.ir&type=ws#🇳🇱NL_1281_@Surfboardv2ray
+        ss://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?security=tls&sni=pHOTOgrApHipiCTureaI.IR&type=ws&host=photographipictureai.ir&fp=chrome&alpn=h2,http/1.1#🔒
+ss://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@172.67.151.188:443?security=tls&sni=pHOTOgrApHipiCTureaI.IR&type=ws&host=photographipictureai.ir&path=%2F3um9NK8jwisKz35E%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+ss://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.146.173.112:8880?path=/&security=none&encryption=none&host=photographipictureai.ir&type=ws#🇸🇪SE_1280_@Surfboardv2ray
+ss://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.146.173.112:8880?security=none&type=ws&host=photographipictureai.ir&path=/#🔒
+ss://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?path=/&security=none&encryption=none&host=photographipictureai.ir&type=ws#🇳🇱NL_1281_@Surfboardv2ray
 ss://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?path=/Telegram@Azarbayjab1@Azarbayjab1@Azarbayjab1/?ed=2560&security=none&encryption=none&host=photographipictureai.ir&type=ws#🇳🇱NL_1282_@Surfboardv2ray
 ss://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?security=none&type=ws&host=photographipictureai.ir#🔒
 ss://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@195.85.59.155:8880?type=ws&host=photographipictureai.ir&path=%2FTelegram%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1#🔒
@@ -499,7 +503,3 @@ ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.214.29:8880?encryption=none&secur
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.214.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.215.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.244.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.246.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.247.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.34.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.84.20:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=%2F#🔒

@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@172.66.47.174:443?security=tls&type=ws&sni=edtunnel-b6t.pages.dev&path=/&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+        vless://c6763909-34f1-4b80-9522-f70d930e90e6@152.53.231.109:56701?security=reality&flow=xtls-rprx-vision&sni=addons.mozilla.org&type=tcp&fp=firefox&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#🔒
+vless://c6763909-34f1-4b80-9522-f70d930e90e6@152.53.231.109:56701?security=tls&flow=xtls-rprx-vision-udp443&sni=addons.mozilla.org&fp=firefox#🔒
+vless://c6873f52-eb32-4717-849a-2266a3af8d3b@172.67.161.74:443?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=%2F23654%2F%40M3HDIO1&fp=random&allowInsecure=1#🔒
+vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@104.18.200.220:443?security=tls&type=ws&sni=edtunnel-b6t.pages.dev&path=/&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@172.66.47.174:443?security=tls&type=ws&sni=edtunnel-b6t.pages.dev&path=/&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://c6919990-40ee-448c-a716-1cfbd4f0165e@104.17.207.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://c6919990-40ee-448c-a716-1cfbd4f0165e@104.18.12.212:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://c6919990-40ee-448c-a716-1cfbd4f0165e@104.18.18.179:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -499,7 +503,3 @@ vless://d2bdf18d-dadc-427f-9b0b-5e68fdd00521@85.133.206.14:33912?type=ws&path=te
 vless://d2d622b2-66d0-4a89-a02f-40885ee01409@65.108.92.15:1010?security=reality&sni=refersion.com&type=tcp&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=chrome&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA#🔒
 vless://d2d622b2-66d0-4a89-a02f-40885ee01409@65.108.92.15:1010?security=tls&sni=refersion.com&fp=chrome#🔒
 vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?path=telegram:@fastshadow_vpn&security=none&encryption=none&type=ws#🇮🇷IR_1042_@Surfboardv2ray
-vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?path=telegram:@fastshadow_vpn&security=none&encryption=none&type=ws#🇮🇷IR_1075_@Surfboardv2ray
-vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?security=none&type=ws&path=telegram:@fastshadow_vpn#🔒
-vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@104.21.94.168:8080?security=none&type=ws&host=FySuMyYk3.aMirsiTesos.sItE.#🔒
-vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@172.67.138.69:8080?security=none&type=ws&host=FySuMyYk3.aMirsiTesos.sItE.#🔒

@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@www.parsvds.ir:8080?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#🇨🇦CA_1076_@Surfboardv2ray
+        vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?path=telegram:@fastshadow_vpn&security=none&encryption=none&type=ws#🇮🇷IR_1075_@Surfboardv2ray
+vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?security=none&type=ws&path=telegram:@fastshadow_vpn#🔒
+vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@104.21.94.168:8080?security=none&type=ws&host=FySuMyYk3.aMirsiTesos.sItE.#🔒
+vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@172.67.138.69:8080?security=none&type=ws&host=FySuMyYk3.aMirsiTesos.sItE.#🔒
+vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@www.parsvds.ir:8080?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#🇨🇦CA_1076_@Surfboardv2ray
 vless://d3225843-d07a-41a8-a435-2a4e15ccfaef@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
 vless://d3270903-0d5f-4ab6-92a1-3dbb34de7f18@in-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=in-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=in-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-119%20-%20IN%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@199.34.228.162:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=%2F2096%2F%40VRayyNGvpn#🔒
@@ -499,7 +503,3 @@ vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@188.114.98.42:2053?path=%2F%3Fed%3D
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@188.114.98.42:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#%40v2raying
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@188.114.98.42:2053?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=%2F%3Fed%3D2560&fp=random#🔒
 vless://d824be7f-2634-491f-a3fe-8865c1b444c7@5.22.212.180:443?security=reality&sni=www.refersion.com&type=tcp&fp=chrome&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&sid=e869#🔒
-vless://d824be7f-2634-491f-a3fe-8865c1b444c7@bermuda.jahanmataleb.ir:443?type=tcp&security=reality&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&fp=chrome&sni=www.refersion.com&sid=e869&spx=/#🇩🇪DE_1112_@Surfboardv2ray
-vless://d87f96dc-f721-54a4-8a03-d1571809d882@88.218.95.12:443?security=tls&sni=88.218.95.12&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=88.218.95.12&encryption=none#Rayan%20-%20SSO%20-%20WSDR-123%20-%20ZA%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
-vless://d87f96dc-f721-54a4-8a03-d1571809d882@iplocation.net:443?security=tls&sni=za-1-sso.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=za-1-sso.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSO%20-%20WSCT-123%20-%20ZA%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
-vless://d889b4c8-dab9-4b0c-932b-e4071c727308@172.67.220.93:443?security=tls&sni=M6dFg.777219.XYZ&type=ws&host=m6dfg.777219.xyz&path=/s9mtnLBjERPwvxRA&fp=chrome&alpn=http/1.1#🔒

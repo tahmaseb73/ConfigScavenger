@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://1edd9e0f-703f-49ab-8ecd-0380f8b37da3@85.133.234.124:6000?encryption=none&security=none&type=ws&path=%2Fconnect%2Fws%2F#@VIProxys
+        ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40kingofilter
+ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?type=grpc&serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
+ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?type=grpc&serviceName=vless-grpc#SE🇸🇪
+ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?type=grpc&serviceName=vless-grpc#🔒
+ss://1edd9e0f-703f-49ab-8ecd-0380f8b37da3@85.133.234.124:6000?encryption=none&security=none&type=ws&path=%2Fconnect%2Fws%2F#@VIProxys
 ss://1edd9e0f-703f-49ab-8ecd-0380f8b37da3@85.133.234.125:6000?encryption=none&security=none&type=ws&path=%2Fconnect%2Fws%2F#@VIProxys
 ss://1ef0ea65-e0f2-4a63-adbc-6ac45b31e2af@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#REALITY|US🇺🇸
 ss://1ef553c3-b1b9-49fb-8c7d-09e05915b2bc@us-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=us-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=us-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-127%20-%20US%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -499,7 +503,3 @@ ss://26842241-856f-45f2-b33c-b58e66f36fb8@104.18.15.19:2052?security=none&allowI
 ss://26842241-856f-45f2-b33c-b58e66f36fb8@104.18.15.19:2082?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0113.edwv8ve3.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://26842241-856f-45f2-b33c-b58e66f36fb8@104.18.15.19:2086?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0113.edwv8ve3.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://26842241-856f-45f2-b33c-b58e66f36fb8@104.18.15.19:2095?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0113.edwv8ve3.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://26842241-856f-45f2-b33c-b58e66f36fb8@104.18.15.19:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0113.edwv8ve3.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://26842241-856f-45f2-b33c-b58e66f36fb8@104.18.15.19:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0113.edwv8ve3.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://26842241-856f-45f2-b33c-b58e66f36fb8@104.18.15.19:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0113.edwv8ve3.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://26979b4d-1ff8-4c8f-940e-5eb4c116c8f7@uae.ir.iranigamepars.ir:443?type=tcp&security=reality&fp=chrome&sni=www.cdn77.com&pbk=-eK02lml0SFUynWZEFhxtPth7hS7MWKIOK65aL8-GkY&sid=2c&spx=/#_288_@Surfboardv2ray

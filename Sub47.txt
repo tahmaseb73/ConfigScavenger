@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.192.150:443?encryption=none&security=tls&sni=147135010072.sec21org.com&fp=random&type=tcp&headerType=none#q1_024
+        ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@147135010072.sec21org.com:443?encryption=none&security=tls&sni=147135010072.sec21org.com&fp=random&type=tcp&headerType=none#q2_168
+ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.151.74:443?security=tls&sni=147135010072.sec21org.com&type=raw#🔒
+ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.191.23:443?encryption=none&security=tls&sni=147135010072.sec21org.com&fp=random&type=tcp&headerType=none#q1_474
+ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.191.23:443?security=tls&sni=147135010072.sec21org.com&type=raw&allowInsecure=1#🔒
+ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.192.150:443?encryption=none&security=tls&sni=147135010072.sec21org.com&fp=random&type=tcp&headerType=none#q1_024
 ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.192.150:443?security=tls&sni=147135010072.sec21org.com&type=tcp&fp=chrome#🔒
 ss://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
 ss://c50f6c7f-d18e-47e8-8be0-9d12af7b8809@141.193.213.20:8443?security=tls&sni=premium.vkehi.shop&type=ws&host=premium.vkehi.shop&path=%2F#🔒
@@ -499,7 +503,3 @@ ss://ced55580-51a0-42c0-981e-707c282f48c0@de.nanvaiiisaeed.ir:1615?security=real
 ss://ced55580-51a0-42c0-981e-707c282f48c0@de.nanvaiiisaeed.ir:1615?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|DE🇩🇪
 ss://ced55580-51a0-42c0-981e-707c282f48c0@nl.nanvaiiisaeed.ir:1615/?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@VIProxys
 ss://ced5558051a042c0981e707c282f48c0Og==@de.nanvaiiisaeed.ir:1615#REALITY%7CDE%F0%9F%87%A9%F0%9F%87%AA+%7C+de.nanvaiiisaeed.ir-1615+%7C+438.55ms
-ss://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&fp=chrome#🔒
-ss://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&fp=chrome#🔒
-ss://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?security=none&type=ws&host=fraud.chase#🔒
-ss://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.192.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&fp=chrome#🔒

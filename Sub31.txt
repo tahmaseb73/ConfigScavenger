@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.64.1:2086?security=none&allowInsecure=1&fp=chrome&type=ws&path=/DdAtLiofda1FCcda?ed%3D2560&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+        ss://73063b0e-d730-470d-82de-f7653e0922b7@172.236.214.80:80?security=reality&sni=docker.com&type=xhttp&path=%2Fcdn-path-xyz&fp=randomized&pbk=DBYKG2tmNkxdjBlRHk8i0Uerw8Im9YLNF2z-mErSxxg&sid=29#🔒
+ss://731fa01d-f8f6-4a58-8ab9-88da4cae76bd@151.101.130.219:80?type=ws&path=/telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city?ed=2048&host=retete3.ir&security=none#🇺🇸US_689_@Surfboardv2ray
+ss://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?security=none&allowInsecure=1&fp=chrome&type=ws&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?type=ws&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev#🔒
+ss://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.64.1:2086?security=none&allowInsecure=1&fp=chrome&type=ws&path=/DdAtLiofda1FCcda?ed%3D2560&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://733cb17a-b671-42b1-85b1-8b16cdf38a1f@146.190.228.67:14285?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20VL-TCP-NONE%204%E2%83%A3
 ss://733d96bc-1aa3-4ef4-be21-48eab746a643@104.20.18.168:443?security=tls&sni=collections-murder-abstracts-href.trycloudflare.com&type=ws&host=collections-murder-abstracts-href.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#🔒
 ss://733d96bc-1aa3-4ef4-be21-48eab746a643@104.20.19.168:443?security=tls&sni=collections-murder-abstracts-href.trycloudflare.com&type=ws&host=collections-murder-abstracts-href.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#🔒
@@ -499,7 +503,3 @@ ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?security=none&type
 ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2086?security=none&type=ws&host=domain2025.dpdns.org&path=%2F5iOpl6glcE8I64UV%3Fed%3D2560#🔒
 ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2087?security=tls&sni=dOMAIn2025.DPDNs.ORg&type=ws&host=domain2025.dpdns.org&path=%2FTC3Nj54DItv3GhCQ%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
 ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:8080?type=ws&host=domain2025.dpdns.org&path=%2FKH6gqt9sboVBVEJS%3Fed%3D2560#🔒
-ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:80?security=none&type=ws&host=domain2025.dpdns.org&path=%2FyeTxGofK7eV9fR3N%3Fed%3D2560#🔒
-ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@domain2025.dpdns.org:2086?encryption=none&security=none&type=ws&host=domain2025.dpdns.org&path=%2F5iOpl6glcE8I64UV%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:9.23ms`
-ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@domain2025.dpdns.org:80?path=%2FyeTxGofK7eV9fR3N%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:9.52ms`
-ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:2096/?type=ws&encryption=none&host=domain2025.dpdns.org&path=%2FtcDNBIkerk7jW1AP%3Fed%3D2560&security=tls&sni=DOMaiN2025.DPDNS.oRG&alpn=http%2F1.1&fp=randomized#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:9.28ms`

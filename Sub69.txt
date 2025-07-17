@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://20fe9385-f429-4dc4-acc8-2e372a3d982b@165.22.69.147:443?security=reality&sni=yahoo.com&type=xhttp&path=/Grizzly&fp=chrome&pbk=y_QTFoFtDtkpJ57ypPCThsAyV9az-MmZQcCR9F-o7Ew&sid=42a22604946c86#🔒
+        vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:6893?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=6893vless#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85⚫️
+vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:6893?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=6893vless#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🟡
+vless://20ee9d1e-3dac-4027-97ab-bc8548f4ca2e@live.skornorth.com:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=crypto-custom.ir&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸
+vless://20f8daf0-3aa1-43e9-845b-9cb7c1487897@142.132.185.23:12685?security=none&type=grpc&serviceName=TEL%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet#🔒
+vless://20fe9385-f429-4dc4-acc8-2e372a3d982b@165.22.69.147:443?security=reality&sni=yahoo.com&type=xhttp&path=/Grizzly&fp=chrome&pbk=y_QTFoFtDtkpJ57ypPCThsAyV9az-MmZQcCR9F-o7Ew&sid=42a22604946c86#🔒
 vless://20fe9385-f429-4dc4-acc8-2e372a3d982b@165.22.69.147:443?type=xhttp&path=%2FGrizzly&host=&mode=auto&security=reality&pbk=y_QTFoFtDtkpJ57ypPCThsAyV9az-MmZQcCR9F-o7Ew&fp=chrome&sni=yahoo.com&sid=42a22604946c86&spx=%2F#REALITY|DE🇩🇪
 vless://21016605-0d5e-4750-9360-694dc55997cd@104.22.30.181:443?security=tls&sni=hy6.lzj520hxw.dpdns.org&type=ws&host=hy6.lzj520hxw.dpdns.org&path=%2Flzjjjjjjj#🔒
 vless://21016605-0d5e-4750-9360-694dc55997cd@104.22.31.181:443?security=tls&sni=hy6.lzj520hxw.dpdns.org&type=ws&host=hy6.lzj520hxw.dpdns.org&path=%2Flzjjjjjjj#🔒
@@ -499,7 +503,3 @@ vless://295e1a39-2330-4974-b0e6-13e090de9310@151.101.2.216:80?path=%2Ftelegram-N
 vless://295e1a39-2330-4974-b0e6-13e090de9310@151.101.2.216:80?security=none&type=ws&host=Berim3arddekar.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒
 vless://29b79b80-fb25-47e5-b7f4-4dcbcc491e54@104.21.69.44:8880?encryption=none&security=none&type=ws&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
 vless://29b79b80-fb25-47e5-b7f4-4dcbcc491e54@104.21.69.44:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
-vless://29b79b80-fb25-47e5-b7f4-4dcbcc491e54@104.21.69.44:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#RELAY🚩
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#🇨🇦CA_291_@Surfboardv2ray
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.31.16.58:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒
