@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://9bd1a2d7-9b0b-490a-8699-532fe6f32a81@page.fra-shop.ir:47128?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=-AftWFD_53qwSnhzJi7K6hTFmoodpEZsIOetAMUMmDs&fp=chrome&sni=www.fra-shop.ir&sid=e2b84b&spx=%2F#test2
+        ss://9bd19bdd-d39b-4d70-a7ad-6e86ac9cd753@www.parsvds.com:2096?path=/2096/@V2RayyNGVpn&security=tls&alpn=h2,http/1.1&encryption=none&host=rEDzOnE.MirAcLehEaRTbIt.ICu&fp=chrome&type=ws&sni=rEDzOnE.MirAcLehEaRTbIt.ICu#🇨🇦CA_827_@Surfboardv2ray
+ss://9bd1a2d7-9b0b-490a-8699-532fe6f32a81@page.fra-shop.ir:47128?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=-AftWFD_53qwSnhzJi7K6hTFmoodpEZsIOetAMUMmDs&fp=chrome&sni=www.fra-shop.ir&sid=e2b84b&spx=%2F#test2
 ss://9bdd3d4b-3fe3-4b41-b3bd-fb2d0bcfcf7c@91.107.176.100:443?security=tls&sni=dd14.mehdit.ir&type=ws&host=dd14.mehdit.ir&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 ss://9bdd3d4b-3fe3-4b41-b3bd-fb2d0bcfcf7c@dd14.mehdit.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd14.mehdit.ir&fp=chrome&type=ws&sni=dd14.mehdit.ir#%40V2rayNG3
 ss://9bdd3d4b-3fe3-4b41-b3bd-fb2d0bcfcf7c@dd14.mehdit.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd14.mehdit.ir&fp=chrome&type=ws&sni=dd14.mehdit.ir#%40V2rayNG3🤯
@@ -502,4 +503,3 @@ ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:50651?security=none&encryption=
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:50651?security=none&encryption=none&headerType=none&type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett1
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2670::1]:58600?security=none&encryption=none&headerType=none&type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
 ss://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2670::1]:58600?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15650?security=none&encryption=none&headerType=none&type=tcp#@VIProxys
