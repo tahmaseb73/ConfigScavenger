@@ -3,15 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.80:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping%3A8.19ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.80:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping%3A8.36ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.80:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.81:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.84:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.88:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.92:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram🇨🇳&allowInsecure=0#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.96:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.97:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.97:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.99:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.9:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.109:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
@@ -503,3 +495,11 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@216.24.57.59:443?sni=xa.bgm2024.dpd
 vless://55520747-311e-4015-83ce-be46e2060ce3@216.24.57.98:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.99:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%20re.vs2024.us.kg&fp=chrome#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@23.94.208.154:53485?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Teleg
+vless://55520747-311e-4015-83ce-be46e2060ce3@23.94.208.154:53485?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#🇺🇸US_561_@Surfboardv2ray
+vless://55520747-311e-4015-83ce-be46e2060ce3@23.94.208.154:53485?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.154.98.124:12001?sni=cl.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.0:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2Fuxs.vs2024.us.kg&fp=chrome#🔒
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.109:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.118:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.174:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed#🔒
