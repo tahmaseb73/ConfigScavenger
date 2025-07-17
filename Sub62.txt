@@ -3,7 +3,39 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@172.64.33.128:443?sni=epccz.ambercc.filegear-sg.me&allowInsecure=0#@Hope_Net-join-us-on-Telegram
+        trojan://Aimer@167.68.4.131:8443?sni=epccd.ambercc.filegear-sg.me#🔒
+trojan://Aimer@167.68.4.199:2053?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒
+trojan://Aimer@167.68.4.223:2096?sni=epccd.ambercc.filegear-sg.me#🔒
+trojan://Aimer@167.68.4.58:443?sni=epccd.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram⚠️
+trojan://Aimer@167.68.4.58:443?sni=epccd.ambercc.filegear-sg.me#🔒
+trojan://Aimer@167.68.4.7:2053?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@167.68.4.7:2053?sni=epccn.ambercc.filegear-sg.me&allowInsecure=0#🔒
+trojan://Aimer@167.68.42.113:2053?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@167.68.5.248:2087?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@167.68.5.85:2053?allowInsecure=0&sni=epccv.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@167.68.5.85:2053?sni=epccv.ambercc.filegear-sg.me#🔒
+trojan://Aimer@168.138.204.44:587?sni=ngepo.ambercc.filegear-sg.me#🔒
+trojan://Aimer@170.106.152.78:443?sni=epccu.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.245.67.49:443?sni=epms.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.144.130:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.144.173:443?sni=epcch.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.145.155:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.147.57:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.152.210:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.152.49:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.154.38:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.155.204:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.155.8:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.156.249:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.157.179:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.157.185:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.157.21:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.157.51:443?sni=epcch.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.159.217:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.159.228:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.64.33.110:443?sni=epccu.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@172.64.33.110:443?sni=epmd.ambercc.filegear-sg.me&allowInsecure=0#🔒
+trojan://Aimer@172.64.33.128:443?sni=epccz.ambercc.filegear-sg.me&allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@172.64.33.128:443?sni=epme.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.64.33.144:443?sni=epma.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.64.33.201:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
@@ -471,35 +503,3 @@ trojan://GlxLO2T3Gz@104.21.48.1:2096?security=tls&sni=tabnak.twn24.ir&type=ws&ho
 trojan://GlxLO2T3Gz@104.21.80.1:2096?security=tls&sni=tabnak.twn24.ir&type=ws&host=tabnak.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://IA1gL5O4Ni@shamo.shnovps.click:48586?path=%2F193.123.81.105%3D443&security=none&host=zoomgov.vipren.biz.id&type=ws#telegram
-trojan://IQYD1kSiuYJW@172.67.142.21:2087?security=tls&sni=leader.andishehnegariran.ir&type=httpupgrade&host=leader.andishehnegariran.ir&path=/рЯЖФ@M3HDIO1#🔒
-trojan://IRoTiZfh4J@iran.farsonline24.ir:2053?security=tls&type=ws&host=iran.farsonline24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
-trojan://KW7FfNUocjGWmVO6HOp5tA@142.93.166.50:2051?type=tcp&headerType=http&host=fararu.com#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping%3A25.5ms
-trojan://Km8Vr6QzLf@154.205.148.199:443?security=tls&sni=z-v2-089607.kailib.com&type=tcp#🔒
-trojan://KsMF5kLudbU3@104.21.44.185:2087?security=tls&sni=econews.onetwothree123.ir&type=ws&host=econews.onetwothree123.ir&path=/рЯЖФ@M3HDIO1#🔒
-trojan://Mikahyh%40l4fg@104.21.23.215:443?security=tls&sni=1da8C916-rouND-moon-05e0.Soren-CybGu.WORKERS.deV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev#🔒
-trojan://Mikahyh%40l4fg@104.21.23.215:8443?security=tls&sni=1DA8C916-ROUnD-moon-05E0.SoReN-cybGU.WorKeRs.dEv&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev#🔒
-trojan://Mikahyh%40l4fg@172.67.213.239:443?security=tls&sni=1dA8C916-rOuNd-moON-05E0.SoreN-cyBGU.WOrkERS.dEV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev#🔒
-trojan://Mojtaba-shieldheart@104.16.155.68:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🔒
-trojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🔒
-trojan://Mojtaba-shieldheart@104.16.226.222:2083?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🔒
-trojan://Mojtaba-shieldheart@104.16.25.173:2096?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🔒
-trojan://Mojtaba-shieldheart@104.24.145.86:2087?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🔒
-trojan://Mojtaba-shieldheart@104.24.180.193:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🔒
-trojan://Mojtaba-shieldheart@104.24.28.219:2083?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🔒
-trojan://Mojtaba-shieldheart@104.24.92.24:2083?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🔒
-trojan://Mojtaba-shieldheart@162.159.152.241:2096?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🔒
-trojan://NHcpqLrnuW@tabnak.itn24.ir:8443?security=tls&allowInsecure=1&type=ws&host=tabnak.itn24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
-trojan://NISHIKUITAN111@104.16.218.64:443?#🔒
-trojan://NISHIKUITAN111@104.16.80.174:443?#🔒
-trojan://NISHIKUITAN111@104.17.157.109:443?#🔒
-trojan://NISHIKUITAN111@104.19.44.160:443?#🔒
-trojan://NISHIKUITAN111@104.20.138.222:443?#🔒
-trojan://NISHIKUITAN111@104.20.151.19:443?#🔒
-trojan://NISHIKUITAN111@104.20.65.198:443?#%E6%9C%AA%E7%9F%A541
-trojan://NISHIKUITAN111@104.20.65.198:443?#🔒
-trojan://NISHIKUITAN111@104.21.195.144:443?#%E6%9C%AA%E7%9F%A565
-trojan://NISHIKUITAN111@104.21.195.144:443?#🔒
-trojan://NISHIKUITAN111@104.21.84.200:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=/#🔒
-trojan://NISHIKUITAN111@104.24.140.72:443?#🔒
-trojan://NISHIKUITAN111@104.24.60.239:443?#🔒
