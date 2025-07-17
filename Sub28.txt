@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://54dc2fc2-5eb5-4389-93d8-f34e1d77c269@185.234.247.110:80?security=&sni=zula.ir&allowInsecure=1&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none#Rayan%20-%20VPH%20-%20gRPC-111%20-%20NL%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
-ss://54dc2fc2-5eb5-4389-93d8-f34e1d77c269@185.234.247.110:80?security=&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.234.247.110&encryption=none#Rayan%20-%20VPH%20-%20WSCT-111%20-%20NL%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
+        ss://54dc2fc2-5eb5-4389-93d8-f34e1d77c269@185.234.247.110:80?security=&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.234.247.110&encryption=none#Rayan%20-%20VPH%20-%20WSCT-111%20-%20NL%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
 ss://54f14c7f-47ef-403f-83e9-f05c29ab19cc@Www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmad.mmadvip8563.ir&type=httpupgrade#⚡Telegram
 ss://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?security=tls&sni=019309B7.XyZ0.PaGeS.dEV&type=ws&host=019309b7.xyz0.pages.dev&path=%2FYzeJFTQqvmhtzTlE%3Fed%3D2560&alpn=http%2F1.1#🔒
 ss://54ffbe99-7aaf-4ceb-9a82-048fb2489757@46.203.248.224:20411?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&type=tcp&headerType=none#q1_521
@@ -503,3 +502,4 @@ ss://588f094b-431b-422c-b80b-007945037072@de02.abvpn.ru:443?encryption=none&secu
 ss://588f094b-431b-422c-b80b-007945037072@de02.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&host=de02.abvpn.ru&type=ws&sni=de02.abvpn.ru#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 ss://588f094b-431b-422c-b80b-007945037072@de02.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&host=de02.abvpn.ru&type=ws&sni=de02.abvpn.ru#DE🇩🇪
 ss://588f094b-431b-422c-b80b-007945037072@de09.abvpn.ru:443?security=tls&sni=de09.abvpn.ru&fp=chrome&type=ws&path=%2Fwebsocket&packetEncoding=xudp&encryption=none#DE🇩🇪
+ss://588f094b-431b-422c-b80b-007945037072@mmdw.s8573.ir:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#%40persianelon

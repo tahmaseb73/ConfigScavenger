@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@159.112.235.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.1.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.1.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.153.137.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.104.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.105.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
@@ -503,3 +502,4 @@ ss://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@104.16.21.118:443?security=tls&sni=dk.
 ss://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@104.17.36.105:443?sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&allowInsecure=1#🔒
 ss://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@104.17.37.105:443?sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&allowInsecure=1#🔒
 ss://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@104.22.36.243:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@104.22.37.243:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒

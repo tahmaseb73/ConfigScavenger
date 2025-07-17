@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:2086?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:2087?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+        ss://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:2087?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:2095?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:2096?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
@@ -503,3 +502,4 @@ ss://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.119:80?type=ws&host=hk1-tg-
 ss://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.21:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒
 ss://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.32:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒
 ss://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.37:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒
+ss://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.69:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒

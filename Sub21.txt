@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒
-ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&headerType=http&host=divarcdn.com&security=none#%F0%9F%87%B9%F0%9F%87%B7@%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%F0%9F%8F%BB😵🤔🙁😝😤☹️🙁☹️    📌
+        ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&headerType=http&host=divarcdn.com&security=none#%F0%9F%87%B9%F0%9F%87%B7@%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%F0%9F%8F%BB😵🤔🙁😝😤☹️🙁☹️    📌
 ss://255b4df3-080b-4846-866c-24992a29467d@146.75.82.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=Kowroshhormozvpn.global.ssl.fastly.net&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 ss://255b4df3-080b-4846-866c-24992a29467d@151.101.74.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=Kowroshhormozvpn.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒
 ss://25636ecf-9958-48a3-9b0d-63c25a9db541@104.16.29.203:443?security=tls&sni=w-axh.pages.dev&type=ws&host=w-axh.pages.dev&allowInsecure=0#🔒
@@ -503,3 +502,4 @@ ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.208.62:2087?security=tls&sni=Tp
 ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.209.115:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.209.166:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.210.170:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
+ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.5.76:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&allowInsecure=1&fp=chrome&type=ws&path=/&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3

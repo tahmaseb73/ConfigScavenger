@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.195.73:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 309.11ms
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 3.28ms
+        vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 3.28ms
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 2.74ms
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 2.2ms
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#RELAY🚩 | zula.ir-443 | 2.56ms
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1nY206T0dZeU16WmtOR1ZoTTJWak0yWmtORFl4TldVNVpqVmtOemMxTURBMg==@ir
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@185.146.156.161:20#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+185.146.156.161-20+%7C+121.34ms
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw3D3A==@92.63.193.252:20#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+92.63.193.252-20+%7C+117.21ms
 ss://YWVzLTI1Ni1nY206MGU5YjU4YWEtZWM3OS02ODI3LWM2NzktODAyZmYzMjliMWEx@37050813702269272654038283817908.international-ixp.com:11312#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+37050813702269272654038283817908.international-ixp.com-11312+%7C+248.78ms
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.18:9093#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9093+%7C+98.35ms

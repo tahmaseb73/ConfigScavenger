@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@104.22.37.243:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
-ss://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@108.162.195.159:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒
+        ss://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@108.162.195.159:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒
 ss://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@108.162.195.176:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 ss://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@108.162.195.202:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒
 ss://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@162.159.44.159:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒
@@ -503,3 +502,4 @@ trojan://3ed4d5f3-68e9-42fc-978a-22afc2523e5a@5.104.107.143:443?security=tls&sni
 trojan://3f3e8a90-fd1f-11ef-93ca-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://3fbac340-df39-11ef-9c20-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://3qx%25QmCt%5E%26cg@172.67.175.40:2083?security=tls&sni=tabnak.farsonline24.ir&type=ws&host=tabnak.farsonline24.ir&path=/sq54iQsL#🔒
+trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@awlix_ir

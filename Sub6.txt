@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.18:9093#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9093+%7C+98.35ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.76:15098#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+125.141.31.76-15098+%7C+189.75ms
+        ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.76:15098#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+125.141.31.76-15098+%7C+189.75ms
 ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.18:9018#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9018+%7C+98.09ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@45.154.206.192:989#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.154.206.192-989+%7C+88.09ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.121.87.89:989#MD%F0%9F%87%B2%F0%9F%87%A9+%7C+192.121.87.89-989+%7C+123.53ms
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q3BTSk1Za0ZRZXBHNG80UU5LeW83cW90cFJFSnp3UzF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#DE-%3EDE-%3EADL-%3E%40Sezar_Sec
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBLT5GUi0+TVROLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMTA0LjIxLjE1LjIxMiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImdsd2VpZGYuc2JzIiwNCiAgInBhdGgiOiAiL2xpbmt3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJnbHdlaWRmLnNicyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJzYWZhcmkiDQp9
 vless://d01a40f5-4e6f-4279-b0a9-0f2a268ab03c@198.41.208.211:8080?encryption=none&security=none&type=ws&host=worker-falling-snow-ffd7.test61.workers.dev&path=%2F%3Fed%3D2048#CA-%3EDE-%3EADL-%3E%40Sezar_Sec
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.154:443?encryption=none&security=tls&sni=147135004002.sec20org.com&fp=chrome&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec

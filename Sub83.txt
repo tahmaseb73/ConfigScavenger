@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://8ce97a95-fdb1-4cd5-a9d0-38c7a5f2ccd9@172.67.151.188:2053?security=tls&sni=dl2.hupcloud.com&type=ws&host=dl2.hupcloud.com&path=%3Fed%3D2096&fp=chrome&alpn=h2#🔒
-vless://8ce97a95-fdb1-4cd5-a9d0-38c7a5f2ccd9@ip.hupcloud.com:2053?type=ws&security=tls&host=dl2.hupcloud.com&sni=dl2.hupcloud.com&path=%3Fed%3D2096&fp=chrome&alpn=h2#RELAY🚩
+        vless://8ce97a95-fdb1-4cd5-a9d0-38c7a5f2ccd9@ip.hupcloud.com:2053?type=ws&security=tls&host=dl2.hupcloud.com&sni=dl2.hupcloud.com&path=%3Fed%3D2096&fp=chrome&alpn=h2#RELAY🚩
 vless://8ce97a95-fdb1-4cd5-a9d0-38c7a5f2ccd9@mmdwz.s8573.ir:2053?path=%3Fed%3D2096&security=tls&alpn=h2&encryption=none&host=dl2.hupcloud.com&fp=chrome&type=ws&sni=dl2.hupcloud.com#%40persianelonکانفیگ
 vless://8ce97a95-fdb1-4cd5-a9d0-38c7a5f2ccd9@mmdwz.s8573.ir:2053?path=%3Fed%3D2096&security=tls&alpn=h2&encryption=none&host=dl2.hupcloud.com&fp=chrome&type=ws&sni=dl2.hupcloud.com#RELAY🚩
 vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052?path=/&security=none&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&type=httpupgrade#🇮🇷IR_734_@Surfboardv2ray
@@ -503,3 +502,4 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.139:2096?security=tls&sni
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.158:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.202:2096?security=tls&sni=HiDyVnDe14.bInTeRmA.OrG&type=ws&host=HiDyVnDe14.bInTeRmA.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.31:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=HiDyVnDe14.bInTeRmA.OrG&fp=chrome&type=ws&sni=HiDyVnDe14.bInTeRmA.OrG#@meli_proxyy
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.31:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=HiDyVnDe14.bInTeRmA.OrG&fp=chrome&type=ws&sni=HiDyVnDe14.bInTeRmA.OrG#RELAY🚩
