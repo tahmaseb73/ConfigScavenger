@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#🔒
+        vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
+vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#🔒
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?security=&type=ws&path=/?ed%3D2560&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&encryption=none#@awlix_ir
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?security=&type=ws&path=/?ed=2560&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&encryption=none#🇨🇦CA_168_@Surfboardv2ray
@@ -502,4 +503,3 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.205:443?security=tls&sni
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.207:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.209:443?security=tls&sni=vb.ylks0033.dpdns.org&type=ws&host=vb.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.217:443?sni=cb.dong2025.cfd&type=ws&allowInsecure=1#🔒
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.83:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒

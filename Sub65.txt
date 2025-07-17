@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://telegram-id-privatevpns@15.237.11.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
+        trojan://telegram-id-privatevpns@15.237.11.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@15.237.11.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
 trojan://telegram-id-privatevpns@15.237.7.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@15.237.7.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@15.237.7.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
@@ -502,4 +503,3 @@ vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%8F%F0%9F%92%A1%F0%9F%8C%8F
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 vless://01be6498-eb5c-42c3-a84c-71879900f037@212.16.71.254:80?type=tcp&headerType=http&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7+prx11+%F0%9F%92%96%F0%9F%8C%BA%F0%9F%8C%88
-vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest

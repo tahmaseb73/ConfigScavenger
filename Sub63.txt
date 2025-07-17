@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Km8Vr6QzLf@154.205.148.199:443?security=tls&sni=z-v2-089607.kailib.com&type=tcp#🔒
+        trojan://KW7FfNUocjGWmVO6HOp5tA@142.93.166.50:2051?type=tcp&headerType=http&host=fararu.com#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping%3A25.5ms
+trojan://Km8Vr6QzLf@154.205.148.199:443?security=tls&sni=z-v2-089607.kailib.com&type=tcp#🔒
 trojan://KsMF5kLudbU3@104.21.44.185:2087?security=tls&sni=econews.onetwothree123.ir&type=ws&host=econews.onetwothree123.ir&path=/рЯЖФ@M3HDIO1#🔒
 trojan://Mikahyh%40l4fg@104.21.23.215:443?security=tls&sni=1da8C916-rouND-moon-05e0.Soren-CybGu.WORKERS.deV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev#🔒
 trojan://Mikahyh%40l4fg@104.21.23.215:8443?security=tls&sni=1DA8C916-ROUnD-moon-05E0.SoReN-cybGU.WorKeRs.dEv&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev#🔒
@@ -502,4 +503,3 @@ trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@172.67.223.137:443?type=ws&path=/3
 trojan://ca6e9040-e786-11ef-8d4f-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://cabcaba-caab-abca-bcad-accbbaaacbbc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
 trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@104.21.14.54:443?sni=c1sWER.777159.XYz#🔒
-trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.143.250:443?security=tls&sni=C1wSdm.777162.Xyz&alpn=http%2F1.1&type=ws&host=C1wSdm.777162.Xyz&path=%2F5txgrUN3oqXENw4Z4#t.me%2Fpeterjest
