@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Poshtiban.ehsa0535.top#🇨🇦CA_1032_@Surfboardv2ray
+        ss://c4b13ceb-11d0-4611-8e50-f5bb453defa2@45.14.112.152:12443?security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&allowInsecure=0#🔒
+ss://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Poshtiban.ehsa0535.top#🇨🇦CA_1032_@Surfboardv2ray
 ss://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒
 ss://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Poshtiban.ehsa0535.top#🇨🇦CA_1033_@Surfboardv2ray
 ss://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒
@@ -502,4 +503,3 @@ ss://cdc02799-67d5-475f-a638-a50539f21d3e@62.60.244.89:4443?security=reality&flo
 ss://cdc02799-67d5-475f-a638-a50539f21d3e@62.60.244.89:4443?security=reality&flow=xtls-rprx-vision&sni=www.tradingview.com&type=tcp&fp=chrome&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs&sid=aef9c41cfb8d5bf2#🔒
 ss://cdc02799-67d5-475f-a638-a50539f21d3e@92.118.112.224:4444?security=reality&sni=ftp.debian.org&type=xhttp&host=ftp.debian.org&fp=chrome&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs#@Hope_Net-join-us-on-Telegram
 ss://cdc02799-67d5-475f-a638-a50539f21d3e@92.118.112.224:4444?security=reality&sni=ftp.debian.org&type=xhttp&host=ftp.debian.org&fp=chrome&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs#🔒
-ss://ce20a6c7-c069-4bec-bd39-8201c49e31f2@78.157.44.88:27574?security=none&encryption=none&headerType=http&type=tcp#%40V2_TEAM

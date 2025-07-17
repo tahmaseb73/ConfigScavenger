@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c540f740-7a41-417b-981e-6b1911cacef0@usa.abrha.site:3735?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+        vless://c540f740-7a41-417b-981e-6b1911cacef0@netherland.abrha.site:3735?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#⚡Telegram
+vless://c540f740-7a41-417b-981e-6b1911cacef0@usa.abrha.site:3735?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 vless://c540f740-7a41-417b-981e-6b1911cacef0@usa.abrha.site:3735?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#⚡Telegram
 vless://c562022e-c51f-4742-cda8-9bff6b917558@4.255.56.137:443?security=tls&sni=usb.carvic.me&allowInsecure=1&fp=chrome&type=ws&path=/bing&host=usb.carvic.me&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%F0%9F%8C%8E%20VL-WS-TLS%204%E2%83%A3
 vless://c5641a34-5874-440d-9bd9-6d6fb32fbd75@193.203.203.45:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-102%20-%20CA%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
@@ -502,4 +503,3 @@ vless://d26009b6-d347-403f-95ce-1816bb8b8ca4@104.20.19.168:8880?security=none&al
 vless://d26009b6-d347-403f-95ce-1816bb8b8ca4@172.67.2.238:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=v2raylandd.werokac991.workers.Dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 vless://d26009b6-d347-403f-95ce-1816bb8b8ca4@45.131.211.5:80?security=none&sni=v2raylandd.werokac991.workers.Dev&type=ws&host=v2raylandd.werokac991.workers.Dev&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒
 vless://d26009b6-d347-403f-95ce-1816bb8b8ca4@45.131.4.100:80?sni=v2raylandd.werokac991.workers.Dev&type=ws&host=v2raylandd.werokac991.workers.Dev&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2053?security=tls&sni=MeHRNEWS.farsonLInE24.ir&type=httpupgrade&host=mehrnews.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒

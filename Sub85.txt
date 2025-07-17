@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://Parsashonam-229@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#DE🇩🇪
+        vless://Parsashonam-225@[2a01:4f8:1c1b:e1d0::1]:8888?type=tcp&headerType=none&security=none#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
+vless://Parsashonam-229@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#DE🇩🇪
 vless://Parsashonam-230@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#DE🇩🇪
 vless://Parsashonam-231@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
 vless://Parsashonam-232@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#DE🇩🇪
@@ -502,4 +503,3 @@ vless://ab1ba65d-7af4-4ffb-bf26-44d79793af45@104.17.147.22:8080?security=none&ty
 vless://ab1ba65d-7af4-4ffb-bf26-44d79793af45@www.speedtest.net:8080?path=/&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#🇨🇦CA_929_@Surfboardv2ray
 vless://ab1d1d10-5d26-4bc9-8476-350d205bde28@172.66.168.200:443?security=tls&sni=UK1-vLEss.greenSSH.ORg&type=ws&host=UK1-vLEss.greenSSH.ORg&path=/vless#🔒
 vless://ab26cf44-fa18-4b0f-ab11-b619e9db7580@cloudflare.com.domain.connect.com.fast.com.main.shik-posh.sbs:443?security=none&encryption=none&headerType=none&type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-vless://ab35e235-0c34-45b9-bd71-9ce6440451da@37.27.206.75:26528?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20VL-GRPC-RLT%204%E2%83%A3

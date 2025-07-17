@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
+        ss://01be6498-eb5c-42c3-a84c-71879900f037@212.16.71.254:80?type=tcp&headerType=http&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7+prx11+%F0%9F%92%96%F0%9F%8C%BA%F0%9F%8C%88
+ss://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?security=&type=ws&path=/?ed%3D2560&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&encryption=none#@awlix_ir
@@ -502,4 +503,3 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.153.209:443?encryption=none&se
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.153.217:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.153.249:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.153.42:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.110:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒

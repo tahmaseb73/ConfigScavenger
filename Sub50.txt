@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Coventry%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
+        ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧GB_1147_@Surfboardv2ray
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Coventry%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FCoventry%F0%9F%85%BF%EF%B8%8Fping%3A46.84ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇬🇧GB_1148_@Surfboardv2ray
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇬🇧GB_1149_@Surfboardv2ray
@@ -502,4 +503,3 @@ ss://e22cc9bf-cbb4-426a-9a36-75d635e7181e@91.194.161.69:443?security=tls&sni=zul
 ss://e24d4ed7-66b2-402f-fd3e-96c8cfe79943@188.245.144.74:443?security=reality&encryption=none=#🇩🇪DE_1205_@Surfboardv2ray
 ss://e26a79fd-35d0-4c25-8f6b-8bcd8726348c@167.99.183.32:443?security=reality&sni=telewebion.com&type=tcp&fp=chrome&pbk=qXoC7zJ_1FMdhHV0HUboEei5nZxJ0RC97v2QZgNHcFE&sid=4d912c48cd130515#🔒
 ss://e2937675-bf5e-444c-decb-8b9da4fb8b62@104.21.23.162:2053?security=tls&flow=xtls-rprx-vision&sni=m1s.131.pp.ua&type=ws&host=m1s.131.pp.ua&path=%2Fm1s.131.pp.ua#🔒
-ss://e2937675-bf5e-444c-decb-8b9da4fb8b62@104.21.23.162:2083?security=tls&flow=xtls-rprx-vision&sni=m1s.131.pp.ua&type=ws&host=m1s.131.pp.ua&path=%2Fm1s.131.pp.ua#🔒

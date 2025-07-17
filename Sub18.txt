@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.135:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#🔒
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.110:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.135:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.148:443?sni=sv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.154:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.155:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
@@ -502,4 +503,3 @@ ss://10b59513-ef76-4494-a925-305ec45dd3a4@185.157.214.81:2040?security=reality&s
 ss://10b59513-ef76-4494-a925-305ec45dd3a4@185.157.214.81:2040?security=tls&sni=cdnjs.com&fp=chrome#🔒
 ss://10b59513-ef76-4494-a925-305ec45dd3a4@194.87.31.155:2040?security=reality&sni=fr.ign.com&type=tcp&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#🔒
 ss://10b59513-ef76-4494-a925-305ec45dd3a4@45.12.129.210:2040?security=tls&sni=apple.com&fp=chrome#🔒
-ss://10b59513-ef76-4494-a925-305ec45dd3a4@45.12.139.44:2040?security=tls&sni=github.com&fp=chrome#🔒

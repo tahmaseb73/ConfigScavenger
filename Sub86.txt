@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ab3faf7c-4452-4f34-938f-6dcee3b406a2@62.60.220.158:44444?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=randomized&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ#🔒
+        vless://ab35e235-0c34-45b9-bd71-9ce6440451da@37.27.206.75:26528?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20VL-GRPC-RLT%204%E2%83%A3
+vless://ab3faf7c-4452-4f34-938f-6dcee3b406a2@62.60.220.158:44444?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=randomized&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ#🔒
 vless://ab3faf7c-4452-4f34-938f-6dcee3b406a2@local.connectix-d1.info:44444?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vless://ab3faf7c-4452-4f34-938f-6dcee3b406a2@local.connectix-d1.info:44444?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥉
 vless://ab3faf7c-4452-4f34-938f-6dcee3b406a2@local.connectix-d1.info:44444?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#REALITY|IR🇮🇷
@@ -502,4 +503,3 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.164.102:8880?security=none&
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.164.105:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.164.145:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.164.14:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.164.217:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒

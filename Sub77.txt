@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.119:80?security=none&type=ws&host=foffmelo.com#🔒
+        vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.118:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.119:80?security=none&type=ws&host=foffmelo.com#🔒
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.121:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.122:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.123:80?security=none&sni=foffmelo.com&type=ws#🔒
@@ -502,4 +503,3 @@ vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&e
 vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram
 vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&encryption=none&headerType=none&type=tcp#🇯🇵JP_619_@Surfboardv2ray
 vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&type=tcp#🇯🇵[openproxylist.com]
-vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&type=tcp#🔒

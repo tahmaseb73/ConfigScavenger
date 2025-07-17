@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2083?security=tls&sni=mehrNEWS.FArSOnlINe24.iR&type=httpupgrade&host=mehrnews.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒
+        vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2053?security=tls&sni=MeHRNEWS.farsonLInE24.ir&type=httpupgrade&host=mehrnews.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒
+vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2083?security=tls&sni=mehrNEWS.FArSOnlINe24.iR&type=httpupgrade&host=mehrnews.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2087?security=tls&sni=SUpPOrT.FArsonLInE24.ir&type=httpupgrade&host=support.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2096?security=tls&sni=taSnIm.fArSOnline24.IR&type=httpupgrade&host=tasnim.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=http%2F1.1#🔒
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:443?security=tls&sni=SUpPoRt.fArSONLinE24.Ir&type=ws&host=support.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=h2#🔒
@@ -502,4 +503,3 @@ vless://d7a1df5d-e1d8-5ab8-8989-71d4f6115853@zula.ir:443?security=tls&sni=uk-1-s
 vless://d7a5744a-5139-4b9c-ecc1-cb0ac809dd82@104.21.44.185:2086?security=none&type=ws&host=zoornazanfarsineveshtam.onetwothree123.ir&path=%2F%40MEHDIO1#🔒
 vless://d7a5744a-5139-4b9c-ecc1-cb0ac809dd82@172.67.202.155:2086?security=none&type=ws&host=zoornazanfarsineveshtam.onetwothree123.ir&path=/@MEHDIO1#🔒
 vless://d7ad0cf9-44ff-42a1-a66e-5bdab08d3e37@104.16.66.219:8443?sni=cf.v200dd.eu.org&type=ws&host=cf.v200dd.eu.org&allowInsecure=0#🔒
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=TELEGRAM-PROXY_MTM%2F%3Fed%3D2048#🔒

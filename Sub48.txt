@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
+        ss://ce20a6c7-c069-4bec-bd39-8201c49e31f2@78.157.44.88:27574?security=none&encryption=none&headerType=http&type=tcp#%40V2_TEAM
+ss://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://ce462cc3-9983-45da-b030-728fb7b5684e@188.245.250.75:7022?security=reality&encryption=none&pbk=Sm0gGVH8qJHECOVhNaN2j52ayfqYcrZggyQMxiQP2Fo&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@meli_proxyy
 ss://ce462cc3-9983-45da-b030-728fb7b5684e@188.245.250.75:7022?security=reality&encryption=none&pbk=Sm0gGVH8qJHECOVhNaN2j52ayfqYcrZggyQMxiQP2Fo&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|DE🇩🇪
@@ -502,4 +503,3 @@ ss://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?path=%2F%3Fed%3D2048&
 ss://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?path=/?ed=2048&security=none&encryption=none&host=JoinBede-ELiV2.Ray.io&type=ws#🇺🇸US_1091_@Surfboardv2ray
 ss://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?path=@Selinc/?ed=2048&security=none&encryption=none&host=JoinBede-ELiV2.Ray.io&type=ws#🇺🇸US_1092_@Surfboardv2ray
 ss://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?security=none&type=ws&host=JoinBede-ELiV2.Ray.io&path=%2F%3Fed%3D2048#🔒
-ss://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=pamchall.com.&type=ws#@meli_proxyy

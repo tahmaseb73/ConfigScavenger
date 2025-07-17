@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://4088e698-69fd-4d15-98bc-f1fe4c071642@209.208.227.229:443?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&allowInsecure=0#🔒
+        vless://4088e698-69fd-4d15-98bc-f1fe4c071642@208.86.168.45:443?security=tls&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=%2FTelegram%40V2ray_Alpha#🔒
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@209.208.227.229:443?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&allowInsecure=0#🔒
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@216.24.57.6:2052?path=/TM@Azarbayjab1?ed=2560&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#🇺🇸US_381_@Surfboardv2ray
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@216.24.57.6:2052?security=none&type=ws&host=digitalscientificresearchgroup.ir#🔒
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@221.161.58.134:30569?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=/bing#🔒
@@ -502,4 +503,3 @@ vless://4cc278b5-74b7-5d49-8f78-a412058cdbc3@104.16.30.14:443?path=/&security=tl
 vless://4cc278b5-74b7-5d49-8f78-a412058cdbc3@104.16.30.14:443?security=tls&sni=satoshi.mom&type=ws&host=public.satoshi.mom&path=/&fp=chrome&alpn=http/1.1#🔒
 vless://4cc56b53-a6fe-4ff7-af6e-689437a44738@151.101.64.155:80?allowInsecure=0&sni=Mard.asabani.coM&type=ws&host=Mard.asabani.coM&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080#14%7CUS_speednode_0063
 vless://4cc56b53-a6fe-4ff7-af6e-689437a44738@151.101.64.155:80?allowInsecure=0&sni=Mard.asabani.coM&type=ws&host=Mard.asabani.coM&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080#🇩🇪[openproxylist.com]
-vless://4cc56b53-a6fe-4ff7-af6e-689437a44738@151.101.64.155:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Mard.asabani.coM&type=ws#⚡Telegram
