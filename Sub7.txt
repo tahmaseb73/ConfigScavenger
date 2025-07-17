@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@tgju.org:8080?encryption=none&security=none&type=ws&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&path=%2F%3Fed%3D2048#US-%3E-%3EMTN-%3E%40Sezar_Sec
-vless://9ffa6da8-26dc-435c-884b-32662e7ffe7e@www.visa.com:8880?encryption=none&security=none&type=ws&host=0314.hiyasta2.workers.dev&path=%2F%3Fed%3D2560#CA-%3EFR-%3EADL-%3E%40Sezar_Sec
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFLT5ERS0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNTcuMTI5LjI0LjEyNSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImF2ZWlyb3IuY29tIiwNCiAgInBhdGgiOiAiL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiYXZlaXJvci5jb20iLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-
-vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.18.192.65:8880?encryption=none&security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F#CA-%3EDE-%3EADL-%3E%40Sezar_Sec
+        vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.18.192.65:8880?encryption=none&security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F#CA-%3EDE-%3EADL-%3E%40Sezar_Sec
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.155:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=tcp&headerType=none#US-%3E-%3EMTN-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE%3D@185.5.38.111:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@23.154.136.51:5499#US-%3EUS-%3EADL-%3E%40Sezar_Sec
@@ -503,3 +499,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#%F0
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0269
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0202
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0252
+ss://YWVzLTI1Ni1nY206NWJkYTI3MzYtODFlNy00M2I0LTg2ZmMtMjg2ZjhmOGU2NTc4@de-freevmess.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.103.227-0241
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.161-0246
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#%F0%9F%87%A9%F0%9F%87%AADE-138.124.115.157-5261
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#%F0%9F%87%AA%F0%9F%87%B8ES-92.38.171.215-0270
