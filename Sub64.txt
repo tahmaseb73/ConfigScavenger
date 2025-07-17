@@ -3,32 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&type=tcp#🔒
-trojan://installshield@38.180.249.177:8443?security=tls&type=tcp&sni=38.180.249.177#%E6%9C%AA%E7%9F%A575
-trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
-trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🔒
-trojan://juzi@104.20.29.149:2087?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@104.248.241.182:443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@104.25.252.185:8443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@104.25.254.197:2096?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@146.56.140.79:22561?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@162.159.153.222:2096?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@172.66.45.35:443?security=tls&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@172.66.46.221:443?security=tls&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@172.67.74.9:2087?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@18.135.188.86:443?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A581
-trojan://juzi@18.135.188.86:443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@18.184.27.249:443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@194.87.148.148:8443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@198.244.246.67:8443?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A5131
-trojan://juzi@198.244.246.67:8443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@217.160.216.30:443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@3.66.115.225:443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@3.67.25.193:443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
-trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🔒
-trojan://juzi@5.75.201.8:2053?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@64.110.70.205:23022?sni=juzi8186-sr1.pages.dev#🔒
+        trojan://juzi@64.110.70.205:23022?sni=juzi8186-sr1.pages.dev#🔒
 trojan://juzi@91.107.233.151:8443?sni=juzi8186-sr1.pages.dev#🔒
 trojan://juzi@91.199.32.156:2053?sni=juzi8186-sr1.pages.dev#🔒
 trojan://kgZ7W1O1aE@tabnak.itn24.ir:8443?security=tls&allowInsecure=1&type=ws&host=tabnak.itn24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
@@ -503,3 +478,28 @@ trojan://trojan@104.18.3.150:443?security=tls&sni=main.xicun.us.kg&type=ws&host=
 trojan://trojan@104.18.4.250:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#🔒
 trojan://trojan@104.18.5.250:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws#🔒
 trojan://trojan@104.21.22.11:8443?security=tls&sni=betashop.foz.rf.gd&type=ws&host=betashop.foz.rf.gd#🔒
+trojan://trojan@104.21.22.11:8443?security=tls&sni=betashop.foz.rf.gd&type=ws&host=betashop.foz.rf.gd&path=%2F#t.me%2Fpeterjest
+trojan://trojan@104.21.22.11:8443?security=tls&type=ws&sni=betashop.foz.rf.gd&host=betashop.foz.rf.gd#%E6%9C%AA%E7%9F%A566
+trojan://trojan@104.21.3.52:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev#🔒
+trojan://trojan@104.26.12.31:8443?sni=fofang.pages.dev&type=ws#🔒
+trojan://trojan@104.26.13.31:8443?security=tls&sni=qianlang.pages.dev&type=ws&host=qianlang.pages.dev#🔒
+trojan://trojan@172.64.155.16:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
+trojan://trojan@172.64.155.16:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#🔒
+trojan://trojan@172.67.130.66:443?security=tls&sni=test-a23.pages.dev&type=tcp#🔒
+trojan://trojan@172.67.75.172:8443?sni=fofang.pages.dev#🔒
+trojan://trojan@45.192.222.112:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org#🔒
+trojan://trojan@47.236.181.185:8443?sni=store.timimi.dpdns.org#🔒
+trojan://trojan@91.193.58.0:443?sni=wahaha.yingyangkuaixian.dpdns.org&type=ws&host=wahaha.yingyangkuaixian.dpdns.org#🔒
+trojan://tune7jerky7HAYRICK@45.79.19.196:443?security=tls&sni=ap-northeast-1.openssl3.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Richardson%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://tune7jerky7HAYRICK@96.126.123.244:443?security=tls&sni=ap-northeast-1.openssl3.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Richardson%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://tvRqMFmVhZ@45.95.241.101:8443?security=tls&sni=aa.v2jey.fun&type=grpc#🔒
+trojan://tvRqMFmVhZ@45.95.241.101:8443?security=tls&type=grpc&sni=aa.v2jey.fun#%E6%9C%AA%E7%9F%A5151
+trojan://uV8u9Q41e2@104.16.127.115:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
+trojan://uV8u9Q41e2@104.16.127.23:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
+trojan://uV8u9Q41e2@104.16.127.84:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
+trojan://uV8u9Q41e2@104.17.180.185:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=%2F#RELAY🚩
+trojan://uV8u9Q41e2@104.17.180.185:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#@Hope_Net-join-us-on-Telegram
+trojan://uV8u9Q41e2@104.17.180.185:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
+trojan://uV8u9Q41e2@104.18.165.147:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
+trojan://uV8u9Q41e2@104.18.165.203:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
+trojan://uV8u9Q41e2@104.18.165.78:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
