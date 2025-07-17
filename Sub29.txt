@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560#%40awlix_ir
+        ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🇨🇦CA_603_@Surfboardv2ray
+ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&fp=chrome#🔒
+ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed%3D2560&security=tls&fp=random&sni=5-55sfjslf.ifenxiang.cfd#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
+ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.13:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&fp=chrome#🔒
+ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed=2560#🇨🇦CA_604_@Surfboardv2ray
+ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560#%40awlix_ir
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%20106%20%28%40Outline_Vpn%29
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2044%20%28%40Outline_Vpn%29
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2055%20%28%40Outline_Vpn%29
@@ -498,8 +503,3 @@ ss://647c5c62-01e4-426e-90ac-b97e00d039b5@104.16.41.105:2083?sni=my126.worldip.d
 ss://647c5c62-01e4-426e-90ac-b97e00d039b5@104.16.87.86:2053?sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org#🔒
 ss://647c5c62-01e4-426e-90ac-b97e00d039b5@104.24.189.146:2096?sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org#🔒
 ss://647c5c62-01e4-426e-90ac-b97e00d039b5@104.24.228.202:2087?sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org#🔒
-ss://647c5c62-01e4-426e-90ac-b97e00d039b5@104.24.81.142:2096?sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org#🔒
-ss://647c5c62-01e4-426e-90ac-b97e00d039b5@172.64.81.129:2083?security=tls&sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org&path=%2F%3Fed%3D2560#🔒
-ss://647c5c62-01e4-426e-90ac-b97e00d039b5@190.93.244.85:2087?security=tls&sni=my126.worldip.dpdns.org&type=ws&path=%2F%3Fed#🔒
-ss://64802a55-02db-4f87-8b2e-b18e54ea0802@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=telegram.isvvpn.com&type=ws#🇺🇸US_643_@Surfboardv2ray
-ss://64802a55-02db-4f87-8b2e-b18e54ea0802@www.speedtest.net:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#RELAY🚩

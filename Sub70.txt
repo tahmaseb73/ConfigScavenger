@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://29b79b80-fb25-47e5-b7f4-4dcbcc491e54@104.21.69.44:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#RELAY🚩
+        vless://291c2abe-716a-4691-acd0-3b13dc2f7b12@172.67.69.227:443?security=tls&sni=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&type=ws&host=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&path=%2Fvk_l-izyy3q_-noq%3Fed%3D2048%40sinabigo#🔒
+vless://295e1a39-2330-4974-b0e6-13e090de9310@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arddekar.net&type=ws#⚡Telegram
+vless://295e1a39-2330-4974-b0e6-13e090de9310@151.101.2.216:80?security=none&type=ws&host=Berim3arddekar.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒
+vless://29b79b80-fb25-47e5-b7f4-4dcbcc491e54@104.21.69.44:8880?encryption=none&security=none&type=ws&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
+vless://29b79b80-fb25-47e5-b7f4-4dcbcc491e54@104.21.69.44:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vless://29b79b80-fb25-47e5-b7f4-4dcbcc491e54@104.21.69.44:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#RELAY🚩
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#🇨🇦CA_291_@Surfboardv2ray
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.31.16.58:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒
@@ -498,8 +503,3 @@ vless://3570fdba-d23a-4c97-8327-b819e01a3582@93.123.46.250:14569?security=none&t
 vless://3570fdba-d23a-4c97-8327-b819e01a3582@95.85.93.133:14569?security=none&type=ws&host=95.85.93.133&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN#🔒
 vless://35730674-20fe-4e01-88f9-5214633c75e0@104.19.173.68:2087?sni=ca-1-cbt.rayan-dns.dpdns.org&type=ws&host=ca-1-cbt.rayan-dns.dpdns.org&allowInsecure=0#🔒
 vless://35730674-20fe-4e01-88f9-5214633c75e0@104.19.174.68:2087?sni=ca-1-cbt.rayan-dns.dpdns.org&type=ws&host=ca-1-cbt.rayan-dns.dpdns.org&allowInsecure=0#🔒
-vless://35d08555-633c-4832-adcf-64cd39e22d30@uk-2-rvp.rayan-dns.dpdns.org:443?security=tls&sni=uk-2-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-2-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-111%20-%20UK%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://35e6bfeb-140b-4875-a54a-7f18472bcb1c@209.38.186.178:2083?security=reality&sni=www.speedtest.net&type=grpc&fp=firefox&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&sid=adf8a1f5689177a2#🔒
-vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#@awlix_ir
-vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#🇦🇺AU_338_@Surfboardv2ray
-vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?type=tcp#🔒

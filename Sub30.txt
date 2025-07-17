@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://64802a55-02db-4f87-8b2e-b18e54ea0802@www.speedtest.net:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#🇨🇦CA_644_@Surfboardv2ray
+        ss://647c5c62-01e4-426e-90ac-b97e00d039b5@104.24.81.142:2096?sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org#🔒
+ss://647c5c62-01e4-426e-90ac-b97e00d039b5@172.64.81.129:2083?security=tls&sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org&path=%2F%3Fed%3D2560#🔒
+ss://647c5c62-01e4-426e-90ac-b97e00d039b5@190.93.244.85:2087?security=tls&sni=my126.worldip.dpdns.org&type=ws&path=%2F%3Fed#🔒
+ss://64802a55-02db-4f87-8b2e-b18e54ea0802@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=telegram.isvvpn.com&type=ws#🇺🇸US_643_@Surfboardv2ray
+ss://64802a55-02db-4f87-8b2e-b18e54ea0802@www.speedtest.net:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#RELAY🚩
+ss://64802a55-02db-4f87-8b2e-b18e54ea0802@www.speedtest.net:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#🇨🇦CA_644_@Surfboardv2ray
 ss://6486c034-4380-4601-b35b-85ba3a65feb0@151.101.69.22:443?security=tls&sni=barayeazadi.sbs&type=xhttp&host=barayeazadi.sbs&path=%2FIHavEComEHOmEWIthOnlyONEGoal%3Fed%3D2048&fp=random&alpn=h3%2Ch2&allowInsecure=1#🔒
 ss://6486c034-4380-4601-b35b-85ba3a65feb0@151.101.69.22:80?security=none&type=xhttp&host=barayeazadi.sbs&path=%2FIHavEComEHOmEWIthOnlyONEGoal%3Fed%3D2048#🔒
 ss://64a125b1-4a57-4a64-bfb2-7dc6866c55bc@50.7.85.221:443?path=%2F%3Fed&security=tls&encryption=none&host=kosesher2.nayase6031.workers.dev&fp=chrome&type=ws&sni=kosesher2.nayase6031.workers.dev#RELAY🚩
@@ -498,8 +503,3 @@ ss://72c1e757-6f85-40ed-b149-b059954c3400@test652.s8573.ir:443?security=none&enc
 ss://72c5a434-1529-4606-acaa-a48848613bc9@46.38.148.83:4002?encryption=none&security=none&type=tcp&headerType=none#@VIProxys
 ss://72d7ab94-4849-4a27-a840-ece6c8b53355@172.66.45.6:8443?security=tls&sni=BEsTvpn-7qP.PAgES.DEV&type=ws&host=bestvpn-7qp.pages.dev&path=%2Fw3hpwHp7sY86IaTl%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
 ss://72d7ab94-4849-4a27-a840-ece6c8b53355@172.66.46.250:8443?security=tls&sni=bEsTVPN-7Qp.paGEs.deV&type=ws&host=bestvpn-7qp.pages.dev&path=%2FjqiJQs5mh9TKXzbe%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
-ss://72e4d482-3ef8-57ae-87da-315f304d896d@102.129.165.116:443?security=tls&sni=102.129.165.116&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=102.129.165.116&encryption=none#Rayan%20-%20SSM%20-%20WSDR-118%20-%20ZA%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-ss://72e4d482-3ef8-57ae-87da-315f304d896d@sourceforge.net:443?security=tls&sni=za-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=za-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-118%20-%20ZA%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-ss://73039c19-caee-48e5-af88-e6c74197c1a1@75.2.18.233:443?security=tls&sni=playemlive.com&type=ws&host=sjjfjsjs.ai&path=/&fp=chrome&alpn=h2,http/1.1#🔒
-ss://73039c19-caee-48e5-af88-e6c74197c1a1@75.2.18.233:80?security=none&sni=playemlive.com&type=ws&host=sjjfjsjs.ai&path=/&fp=chrome&alpn=h2,http/1.1#🔒
-ss://73039c19-caee-48e5-af88-e6c74197c1a1@81.28.12.12:443?security=tls&sni=playemlive.com&type=ws&host=sjjfjsjs.ai&path=/&fp=chrome&alpn=h2,http/1.1#🔒

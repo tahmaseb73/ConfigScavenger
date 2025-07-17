@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?path=telegram:@fastshadow_vpn&security=none&encryption=none&type=ws#🇮🇷IR_1075_@Surfboardv2ray
+        vless://d2bdf18d-dadc-427f-9b0b-5e68fdd00521@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_1041_@Surfboardv2ray
+vless://d2bdf18d-dadc-427f-9b0b-5e68fdd00521@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_1074_@Surfboardv2ray
+vless://d2d622b2-66d0-4a89-a02f-40885ee01409@65.108.92.15:1010?security=reality&sni=refersion.com&type=tcp&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=chrome&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA#🔒
+vless://d2d622b2-66d0-4a89-a02f-40885ee01409@65.108.92.15:1010?security=tls&sni=refersion.com&fp=chrome#🔒
+vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?path=telegram:@fastshadow_vpn&security=none&encryption=none&type=ws#🇮🇷IR_1042_@Surfboardv2ray
+vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?path=telegram:@fastshadow_vpn&security=none&encryption=none&type=ws#🇮🇷IR_1075_@Surfboardv2ray
 vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?security=none&type=ws&path=telegram:@fastshadow_vpn#🔒
 vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@104.21.94.168:8080?security=none&type=ws&host=FySuMyYk3.aMirsiTesos.sItE.#🔒
 vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@172.67.138.69:8080?security=none&type=ws&host=FySuMyYk3.aMirsiTesos.sItE.#🔒
@@ -498,8 +503,3 @@ vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.13.124:2087?security=tls&sni
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.221.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#%40Vpn_Tehran+%F0%9F%92%96+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%88%DB%8C%DA%98%D9%87+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.221.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#%40v2raying
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.221.238:2096?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=%2F%3Fed%3D2560&fp=random#🔒
-vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@162.159.152.107:443?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=%2F%3Fed%3D2560&fp=random#🔒
-vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@188.114.98.42:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#%40Vpn_Tehran+%F0%9F%92%96+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%88%DB%8C%DA%98%D9%87+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@188.114.98.42:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#%40v2raying
-vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@188.114.98.42:2053?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=%2F%3Fed%3D2560&fp=random#🔒
-vless://d824be7f-2634-491f-a3fe-8865c1b444c7@5.22.212.180:443?security=reality&sni=www.refersion.com&type=tcp&fp=chrome&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&sid=e869#🔒

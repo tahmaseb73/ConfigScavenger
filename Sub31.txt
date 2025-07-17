@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://73063b0e-d730-470d-82de-f7653e0922b7@172.236.214.80:80?security=reality&sni=docker.com&type=xhttp&path=%2Fcdn-path-xyz&fp=randomized&pbk=DBYKG2tmNkxdjBlRHk8i0Uerw8Im9YLNF2z-mErSxxg&sid=29#🔒
+        ss://72e4d482-3ef8-57ae-87da-315f304d896d@102.129.165.116:443?security=tls&sni=102.129.165.116&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=102.129.165.116&encryption=none#Rayan%20-%20SSM%20-%20WSDR-118%20-%20ZA%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+ss://72e4d482-3ef8-57ae-87da-315f304d896d@sourceforge.net:443?security=tls&sni=za-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=za-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-118%20-%20ZA%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+ss://73039c19-caee-48e5-af88-e6c74197c1a1@75.2.18.233:443?security=tls&sni=playemlive.com&type=ws&host=sjjfjsjs.ai&path=/&fp=chrome&alpn=h2,http/1.1#🔒
+ss://73039c19-caee-48e5-af88-e6c74197c1a1@75.2.18.233:80?security=none&sni=playemlive.com&type=ws&host=sjjfjsjs.ai&path=/&fp=chrome&alpn=h2,http/1.1#🔒
+ss://73039c19-caee-48e5-af88-e6c74197c1a1@81.28.12.12:443?security=tls&sni=playemlive.com&type=ws&host=sjjfjsjs.ai&path=/&fp=chrome&alpn=h2,http/1.1#🔒
+ss://73063b0e-d730-470d-82de-f7653e0922b7@172.236.214.80:80?security=reality&sni=docker.com&type=xhttp&path=%2Fcdn-path-xyz&fp=randomized&pbk=DBYKG2tmNkxdjBlRHk8i0Uerw8Im9YLNF2z-mErSxxg&sid=29#🔒
 ss://731fa01d-f8f6-4a58-8ab9-88da4cae76bd@151.101.130.219:80?type=ws&path=/telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city-----telegeam-@v2_city?ed=2048&host=retete3.ir&security=none#🇺🇸US_689_@Surfboardv2ray
 ss://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?security=none&allowInsecure=1&fp=chrome&type=ws&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?type=ws&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev#🔒
@@ -498,8 +503,3 @@ ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@140.248.129.58:443?path=/Channel-MOSIV
 ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@140.248.129.58:443?security=tls&sni=Channel-MOSIV2---MOSIV2.IR&type=ws&host=Channel-MOSIV2---MOSIV2.IR&fp=chrome&allowInsecure=1#🔒
 ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@140.248.129.58:80?path=%2FChannel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=Telegram-----ELiV2ray.ir&type=ws#@meli_proxyy
 ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@140.248.129.58:80?security=none&type=ws&host=Telegram-----ELiV2ray.ir&path=%2FChannel-ELiV2RAY---ELiV2RAY%3Fed%3D2048#🔒
-ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?encryption=none&security=none&type=ws&host=domain2025.dpdns.org&path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.25ms`vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.114.221:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#[🇨🇦]t.me/ConfigsHub`
-ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?security=none&type=ws&host=domain2025.dpdns.org&path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560#🔒
-ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2086?security=none&type=ws&host=domain2025.dpdns.org&path=%2F5iOpl6glcE8I64UV%3Fed%3D2560#🔒
-ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2087?security=tls&sni=dOMAIn2025.DPDNs.ORg&type=ws&host=domain2025.dpdns.org&path=%2FTC3Nj54DItv3GhCQ%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
-ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:8080?type=ws&host=domain2025.dpdns.org&path=%2FKH6gqt9sboVBVEJS%3Fed%3D2560#🔒

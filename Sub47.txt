@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@147135010072.sec21org.com:443?encryption=none&security=tls&sni=147135010072.sec21org.com&fp=random&type=tcp&headerType=none#q2_168
+        ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135010072.sec21org.com#🇺🇸US_1036_@Surfboardv2ray
+ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135010072.sec21org.com#🇺🇸US_1037_@Surfboardv2ray
+ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&sni=147135010072.sec21org.com&type=tcp&fp=chrome#🔒
+ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.83.52:443/?type=tcp&encryption=none&security=tls&sni=147135010072.sec21org.com&fp=chrome#@meli_proxyy
+ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.83.52:443?security=tls&sni=147135010072.sec21org.com&type=tcp&fp=chrome#🔒
+ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@147135010072.sec21org.com:443?encryption=none&security=tls&sni=147135010072.sec21org.com&fp=random&type=tcp&headerType=none#q2_168
 ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.151.74:443?security=tls&sni=147135010072.sec21org.com&type=raw#🔒
 ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.191.23:443?encryption=none&security=tls&sni=147135010072.sec21org.com&fp=random&type=tcp&headerType=none#q1_474
 ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.191.23:443?security=tls&sni=147135010072.sec21org.com&type=raw&allowInsecure=1#🔒
@@ -498,8 +503,3 @@ ss://ced307a2-af2c-4113-bebc-fb888c702b7d@172.67.170.51:443?security=tls&sni=m4f
 ss://ced55580-51a0-42c0-981e-707c282f48c0@192.142.18.117:1615?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8#@VIPro
 ss://ced55580-51a0-42c0-981e-707c282f48c0@192.142.18.117:1615?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8#@VIProxys
 ss://ced55580-51a0-42c0-981e-707c282f48c0@de.nanvaiiisaeed.ir:1615/?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@VIPro
-ss://ced55580-51a0-42c0-981e-707c282f48c0@de.nanvaiiisaeed.ir:1615/?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@VIProxys
-ss://ced55580-51a0-42c0-981e-707c282f48c0@de.nanvaiiisaeed.ir:1615?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@VIProxys
-ss://ced55580-51a0-42c0-981e-707c282f48c0@de.nanvaiiisaeed.ir:1615?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|DE🇩🇪
-ss://ced55580-51a0-42c0-981e-707c282f48c0@nl.nanvaiiisaeed.ir:1615/?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@VIProxys
-ss://ced5558051a042c0981e707c282f48c0Og==@de.nanvaiiisaeed.ir:1615#REALITY%7CDE%F0%9F%87%A9%F0%9F%87%AA+%7C+de.nanvaiiisaeed.ir-1615+%7C+438.55ms
