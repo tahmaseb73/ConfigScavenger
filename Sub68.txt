@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://12b37532-89d5-42a3-b735-fb9931040e45@15.237.116.254:36105?security=tls&sni=b.vahidvpn.com.tr&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒
-vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.14.19:2082?security=none&type=ws&host=0108.9ro3grfw.workers.dev&path=%2F%3Fed%3D2560#🔒
-vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.15.19:2082?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0108.9ro3grfw.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub`
-vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.15.19:2082?security=none&type=ws&host=0108.9ro3grfw.workers.dev&path=%2F%3Fed%3D2560#🔒
+        vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.15.19:2082?security=none&type=ws&host=0108.9ro3grfw.workers.dev&path=%2F%3Fed%3D2560#🔒
 vless://12d6eb6c-7fe7-4d13-9587-3bb9fda1bd28@213.163.200.215:443?security=tls&flow=none&sni=pasindu.vpnhub.news&type=ws&path=%252F&fp=chrome&allowInsecure=1#🔒
 vless://12e26518-cb0c-41a7-a03e-1454999b7254@104.16.96.123:2053?security=tls&sni=4534295.dpdns.org&type=ws&host=4534295.dpdns.org&allowInsecure=0#🔒
 vless://1300e378-ff24-4cff-91c2-33e36d3f6b2a@speedtest.net:80?mode=auto&path=/@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray..../@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray?ed=2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#🇺🇸US_210_@Surfboardv2ray
@@ -503,3 +500,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20305%20%28%40lrnbymaa%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20312%20%28%40Outline_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20312%20%28%40proxy_kafee%29%20free
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40vpnaloo
+vless://20482c1f-15a8-443d-98b7-9acce17d3f85@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#🇨🇦CA_274_@Surfboardv2ray
+vless://20a5527d-8b38-4f11-8bb1-bd125867e37c@45.94.213.163:45150?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA

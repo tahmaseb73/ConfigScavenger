@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://401374e6-df77-41fb-f638-dad8184f175b@45.159.217.161:443?security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20VL-GRPC-TLS%204%E2%83%A3
-ss://401374e6-df77-41fb-f638-dad8184f175b@45.159.217.161:443?security=tls&sni=pqh44v2.hiddendom.shop&type=grpc#🔒
-ss://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.165:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🇺🇸[openproxylist.com]
-ss://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.165:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒
+        ss://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.165:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#🔒
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.189:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.200:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.159.219.144:443?security=tls&sni=pqh23v4.hiddendom.shop&type=grpc&host=pqh23v4.hiddendom.shop&alpn=h2#🔒
@@ -503,3 +500,6 @@ ss://494aa0ff-4824-4d23-a75e-ea8c3c6709cd@104.18.14.19:8880?security=none&allowI
 ss://494aa0ff-4824-4d23-a75e-ea8c3c6709cd@104.18.15.19:2052?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0127.4zsuplo0.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://494aa0ff-4824-4d23-a75e-ea8c3c6709cd@104.18.15.19:2082?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0127.4zsuplo0.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://494aa0ff-4824-4d23-a75e-ea8c3c6709cd@104.18.15.19:2086?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0127.4zsuplo0.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://494aa0ff-4824-4d23-a75e-ea8c3c6709cd@104.18.15.19:2095?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0127.4zsuplo0.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://494aa0ff-4824-4d23-a75e-ea8c3c6709cd@104.18.15.19:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0127.4zsuplo0.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://494aa0ff-4824-4d23-a75e-ea8c3c6709cd@104.18.15.19:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0127.4zsuplo0.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3

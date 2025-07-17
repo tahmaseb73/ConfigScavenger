@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.250.47:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.252.181:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.255.189:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.99.31:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
+        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.99.31:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.18.183.42:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.18.186.45:443?security=tls&sni=edccn.ambercc.filegear-sg.me&type=ws&host=edccn.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.18.187.94:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒
@@ -503,3 +500,6 @@ vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@172.67.151.188:443?security=tls&sni
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.146.173.112:8880?path=/&security=none&encryption=none&host=photographipictureai.ir&type=ws#🇸🇪SE_1280_@Surfboardv2ray
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.146.173.112:8880?security=none&type=ws&host=photographipictureai.ir&path=/#🔒
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?path=/&security=none&encryption=none&host=photographipictureai.ir&type=ws#🇳🇱NL_1281_@Surfboardv2ray
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?path=/Telegram@Azarbayjab1@Azarbayjab1@Azarbayjab1/?ed=2560&security=none&encryption=none&host=photographipictureai.ir&type=ws#🇳🇱NL_1282_@Surfboardv2ray
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?security=none&type=ws&host=photographipictureai.ir#🔒
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@195.85.59.155:8880?type=ws&host=photographipictureai.ir&path=%2FTelegram%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1#🔒

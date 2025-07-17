@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.6.130:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.6.58:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.60.175:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.60.199:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+        vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.60.199:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.60.236:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.60.95:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.61.199:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
@@ -503,3 +500,6 @@ vless://8faf943c-9f25-4052-93a6-3359bbdd3baa@172.66.47.101:8443?security=tls&sni
 vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@www.speedtest.net:2052?path=/&security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#🇨🇦CA_764_@Surfboardv2ray
 vless://900c3383-d60f-cba1-0c4a-05d0156ea4ad@195.234.191.139:8880?security=none&type=tcp&path=%2F&headerType=http#🔒
 vless://901a96a1-6952-44a1-8389-4a323c1fb59f@151.101.64.155:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=Lightning.ir&type=ws#🇺🇸US_765_@Surfboardv2ray
+vless://905b744f-d213-4cd3-9306-53f0ea86b2c4@91.92.40.78:2070?security=none&type=tcp#🔒
+vless://9068848e-9a94-4cf8-b466-7c7a9f13bf2e@172.67.21.239:2052?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇨🇦CA_766_@Surfboardv2ray
+vless://906ba92f-ef96-4133-8eee-f33202a5a721@104.21.79.79:443?security=tls&sni=9yuhj.938.pp.ua&type=ws&host=9yuhj.938.pp.ua&path=%2FK8X1ocJD1r0dTd5pVam9w&fp=chrome&alpn=http%2F1.1#🔒

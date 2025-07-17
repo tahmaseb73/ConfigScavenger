@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+193.29.139.144-8080+%7C+86.32ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.132:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+193.29.139.132-8080+%7C+87.92ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+103.104.247.49-8080+%7C+86.12ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+103.104.247.49-8080+%7C+86.15ms
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+103.104.247.49-8080+%7C+86.15ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+103.104.247.45-8080+%7C+86.36ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+64.176.85.73-1866+%7C+219.15ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+185.177.229.245-1866+%7C+89.69ms
@@ -503,3 +500,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZFVreVM0d0dvTDVuM3lhQmhtNUpVQWVYY3dyQ2VrMmhRN0c2bmg2R3lZcHd2VTdKcVJwSldMa1ZVUVl6WVhROU1NYjRZdlNQdnJDaWROOVZWZ21UVXZma1pCZ2hDcXI%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 vless://ea286109-d20f-415e-849e-4af20ab04b65@51.81.37.5:443?encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.248.50:8090#US-%3EUS-%3EADL-%3E%40Sezar_Sec
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.156:443?encryption=none&security=tls&sni=147135004002.sec20org.com&fp=chrome&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?encryption=none&security=none&type=grpc#FR-%3EFR-%3EMTN-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#US-%3ENL-%3ERTL-%3E%40Sezar_Sec
