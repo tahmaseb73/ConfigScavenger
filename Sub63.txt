@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://NISHIKUITAN111@193.227.99.60:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//#🔒
+        trojan://NISHIKUITAN111@173.245.59.91:443?#🔒
+trojan://NISHIKUITAN111@185.148.106.44:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=/#🔒
+trojan://NISHIKUITAN111@185.193.29.193:443?#%E6%9C%AA%E7%9F%A551
+trojan://NISHIKUITAN111@185.193.29.193:443?#🔒
+trojan://NISHIKUITAN111@190.93.247.175:443?#🔒
+trojan://NISHIKUITAN111@193.227.99.60:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//#🔒
 trojan://NISHIKUITAN111@198.41.205.240:443?#🔒
 trojan://NISHIKUITAN111@198.41.217.62:443?#🔒
 trojan://NISHIKUITAN111@213.109.205.159:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=/#🔒
@@ -498,8 +503,3 @@ trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.15.85:2083?security=tls&sni
 trojan://d41c41b0-dffe-11ef-8be9-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://d4bdfc72-7f0c-4ff0-aa4d-3530736f4088@159.223.42.224:443?security=tls&sni=sg-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://d4c22fd9-1474-4e9f-baf7-80b162f3e60c@185.14.47.199:12002?security=tls&sni=cdn.alibaba.com&type=tcp#🔒
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?sni=vle.amclubsvip.dpdns.org#🔒
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.18.112:2087?sni=vle.amclubsvip.dpdns.org#🔒
-trojan://d86c421f-dbfe-4507-a864-f8f9e29d80e4@161.35.197.11:443?security=tls&sni=de-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://d889b4c8-dab9-4b0c-932b-e4071c727308@104.21.40.251:443?security=tls&sni=M6ghjK.777169.xyz&type=ws&host=m6ghjk.777169.xyz&path=/vFeLkPJXEksjERPwvxRA#🔒
-trojan://d8e9f5e0-1233-11f0-85ba-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3

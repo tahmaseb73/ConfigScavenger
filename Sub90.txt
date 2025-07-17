@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d14d29dd-826f-4c0d-ad22-5091360f486a@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1070_@Surfboardv2ray
+        vless://d12e7198-95d4-41f1-b4d2-a94a1ee28546@45.149.12.254:8443?security=tls&sni=kanal-ma-falcunargo.2bddce6dfd.workers.dev&type=ws&host=kanal-ma-falcunargo.2bddce6dfd.workers.dev&path=%2F%3Fed%3D2560#🔒
+vless://d143c8a9-3e41-4e4b-832b-1eddd02c249b@199.232.5.140:80?type=ws&host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir#🔒
+vless://d14d29dd-826f-4c0d-ad22-5091360f4869@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1067_@Surfboardv2ray
+vless://d14d29dd-826f-4c0d-ad22-5091360f4869@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1068_@Surfboardv2ray
+vless://d14d29dd-826f-4c0d-ad22-5091360f486a@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1069_@Surfboardv2ray
+vless://d14d29dd-826f-4c0d-ad22-5091360f486a@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1070_@Surfboardv2ray
 vless://d14d29dd-826f-4c0d-ad22-5091360f486b@104.21.69.44:443?security=tls&sni=Main.kasler.lol&type=xhttp&host=Main.kasler.lol&fp=chrome&alpn=h3,h2,http/1.1#🔒
 vless://d14d29dd-826f-4c0d-ad22-5091360f486b@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1071_@Surfboardv2ray
 vless://d14d29dd-826f-4c0d-ad22-5091360f486b@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1072_@Surfboardv2ray
@@ -498,8 +503,3 @@ vless://d6f051d2-b704-4434-a4b9-872037153372@172.67.216.240:443?security=tls&sni
 vless://d6ff33a6-03bf-4338-8a63-62ab284a9466@45.131.5.111:80?type=ws&host=feng4.l1ut8bi9.workers.dev&path=%2FTelegram#🔒
 vless://d7128c30-5acd-4c9d-d917-d1fe9c96ff6e@62.133.60.234:777?encryption=none&security=none&type=tcp&headerType=http&host=este.com#🇩🇪DE_1103_@Surfboardv2ray
 vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.34.157.214:442?encryption=none&security=none&type=grpc#🇩🇪DE_1104_@Surfboardv2ray
-vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@45.144.54.111:442?security=none&type=grpc#🔒
-vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@sv-italia.it.sv-italia.it:442?mode=gun&security=none&encryption=none&type=grpc#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
-vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@sv-italia.it.sv-italia.it:442?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE_1105_@Surfboardv2ray
-vless://d762fea2-c9b3-45ca-b70e-e1fb078c8776@172.66.44.75:2053?security=tls&sni=maHdiseRveR-3h9.pageS.deV&type=ws&host=mahdiserver-3h9.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒
-vless://d76b2c50-34b4-4ae2-bb56-231569aeb0fc@104.17.217.15:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&alpn=h3,h2#🔒

@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.155:443?sni=ca.bgm2024.dpdns.org&type=ws&host=ca.bgm2024.dpdns.org&allowInsecure=1#🔒
+        ss://55520747-311e-4015-83ce-be46e2060ce3@135.84.76.110:443?sni=ca.bgm2024.dpdns.org&type=ws&host=ca.bgm2024.dpdns.org&allowInsecure=1#🔒
+ss://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?sni=cc.bgm2024.dpdns.org&type=ws&host=cc.bgm2024.dpdns.org&allowInsecure=1#🔒
+ss://55520747-311e-4015-83ce-be46e2060ce3@141.145.205.115:8443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒
+ss://55520747-311e-4015-83ce-be46e2060ce3@141.147.147.28:8443?sni=vb.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://55520747-311e-4015-83ce-be46e2060ce3@141.147.185.63:443?sni=vb.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.155:443?sni=ca.bgm2024.dpdns.org&type=ws&host=ca.bgm2024.dpdns.org&allowInsecure=1#🔒
 ss://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.156:443?sni=cl.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.23:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒
 ss://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.30:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒
@@ -498,8 +503,3 @@ ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=%2F%3Fed%3D256
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%20113%20%28%40Outline_Vpn%29
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2089%20%28%40Outline_Vpn%
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.121.106:80?type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒
-ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.121.12:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2&host=23-lsjfjwiposkfls.hc2021.cfd&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.121.12:80?type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒
-ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.121.131:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2%20&host=23-lsjfjwiposkfls.hc2021.cfd&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.121.131:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2&host=23-lsjfjwiposkfls.hc2021.cfd&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.121.131:80?security=none&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒
