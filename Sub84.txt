@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.31:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=HiDyVnDe14.bInTeRmA.OrG&fp=chrome&type=ws&sni=HiDyVnDe14.bInTeRmA.OrG#@meli_proxyy
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.31:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=HiDyVnDe14.bInTeRmA.OrG&fp=chrome&type=ws&sni=HiDyVnDe14.bInTeRmA.OrG#RELAY🚩
+        vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.31:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=HiDyVnDe14.bInTeRmA.OrG&fp=chrome&type=ws&sni=HiDyVnDe14.bInTeRmA.OrG#RELAY🚩
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.31:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=HiDyVnDe14.bInTeRmA.OrG&fp=chrome&type=ws&sni=HiDyVnDe14.bInTeRmA.OrG#⚡Telegram
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.31:2096?security=tls&sni=HiDyVnDe14.bInTeRmA.OrG&type=ws&host=HiDyVnDe14.bInTeRmA.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.65:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
@@ -503,3 +502,4 @@ vless://CHIK_182495@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0Ejuloh
 vless://CHIK_182495@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#⚡Telegram
 vless://CHIK_281047@77.91.85.161:443?security=reality&encryption=none&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#🇸🇪[openproxylist.com]
 vless://CHIK_382484@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#@meli_proxyy
+vless://CHIK_382484@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#⚡Telegram

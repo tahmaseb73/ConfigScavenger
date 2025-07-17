@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d01a40f5-4e6f-4279-b0a9-0f2a268ab03c@198.41.208.211:8080?encryption=none&security=none&type=ws&host=worker-falling-snow-ffd7.test61.workers.dev&path=%2F%3Fed%3D2048#CA-%3EDE-%3EADL-%3E%40Sezar_Sec
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.154:443?encryption=none&security=tls&sni=147135004002.sec20org.com&fp=chrome&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
+        vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.154:443?encryption=none&security=tls&sni=147135004002.sec20org.com&fp=chrome&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
 vless://9b8e5b9c-cac0-44c9-b135-383c6c5c3eea@104.18.27.94:80?encryption=none&security=none&type=ws&host=esetsecuritylicense.tacofi5315.workers.dev&path=%2F#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
 vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@www.visa.com:2086?encryption=none&security=none&type=ws&host=0108.9ro3grfw.workers.dev&path=%2F%3Fed%3D2560#CA-%3E-%3EMCI-%3E%40Sezar_Sec
 vless://d4769aab-99d9-4491-a3e3-a58867915bdf@104.18.26.94:443?encryption=none&security=tls&sni=esetsecuritylicense.cfmglpqb.workers.dev&fp=randomized&type=ws&host=esetsecuritylicense.cfmglpqb.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0%9F%87%AC%F0%9F%87%A7GB-85.210.120.237-0229
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-85.210.36.164-0222
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-85.210.19.69-0224
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0245

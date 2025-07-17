@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://46dbac8b-eaba-4275-940c-819f95d16916@104.17.248.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒
-ss://46dbac8b-eaba-4275-940c-819f95d16916@104.17.249.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒
+        ss://46dbac8b-eaba-4275-940c-819f95d16916@104.17.249.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒
 ss://46dbac8b-eaba-4275-940c-819f95d16916@104.18.0.22:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#🔒
 ss://46dbac8b-eaba-4275-940c-819f95d16916@104.18.1.22:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#🔒
 ss://46df0d48-8dea-49ab-974e-2256e4c2b1b8@185.133.35.118:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#🔒
@@ -503,3 +502,4 @@ ss://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=%2F&security=n
 ss://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=/&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#🇨🇦CA_438_@Surfboardv2ray
 ss://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=/&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#🇨🇦CA_439_@Surfboardv2ray
 ss://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=18.6na7PY43IT.zuLaiR.Org.&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?security=none&type=ws&host=18.6na7PY43IT.zuLaiR.Org.&path=%2F#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD

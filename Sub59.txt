@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://3qx%25QmCt%5E%26cg@172.67.175.40:2083?security=tls&sni=tabnak.farsonline24.ir&type=ws&host=tabnak.farsonline24.ir&path=/sq54iQsL#🔒
-trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@awlix_ir
+        trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@awlix_ir
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#🔒
 trojan://4069c35c-54ea-48ee-9ffa-05d9a0302043@104.21.24.195:443?security=tls&sni=m5tyui.999836.xyz&type=grpc#🔒
 trojan://4069c35c-54ea-48ee-9ffa-05d9a0302043@104.21.71.131:443?security=tls&sni=m5rt.999854.xyz&type=ws&host=m5rt.999854.xyz&path=/GawgMugyRDAQXp6e0CScyGqcQZW#🔒
@@ -503,3 +502,4 @@ trojan://7743e1b5-d301-4a66-b765-17094890fae2@141.101.115.138:443?sni=ssp6.10089
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@141.101.120.10:443?sni=ssp2.100896.xyz#%E6%9C%AA%E7%9F%A597
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@141.101.120.10:443?sni=ssp2.100896.xyz#🔒
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@162.159.128.101:443?sni=ssp1.100896.xyz&allowInsecure=0#🔒
+trojan://7743e1b5-d301-4a66-b765-17094890fae2@172.67.152.188:443?sni=ssp1.100896.xyz#🔒
