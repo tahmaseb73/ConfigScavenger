@@ -3,24 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@172.67.151.194:443?sni=epccx.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.151.67:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@172.67.151.91:443?sni=epccx.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.152.128:443?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.152.167:443?sni=epcco.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.153.221:443?sni=epccf.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.153.236:443?sni=epccg.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.153.47:443?sni=epccg.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.154.187:443?sni=epcch.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.155.201:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A539
-trojan://Aimer@172.67.155.201:443?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.155.203:443?sni=epccx.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.155.26:443?sni=epccx.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.155.66:443?sni=epcch.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.156.3:443?sni=epccj.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.157.132:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@172.67.157.168:443?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.157.174:443?sni=epccf.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@172.67.157.174:443?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.67.157.182:443?sni=epccv.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.67.157.215:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
 trojan://Aimer@172.67.157.40:2096?sni=agepu.ambercc.filegear-sg.me#🔒
@@ -122,7 +105,6 @@ trojan://Aimer@188.164.159.74:8443?security=tls&sni=epmw.ambercc.filegear-sg.me&
 trojan://Aimer@188.164.159.91:2083?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒
 trojan://Aimer@188.164.159.98:2083?sni=epccv.ambercc.filegear-sg.me#🔒
 trojan://Aimer@188.166.162.201:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒
-trojan://Aimer@188.93.140.11:443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#馃憠馃啍@v2ray_configs_pool馃摗馃嚫馃嚜庐锔廠weden漏锔廠tockholm馃吙锔弍ing:7.16ms
 trojan://Aimer@192.0.54.221:2083?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#馃憠馃啍@v2ray_configs_pool馃摗馃嚭馃嚫庐锔廢nited
 trojan://Aimer@192.0.54.221:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@192.0.54.7:443?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
@@ -393,8 +375,6 @@ trojan://Bw5Mz7QkVp@z-v2-077707.kailib.com:443?security=tls&headerType=none&type
 trojan://Bw5Mz7QkVp@z-v2-077707.kailib.com:443?security=tls&headerType=none&type=tcp#US🇺🇸
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#🔒
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&type=grpc&sni=irancell-ir-4.mmdruby13.store#%E6%9C%AA%E7%9F%A5107
-trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x5-france-scaleway-v2.devefun.org#%F0%9F%87%B8%F0%9F%87%AC%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%3A%20%40customv2ray🇨🇵
-trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x5-france-scaleway-v2.devefun.org#@meli_proxyy
 trojan://E%5D5p%232Hxe3q%29t_oX@172.66.46.252:2087?security=tls&sni=WEEKNdJoOn.pages.DeV&type=ws&host=weekndjoon.pages.dev#🔒
 trojan://E0nPlYFeYt@82.115.6.120:46420?security=reality&sni=yahoo.com&type=tcp#🔒
 trojan://EbtvoL1xJV@172.67.161.74:2096?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=/@M3HDIO1#🔒
@@ -503,3 +483,23 @@ trojan://QTKsqSws9Sgc@104.21.96.1:2087?security=tls&sni=hamshahri.twn24.ir&type=
 trojan://RISBa%3B60%40iJ0Y9j%24@104.23.109.228:443?security=tls&sni=cOol-PAper-B369.H-175.wOrkErS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrNCANj6FlNU8ziJBH%3Fed%3D2560#%F0%9F%92%A7%209%20-%20Trojan%20-%20Clean%20IP%20%3A%20443
 trojan://RISBa%3B60%40iJ0Y9j%24@188.114.96.3:443?security=tls&sni=cOOL-paPER-B369.H-175.wORKeRs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrbVfBloJgsCGIXPAy%3Fed%3D2560#%F0%9F%92%A7%204%20-%20Trojan%20-%20IPv4%20%3A%20443
 trojan://RISBa%3B60%40iJ0Y9j%24@188.114.97.3:443?security=tls&sni=coOl-PapeR-b369.h-175.wOrkeRS.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrADnQEIdSzg7Lf0Mg%3Fed%3D2560#%F0%9F%92%A7%203%20-%20Trojan%20-%20IPv4%20%3A%20443
+trojan://RISBa%3B60%40iJ0Y9j%24@cool-paper-b369.h-175.workers.dev:443?security=tls&sni=coOL-paPER-b369.H-175.WoRKeRS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2Ftr9SFySTMaqFQI5yhU%3Fed%3D2560#%F0%9F%92%A7%201%20-%20Trojan%20-%20Domain%20%3A%20443
+trojan://RISBa%3B60%40iJ0Y9j%24@www.speedtest.net:443?security=tls&sni=COol-PAper-B369.h-175.WorKeRS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrFwkcT6K7A2tA3gxx%3Fed%3D2560#%F0%9F%92%A7%202%20-%20Trojan%20-%20Domain%20%3A%20443
+trojan://RlzoEILU@36.151.251.62:13542?security=tls&sni=cdn.egvra.cn&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+trojan://SDYlNZ6z5DA8TZqz33YnN4lzpp88YBZOyXC5we8AZBqn6YXwI0gISyalXjIOyNwCaDpDORKSyDCSg9S@154.17.10.32:28333?security=tls&sni=rolling.homeofbrave.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://SSorg@104.19.60.104:2096?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒
+trojan://SSorg@172.67.156.115:2087?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒
+trojan://SSorg@199.34.228.71:8443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒
+trojan://SSorg@199.34.228.71:8443?security=tls&type=tcp&sni=ssjj.esslh.filegear-sg.me#US16
+trojan://SSorg@5.182.85.28:443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://SYlC7B9Tgl@tabnak.itn24.ir:8443?security=tls&allowInsecure=1&type=ws&host=tabnak.itn24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://SaujZeOR2F6eDD09KnxFcl3CY8laTXAyYOyCEI5qgwRSDp4ZCp33ASxN738zBa@69.5.52.87:443?security=tls&sni=beseech.homeofbrave.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.44.214:2053?sni=NOp-55q.pAgEs.dEv#🔒
+trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?security=tls&sni=NOp-55q.pAgEs.dEv&type=ws&host=nop-55q.pages.dev#🔒
+trojan://TKsVHmEEGn3v@104.21.64.1:2087?security=tls&sni=hamshahri.twn24.ir&type=httpupgrade&host=hamshahri.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒
+trojan://U%26YcI8%3E7ep%7D%3CeT8%5D@104.17.147.22:8443?security=tls&sni=jOInMaHdisErVeR-Ys7.pagEs.DEV&type=ws&host=joinmahdiserver-ys7.pages.dev#🔒
+trojan://U%26YcI8%3E7ep%7D%3CeT8%5D@104.17.148.22:8443?security=tls&sni=jOInMaHdisErVeR-Ys7.pagEs.DEV&type=ws&host=joinmahdiserver-ys7.pages.dev#🔒
+trojan://U%26YcI8%3E7ep%7D%3CeT8%5D@104.17.148.22:8443?security=tls&type=ws&sni=jOInMaHdisErVeR-Ys7.pagEs.DEV&host=joinmahdiserver-ys7.pages.dev#%E6%9C%AA%E7%9F%A525
+trojan://U592RRvl1vSW@104.21.16.1:2053?security=tls&sni=tasnim.twn24.ir&type=ws&host=tasnim.twn24.ir&path=/🆔@M3HDIO1#🔒
+trojan://U592RRvl1vSW@104.21.32.1:2053?security=tls&sni=tasnim.twn24.ir&type=ws&host=tasnim.twn24.ir&path=/🆔@M3HDIO1#🔒
+trojan://U592RRvl1vSW@104.21.64.1:2053?security=tls&sni=tasnim.twn24.ir&type=ws&host=tasnim.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒
