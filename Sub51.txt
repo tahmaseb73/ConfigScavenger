@@ -3,20 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#@meli_proxyy
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#⚡Telegram
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR_1187_@Surfboardv2ray
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR_1188_@Surfboardv2ray
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?security=none&type=grpc#🔒
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880/?type=grpc&encryption=none&flow=#🇫🇷FR_1189_@Surfboardv2ray
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping%3A40.98ms
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#⚡Telegram
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&authority=%2Fv2rayNplus&type=grpc#FR🇫🇷
+        ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&authority=%2Fv2rayNplus&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&authority=/v2rayNplus&type=grpc#@meli_proxyy
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&authority=/v2rayNplus&type=grpc#⚡Telegram
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
@@ -503,3 +490,16 @@ ss://e72e106e-cc38-434c-871a-d3345a27a99f@78.47.165.78:8443?security=reality&sni
 ss://e72e106e-cc38-434c-871a-d3345a27a99f@94.130.26.30:8443/?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#⚡Telegram
 ss://e72e106e-cc38-434c-871a-d3345a27a99f@94.130.26.30:8443?security=reality&sni=www.gameup.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
 ss://e72e106e-cc38-434c-871a-d3345a27a99f@94.130.26.30:8443?type=tcp&encryption=none&sni=www.gameup.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|DE🇩🇪
+ss://e74c23fa-44c0-425e-812d-5e2df4487ced@www.speedtest.net:8880?allowInsecure=1&sni=de-snapp23.academigroup.ir.&type=ws&host=de-snapp23.academigroup.ir.&path=/telegram---Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram----Academi_vpn--Mystic_vpn?ed=2048#1%7C%F0%9F%87%A9%F0%9F%87%AA4%20%7C%20%202.8MB/s%7C13%25%7CNetflix%7CYou...
+ss://e74d7639-3755-4624-b770-efa6e7ec09a8@104.21.82.14:443?path=%2FBt93qlsreYHzV5Ii9WW&security=tls&alpn=http%2F1.1&encryption=none&host=m3sdf.777259.xyz&fp=chrome&type=ws&sni=m3sdf.777259.xyz#%F0%9F%8F%B3%EF%B8%8F+prx11+%E2%9C%A8%F0%9F%8C%9F%F0%9F%8E%89
+ss://e74d7639-3755-4624-b770-efa6e7ec09a8@104.21.82.14:443?security=tls&sni=M3SDf.777259.xyz&type=ws&host=m3sdf.777259.xyz&path=%2FBt93qlsreYHzV5Ii9WW&fp=chrome&alpn=http%2F1.1#🔒
+ss://e74e33c9-dd65-4957-83a3-83cac7b3b3e9@151.101.66.219:80?security=none&type=xhttp&host=jointo_vistav2ray.ir#🔒
+ss://e74e33c9-dd65-4957-83a3-83cac7b3b3e9@speedtest.net:80?mode=auto&path=/@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray..../@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray?ed=2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#🇺🇸US_1227_@Surfboardv2ray
+ss://e7639e42-17b3-4b1f-e61d-133273faf2bf@snapp.ir.iraniantim.ir:80?security=reality&encryption=none&pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&headerType=none&fp=chrome&spx=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN?ed=2048&type=tcp&sni=refersion.com#🇳🇱NL_1228_@Surfboardv2ray
+ss://e7639e42-17b3-4b1f-e61d-133273faf2bf@snapp.ir.iraniantim.ir:80?type=tcp&security=reality&pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&fp=chrome&sni=refersion.com&sid=&spx=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN?ed=2048#🇳🇱NL_1229_@Surfboardv2ray
+ss://e78f654c-fa48-40d6-a840-07b8611bb2d8@49.12.225.140:443?security=reality&flow=xtls-rprx-vision&sni=tgju.org&type=tcp&fp=chrome&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&sid=105e89ba3d2a1c3b#@Hope_Net-join-us-on-Telegram
+ss://e78f654c-fa48-40d6-a840-07b8611bb2d8@49.12.225.140:443?security=reality&flow=xtls-rprx-vision&sni=tgju.org&type=tcp&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=chrome&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&sid=105e89ba3d2a1c3b#🔒
+ss://e792ea19-00ba-43e0-be65-737b62352896@212.95.33.206:39439?security=reality&sni=yahoo.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=axLa2Yb5VegTFNy2v8chJvX6ShWl5v9jPgyGeFpTMwA&sid=1f#🔒
+ss://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?encryption=none&security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#t.me%2Fpeterjest
+ss://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/%23@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&host=hexaprop.dirih76753.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#🔒
