@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@VIProxys
+        ss://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:8880?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@VIProxys
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@VIPro
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@VIProxys
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🇨🇦CA_1087_@Surfboardv2ray
@@ -502,4 +503,3 @@ ss://de7cdb6a-d1a5-4dad-a44b-19bc7641e7c8@free.serverfreedom.com:1000?security=r
 ss://de7cdb6a-d1a5-4dad-a44b-19bc7641e7c8@free.serverfreedom.com:1000?security=reality&encryption=none&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&headerType=none&fp=chrome&type=tcp&sni=refersion.com#%40cook_Vpn%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%D8%AE%D8%AA%D8%A7%D8%B5%DB%8C%20%DA%86%D9%86%D9%84%F0%9F%91%88
 ss://dea94163-2cb3-466f-b32d-05922f0a02c4@94.182.105.30:44062?security=none&type=tcp&headerType=http#🔒
 ss://deaa1f3f-700f-4cf6-9386-46851c9f6921@5.75.199.151:2052?security=reality&sni=vultr.com&type=xhttp&path=%2Fprx11&fp=chrome&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&sid=f8fcb589#🔒
-ss://deaa1f3f-700f-4cf6-9386-46851c9f6921@vip1.proxystore11.news:2052?type=xhttp&path=%2Fprx11&host=&mode=auto&security=reality&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&sni=vultr.com&sid=f8fcb589&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1+prx11+%F0%9F%94%A5%F0%9F%8C%BA%F0%9F%92%96

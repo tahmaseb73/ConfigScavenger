@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://356ae387-2c37-4b84-b03a-f3fce9b54d36@142.132.227.65:443?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪 | 142.132.227.65-443 | 95.77ms
+        vless://358bccd3-aa6c-4afb-9a39-68cf23f032ea@193.149.189.205:443?security=reality&encryption=none&pbk=ZJQpYoxYzfgkWXRmIasamZKkPvQc_a1PaCUdQ_WVzVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=5c438db12cee9c#REALITY|GB🇬🇧 | 193.149.189.205-443 | 104.83ms
+vless://356ae387-2c37-4b84-b03a-f3fce9b54d36@142.132.227.65:443?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪 | 142.132.227.65-443 | 95.77ms
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.81.254:8880?security=none&type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#RELAY🚩 | yg.bantony199.top-8880 | 441.57ms
 vless://3488f5ea-47f8-4d6c-b1af-289c010c57cd@de.gy-nt.shop:443?security=reality&encryption=none&pbk=B65r_UBsBFSlwq7XbrrWI0SuCxkB8KhQEYaGrB54mTc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=miro.com#REALITY|DE🇩🇪 | de.gy-nt.shop-443 | 128.16ms
 vless://347c666a-f909-4394-f5b2-715e914db254@151.101.194.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=meloch-de.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#US🇺🇸 | Zmaoz.Faculty.UcdavIS.Edu.-443 | 115.15ms
@@ -502,4 +503,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.121.87.89:989#MD%F0%9F%87%B2%F
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+185.180.12.81-989+%7C+99.87ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#MK%F0%9F%87%B2%F0%9F%87%B0+%7C+46.183.185.37-989+%7C+121.43ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.21.221:989#HK%F0%9F%87%AD%F0%9F%87%B0+%7C+154.223.21.221-989+%7C+216.47ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+103.163.218.2-989+%7C+263.14ms
