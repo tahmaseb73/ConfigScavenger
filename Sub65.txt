@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://telegram-id-directvpn@54.217.71.51:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%AAIreland
-trojan://telegram-id-directvpn@63.176.225.52:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AAGermany
-trojan://telegram-id-directvpn@63.176.41.214:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+        trojan://telegram-id-directvpn@63.176.41.214:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@63.177.148.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@63.177.148.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
 trojan://telegram-id-directvpn@63.178.128.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
@@ -503,3 +501,5 @@ vless://-VPNCUSTOMIZE-@188.114.98.224:2095?path=/V2rayCUSTOMIZE?ed=1024&security
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443?security=tls&sni=sg.xyxy.dpdns.org&type=ws&host=sg.xyxy.dpdns.org&path=%2F00026cc2#🔒
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?encryption=none&security=none&type=ws&path=%2F00026cc2#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Downtown%20Core%29%F0%9F%85%BF%EF%B8%8Fping%3A248.54ms
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?type=ws&path=%2F00026cc2#🏳[openproxylist.com]
+vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?type=ws&path=%2F00026cc2#🔒
+vless://0012d4b0-1ab7-466b-85e8-8eaf05c6db9c@213.176.0.240:43521?encryption=none&security=none&type=tcp&headerType=http&host=match-cdn.varzesh3.com#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub

@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@135.84.76.115:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@135.84.76.143:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@135.84.76.94:443?sni=vx.ylks0033.dpdns.org&type=ws&host=vx.ylks0033.dpdns.org&allowInsecure=1#🔒
+        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@135.84.76.94:443?sni=vx.ylks0033.dpdns.org&type=ws&host=vx.ylks0033.dpdns.org&allowInsecure=1#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@140.238.212.95:443?security=tls&sni=sx.ylks0033.dpdns.org&type=ws&host=sx.ylks0033.dpdns.org&path=%2F%3Fed#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@141.148.203.6:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%AD_%E7%91%9E%E5%A3%AB
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@141.148.203.6:443?sni=bn.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
@@ -503,3 +501,5 @@ vless://0f8b0f9e-fb84-443e-8a0d-41a789378989@104.25.252.185:8443?security=tls&sn
 vless://0f8b0f9e-fb84-443e-8a0d-41a789378989@138.2.122.197:39863?security=tls&sni=vless.caoni.nyc.mn&type=ws&host=vless.caoni.nyc.mn&path=%2F%3Fed%3D2048&fp=random#🔒
 vless://0f8eecbf-3d5f-4112-b7f3-32521ca114d4@94.159.103.254:443?security=reality&sni=yahoo.com&type=tcp&fp=chrome&pbk=r4Visq16WAEVR7yIvxfC36KpaiuVLyzyXxA5xZwNEGk&sid=a7970bf71a2aca0c#🔒
 vless://0fa688f6-3162-431a-bded-a91b4759bcf8@Www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Ne.vipmehspd.ir.&type=httpupgrade#%40V2ray1_Ng%20ALL%20NET
+vless://0fb53a60-2372-412a-a693-5157b58ecc94@104.21.39.212:80?security=none&sni=v2raylandd-85.upftsx.workers.Dev&type=ws&host=v2raylandd-85.upftsx.workers.Dev&fp=chrome#🔒
+vless://0fb53a60-2372-412a-a693-5157b58ecc94@172.67.148.227:80?security=none&sni=v2raylandd-85.upftsx.workers.Dev&type=ws&host=v2raylandd-85.upftsx.workers.Dev&fp=chrome#🔒
