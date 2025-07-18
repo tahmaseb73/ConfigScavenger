@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.76:8880?type=ws&host=yd.laoyoutiao.link&path=/Telegram🇨🇳#🔒
+        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.61:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.63:8880?type=ws&host=us.laoyoutiao.link&path=TelegramрЯЗ®рЯЗ≥#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.6:8880?type=ws&host=us.laoyoutiao.link&path=/TelegramрЯЗ®рЯЗ≥#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.70:8880?security=none&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.76:8880?type=ws&host=yd.laoyoutiao.link&path=/Telegram🇨🇳
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.76:8880?type=ws&host=yd.laoyoutiao.link&path=/Telegram🇨🇳#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.77:8880?security=none&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.78:8880?security=none&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.7:8880?security=none&sni=sg.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒
@@ -498,8 +503,3 @@ ss://fe75b904-7a0c-4a1c-b22a-e5f1399fe7be@190.93.246.224:2083?security=tls&sni=a
 ss://febfb8b0-a3f7-4ebd-9bde-9d5f9972e436@151.101.64.155:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#tm%E2%9A%A1%7C%40lightning6
 ss://fec1d7bc-5484-477a-b6b8-fd16a117bf4b@44.210.15.175:1991?security=reality&sni=scholar.google.com&type=xhttp&host=scholar.google.com&path=%2Fkiava-telegram%2F%3FJoin_Bade_Channel@JOKERRVPN&fp=chrome&pbk=Ls3-Ttagiq9DAjwJ1CXfjKJHjKaluXzySqjb39-EkW0&sid=5528ed#🔒
 ss://fed7b870-8d40-4337-b26b-9aca5ac4846f@104.26.8.156:2096?security=tls&sni=hp-duBai.pAGES.dEV&type=ws&host=hp-dubai.pages.dev&path=%2F9HzhcZ4yenwH1d9M%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://fed7b870-8d40-4337-b26b-9aca5ac4846f@104.26.9.156:2096?security=tls&sni=hp-duBai.pAGES.dEV&type=ws&host=hp-dubai.pages.dev&path=%2F9HzhcZ4yenwH1d9M%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.66.44.200:2053?security=tls&sni=HP-duBAi.pAgeS.dEV&type=ws&host=hp-dubai.pages.dev&path=%2FW6PaDVqD7ARsLjOC%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.66.44.200:2096?security=tls&sni=hP-duBaI.pAgeS.dEv&type=ws&host=hp-dubai.pages.dev&path=%2Fp2qsZmRCtRJSk3OC%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.67.71.187:2096?security=tls&sni=hp-duBai.pAGES.dEV&type=ws&host=hp-dubai.pages.dev&path=%2F9HzhcZ4yenwH1d9M%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://fedc279b-ccb3-4205-bb47-31ac79ae4e7a@162.159.138.232:443?security=tls&sni=jenaei.movieland.top&type=grpc&serviceName=static43498&encryption=none#Suren%20TM

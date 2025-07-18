@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://74260702287384200@44.246.96.233:443?security=tls&sni=settled-mite.shiner427.skin&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Boardman%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+        trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
+trojan://74260667533381300@109.107.159.67:443?security=tls&sni=patient-emu.shiner427.skin&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Neasden%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://74260667533381300@89.39.70.158:443?security=tls&sni=loving-calf.shiner427.skin&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://74260678056890000@51.44.94.106:443?security=tls&sni=grown-doberman.shiner427.skin&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://74260702287384200@18.156.46.68:443?security=tls&sni=quality-kite.shiner427.skin&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://74260702287384200@44.246.96.233:443?security=tls&sni=settled-mite.shiner427.skin&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Boardman%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://74260704627805900@gorgeous-gopher.shiner427.skin:443?allowInsecure=1#%E8%8B%B1%E5%9B%BD-21.7MB%2
 trojan://74260704627805900@on-roughy.shiner427.skin:443?security=tls&headerType=none&type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 trojan://7634a410-0a7d-11f0-acfd-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -498,8 +503,3 @@ trojan://Aimer@104.19.39.38:443?sni=epccj.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.19.40.32:443?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.19.42.244:443?sni=epccj.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.19.43.80:443?sni=epcca.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.19.44.38:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A542
-trojan://Aimer@104.19.44.38:443?sni=epcca.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.19.44.67:443?sni=epccj.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.19.44.91:443?sni=epccf.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.19.45.0:443?sni=epccf.ambercc.filegear-sg.me#🔒
