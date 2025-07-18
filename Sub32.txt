@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://7da3c13f-289c-4549-8151-90a413d1784a@172.66.44.203:2053?security=tls&sni=mahDISERVeR-Al9.pAGES.DeV&type=ws&host=mahdiserver-al9.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒
-ss://7da3c13f-289c-4549-8151-90a413d1784a@172.66.47.53:2053?security=tls&sni=mahDISERVeR-Al9.pAGES.DeV&type=ws&host=mahdiserver-al9.pages.dev&path=%2F5Foaj1dZS6crM27T%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://7e098766-402e-4202-8a5f-ad990ec2b9b4@37.32.41.193:20464?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒
-ss://7e296434-2d17-48d3-928d-19eaa34aecb1@146.59.15.81:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#%40meli_proxyy
+        ss://7e296434-2d17-48d3-928d-19eaa34aecb1@146.59.15.81:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#%40meli_proxyy
 ss://7e296434-2d17-48d3-928d-19eaa34aecb1@146.59.15.81:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
 ss://7e296434-2d17-48d3-928d-19eaa34aecb1@146.59.15.81:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#⚡Telegram
 ss://7e296434-2d17-48d3-928d-19eaa34aecb1@146.59.15.81:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
@@ -503,3 +500,6 @@ ss://890c9650-809e-445b-a4b0-2cd883e0de62@104.21.235.115:443?security=tls&sni=xx
 ss://890c9650-809e-445b-a4b0-2cd883e0de62@104.21.61.97:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://890c9650-809e-445b-a4b0-2cd883e0de62@173.245.49.59:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&fp=chrome&alpn=h3,h2#🔒
 ss://890c9650-809e-445b-a4b0-2cd883e0de62@188.114.97.132:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://890c9650-809e-445b-a4b0-2cd883e0de62@188.114.98.254:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://89182351-0416-45b9-b596-88fb476ea1ac@74.248.139.169:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=randomized&sni=seven.dilik.co&alpn=h2,http/1.1#@VIPro
+ss://89182351-0416-45b9-b596-88fb476ea1ac@74.248.139.169:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=randomized&sni=seven.dilik.co&alpn=h2,http/1.1#@VIProxys

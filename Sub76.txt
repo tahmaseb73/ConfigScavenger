@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.154:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#t.me%2Fpeterjest
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.154:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.154:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.157:8880?path=/&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#🇦🇲AM_538_@Surfboardv2ray
+        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.157:8880?path=/&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#🇦🇲AM_538_@Surfboardv2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.157:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.15:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.163:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
@@ -503,3 +500,6 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.89:443?sni=ca.bgm2024.dp
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.99:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.152.205:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.152.53:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
+vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.152.81:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒
+vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.153.144:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒
+vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.153.212:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#@Hope_Net-join-us-on-Telegram⚠️

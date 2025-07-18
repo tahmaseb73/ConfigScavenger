@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.1:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/&allowInsecure=0#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.203:8880?security=none&sni=sg.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.206:8880?security=none&sni=sg.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.20:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#🔒
+        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.20:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.212:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.215:8880?type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.217:8880?type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed#🔒
@@ -503,3 +500,6 @@ ss://fd0e35d2-20b2-45c9-9fc3-17498b4c6d5d@173.245.59.81:443?security=tls&sni=btq
 ss://fd0e35d2-20b2-45c9-9fc3-17498b4c6d5d@173.245.59.81:443?security=tls&sni=btqplm.allgums.com&type=ws&host=btqplm.allgums.com&path=/wss&alpn=http/1.1#@VIProxys
 ss://fd0e35d220b245c99fc317498b4c6d5dOg==@173.245.59.81:443#RELAY%F0%9F%9A%A9+%7C+173.245.59.81-443+%7C+1.74ms
 ss://fd0e35d220b245c99fc317498b4c6d5dOg==@173.245.59.81:443#RELAY%F0%9F%9A%A9+%7C+173.245.59.81-443+%7C+1.8ms
+ss://fd250ebd-174d-2e9f-b90a-72ed6f759af3@85.133.194.65:23921?security=none&type=tcp&path=/&headerType=http#🔒
+ss://fd3a243f-56e0-4cd3-adde-37e7dd0f4500@172.67.21.239:80?type=httpupgrade&host=v2ngfast.nanvrfood.ir.#🔒
+ss://fd599b35-a450-4681-e44d-c9dc2c5e5e5b@199.232.123.118:443?security=tls&sni=mio.splashthat.com&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
