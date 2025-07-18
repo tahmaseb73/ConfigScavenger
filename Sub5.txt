@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40Prime_Verse%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&fp=chrome&type=ws&sni=PaGes.deV#RELAY🚩 | PaGes.deV-443 | 2.01ms
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#RELAY🚩 | PaGes.deV-443 | 2.91ms
+        vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#RELAY🚩 | PaGes.deV-443 | 2.91ms
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#RELAY🚩 | PaGes.deV-443 | 2.24ms
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2FV2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO---V2RAYEPRO%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#RELAY🚩 | PaGes.deV-443 | 2.34ms
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40ff_kikor%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#RELAY🚩 | PaGes.deV-443 | 2.31ms
@@ -503,3 +502,4 @@ ss://bec44ac3a6624179a9dd2aa881706ddeOg==@employ.bitiboot.com:443#REALITY%7CDE%F
 ss://bc0a2570d5fb4906b0f0d47cdcd0a381@104.18.26.94:80#RELAY%F0%9F%9A%A9+%7C+104.18.26.94-80+%7C+1.65ms
 ss://ba2def0c37cc417b89fca15daeff639fOg==@188.114.97.3:443#RELAY%F0%9F%9A%A9+%7C+188.114.97.3-443+%7C+1.46ms
 ss://b78a6e058898475892a9814a0901ec9cOg==@85.133.247.44:2086#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+85.133.247.44-2086+%7C+240.85ms
+ss://b775ec56b44d473a9e8e99ef575d832aOg==@104.21.32.1:80#RELAY%F0%9F%9A%A9+%7C+104.21.32.1-80+%7C+1.67ms

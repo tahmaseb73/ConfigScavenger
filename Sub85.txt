@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://9fc9aef3-0306-433e-a0b6-3b941f1572cb@www.speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=v4.video-db.com&type=xhttp#🇨🇦CA_842_@Surfboardv2ray
-vless://9fc9aef3-0306-433e-a0b6-3b941f1572cb@www.speedtest.net:80?mode=auto&path=/&security=none=#🇨🇦CA_843_@Surfboardv2ray
+        vless://9fc9aef3-0306-433e-a0b6-3b941f1572cb@www.speedtest.net:80?mode=auto&path=/&security=none=#🇨🇦CA_843_@Surfboardv2ray
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@108.162.195.33:80?security=tls&sni=fari24.clodmolt3.com&type=ws&host=fari24.clodmolt3.com&path=/wss&fp=chrome&alpn=h3,h2,http/1.1#🔒
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@162.159.160.152:443?security=tls&sni=fari21.ati-app.com&type=ws&host=fari21.ati-app.com&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@162.159.160.22:443?security=tls&sni=fari21.ati-app.com&type=ws&host=fari21.ati-app.com&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
@@ -503,3 +502,4 @@ vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@172.67.187.219:8880?security=none&a
 vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@172.67.187.219:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F#🔒
 vless://a626abcf-b56e-4d3f-9067-1a3e76ee489a@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Copy-Az-Chahnnel-ISVvpn-21.com&path=%2FVLESS%3Fed%3D2048#@VIProxys
 vless://a626abcf-b56e-4d3f-9067-1a3e76ee489a@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Copy-Az-Chahnnel-ISVvpn-21.com&path=%2FVLESS%3Fed%3D2048#US🇺🇸
+vless://a626abcf-b56e-4d3f-9067-1a3e76ee489a@join.isvvpn.fastly80-3.hosting-ip.com:80/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=Copy-Az-Chahnnel-ISVvpn-20.com&path=%2FVLESS%3Fed%3D80#@VIProxys

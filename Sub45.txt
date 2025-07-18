@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b4d8b834-2e9c-4815-b3bb-57c278ddfecb@104.24.225.159:2096?security=tls&sni=bai-56t.pages.dev&type=ws&host=bai-56t.pages.dev&allowInsecure=0#🔒
-ss://b4d8b834-2e9c-4815-b3bb-57c278ddfecb@104.24.85.214:8443?security=tls&sni=bai-56t.pages.dev&type=ws&host=bai-56t.pages.dev&allowInsecure=0#🔒
+        ss://b4d8b834-2e9c-4815-b3bb-57c278ddfecb@104.24.85.214:8443?security=tls&sni=bai-56t.pages.dev&type=ws&host=bai-56t.pages.dev&allowInsecure=0#🔒
 ss://b4e8f51d-6533-4597-958e-61d6725970bb@104.17.229.45:443?encryption=none&security=tls&sni=de.xyxy.dpdns.org&type=ws&host=de.xyxy.dpdns.org&path=%2Fb4e8f51d#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.17ms
 ss://b4e8f51d-6533-4597-958e-61d6725970bb@104.17.229.45:443?path=%2Fb4e8f51d&security=tls&encryption=none&host=de.xyxy.dpdns.org&type=ws&sni=de.xyxy.dpdns.org#@meli_proxyy
 ss://b4e8f51d-6533-4597-958e-61d6725970bb@104.17.229.45:443?path=%2Fb4e8f51d&security=tls&encryption=none&host=de.xyxy.dpdns.org&type=ws&sni=de.xyxy.dpdns.org#⚡Telegram
@@ -503,3 +502,4 @@ ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.135.235.97:8880?security=none&type=
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.136:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.160:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.17:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.221:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒

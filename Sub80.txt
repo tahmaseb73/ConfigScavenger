@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://741851f7-d891-4c78-af53-4f343ba9a668@www.speedtest.net:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#🇨🇦CA_692_@Surfboardv2ray
-vless://741f2cb6-4d5b-4fd7-830a-d731c9e1e859@104.31.16.65:443?security=tls&sni=uciranirskiaromadarjendeh.bitokaw551.workers.dev&type=ws&host=uciranirskiaromadarjendeh.bitokaw551.workers.dev&path=%2F%3Fed%3D443&fp=randomized#🔒
+        vless://741f2cb6-4d5b-4fd7-830a-d731c9e1e859@104.31.16.65:443?security=tls&sni=uciranirskiaromadarjendeh.bitokaw551.workers.dev&type=ws&host=uciranirskiaromadarjendeh.bitokaw551.workers.dev&path=%2F%3Fed%3D443&fp=randomized#🔒
 vless://741f2cb6-4d5b-4fd7-830a-d731c9e1e859@45.142.120.5:443?security=tls&sni=uciranirskiaromadarjendeh.bitokaw551.workers.dev&type=ws&host=uciranirskiaromadarjendeh.bitokaw551.workers.dev&path=%2F%3Fed%3D443&fp=randomized#🔒
 vless://74341869-9e08-410b-b6ea-baca9d93b966@www.speedtest.net:2086?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=none&encryption=none&host=www.speedtest24.ir&type=httpupgrade#🇨🇦CA_693_@Surfboardv2ray
 vless://74382134-a885-46fa-87ee-18baede2995d@us-2-rvp.rayan-dns.dpdns.org:443?security=tls&sni=us-2-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=us-2-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-128%20-%20US%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -503,3 +502,4 @@ vless://80b25749-af61-4052-bf3b-a2966112811e@151.101.65.57:80?type=ws&host=mt.ac
 vless://80ce8c17-f249-471b-b78a-17a60f17b1be@104.21.19.124:80?security=none&type=ws&host=www.moji1372.buzz&path=%2Ftelegram%2Fid%2Fov2ray#🔒
 vless://80d32ddd-c0ac-4eb6-8a2a-3b27b23f32b4@104.16.132.187:80?encryption=none&security=none&type=ws&host=icy-cherry-b8af-ppal03.givay59005.workers.dev&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560#t.me%2Fpeterjest
 vless://80d32ddd-c0ac-4eb6-8a2a-3b27b23f32b4@104.16.132.187:80?security=none&type=ws&host=icy-cherry-b8af-ppal03.givay59005.workers.dev&path=%2Ftelegram@V2ray_Alpha%2F%3Fed%3D2560#🔒
+vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.32.21:443?security=tls&sni=gcdn.freenet-rd.xyz&type=ws&host=gcdn.freenet-rd.xyz&path=%2Fms138%2F#🔒

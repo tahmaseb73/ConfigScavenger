@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://716e8c06-40e6-41ae-82ca-db79b41112c2@162.159.192.149:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://716e8c06-40e6-41ae-82ca-db79b41112c2@162.159.192.171:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        ss://716e8c06-40e6-41ae-82ca-db79b41112c2@162.159.192.171:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://716e8c06-40e6-41ae-82ca-db79b41112c2@162.159.195.12:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://716e8c06-40e6-41ae-82ca-db79b41112c2@162.159.195.19:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://716e8c06-40e6-41ae-82ca-db79b41112c2@162.159.195.83:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -503,3 +502,4 @@ ss://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&enc
 ss://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#REALITY|RU🇷🇺
 ss://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#⚡Telegram
 ss://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&sni=dl.google.com&type=tcp&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#🇷🇺[openproxylist.com]
+ss://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&sni=dl.google.com&type=tcp&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#🔒
