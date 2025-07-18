@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn.xn--b6gac.eu.org:8080?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+        vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn.xn--b6gac.eu.org:2096?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn.xn--b6gac.eu.org:443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn.xn--b6gac.eu.org:8080?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn.xn--b6gac.eu.org:80?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn.xn--b6gac.eu.org:8443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn.xn--b6gac.eu.org:8880?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
@@ -501,5 +503,3 @@ vless://96900f20-e033-49dc-a187-16315319e525@141.95.103.120:54436?security=none&
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=%2F&security=tls&encryption=none&host=ScKzAhYz14.qUiCkOrA.OrG&fp=chrome&type=ws&sni=ScKzAhYz14.qUiCkOrA.OrG#Free%20153%20%28%40Outline_Vpn%29
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=/&security=tls&encryption=none&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome&type=ws&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#🇨🇦CA_810_@Surfboardv2ray
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=/&security=tls&encryption=none&host=ScKzAhYz14.qUiCkOrA.OrG&fp=chrome&type=ws&sni=ScKzAhYz14.qUiCkOrA.OrG#🇨🇦CA_811_@Surfboardv2ray
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:443/?type=ws&encryption=none&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=/&security=tls&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM#🇨🇦CA_812_@Surfboardv2ray
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:443?encryption=none&security=tls&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&type=ws&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=%2F#%40Golestan_VPN%20-%20%F0%9F%91%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF

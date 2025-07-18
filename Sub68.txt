@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://0ec3aefb-7901-4e5f-a7a4-35b7b97c2202@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_197_@Surfboardv2ray
+        vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40proxy_kafee%29
+vless://0ec3aefb-7901-4e5f-a7a4-35b7b97c2202@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_183_@Surfboardv2ray
+vless://0ec3aefb-7901-4e5f-a7a4-35b7b97c2202@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_197_@Surfboardv2ray
 vless://0ee275fd-726e-4d7e-a7ef-c429982974c3@104.16.166.158:443?security=tls&sni=f1b953bd-round-bush-dba2.steep-lion9627.workers.dev&type=ws&host=f1b953bd-round-bush-dba2.steep-lion9627.workers.dev&fp=chrome&alpn=h2#🔒
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.45.20:443?security=tls&sni=M2-1CM.paGes.DeV&type=ws&host=M2-1CM.paGes.DeV&path=%2Fognicwivyrkxih6r#🔒
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?security=tls&sni=M2-1CM.paGes.DeV&type=ws&host=M2-1CM.paGes.DeV#🔒
@@ -501,5 +503,3 @@ vless://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2053?encrypt
 vless://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2082?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2083?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2086?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-vless://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2087?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-vless://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2095?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
