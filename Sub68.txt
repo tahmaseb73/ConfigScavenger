@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=spotify.com&alpn=http%2F1.1&fp=chrome&pbk=SDUAmbkyV3wQEEXwV9wpwTqS2qi7gOekiZNpS1jfcXc&sid=d59cd3&type=tcp&headerType=none#@VIProxys
-vless://10525b84-7f6e-43ef-912b-87434df813f4@108.162.194.232:443?security=tls&sni=news5.testsnew.com&type=ws&host=news5.testsnew.com&path=%2Fwss&alpn=http%2F1.1#🔒
-vless://10525b84-7f6e-43ef-912b-87434df813f4@129.159.202.83:443?security=tls&sni=news5.testsnew.com&type=ws&path=%2Fwss#🔒
-vless://10525b84-7f6e-43ef-912b-87434df813f4@158.101.214.54:443?security=tls&sni=news5.testsnew.com&type=ws&path=%2Fwss#🔒
+        vless://10525b84-7f6e-43ef-912b-87434df813f4@158.101.214.54:443?security=tls&sni=news5.testsnew.com&type=ws&path=%2Fwss#🔒
 vless://10525b84-7f6e-43ef-912b-87434df813f4@172.64.34.232:443?security=tls&sni=news5.testsnew.com&type=ws&host=news5.testsnew.com&path=%2Fwss&alpn=http%2F1.1#🔒
 vless://105e8fc6-d8d5-4bcf-ba33-f2d602489fa6@151.101.130.133:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=Lightning.ir&type=ws#🇺🇸US_199_@Surfboardv2ray
 vless://1062fb45-0aec-4b36-abde-70ca84c50981@hajlab.ucdavis.edu:80/?type=ws&path=/&host=www.darcy.ir&security=none#🇺🇸US_200_@Surfboardv2ray
@@ -503,3 +500,6 @@ vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@188.114.96.144:443?security=tls&sni
 vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@188.114.97.226:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@188.114.97.230:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@188.114.97.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@188.114.97.99:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@188.114.98.156:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@188.114.98.16:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

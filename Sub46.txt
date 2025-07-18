@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.135.235.185:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.135.235.97:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.136:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.160:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.160:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.17:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.221:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.245:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -503,3 +500,6 @@ ss://c2db147c-fc6a-4840-a9d6-c154048f0e1e@o.soskom.ir:26528?type=grpc&mode=gun&s
 ss://c2db147c-fc6a-4840-a9d6-c154048f0e1e@o.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_1027_@Surfboardv2ray
 ss://c2dd36a3-bf3b-4fcc-a7e1-cb08eeb0b22c@146.75.122.133:80?mode=auto&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&encryption=none&host=jointo_unlimiteddev.ir&type=xhttp#🇩🇪DE_1028_@Surfboardv2ray
 ss://c2dd36a3-bf3b-4fcc-a7e1-cb08eeb0b22c@146.75.122.133:80?type=xhttp&host=jointo_unlimiteddev.ir#🔒
+ss://c2dd36a3-bf3b-4fcc-a7e1-cb08eeb0b22c@151.101.38.133:80?mode=auto&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=&encryption=none=#🇳🇱NL_1029_@Surfboardv2ray
+ss://c2e177d4-e610-4abd-85cd-1a869d158751@104.16.206.78:2083?security=tls&sni=teslakit1.pages.dev&type=ws&host=teslakit1.pages.dev#🔒
+ss://c2e177d4-e610-4abd-85cd-1a869d158751@104.16.50.195:2087?security=tls&sni=teslakit1.pages.dev&type=ws&host=teslakit1.pages.dev#🔒

@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b4a7532a-777d-4fc4-839f-37a34e3f4970@151.101.2.133:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=khorzokhan.com&type=ws#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%91%84
-ss://b4a7532a-777d-4fc4-839f-37a34e3f4970@151.101.66.133:80?security=none&type=ws&host=khorzokhan.com&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed#🔒
-ss://b4a7532a-777d-4fc4-839f-37a34e3f4970@theatlantic.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=khorzokhan.com&type=ws#⚡Telegram
-ss://b4a7532a-777d-4fc4-839f-37a34e3f4970@theatlantic.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=khorzokhan.com&type=ws#🇺🇸US_965_@Surfboardv2ray
+        ss://b4a7532a-777d-4fc4-839f-37a34e3f4970@theatlantic.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=khorzokhan.com&type=ws#🇺🇸US_965_@Surfboardv2ray
 ss://b4c97223-8d5d-4ffd-af6f-d5a59b575ffc@172.67.196.100:443?security=tls&sni=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&type=ws&host=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 ss://b4d8b834-2e9c-4815-b3bb-57c278ddfecb@104.24.225.159:2096?security=tls&sni=bai-56t.pages.dev&type=ws&host=bai-56t.pages.dev&allowInsecure=0#🔒
 ss://b4d8b834-2e9c-4815-b3bb-57c278ddfecb@104.24.85.214:8443?security=tls&sni=bai-56t.pages.dev&type=ws&host=bai-56t.pages.dev&allowInsecure=0#🔒
@@ -503,3 +500,6 @@ ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.203:8880?security=none&type=h
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.21:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.251:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.77:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.135.235.185:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.135.235.97:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.136:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒

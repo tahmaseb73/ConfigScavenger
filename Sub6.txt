@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        
-ss://ipcloudflaretamiOg==@test.fast.hosting-ip.com:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+test.fast.hosting-ip.com-80+%7C+171.35ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.26:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.26-8880+%7C+5.25ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.217:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.217-8880+%7C+5.36ms
+        ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.217:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.217-8880+%7C+5.36ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@66.81.247.20:8880#US%F0%9F%87%BA%F0%9F%87%B8+%7C+66.81.247.20-8880+%7C+5.34ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@195.85.23.20:8880#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.85.23.20-8880+%7C+5.58ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@156.238.18.83:8880#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.83-8880+%7C+5.41ms
@@ -503,3 +500,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NkVLYUNoSzF6RVlWZmN0eVhlVGZ5Q1NQUkZGSGNEUTF
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?encryption=none&security=tls&sni=147135001195.sec22org.com&fp=chrome&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?encryption=none&security=none&type=grpc#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
 vless://56652249-2e67-4429-b86c-3df8b838ad85@104.26.15.85:8080?encryption=none&security=none&type=ws&host=4j.QBAo1g5z6k.ZulaIR.org.&path=%2F#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.83:8880?encryption=none&security=none&type=ws&host=yd.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3EFR-%3EMCI-%3E%40Sezar_Sec
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNOLT5DTi0+TVROLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNDcuMTA0LjE4Ni4xMzMiLA0KICAicG9ydCI6ICI1MDAwMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://bec44ac3-a662-4179-a9dd-2aa881706dde@employ.bitiboot.com:443?encryption=none&security=reality&sni=analytics.google.com&fp=chrome&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&sid=aba7bc9a&spx=%2F&type=tcp&headerType=none#DE-%3EDE-%3EADL-%3E%40Sezar_Sec
