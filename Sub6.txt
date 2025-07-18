@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1nY206T0dZeU16WmtOR1ZoTTJWak0yWmtORFl4TldVNVpqVmtOemMxTURBMg==@ir.npvnot.com:11111#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+ir.npvnot.com-11111+%7C+456.43ms
+        ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ==@212.109.197.85:20#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+212.109.197.85-20+%7C+188.17ms
+ss://YWVzLTI1Ni1nY206T0dZeU16WmtOR1ZoTTJWak0yWmtORFl4TldVNVpqVmtOemMxTURBMg==@ir.npvnot.com:11111#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+ir.npvnot.com-11111+%7C+456.43ms
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@185.146.156.161:20#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+185.146.156.161-20+%7C+188.85ms
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw3D3A==@92.63.193.252:20#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+92.63.193.252-20+%7C+187.52ms
 ss://YWVzLTI1Ni1nY206MGU5YjU4YWEtZWM3OS02ODI3LWM2NzktODAyZmYzMjliMWEx@37050813702269272654038283817908.international-ixp.com:11312#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+37050813702269272654038283817908.international-ixp.com-11312+%7C+277.97ms
@@ -502,4 +503,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNOLT5DTi0+TVROLT5ARGVhbU5ldF9Qcm94eSIs
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?encryption=none&security=none&type=ws&host=redfree8mahsang6.redfree8.ir&path=%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA%3D%3D@2.58.87.221:16899#US-%3E-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTmZYY2JiUDhQMnlrYzF5cGpWMjJKNGhkTndUV3V4RFdxczVHWDJtbkg2R01DcUw1WHloTnp0cG43b1B6SzlueVRvUmVORGJuYlYzRTFnc0VoOThHWUpyQktNZjZIclM%3D@185.5.38.111:55988#FI-%3EFI-%3EADL-%3E%40Sezar_Sec
-vless://8250d638-45df-41fa-b06f-160d1cb1de0c@92.118.228.154:443?encryption=none&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&alpn=http%2F1.1&fp=chrome&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F#US-%3EUS-%3ERTL-%3E%40Sezar_Sec

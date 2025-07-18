@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c5287499-4e32-41f4-bee4-12d090622f87@jquery.com:2087?security=tls&sni=iq-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=iq-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-104%20-%20IQ%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
+        vless://c50f6c7f-d18e-47e8-8be0-9d12af7b8809@141.193.213.21:8443?security=tls&sni=premium.vkehi.shop&type=ws&host=premium.vkehi.shop&fp=chrome#🔒
+vless://c5287499-4e32-41f4-bee4-12d090622f87@jquery.com:2087?security=tls&sni=iq-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=iq-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-104%20-%20IQ%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@104.18.30.60:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2F#🔒
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@104.18.31.60:80?path=/Telegram#🔒
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@104.18.35.30:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%40JOKERRVPNJoin\_Bade\_Channel%40JOKERRVPN#🔒
@@ -502,4 +503,3 @@ vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@104.18.123.117:2053?security=tls&sn
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@141.147.144.246:8080?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🔒
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@146.56.155.102:20003?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@150.109.24.233:6666?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.38.101:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒

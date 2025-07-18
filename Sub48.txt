@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#🇫🇮FI_1057_@Surfboardv2ray
+        ss://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?security=reality&encryption=none&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&fp=chrome&type=grpc&sni=www.target.com&sid=bc6f0833#🇫🇮FI_1056_@Surfboardv2ray
+ss://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#🇫🇮FI_1057_@Surfboardv2ray
 ss://cbbaaca-baca-cbaa-bacd-abbccacbbcaa@127.0.0.1:3080?security=tls&type=tcp#@Hope_Net-join-us-on-Teleg
 ss://cbd06b61-4209-47a3-a853-7e5d9753468f@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=%2FTelegram%40viturey%3Fed%3D2048&mode=auto#US🇺🇸
 ss://cbdf6429-9424-41bb-917d-7220f66a4a8c@51.159.106.141:1991?security=reality&sni=ubuntu.com&type=xhttp&host=ubuntu.com&path=%2FCANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_configCANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&fp=chrome&pbk=4qOKlkttwn8Yw2FN4ZYCint9k-TK9QU56tOXiXgXsGM&sid=fce601089937b01a#🔒
@@ -502,4 +503,3 @@ ss://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:8080?encrypti
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:80?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:8443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:8880?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2052?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗

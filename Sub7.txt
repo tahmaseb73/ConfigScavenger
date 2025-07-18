@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlNHLT5TRy0+QURMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNjIuMTQ2LjIzMi4xNTkiLA0KICAicG9ydCI6ICIxNDM3MiIsDQogICJpZCI6ICJlZDFkN2VhOC1iZjQwLTRhNGEtOGVhYy04ZTU3Nzk4YmE2ZjciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+        vless://8250d638-45df-41fa-b06f-160d1cb1de0c@92.118.228.154:443?encryption=none&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&alpn=http%2F1.1&fp=chrome&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F#US-%3EUS-%3ERTL-%3E%40Sezar_Sec
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlNHLT5TRy0+QURMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNjIuMTQ2LjIzMi4xNTkiLA0KICAicG9ydCI6ICIxNDM3MiIsDQogICJpZCI6ICJlZDFkN2VhOC1iZjQwLTRhNGEtOGVhYy04ZTU3Nzk4YmE2ZjciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://48caa578-241e-43eb-817f-0854b84b0fb0@www.speedtest.net:443?encryption=none&security=tls&sni=conFiG-VOrteX55-AR5.pagES.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=config-vortex55-ar5.pages.dev&path=%2Fedrlz7qvRheKjll8%2FMTQ0LjI0LjkwLjEwNw%3D%3D%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
 vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.151.43:443?encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#US-%3EUS-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.151:8080#VE-%3ENL-%3ERTL-%3E%40Sezar_Sec
@@ -502,4 +503,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.131-0191
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%B3%F0%9F%87%B1NL-92.112.126.90-0209
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.251-0315
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-131.145.29.247-0212

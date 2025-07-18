@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://a455ed8a-369b-4a41-85ee-2094141ffde8@zula.ir:8443?security=tls&sni=uae-1-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=uae-1-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-110%20-%20AE%20-%20I%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
+        ss://a42572a4-bb5c-42c6-a250-c4f34454e9ff@172.64.78.129:443?sni=qifei.876566.xyz&type=ws&allowInsecure=1#🔒
+ss://a455ed8a-369b-4a41-85ee-2094141ffde8@zula.ir:8443?security=tls&sni=uae-1-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=uae-1-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-110%20-%20AE%20-%20I%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
 ss://a466735d-eb6a-4e6d-bdea-2b8a5c4ef4ad@zula.ir:8443?security=tls&sni=fr-1-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=fr-1-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-116%20-%20FR%20-%20I%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
 ss://a47cc189-5891-483b-bac1-7a9c67b9189e@194.124.250.4:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.124.250.4&encryption=none#Rayan%20-%20VPH%20-%20WSDR-102%20-%20AT%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
 ss://a4924fd2-ffc7-4749-ab49-22435b7c0322@172.66.44.98:2053?security=tls&sni=mAhdIServER-4Rm.paGEs.Dev&type=ws&host=mAhdIServER-4Rm.paGEs.Dev&path=%2F4urxrmj89fiisbgc%3Fed%3D2560#🔒
@@ -502,4 +503,3 @@ ss://b4e8f51d-6533-4597-958e-61d6725970bb@104.17.229.45:443?security=tls&sni=de.
 ss://b4f6b703-961b-46bf-8d7e-e2330c5be800@45.85.119.139:443?encryption=none&security=tls&sni=InBarZendegi.site&alpn=h3&fp=chrome&type=xhttp&host=inbarzendegi.site&path=/azadi?ed=2560&mode=auto&extra={
 ss://b4f6b703-961b-46bf-8d7e-e2330c5be800@www.speedtest.net:443?encryption=none&security=tls&sni=InBarZendegi.Site.&alpn=h3&fp=chrome&type=xhttp&host=inbarzendegi.site&path=/azadi?ed=2560&mode=auto&extra={
 ss://b5154b7e-3a59-4537-a163-1d5a73d4b4bb@146.59.116.201:443?mode=gun&security=reality&encryption=none&pbk=-q5LnD8S-F7Q6khGlle_aovNZt3fhmxCYHjbWXZvdUQ&fp=chrome&spx=/&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=convertio.co&sid=e3b41bfe#🇵🇱PL_968_@Surfboardv2ray
-ss://b53247b8-b0dc-4603-b756-0720edd92dee@104.21.69.44:8443?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7&security=tls&encryption=none&host=vip.donghi.ir&fp=chrome&type=ws&sni=vip.donghi.ir#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%88%DB%8C%DA%98%D9%87+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85

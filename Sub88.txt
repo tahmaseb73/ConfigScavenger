@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.84.242:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.84.230:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.84.242:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.84.95:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.85.150:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.85.186:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -502,4 +503,3 @@ vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.192.150:443?encryption=none&
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.192.150:443?security=tls&sni=147135010072.sec21org.com&type=tcp&fp=chrome#🔒
 vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
 vless://c50f6c7f-d18e-47e8-8be0-9d12af7b8809@141.193.213.20:8443?security=tls&sni=premium.vkehi.shop&type=ws&host=premium.vkehi.shop&path=%2F#🔒
-vless://c50f6c7f-d18e-47e8-8be0-9d12af7b8809@141.193.213.21:8443?security=tls&sni=premium.vkehi.shop&type=ws&host=premium.vkehi.shop&fp=chrome#🔒
