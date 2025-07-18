@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.108:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.108:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&alpn=h2#🔒
+        vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.108:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&alpn=h2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.113:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.113:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.116:8443?security=tls&sni=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&type=ws&host=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&path=/#🔒
@@ -503,3 +502,4 @@ vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?encryption=none&secu
 vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?security=none&type=ws&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&path=%2F%3Fed%3D2560#🔒
 vless://9f0eae34-97c1-4c07-8a55-438379981334@104.18.56.155:8080?security=none&type=ws&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&path=%2F@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1%3Fed%3D2560#🔒
 vless://9f0eae34-97c1-4c07-8a55-438379981334@104.25.35.114:8080?security=none&type=ws&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev#🔒
+vless://9f30f465-e9c1-4726-87e8-6738ee3af36c@185.79.158.147:8087?security=none&type=tcp&path=%2F&headerType=http#🔒

@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?security=none&encryption=none&type=ws#RELAY🚩 | x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net-8080 | 67.06ms
-vless://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net-8080 | 8.22ms
+        vless://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net-8080 | 8.22ms
 vless://c5179990-6e22-484e-9f00-47fbc0491b88@104.21.72.109:443?path=%2FChannel---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pamchall.com&fp=randomized&type=ws&sni=PamcHalL.coM#RELAY🚩 | PamcHalL.coM-443 | 5.98ms
 vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D2083%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#DE🇩🇪 | cho.chonon.sbs-2083 | 287.69ms
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#RELAY🚩 | yx.yushan.dpdns.org-443 | 528.48ms
@@ -503,3 +502,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?encryption=none&
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@176.124.223.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#RELAY🚩 | reedfree8mahsang2.redorg.ir-8880 | 6.16ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@167.68.11.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#RELAY🚩 | reedfree8mahsang2.redorg.ir-8880 | 5.89ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.4.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#RELAY🚩 | reedfree8mahsang2.redorg.ir-8880 | 6.42ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.64.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#RELAY🚩 | reedfree8mahsang2.redorg.ir-8880 | 6.41ms

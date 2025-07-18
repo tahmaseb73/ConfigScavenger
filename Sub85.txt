@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://9f30f465-e9c1-4726-87e8-6738ee3af36c@185.79.158.147:8087?security=none&type=tcp&path=%2F&headerType=http#🔒
-vless://9f30f465-e9c1-4726-87e8-6738ee3af36c@tn35.adamlinux.ir:8087?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Isfahan🅿️ping:113.26ms`
+        vless://9f30f465-e9c1-4726-87e8-6738ee3af36c@tn35.adamlinux.ir:8087?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Isfahan🅿️ping:113.26ms`
 vless://9f387ad9-043b-40b2-97c5-265d30cbfbf1@172.66.44.156:443?security=tls&sni=besTiIvPn-6t8.PAGes.DEV&type=ws&host=besTiIvPn-6t8.PAGes.DEV&alpn=h2%2Chttp/1.1&allowInsecure=0#🔒
 vless://9f387ad9-043b-40b2-97c5-265d30cbfbf1@172.66.47.100:443?security=tls&sni=besTiIvPn-6t8.PAGes.DEV&type=ws&host=besTiIvPn-6t8.PAGes.DEV&alpn=h2%2Chttp/1.1&allowInsecure=0#🔒
 vless://9f43e546-6c58-4637-88e3-d1cc6997ce98@91.107.243.233:40161?encryption=none&security=reality&sni=ilovepdf.com&fp=chrome&pbk=bVq_MJRnzs_9xWxqIG0IB-G5C3jBVn4d7B6ZHE5FxQ4&sid=e2e007bd&type=tcp&headerType=none#@VIProxys
@@ -503,3 +502,4 @@ vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.20.161.27:443?security=tls&sni=
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.20.17.25:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.21.72.15:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.22.1.49:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.25.199.129:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 6.17ms
-trojan://vip@www.pcmag.com:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#RELAY🚩 | heihu880.pages.dev-443 | 6.52ms
+        trojan://vip@www.pcmag.com:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#RELAY🚩 | heihu880.pages.dev-443 | 6.52ms
 trojan://vip@104.21.90.78:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 7.46ms
 trojan://ttfang@128.199.237.143:443?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#RELAY🚩 | ttfang.fange.me-443 | 6.02ms
 trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#RELAY🚩 | azadnet-9ya.pages.dev-443 | 156.97ms
@@ -503,3 +502,4 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.4:443?encryption=none&se
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNOLT5DTi0+TVROLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMTEyLjEzMi4yMTUuMTIiLA0KICAicG9ydCI6ICI1MDAwMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?encryption=none&security=none&type=grpc#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.159:443?encryption=none&security=tls&sni=147135004002.sec20org.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTmZYY2JiUDhQMnlrYzF5cGpWMjJKNGhkTndUV3V4RFdxczVHWDJtbkg2R01DcUw1WHloTnp0cG43b1B6SzlueVRvUmVORGJuYlYzRTFnc0VoOThHWUpyQktNZjZIclM%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec

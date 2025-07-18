@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.118.102:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.118.133:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.118.133:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.118.144:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.118.147:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.85.118.162:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -503,3 +502,4 @@ vless://c480d4be-2891-48b9-9143-6e67bd608558@172.64.33.81:443?security=tls&sni=m
 vless://c48d54b2-c560-5f86-904f-b4ecf4a3b4ad@s1.saitsazs.ir:30000?sni=refersion.com&sid=31e7200536a1ad45&mode=gun&security=reality&encryption=none&fp=chrome&authority=mci.ir&type=grpc&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134#🇧🇭
 vless://c48d54b2-c560-5f86-904f-b4ecf4a3b4ad@s1.saitsazs.ir:30003?sni=refersion.com&sid=31e7200536a1ad45&mode=gun&security=reality&encryption=none&fp=chrome&authority=mci.ir&type=grpc&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134#🇴🇲
 vless://c48d54b2-c560-5f86-904f-b4ecf4a3b4ad@s1.saitsazs.ir:30004?sni=refersion.com&sid=31e7200536a1ad45&mode=gun&security=reality&encryption=none&fp=chrome&authority=mci.ir&type=grpc&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134#🇩🇪
+vless://c48d54b2-c560-5f86-904f-b4ecf4a3b4ad@s3.saitsazs.ir:30100?sni=refersion.com&sid=31e7200536a1ad45&mode=gun&security=reality&encryption=none&fp=chrome&authority=mci.ir&type=grpc&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134#🇬🇧

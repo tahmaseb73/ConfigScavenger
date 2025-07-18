@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&fp=chrome#🔒
-ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443/?type=ws&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#@meli_proxyy
+        ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443/?type=ws&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#@meli_proxyy
 ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#🇨🇦CA_571_@Surfboardv2ray
 ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#🇨🇦CA_572_@Surfboardv2ray
@@ -503,3 +502,4 @@ ss://60af76a9-66c2-461e-8545-6fe0ac2822f8@172.67.176.196:443?security=tls&sni=w2
 ss://60bdbed7-228b-466b-bd8c-32e779a5aea9@104.16.27.251:2083?security=tls&sni=germany.alighan.ir&type=ws&host=germany.alighan.ir&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒
 ss://60c9baa3-0241-45e3-9faa-d91f50e4b142@128.140.118.108:5050?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=firefox&pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604#🔒
 ss://60c9baa3-0241-45e3-9faa-d91f50e4b142@de.serverfreedom.com:5050?security=reality&encryption=none&pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#🇩🇪DE_636_@Surfboardv2ray
+ss://60c9baa3-0241-45e3-9faa-d91f50e4b142@de.serverfreedom.com:5050?security=reality&encryption=none&pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#🌐سرور
