@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@77.232.140.7:443?sni=epccf.ambercc.filegear-sg.me#🔒
-trojan://Aimer@77.238.236.134:8443?security=tls&sni=agepq.ambercc.filegear-sg.me&type=tcp#🔒
-trojan://Aimer@77.74.228.4:2087?security=tls&sni=agepm.ambercc.filegear-sg.me&type=ws&host=agepm.ambercc.filegear-sg.me#🔒
-trojan://Aimer@79.137.204.220:2053?sni=epcco.ambercc.filegear-sg.me#🔒
-trojan://Aimer@8.20.125.1:443?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒
-trojan://Aimer@8.217.47.218:36374?sni=epcca.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@8.217.47.218:36374?sni=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@8.219.126.137:491?sni=epms.ambercc.filegear-sg.me#🔒
 trojan://Aimer@82.115.6.219:8443?sni=ngepz.ambercc.filegear-sg.me#🔒
 trojan://Aimer@86.38.214.186:443?sni=epme.ambercc.filegear-sg.me#🔒
@@ -503,3 +498,8 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.15:2053?security=tls&s
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.178:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.183:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.191:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.197:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.205:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.214:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.230:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.230:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A5149

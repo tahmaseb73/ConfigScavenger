@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@104.19.145.74:443?sni=epcch.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.19.145.75:443?sni=epccj.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.19.146.132:443?sni=epccg.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.19.148.23:443?sni=epcca.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.19.149.120:443?sni=epcch.ambercc.filegear-sg.me#🔒
-trojan://Aimer@104.19.152.52:443?sni=epccf.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@104.19.152.52:443?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.19.154.49:443?sni=epcch.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.19.159.14:443?sni=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.19.160.247:443?sni=epcco.ambercc.filegear-sg.me#🔒
@@ -503,3 +498,8 @@ trojan://Aimer@162.159.142.155:443?sni=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@162.159.142.238:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@162.159.142.247:443?sni=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@162.159.142.25:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.142.4:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.142.69:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.142.82:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.142.83:443?sni=epcco.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.143.125:443?sni=epcca.ambercc.filegear-sg.me#🔒
