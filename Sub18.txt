@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.64.70:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.71.31:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.147.201:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.41.190:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.80.243:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.93.7:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.93.7:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.19.145.14:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.19.150.163:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.19.150.28:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
@@ -503,3 +498,8 @@ ss://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&securit
 ss://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=XbU10cS9vT.gIgA1.oRg&fp=chrome&type=ws&sni=XbU10cS9vT.gIgA1.oRg#⚡Telegram
 ss://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3%2Ch2&host=XbU10cS9vT.gIgA1.oRg&fp=chrome&type=ws&sni=XbU10cS9vT.gIgA1.oRg#RELAY🚩
 ss://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=XbU10cS9vT.gIgA1.oRg&fp=chrome&type=ws&sni=XbU10cS9vT.gIgA1.oRg#@meli_proxyy
+ss://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=XbU10cS9vT.gIgA1.oRg&fp=chrome&type=ws&sni=XbU10cS9vT.gIgA1.oRg#⚡Telegram
+ss://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=XbU10cS9vT.gIgA1.oRg&fp=chrome&type=ws&sni=XbU10cS9vT.gIgA1.oRg#🇨🇦CA_194_@Surfboardv2ray
+ss://0d083787-080d-4eaa-a741-e78c8fcd9547@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
+ss://0d083787-080d-4eaa-a741-e78c8fcd9547@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
+ss://0d2e89bb-1d29-4dce-bbbb-aed468b803b0@65.109.185.196:57612?security=none&encryption=none&headerType=none&type=tcp#Free%204000%20%28%40Outline_Vpn%29
