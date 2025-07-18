@@ -3,22 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://1b6c1745-992e-4aac-8685-266c090e50ea@cdn.xn--b6gac.eu.org:2095?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@cdn.xn--b6gac.eu.org:2096?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@cdn.xn--b6gac.eu.org:443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@cdn.xn--b6gac.eu.org:8080?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@cdn.xn--b6gac.eu.org:80?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@cdn.xn--b6gac.eu.org:8443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@cdn.xn--b6gac.eu.org:8880?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2052?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2053?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2082?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2083?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2086?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2087?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2095?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:2096?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+        ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:8080?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:80?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 ss://1b6c1745-992e-4aac-8685-266c090e50ea@node.vauth.workers.dev:8443?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
@@ -503,3 +488,18 @@ ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@199.34.228.41:2096?security=tls&sni=D6
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@199.34.228.65:2096?security=tls&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM#🔒
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@199.34.228.71:2096?security=tls&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM#🔒
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@208.86.168.210:2096?security=tls&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM&path=%2F#🔒
+ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@209.208.227.61:2096?security=tls&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM&path=%2F#🔒
+ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?security=tls&encryption=none&type=ws&host=6PaI52dYm3.DmNeWnOd110.CoM&path=/&sni=6PaI52dYm3.DmNeWnOd110.CoM&fp=chrome#سرور
+ss://250dd200-2e83-4645-ac1d-6e7c85e91afe@104.254.140.200:443?security=tls&sni=aghayesex.hajalii.com&type=ws&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://250dd200-2e83-4645-ac1d-6e7c85e91afe@108.165.216.195:443?security=tls&sni=aghayesex.hajalii.com&type=ws&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://250dd200-2e83-4645-ac1d-6e7c85e91afe@108.165.216.22:443?security=tls&sni=aghayesex.hajalii.com&type=ws&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://250dd200-2e83-4645-ac1d-6e7c85e91afe@170.114.45.197:443?security=tls&sni=aghayesex.hajalii.com&type=ws&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://250dd200-2e83-4645-ac1d-6e7c85e91afe@173.245.58.58:443?security=tls&sni=aghayesex.hajalii.com&type=ws&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://250dd200-2e83-4645-ac1d-6e7c85e91afe@198.41.214.67:443?security=tls&sni=aghayesex.hajalii.com&type=ws&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://2522fdea-c0b5-4c79-a210-8dd8f7915413@172.67.204.84:2087?security=tls&sni=apratwi.musics-fa.ru&type=ws&host=apratwi.musics-fa.ru&path=%2Ftelegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:2052?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:2082?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:2086?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:2095?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0105.f5s8fbc2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
