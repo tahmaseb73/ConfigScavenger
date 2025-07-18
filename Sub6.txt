@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://cb7f236733c8424b937818f7c1895ad9Og==@178.239.146.154:60#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+178.239.146.154-60+%7C+266.19ms
+        ss://cc37532d315844b6aa051eb9064fcff0Og==@62.60.147.73:23245#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+62.60.147.73-23245+%7C+228.43ms
+ss://cb7f236733c8424b937818f7c1895ad9Og==@178.239.146.154:60#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+178.239.146.154-60+%7C+266.19ms
 ss://ca68a029971c4ea48c1d411cb7adc474Og==@104.24.9.204:80#RELAY%F0%9F%9A%A9+%7C+104.24.9.204-80+%7C+1.67ms
 ss://c3e86d0cbfe54bb5a0515e143df2024dOg==@o2.sigmamessenger.com:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+o2.sigmamessenger.com-443+%7C+305.9ms
 ss://bec44ac3a6624179a9dd2aa881706ddeOg==@employ.bitiboot.com:443#REALITY%7CDE%F0%9F%87%A9%F0%9F%87%AA+%7C+employ.bitiboot.com-443+%7C+350.25ms
@@ -502,4 +503,3 @@ trojan://zsu4Mq3A9J@uk-02.allhubb.info:8443?security=tls&sni=uk-02.allhubb.info&
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#FR-%3EDE-%3EMTN-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5bmtVZ1NIbjRSbmVzeDZCUE1LWkpHY0JEYTZtWFZQSktMYTllNDh6RjhOVkMxNmhYZWZKU0s1VmROSDZRdjdVUzJDZ1I3WVh0VXNVVkZOajhSdk1YQkJmSDlnVndMbnc%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3eVJqRHpaWUM5RTJhUTlpYW1qMXZ1ajdaY2tZVkdMSG45eXE5MmpSVVVDZG96MUFFS3RTSlJwaU1QeFhhaVhmcFhCSkNwM2dqc05iTTlpMlBicWV0ZUNzWFVXd0RFQWM%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
-vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@172.67.73.163:8080?encryption=none&security=none&type=ws&host=M4.nF9JZ2st7N.zULAiR.ORG.&path=%2F#CA-%3E-%3EMCI-%3E%40Sezar_Sec

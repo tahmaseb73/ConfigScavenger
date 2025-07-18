@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://9a1e5469-35e9-4d98-b831-28bc6073f685@45.194.11.176:443?security=tls&sni=de.outberlin.online&type=grpc&serviceName=gprc&fp=chrome&alpn=http%2F1.1#🔒
+        ss://9a1e5469-35e9-4d98-b831-28bc6073f685@45.194.11.176:443?mode=gun&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=gprc&sni=de.outberlin.online#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supp
+ss://9a1e5469-35e9-4d98-b831-28bc6073f685@45.194.11.176:443?security=tls&sni=de.outberlin.online&type=grpc&serviceName=gprc&fp=chrome&alpn=http%2F1.1#🔒
 ss://9a2680ff-c5d5-410a-9108-8d6b10e4ea1e@104.24.37.192:80?encryption=none&security=none&type=ws&host=ppal03.dolobe7975.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://9a2680ff-c5d5-410a-9108-8d6b10e4ea1e@104.24.37.192:80?type=ws&host=ppal03.dolobe7975.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://9a2c6223-9690-4ff4-a9b6-30c20cebc828@151.101.128.155:80?security=none&type=ws&host=vipfast_7.com#🔒
@@ -502,4 +503,3 @@ ss://TELEGRAM-NUFiLTER@91.99.127.0:110?mode=gun&security=reality&encryption=none
 ss://TELEGRAM-NUFiLTER@91.99.127.0:110?mode=gun&security=reality&encryption=none&authority=&pbk=3Yz4hou72k4voLsPQWd_OR1hXABREcJGI_Aki-Gb-Gw&fp=firefox&spx=%2F&type=grpc&serviceName=telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&sni=maps.google.com&sid=84#⚡Telegram
 ss://TELEGRAM-NUFiLTER@91.99.127.0:110?mode=gun&security=reality&encryption=none&authority=&pbk=3Yz4hou72k4voLsPQWd_OR1hXABREcJGI_Aki-Gb-Gw&fp=firefox&spx=%2F&type=grpc&serviceName=telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&sni=maps.google.com&sid=84#🌐سرور
 ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=khorzokhan.com&type=ws#⚡Telegram
-ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=&encryption=none&host=moradqoli.com&type=ws#⚡Telegram
