@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@195.85.23.20:8880#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.85.23.20-8880+%7C+2.47ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@156.238.18.83:8880#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.83-8880+%7C+2.29ms
+        ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@156.238.18.83:8880#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.83-8880+%7C+2.29ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@156.238.18.214:8880#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.214-8880+%7C+2.12ms
 ss://f907364adebd490483d2774b28f664ebOg==@185.79.158.141:8088#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.79.158.141-8088+%7C+288.94ms
 ss://f55304781e1d4145bd7879aeaeee275fOg==@hajlab.ucdavis.edu:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+hajlab.ucdavis.edu-443+%7C+197.16ms
@@ -503,3 +502,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMLT5QTC0+QURMLT5ARGVhbU5ldF9Qcm94eSIs
 vless://61ff8b60-2be0-40a6-94b5-92cca33f1fab@www.gov.se:80?encryption=none&security=none&type=ws&host=sedalat.tatexe3807.workers.dev&path=%2F%3Fed%3D2560#CA-%3E-%3EMCI-%3E%40Sezar_Sec
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLT5VUy0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMi41OC44Ny4yMjEiLA0KICAicG9ydCI6ICIxMjI2OSIsDQogICJpZCI6ICJkYjg1ZmYwZS1jMzNmLTQwMWQtYzQxNS00YzdjY2UxMzU3MDQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?encryption=none&security=none&type=grpc#US-%3E-%3EMTN-%3E%40Sezar_Sec
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?encryption=none&security=none&type=ws&host=redfree8mahsang6.redfree8.ir&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
