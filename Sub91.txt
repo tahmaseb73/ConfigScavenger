@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?path=/?ed=2048&security=none&encryption=none&host=JoinBede-ELiV2.Ray.io&type=ws#🇺🇸US_1091_@Surfboardv2ray
-vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?path=@Selinc/?ed=2048&security=none&encryption=none&host=JoinBede-ELiV2.Ray.io&type=ws#🇺🇸US_1092_@Surfboardv2ray
-vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?security=none&type=ws&host=JoinBede-ELiV2.Ray.io&path=%2F%3Fed%3D2048#🔒
-vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=pamchall.com.&type=ws#@meli_proxyy
-vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=pamchall.com.&type=ws#RELAY🚩
+        vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=pamchall.com.&type=ws#RELAY🚩
 vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=pamchall.com.&type=ws#⚡Telegram
 vless://d424ae34-8aff-4093-b1c9-715de61aa144@104.26.14.85:2082?type=httpupgrade&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&path=/?ed%3D2082,telegram,v2rayng_vpnrog,telegram,v2rayng_vpnrog,telegram,v2rayng_vpnrog,?ed%3D2082#🔒
 vless://d424ae34-8aff-4093-b1c9-715de61aa144@104.26.15.85:2082?security=none&type=httpupgrade&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082#🔒
@@ -503,3 +499,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#v2raynplus
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#⚡Telegram
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?security=none&type=grpc#🔒
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?type=grpc#🇬🇧[openproxylist.com]
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?encryption=none&security=none&type=grpc#%5BVLESS%2004%5D%20%40ResistalProxy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FNew%20Barnet%F0%9F%85%BF%EF%B8%8Fping%3A40.09ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FNew%20Barnet%F0%9F%85%BF%EF%B8%8Fping%3A40.97ms
