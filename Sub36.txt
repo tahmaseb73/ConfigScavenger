@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://9835fbea-cfb1-402a-bdc6-16ca140c6788@85.208.110.203:443?security=tls&sni=www.samsung.com&fp=firefox&allowInsecure=0#🔒
+        ss://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?security=reality&sni=www.samsung.com&type=tcp&fp=firefox&pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&sid=e1f576c5#🔒
+ss://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?security=tls&sni=www.samsung.com&fp=firefox&allowInsecure=0#🔒
+ss://9835fbea-cfb1-402a-bdc6-16ca140c6788@85.208.110.203:443?security=tls&sni=www.samsung.com&fp=firefox&allowInsecure=0#🔒
 ss://984affba-606e-44d7-8e29-bc5193b7e7e5@212.95.33.206:11045?security=reality&sni=yahoo.com&type=grpc&serviceName=Tel%20%3A%20%40NT_Safe&fp=chrome&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&sid=20db1be5e1ab118a#🔒
 ss://984affba-606e-44d7-8e29-bc5193b7e7e5@o.soskom.ir:11045?security=reality&encryption=none=#🇩🇪DE_820_@Surfboardv2ray
 ss://985acae9-b627-417c-95a8-36b3e3677be2@185.143.233.120:2086?security=none&type=ws&host=getasa.ir#🔒
@@ -501,5 +503,3 @@ ss://Parsashonam-247@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&
 ss://Parsashonam-247@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam
 ss://Parsashonam-247@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
 ss://Parsashonam-247@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
-ss://Parsashonam-248@185.146.173.39:8880?path=%2F&security=&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#⚡Telegram
-ss://Parsashonam-248@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@meli_proxyy

@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://72c5a434-1529-4606-acaa-a48848613bc9@46.38.148.83:4002?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-46.38.148.83%3A4002
+        vless://5e643328-05a4-4e79-a89c-d98e0929113b@91.236.168.191:22242?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-91.236.168.191%3A22242
+vless://7d910091-9504-4fe4-9d04-1e38de91ea90@78.157.59.178:43702?encryption=none&security=none&type=ws&host=x8ti3.divarcdn.com%2CVu4Jf.snappfood.ir%2CG1SQh.yjc.ir%2CTNv0A.digikala.com%2C3yZoN.tic.ir&path=%2FZARIN7#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-78.157.59.178%3A43702
+vless://72c5a434-1529-4606-acaa-a48848613bc9@46.38.148.83:4002?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-46.38.148.83%3A4002
 vless://69755126-665f-4be4-a516-4a624d43d07f@185.143.233.120:443?encryption=none&security=tls&sni=anten.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#%F0%9F%94%92%20VL-XHTTP-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.143.233.120%3A443
 vless://825e6dbe-73f7-4f2f-a15e-93dce526c31d@185.206.92.209:5059?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-XHTTP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.206.92.209%3A5059
 vless://7ae8ecd9-ef43-40f7-afef-78508807d514@85.9.96.202:3000?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.9.96.202%3A3000
@@ -501,5 +503,3 @@ ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25295#%F0%9F%87%A8%F0%9F
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25230#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1954
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@162.251.61.47:800#%F0%9F%87%BA%F0%9F%87%B8US-162.251.61.47-1955
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.91.107.37:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.37-1963
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.99.188.99:5004#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.99-1964
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.107.37:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.37-1965
