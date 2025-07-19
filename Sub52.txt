@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@193.122.106.234:443?security=tls&flow=xtls-rprx-vision-udp443&sni=ako.pagate.top&fp=chrome&allowInsecure=0#🔒
+        ss://e6829971-e95c-4858-9f83-3a06466541cb@join.vpncustomize.fast.hosting-ip.com:80?encryption=none&security=none&type=ws&host=Channel-VPNCUSTOMIZE.ir&path=%2FTelegram%E2%80%94VPNCUSTOMIZE%3Fed2048#t.me%2Fpeterjest
+ss://e691b423-c7f7-4c78-a65b-694ac46767f4@54.147.77.121:39642?security=reality&flow=xtls-rprx-vision&sni=apple.com&type=tcp&fp=chrome&pbk=c4SulGQSmzY2P-uF7XlCEkzKXU15FsZnxDddoUB6vFA&sid=66ef#🔒
+ss://e6928e6c-cac4-45e2-9e7e-459b3fb43135@hk-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=hk-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=hk-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-124%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+ss://e6aedcd2-24ad-4bdd-82c5-006d84179197@104.18.202.232:443?security=tls&sni=4d3d6f00.garywelch.pages.dev&type=ws&host=4d3d6f00.garywelch.pages.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒
+ss://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@193.122.106.234:443?security=tls&flow=xtls-rprx-vision-udp443&sni=ako.pagate.top&fp=chrome&allowInsecure=0#🔒
 ss://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=ako.pagate.top&fp=chrome&type=tcp&headerType=none#15%7CKR_speednode_0039
 ss://e6df2bfc-1469-41be-9d04-cecd4ab54ed1@172.66.44.229:2083?security=tls&sni=MAhDISERVeR-JsU.pAGEs.DeV&type=ws&host=mahdiserver-jsu.pages.dev&path=%2F8ko13fPjoziez0fk%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 ss://e6df2bfc-1469-41be-9d04-cecd4ab54ed1@172.66.47.27:2083?security=tls&sni=MAhDISERVeR-JsU.pAGEs.DeV&type=ws&host=mahdiserver-jsu.pages.dev&path=%2F8ko13fPjoziez0fk%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
@@ -499,7 +503,3 @@ ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.218.15.250:2083?security=tls&sni=e
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@156.225.72.246:2087?security=tls&sni=edccy.aimercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@16.162.225.15:443?sni=edccc.aimercc.filegear-sg.me&type=ws&host=edccc.aimercc.filegear-sg.me&allowInsecure=1#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@161.145.150.29:2083?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.120.94.23:2087?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.128.123:443?security=tls&sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.128.172:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.129.163:443?sni=edccd.ambercc.filegear-sg.me&type=ws&host=edccd.ambercc.filegear-sg.me&allowInsecure=1#🔒

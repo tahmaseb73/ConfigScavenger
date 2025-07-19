@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://4f3662cc-c677-43d7-a5cc-ecc21dd286c3@104.24.171.212:2087?security=tls&sni=ball.757718.xyz&type=ws&host=ball.757718.xyz&path=%2F%3Fed%3D2560#🔒
+        ss://4eec7bc2-6bfd-4e54-b0a4-5890e8f97439@141.148.196.208:443?security=tls&flow=xtls-rprx-vision&sni=dj-downloadin.xn--4gq62f52gopi49k.com&type=tcp&fp=safari#🔒
+ss://4f2b9193-ab76-401f-a254-10982ac2881a@5.10.245.75:443?sni=hax-eu.lzj520hxw.dpdns.org&type=ws&host=hax-eu.lzj520hxw.dpdns.org#🔒
+ss://4f3662cc-c677-43d7-a5cc-ecc21dd286c3@104.16.183.186:2083?sni=ball.757718.xyz&type=ws&host=ball.757718.xyz&allowInsecure=0#🔒
+ss://4f3662cc-c677-43d7-a5cc-ecc21dd286c3@104.24.171.212:2087?security=tls&sni=ball.757718.xyz&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=ball.757718.xyz&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://4f3662cc-c677-43d7-a5cc-ecc21dd286c3@104.24.171.212:2087?security=tls&sni=ball.757718.xyz&type=ws&host=ball.757718.xyz&path=%2F%3Fed%3D2560#🔒
 ss://4f3662cc-c677-43d7-a5cc-ecc21dd286c3@104.24.38.60:8443?sni=ball.757718.xyz&type=ws&host=ball.757718.xyz&allowInsecure=0#🔒
 ss://4f3f7db1-f416-473e-8321-b2cec71c04ab@104.21.69.41:443?security=tls&sni=MAs10xyZ.890602.XyZ&type=ws&host=mas10xyz.890602.xyz&path=%2FYzFLmzNIEQsAmceLxv94lPbgMw&fp=chrome&alpn=http%2F1.1#🔒
 ss://4f3f7db1-f416-473e-8321-b2cec71c04ab@172.67.204.22:443?security=tls&sni=MAs10xyZ.890602.XyZ&type=ws&host=mas10xyz.890602.xyz&path=%2FYzFLmzNIEQsAmceLxv94lPbgMw&fp=chrome#🔒
@@ -499,7 +503,3 @@ ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@170.114.45.20:8880?type=ws&host=reedfr
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@170.114.46.128:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@170.114.46.170:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%2Bid%3A%2B%40ShadowProxy66%2F%3Fed%3D2560#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.39ms
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir#🔒
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.44.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒

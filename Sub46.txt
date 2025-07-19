@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@181.214.1.55:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@181.214.1.235:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@181.214.1.34:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@181.214.1.37:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@181.214.1.4:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@181.214.1.55:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@181.214.1.63:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@184.174.80.120:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@184.174.80.142:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -499,7 +503,3 @@ ss://bf73e6e5-0336-40d5-995c-283de50646d2@104.24.158.124:80?security=none&allowI
 ss://bf73e6e5-0336-40d5-995c-283de50646d2@104.24.158.124:80?security=none&type=ws&host=divine-limit-e9df-ppal03.jorekon645.workers.dev&path=%2Ftelegram%40V2ray\_Alpha%2F%3Fed%3D2048#🔒
 ss://bf73e6e5033640d5995c283de50646d2@104.24.158.124:80#RELAY%F0%9F%9A%A9+%7C+104.24.158.124-80+%7C+2.19ms
 ss://bf86e56d-869e-4967-f675-d832cf5ec63e@212.16.68.63:1003?type=tcp#🇮🇷IR_1013_@Surfboardv2ray
-ss://bf86e56d-869e-4967-f675-d832cf5ec63e@212.16.68.63:1003?type=tcp#🇮🇷IR_983_@Surfboardv2ray
-ss://bfab9a68-5545-5270-bfdd-c9a5476ca066@66.59.197.110:33001?encryption=none&security=reality&sni=vm.zran.top&fp=chrome&pbk=4rJ3CmHXBvnX5N44I7aI1UZgi2d1cVOmSjf7_X2WzEA&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FAtlanta%F0%9F%85%BF%EF%B8%8Fping%3A121.26ms
-ss://bfab9a68-5545-5270-bfdd-c9a5476ca066@74.48.35.25:33001?encryption=none&security=reality&sni=cc.zran.top&fp=chrome&pbk=fSqyqhnqaVrs2eZ1mAYwFdsWRpgx4-H-ZWqIYL4fBC8&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FSanta%20Clarita%20%28Canyon%20Country%29%F0%9F%85%BF%EF%B8%8Fping%3A153.1ms
-ss://bfab9a68-5545-5270-bfdd-c9a5476ca066@84.235.237.246:33001/?type=tcp&encryption=none&flow=&sni=fr.zran.top&fp=chrome&security=reality&pbk=lCw-J-VD2RWK0khO3ySjqdsfSV2qnVx8y91WV8AKMkw&sid=#🇫🇷FR_1014_@Surfboardv2ray

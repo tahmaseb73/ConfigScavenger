@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.153.7.120:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.232:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.241:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.252:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.86:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.153.7.120:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.153.7.143:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.153.7.173:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.153.7.17:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
@@ -499,7 +503,3 @@ vless://c38f1b76-d4a0-4560-8e5b-5e9b9fe903fc@104.21.72.233:443?security=tls&sni=
 vless://c38f1b76-d4a0-4560-8e5b-5e9b9fe903fc@135.84.75.187:443?security=tls&sni=xn--node-us-pr--s50t2233b.ikunair.me&type=ws&host=xn--node-us-pr--s50t2233b.ikunair.me&path=%2F#🔒
 vless://c38f1b76-d4a0-4560-8e5b-5e9b9fe903fc@172.66.44.77:443?security=tls&sni=rn-us-node.woxihuan.dpdns.org&type=ws&host=rn-us-node.woxihuan.dpdns.org&path=%2F#🔒
 vless://c38f1b76-d4a0-4560-8e5b-5e9b9fe903fc@172.66.47.179:443?security=tls&sni=rn-us-node.woxihuan.dpdns.org&type=ws&host=rn-us-node.woxihuan.dpdns.org&path=%2F#🔒
-vless://c38f1b76-d4a0-4560-8e5b-5e9b9fe903fc@172.67.155.172:443?security=tls&sni=rn-us-node.woxihuan.dpdns.org&type=ws&host=rn-us-node.woxihuan.dpdns.org&path=%2F#🔒
-vless://c38f1b76-d4a0-4560-8e5b-5e9b9fe903fc@172.82.16.99:443?security=tls&sni=xn--node-us-pr--s50t2233b.ikunair.me&type=ws&host=xn--node-us-pr--s50t2233b.ikunair.me&path=%2F#🔒
-vless://c38f1b76-d4a0-4560-8e5b-5e9b9fe903fc@5.10.247.86:443?security=tls&sni=xn--node-us-pr--s50t2233b.ikunair.me&type=ws&host=xn--node-us-pr--s50t2233b.ikunair.me&path=%2F#🔒
-vless://c3914ef7-1337-4d3e-a9ec-d8908314e724@www.speedtest.net:443?mode=auto&path=/&security=tls&encryption=none&host=test0216.dgclix.ir&type=xhttp#🇨🇦CA_1030_@Surfboardv2ray
