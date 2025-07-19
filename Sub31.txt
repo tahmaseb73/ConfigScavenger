@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?security=none&type=ws&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.#@Hope_Net-join-us-on-Telegram
+        ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&type=ws#%40kingofilter
+ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&type=ws#kingofilter
+ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=/?ed=2560&security=none&encryption=none&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&type=ws#🇨🇦CA_677_@Surfboardv2ray
+ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=www.speedtest.net.zula.ir.cfw1.chimigi.sIte.&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?security=none&type=ws&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.#@Hope_Net-join-us-on-Telegram
 ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@172.67.69.216:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=www.speedtest.net.zula.ir.cfw1.chimigi.sIte.&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@172.67.69.216:8880?security=none&type=ws&host=www.speedtest.net.zula.ir.cfw1.chimigi.sIte.&path=%2F%3Fed%3D2560#🔒
 ss://6f183280-b258-437a-a216-e83f7dece776@45.131.210.102:80?sni=901.dbodanwi.workers.dev&type=ws&host=901.dbodanwi.workers.dev#🔒
@@ -499,7 +503,3 @@ ss://7b0e1017-ead8-45c0-abcb-64936083c220@Www.speedtest.net:2095?path=/?ed=2048&
 ss://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧GB_715_@Surfboardv2ray
 ss://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?security=none&type=ws#🔒
 ss://7b326b94-cb28-4420-9a8f-d0aa4b48bec6@104.19.54.50:8880?security=&type=ws&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&host=V2rayArgoN.elmahstyle.xyz.&encryption=none#🇨🇦CA_716_@Surfboardv2ray
-ss://7b326b94-cb28-4420-9a8f-d0aa4b48bec6@104.19.54.50:8880?type=ws&host=V2rayArgoN.elmahstyle.xyz.#🔒
-ss://7b32d76e-9157-47ef-9cb5-9e71bd9d3be1@162.159.152.11:443?security=tls&sni=v2-150.pages.dev&type=ws&host=v2-150.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒
-ss://7b32d76e-9157-47ef-9cb5-9e71bd9d3be1@63.141.128.76:443?sni=v2-150.pages.dev&type=ws&host=v2-150.pages.dev#🔒
-ss://7b33f59f-aada-4b49-a4ac-1c335977f2af@104.26.4.57:2087?security=tls&sni=vless1-698.pages.dev&type=ws&host=vless1-698.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒

@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2052?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
+        vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@172.67.153.74:2053?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@172.67.153.74:2087?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@172.67.153.74:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2052?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2053?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2082?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@cdn-all.xn--b6gac.eu.org:2083?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
@@ -499,7 +503,3 @@ vless://960f6f96-a2d9-485d-b256-ce783f3c78f1@www.speedtest.net:2082?path=/@spike
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:443?security=tls&sni=ahmedquran19.xyz&type=ws&host=ahmedquran19.xyz&path=%2Fcurrent_time&fp=chrome&alpn=http/1.1#🔒
 vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443/?type=ws&encryption=none&host=gulf-d96.pages.dev&path=%2FecY3gziM8W6ud5yj%3Fed%3D2560&security=tls&sni=gulf-d96.pages.dev&alpn=http%2F1.1&fp=randomized#⚡Telegram
 vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?security=tls&sni=gulf-d96.pages.dev&type=ws&host=gulf-d96.pages.dev&path=%2FecY3gziM8W6ud5yj%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
-vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@45.83.141.23:443?security=reality&sni=tgju.org&type=tcp&fp=random&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🔒
-vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=usa.mizbangostar.com&type=httpupgrade#@meli_proxyy
-vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=usa.mizbangostar.com&type=httpupgrade#RELAY🚩
-vless://963ec3d3-def9-4ae1-825d-00ff2f6da119@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=usa.mizbangostar.com&type=httpupgrade#⚡Telegram
