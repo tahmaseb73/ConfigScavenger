@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d4769aab-99d9-4491-a3e3-a58867915bdf@104.18.26.94:443?security=tls&sni=esetsecuritylicense.cfmglpqb.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=esetsecuritylicense.cfmglpqb.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vless://d4769aab-99d9-4491-a3e3-a58867915bdf@104.18.26.94:443?security=tls&sni=esetsecuritylicense.cfmglpqb.workers.dev&type=ws&host=esetsecuritylicense.cfmglpqb.workers.dev&path=%2FTelegram@V2ray_Alpha%2F%3Fed%3D2560&fp=randomized#🔒
-vless://d478a52b-c43d-4ca3-9b14-396e131f1222@192.0.54.31:2096?security=tls&sni=Join-Telegram-eiiim.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=/join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&fp=chrome#🔒
+        vless://d478a52b-c43d-4ca3-9b14-396e131f1222@192.0.54.31:2096?security=tls&sni=Join-Telegram-eiiim.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=/join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&fp=chrome#🔒
 vless://d4978c89-0958-4185-b08a-15d85c1f6666@o.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_1093_@Surfboardv2ray
 vless://d4978c89-0958-4185-b08a-15d85c1f6666@o.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_1094_@Surfboardv2ray
 vless://d4978c89-0958-4185-b08a-15d85c1f6666@o.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_1095_@Surfboardv2ray
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#⚡Telegram
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧GB_1152_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=&encryption=none&type=grpc#GB🇬🇧
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=&encryption=none&type=grpc#⚡Telegram
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&type=grpc#🇬🇧[openproxylist.com]
