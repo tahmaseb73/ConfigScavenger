@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&security=tls&fp=random&sni=5-55sfjslf.ifenxiang.cfd#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20✅️تا
+        vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🇨🇦CA_595_@Surfboardv2ray
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&fp=chrome#🔒
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&security=tls&fp=random&sni=5-55sfjslf.ifenxiang.cfd#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&security=tls&fp=random&sni=5-55sfjslf.ifenxiang.cfd#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20✅️تا
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.149.244:2087?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&fp=random#🔒
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%20103%20%28%40Outline_Vpn%29
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%20113%20%28%40Outline_Vpn%29
@@ -500,6 +503,3 @@ vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@8.219.59.132:48964?sni=steep.skyfig
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@8.222.178.214:6666?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2FTelegram%2BChannel%2B%3A%2B@freeiranweb#🔒
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.21.40.164:8080?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#🔒
-vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.66.43.162:2052?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=Telegram%3A@Npvtunnell%2CTelegram%3A@Npvtunnell%2CTelegram%3A@Npvtunnell%2CTelegram%3A@Npvtunnell#🔒
-vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:2082?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#🔒
-vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:2095?type=ws&host=workerr.hashdiler.workers.dev#🔒

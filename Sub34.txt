@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.148.177:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+        ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.147.212:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.148.114:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.148.158:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.148.177:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.148.21:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.148.83:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 ss://897a4bec-26b8-11e8-94be-00505695472c@172.67.149.157:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
@@ -500,6 +503,3 @@ ss://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?security=tls&sni=kaw
 ss://90d7db9b-972b-4073-8738-12cf42124260@104.19.245.53:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev#🔒
 ss://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#🔒
 ss://90d7db9b-972b-4073-8738-12cf42124260@104.19.253.84:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev#🔒
-ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?encryption=none&security=none&type=tcp&headerType=none#%5BVLESS%2034%5D%20%40ResistalProxy
-ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&type=tcp&encryption=none#TR🇹🇷
-ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20-%20Izmir%20%F0%9F%8C%8F%20VL-TCP-NONE%204%E2%83%A3
