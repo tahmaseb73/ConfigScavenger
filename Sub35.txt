@@ -3,21 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://90c907667a2e4c83805abf43bd65e42fOg==@live.989bull.com:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+live.989bull.com-80+%7C+58.8ms
-ss://90cd4a77-141a-43c9-991b-08263cfe9c10@104.24.235.113:443?security=tls&sni=serv00-b49.pages.dev&type=ws&host=serv00-b49.pages.dev&path=%2F%3Fed%3D2560#🔒
-ss://90cd4a77-141a-43c9-991b-08263cfe9c10@162.159.195.143:443?security=tls&sni=syq-8y3.pages.dev&type=ws&host=syq-8y3.pages.dev&path=%2F%3Fed%3D2048#🔒
-ss://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?security=tls&sni=79193c43.aryoovpn-5fr.pages.dev&type=ws&host=79193c43.aryoovpn-5fr.pages.dev&path=%2F%3Fed%3D2048#🔒
-ss://90d7db9b-972b-4073-8738-12cf42124260@104.16.114.221:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560&fp=chrome#🔒
-ss://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#🔒
-ss://90d7db9b-972b-4073-8738-12cf42124260@104.19.245.53:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev#🔒
-ss://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#🔒
-ss://90d7db9b-972b-4073-8738-12cf42124260@104.19.253.84:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev#🔒
-ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?encryption=none&security=none&type=tcp&headerType=none#%5BVLESS%2034%5D%20%40ResistalProxy
-ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&type=tcp&encryption=none#TR🇹🇷
-ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20-%20Izmir%20%F0%9F%8C%8F%20VL-TCP-NONE%204%E2%83%A3
-ss://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
-ss://9110aadc-2059-4923-a76f-fe248d029a7a@91.193.59.119:2053?security=tls&sni=ss.sudolog.ir&type=grpc&serviceName=--%40sharkpublic--&fp=chrome#🔒
-ss://91140646-4ee6-40d4-8103-69f79c8aebb5@159.223.28.7:443?mode=gun&security=none&encryption=none&authority=telegram%3Afergalvpnmod&type=grpc&serviceName=telegram%3Afergalvpnmod#%40V2ray1_Ng%20ALL
+        ss://91140646-4ee6-40d4-8103-69f79c8aebb5@159.223.28.7:443?mode=gun&security=none&encryption=none&authority=telegram%3Afergalvpnmod&type=grpc&serviceName=telegram%3Afergalvpnmod#%40V2ray1_Ng%20ALL
 ss://9116e758-76c5-4e9d-aef6-6fe6edd11163@local.connectix-d1.info:44444?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7+prx11+%E2%9C%A8%F0%9F%94%A5%F0%9F%8C%88
 ss://91271908-ed93-40f8-98e0-a7e6af7c43e9@147.182.208.126:2083?security=reality&sni=www.speedtest.net&type=grpc&fp=firefox&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&sid=adf8a1f5689177a2#🔒
 ss://91440b27-a0e5-4107-9aee-478361210fcd@www.speedtest.net:80?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#🇨🇦CA_767_@Surfboardv2ray
@@ -503,3 +489,17 @@ ss://979e4105-7b3a-4ce9-9fdf-992687869d1e@138.197.13.193:443?security=reality&en
 ss://979e4105-7b3a-4ce9-9fdf-992687869d1e@138.197.13.193:443?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=xxBt4wWYurbjkEOZ1N4T1lOH9enyJ1GHdAynjdsw0hQ&sid=7d5b4f2ce8bbef8b#🔒
 ss://97a382cb-26d6-40da-9f11-b2a21545be08@104.18.32.47:8880?security=none&type=ws&host=orangeorangeйШњжЦѓйБФеНБйїЮдЄЙеНБеИЖ.boxiaa.shop.#🔒
 ss://97a382cb-26d6-40da-9f11-b2a21545be08@104.26.6.174:8880?security=none&type=ws&host=orangeorangeйШњжЦѓйБФеНБйїЮдЄЙеНБеИЖ.boxiaa.shop.#🔒
+ss://97a382cb-26d6-40da-9f11-b2a21545be08@172.67.40.211:8880?security=none&type=ws&host=orangeorangeйШњжЦѓйБФеНБйїЮдЄЙеНБеИЖ.boxiaa.shop.#🔒
+ss://97d13942-28f3-42bf-827a-fe540f7d99c0@104.17.21.157:8080?type=httpupgrade&host=selllv2rayng.nanvrfood.ir.&path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048#🔒
+ss://97e7cbd4-b612-43a2-ab92-b9eeb6203034@104.19.150.10:80?security=none&type=httpupgrade&host=mtn.mci.ir.com.org.net.om.digimento0.ir.&path=%2Fb9eeb6203034%3Fed%3D2021#🔒
+ss://97eb2eb4-eaaa-49cb-9064-d5e3c08809d9@live.wkrq.com:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Hopeproject.ir&fp=randomized&type=ws&sni=live.wkrq.com#US🇺🇸
+ss://97ecb2d3-02e0-4ced-a919-2d82607e8b63@91.107.176.100:443?path=/&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=dd12.transitkala.com&fp=chrome&type=ws&sni=dd12.transitkala.com#🇩🇪DE_819_@Surfboardv2ray
+ss://97ef6ad8-05d3-4d21-9048-c6fc6980d350@172.67.204.234:80?security=none&type=ws&host=farda.vipturk.ir&path=%2FFaRdAvipTurk.Rr#🔒
+ss://97f26790-6e5a-4adc-83a8-5b17d873a4f0@104.19.160.0:443?sni=lrnz.xyz&type=ws&host=lrnz.xyz&allowInsecure=0#🔒
+ss://97f89f2f-5b00-4e62-831c-507fbde44703@128.140.113.136:15483?security=reality&sni=lunavopershiansni369871.adas.monster&type=xhttp&path=%2Fshahin2001&fp=chrome&pbk=YwovOka4bw_cog0WRI_245U9NC4I26TaGxhAKfGSskM&sid=e559dd#🔒
+ss://982b57eb-8f57-49ea-a087-42b90dddb64b@157.180.94.33:8880?mode=gun&security=none&encryption=none&authority=%2FJoin_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=%40cephalon_ai_bot#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🪭
+ss://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?security=reality&encryption=none&pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=e1f576c5#@meli_proxyy
+ss://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?security=reality&encryption=none&pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=e1f576c5#REALITY|AL🇦🇱
+ss://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?security=reality&encryption=none&pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=e1f576c5#⚡Telegram
+ss://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?security=reality&sni=www.samsung.com&type=tcp&fp=firefox&pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&sid=e1f576c5#🔒
+ss://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?security=tls&sni=www.samsung.com&fp=firefox&allowInsecure=0#🔒
