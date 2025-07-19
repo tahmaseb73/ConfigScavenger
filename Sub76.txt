@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇩🇪DE_530_@Surfboardv2ray
+        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@meli_proxyy
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇩🇪DE_530_@Surfboardv2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.56:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.217.86:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&allowInsecure=1#🔒
@@ -502,4 +503,3 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?secur
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&type=tcp#%40V2rayNG3
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.4:443?security=tls&sni=147135004002.sec20org.com&type=raw#🔒
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.84:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#Free%20122%20%28%40Outline_Vpn%29

@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://238b597ab49e48f69cb127865989bddd@172.67.137.175:8880#RELAY%F0%9F%9A%A9+%7C+172.67.137.175-8880+%7C+1.44ms
+        ss://24a4aa9bb34147179d4a00d74c2b84e0Og==@104.17.147.22:2096#RELAY%F0%9F%9A%A9+%7C+104.17.147.22-2096+%7C+1.57ms
+ss://238b597ab49e48f69cb127865989bddd@172.67.137.175:8880#RELAY%F0%9F%9A%A9+%7C+172.67.137.175-8880+%7C+1.44ms
 ss://21147720fdb84f96ceb6e7f9c0633471Og==@asia2.novahomedesigntips.com:18200#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+asia2.novahomedesigntips.com-18200+%7C+315.64ms
 ss://1dc3723584ae5772b0e1d02d2c039268Og==@151.101.194.219:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+151.101.194.219-80+%7C+0.9ms
 ss://1d6b55be75d34ea2bedf98f3a757c458Og==@185.79.158.156:8051#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.79.158.156-8051+%7C+305.33ms
@@ -502,4 +503,3 @@ vless://5a79e1f3-c772-469e-99c8-0a7036c53cbd@85.133.247.33:2086?encryption=none&
 vless://1247a180-4776-4520-a4ae-870ee271fa6c@193.151.132.41:2053?encryption=none&security=tls&sni=num2.donlo.ir&fp=chrome&type=ws&host=colf.ir&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.151.132.41%3A2053
 vless://b41d5ac0-ed33-47cd-84c5-406471554f5d@193.151.131.170:15015?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.151.131.170%3A15015
 vless://f4e0a47f-251c-dfbf-7980-d935cfd7fa81@85.133.206.235:99?encryption=none&security=none&type=ws&host=xzw.IlysM.spAce.&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.206.235%3A99
-vless://aa39887e-2572-4665-b9a9-491d21e492e4@94.182.136.90:442?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.182.136.90%3A442

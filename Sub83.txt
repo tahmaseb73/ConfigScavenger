@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?security=tls&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&path=%2Ftelegram-%40v2ray_alpha%2F%3Fed%3D2560#🔒
+        vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.226:2096?security=tls&sni=mahDiSERver-x1p.pageS.dEv&type=ws&host=mahDisErvEr-X1p.pages.DEv&fp=chrome&alpn=h2,http/1.1#🔒
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?security=tls&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&path=%2Ftelegram-%40v2ray_alpha%2F%3Fed%3D2560#🔒
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?security=tls&sni=V2NGfASt.pAgeS.dev&type=ws&host=V2ngfAST.PaGEs.dEV#🔒
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.181:443?security=tls&sni=v2ngFAst-JcR.PAGES.DEv&type=ws&host=V2NGfAST-JCR.PAGES.DEv#🔒
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.196:2053?security=tls&sni=mAhDisERvER-8cK.pagEs.dev&type=ws&host=MahDISerVer-8ck.PaGEs.DeV&fp=chrome&alpn=h2,http/1.1#🔒
@@ -502,4 +503,3 @@ vless://937930fb-b07b-4d2d-81f9-5d8a05027e2d@199.232.90.133:80?security=none&typ
 vless://937a7366-6dd6-4514-969a-bbb1a41d5e0b@104.24.196.20:2086?type=httpupgrade&path=@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=wwW.speedtesT.net.eLectrolUxxv.ir.&security=none#🇨🇦CA_793_@Surfboardv2ray
 vless://939f62bc-3255-495a-8b9b-f0a3da02e513@190.93.247.56:8080?security=none&type=ws&host=it1.hpcdn.info&path=%2F%3Fed%3D2560#🔒
 vless://93cf17d3-2ffd-486b-9ea8-31ead0086137@94.130.187.47:2087?security=tls&sni=s.sarzamiiinahang.ir&alpn=h2&fp=chrome&type=grpc&encryption=none#🇩🇪DE_794_@Surfboardv2ray
-vless://93dacda3-c49c-58ec-bfae-fcc1b5702ca5@38.247.64.127:443?security=tls&sni=38.247.64.127&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.247.64.127&encryption=none#Rayan%20-%20SSO%20-%20WSDR-120%20-%20SG%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config

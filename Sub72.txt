@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://3f293775-c3a3-48cd-964c-fa046aa02ec6@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
+        vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@172.67.199.23:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F#🔒
+vless://3f293775-c3a3-48cd-964c-fa046aa02ec6@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
 vless://3f2a64be-4bb8-567c-a3bd-1cbb7233b166@102.129.165.109:443?security=tls&sni=102.129.165.109&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=102.129.165.109&encryption=none#Rayan%20-%20SSO%20-%20WSDR-124%20-%20ZA%20-%20II%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
 vless://3f2a64be-4bb8-567c-a3bd-1cbb7233b166@zula.ir:443?security=tls&sni=za-2-sso.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=za-2-sso.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSO%20-%20WSCT-124%20-%20ZA%20-%20II%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
 vless://3f4b57a0-f57c-4a8b-8c00-fa255eec1c79@104.17.252.50:80/?type=ws&encryption=none&host=us.xyxy.dpdns.org&path=%2F3f4b57a0#⚡Telegram
@@ -502,4 +503,3 @@ vless://4587e98c-ec45-408e-b395-67923b6e9ded@104.21.92.241:443?security=tls&sni=
 vless://4587e98c-ec45-408e-b395-67923b6e9ded@162.159.192.56:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://4587e98c-ec45-408e-b395-67923b6e9ded@162.159.192.60:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://4587e98c-ec45-408e-b395-67923b6e9ded@162.159.195.204:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-vless://4587e98c-ec45-408e-b395-67923b6e9ded@188.114.96.133:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

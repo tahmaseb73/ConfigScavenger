@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=/RklUHeautH5uvnSB/NTQuMTY5LjIyOS4xODg&security=tls&alpn=http/1.1&encryption=none&host=hozori.ir&fp=chrome&type=ws&sni=hOZori.iR#🇨🇦CA_313_@Surfboardv2ray
+        vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=/RklUHeautH5uvnSB/NTQuMTY5LjIyOS4xODg&security=tls&alpn=http/1.1&encryption=none&host=hozori.ir&fp=chrome&type=ws&sni=hOZori.iR#🇨🇦CA_312_@Surfboardv2ray
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=/RklUHeautH5uvnSB/NTQuMTY5LjIyOS4xODg&security=tls&alpn=http/1.1&encryption=none&host=hozori.ir&fp=chrome&type=ws&sni=hOZori.iR#🇨🇦CA_313_@Surfboardv2ray
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=/Telegram@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=hozori.ir&fp=chrome&type=ws&sni=hOZori.iR#🇨🇦CA_314_@Surfboardv2ray
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?type=ws&host=hozori.ir&path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&fp=randomized&sni=hOZori.iR&alpn=http%2F1.1#RELAY🚩
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?type=ws&host=hozori.ir&path=/RklUHeautH5uvnSB/NTQuMTY5LjIyOS4xODg&security=tls&fp=randomized&sni=hOZori.iR&alpn=http/1.1#⚡Telegram
@@ -502,4 +503,3 @@ vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?path=%
 vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_366_@Surfboardv2ray
 vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@104.21.21.137:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F&fp=chrome#🔒
 vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@172.67.199.23:443?encryption=none&security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F#t.me%2Fpeterjest
-vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@172.67.199.23:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F#🔒

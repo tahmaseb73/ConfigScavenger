@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://vpn@77.232.142.179:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
+        trojan://vpn@77.232.142.179:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
+trojan://vpn@77.232.142.179:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@77.232.142.179:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@79.137.204.130:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@79.137.204.130:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
@@ -502,4 +503,3 @@ vless://05dc7e04-4ee0-4c72-8acb-145b8122077d@188.114.99.108:443?security=tls&sni
 vless://05e2f43a-258f-4ed9-9dc5-900b0a05148f@78.46.190.158:1616?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=ZtIueP7duO8oy49YFWwsMzzYfuTCz3YtY0kFr31emAI&sid=666dbac6955fdf50#🔒
 vless://05ed4027-cfdd-4361-9489-1b4e5808d699@104.21.72.137:443?security=tls&sni=pw.9901157.xyz&type=ws&host=pw.9901157.xyz&alpn=h3,h2,http/1.1#🔒
 vless://05fc66e3-c445-4ebd-9eea-ed7bc95b204b@190.93.246.175:443?security=tls&sni=hfhahfahff.38xf.top&type=ws&host=hfhahfahff.38xf.top#🔒
-vless://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=4Qekb9y1dqO8hvRzVSGeSRNyhko_gqpeWD94zrLCvjs&sid=5488b0e7#🇺🇸[openproxylist.com]

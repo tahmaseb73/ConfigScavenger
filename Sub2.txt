@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.128.1:2096?sni=nc.ylka.dpdns.org#%E6%9C%AA%E7%9F%A58
+        trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#US2%20133.3KB%2Fs
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.128.1:2096?sni=nc.ylka.dpdns.org#%E6%9C%AA%E7%9F%A58
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@ip.sb:443?sni=ns.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@nikon.ns.cloudflare.com:443?sni=nc.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@whatismyipaddress.com:443?sni=ns.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14
@@ -502,4 +503,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.129.165.156:8880?allowInsecure=
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@104.129.165.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0242
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.46.30.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0243
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@198.202.211.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0244
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.179:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram@WangCai2/?ed=2048#US_speednode_0245

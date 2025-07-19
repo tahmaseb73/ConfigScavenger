@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@server2.fergalvpnmod.com:59365?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%3A%40%40vpnclashfa+-+1728#REALITY|NL🇳🇱 | server2.fergalvpnmod.com-59365 | 284.4ms
+        vless://e05482d4-ba12-41ac-af45-2bf2afc56b4a@46.31.76.3:80?mode=auto&path=%2Fpwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#REALITY|GB🇬🇧 | 46.31.76.3-80 | 190.75ms
+vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@server2.fergalvpnmod.com:59365?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%3A%40%40vpnclashfa+-+1728#REALITY|NL🇳🇱 | server2.fergalvpnmod.com-59365 | 284.4ms
 vless://d7db3e29-c388-4312-91f1-0da96d624e5b@p2.3dfigures.ir:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=V0yu6BQhNI5cO2600tllGbF2D5AJcT7o6Xq7AiBKxBE&host=rema.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=4d#REALITY|GB🇬🇧 | p2.3dfigures.ir-80 | 439.86ms
 vless://d50f50ef-20ff-47a1-a922-f476c2b83eb4@carrot.bitiboot.com:443?security=reality&encryption=none&pbk=XIDvViESjfi-zRq4bdvHK7EyeT7vjJcA_MZO0QGTFhI&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=7fb3b0#REALITY|DE🇩🇪 | carrot.bitiboot.com-443 | 197.47ms
 vless://d4fa2f07-b925-4448-b921-9039bb5e6257@mci1.irancdngame.com:2012?security=reality&type=tcp&headerType=&path=&host=&sni=www.pcmag.com&fp=firefox&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&sid=#REALITY|DE🇩🇪 | mci1.irancdngame.com-2012 | 196.12ms
@@ -502,4 +503,3 @@ ss://29e0206a2cef4c8daa4bdd7a43748167Og==@zmaoz.faculty.ucdavis.edu:443#US%F0%9F
 ss://290be591627c479099ce0d94f331141fOg==@2.189.175.46:7073#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+2.189.175.46-7073+%7C+303.04ms
 ss://263303efd6ba4301e4a1902bcdb9084eOg==@151.101.64.155:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+151.101.64.155-80+%7C+0.74ms
 ss://25aade4d49104a7398570fd43a70fce4Og==@62.60.222.136:8443#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+62.60.222.136-8443+%7C+241.25ms
-ss://24a4aa9bb34147179d4a00d74c2b84e0Og==@104.17.147.22:2096#RELAY%F0%9F%9A%A9+%7C+104.17.147.22-2096+%7C+1.57ms

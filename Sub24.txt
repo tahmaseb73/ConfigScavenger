@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://42ed94c4-9a5b-4737-a30a-6dfa9ee61537@104.18.39.110:443?sni=vs.024657.xyz&type=ws&host=vs.024657.xyz&allowInsecure=0#🔒
+        ss://42ae80f7-764f-47d7-8c3c-9a3817210e91@194.182.79.41:48615?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#CZ🇨🇿
+ss://42ed94c4-9a5b-4737-a30a-6dfa9ee61537@104.18.39.110:443?sni=vs.024657.xyz&type=ws&host=vs.024657.xyz&allowInsecure=0#🔒
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443/?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIPro
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443/?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443/?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&type=ws&sni=gozargah.validbv7996.ir#@VIPro
@@ -502,4 +503,3 @@ ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.142.120.124:443?security=tls&sni=my
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.159.216.212:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/fJBvsL0uR2MtzRig&host=myphotograpicpicture.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20VL-WS-TLS%204%E2%83%A3
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.159.216.212:443?security=tls&sni=myphotograpicpicture.ir&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&fp=chrome#🔒
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.8.211.202:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.8.211.214:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒

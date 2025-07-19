@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.64.1:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=@bypass_filter/?ed%3D100&host=bypassfilter.cmyyvat.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+        ss://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.48.1:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=@bypass_filter/?ed%3D100&host=bypassfilter.cmyyvat.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.64.1:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=@bypass_filter/?ed%3D100&host=bypassfilter.cmyyvat.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.80.1:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=@bypass_filter/?ed%3D100&host=bypassfilter.cmyyvat.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.95.103:443?security=tls&sni=bypass.dd-6b2.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/@bypass_filter/?ed%3D2048&host=bypass.dd-6b2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.95.103:443?security=tls&sni=bypass.dd-6b2.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=@bypass_filter/?ed%3D2048&host=bypass.dd-6b2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
@@ -502,4 +503,3 @@ ss://b99590df-eda0-4e34-e1a9-3d1118faed83@160.153.0.110:8880?security=none&type=
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@160.153.0.239:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@160.153.0.45:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@160.153.0.84:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@162.120.94.145:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒

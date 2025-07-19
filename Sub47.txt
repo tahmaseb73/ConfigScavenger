@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://be813f12-47ac-4b16-9146-8435ebacae3f@104.24.58.83:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=xw0083.dpdns.org&type=ws&sni=xw0083.dpdns.org#RELAY🚩
+        ss://be813f12-47ac-4b16-9146-8435ebacae3f@104.24.58.83:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=xw0083.dpdns.org&type=ws&sni=xw0083.dpdns.org#%40v2raying
+ss://be813f12-47ac-4b16-9146-8435ebacae3f@104.24.58.83:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=xw0083.dpdns.org&type=ws&sni=xw0083.dpdns.org#RELAY🚩
 ss://be813f12-47ac-4b16-9146-8435ebacae3f@104.24.58.83:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org#🔒
 ss://be813f12-47ac-4b16-9146-8435ebacae3f@170.114.46.148:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
 ss://be813f12-47ac-4b16-9146-8435ebacae3f@172.64.40.240:443?sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org#🔒
@@ -502,4 +503,3 @@ ss://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?security=tls&sni=nau
 ss://c7d543af-1023-4b96-a698-187c190d3f4c@216.198.54.1:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=/47.89.39.186-39251#🔒
 ss://c7d543af-1023-4b96-a698-187c190d3f4c@nautica.foolvpn.me:443?path=%2F47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#%40V2rayNG3
 ss://c7d543af-1023-4b96-a698-187c190d3f4c@www.speedtest.net:443?path=/47.89.39.186-39251#🇨🇦CA_1048_@Surfboardv2ray
-ss://c7dfda45-ad90-4e1e-a64a-a5cc4cc9ecf7@81.12.32.27:8080?security=none&type=ws&path=%2F#🔒

@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://4587e98c-ec45-408e-b395-67923b6e9ded@188.114.96.73:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        vless://4587e98c-ec45-408e-b395-67923b6e9ded@188.114.96.133:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://4587e98c-ec45-408e-b395-67923b6e9ded@188.114.96.73:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://459447f6-3440-48f5-a0fa-de9c22d8d613@190.93.247.56:2082?path=%2F%3Fed%3D2560&security=none&encryption=none&host=us1.LemOeX.blog&type=httpupgrade#%40Golestan_VPN%20‏⬅️
 vless://459447f6-3440-48f5-a0fa-de9c22d8d613@190.93.247.56:2082?security=none&type=httpupgrade&host=us1.LemOeX.blog&path=%2F%3Fed%3D2560#🔒
 vless://45a05876-bfd3-4884-abad-99ee7913c787@116.203.149.50:39428?security=reality&sni=yahoo.com&type=grpc&serviceName=%40drakvpn&fp=chrome&pbk=R8trsGCaT7H2OoxlSox6mwLLBk9XJrRQPCQnU-YHr2M&sid=79e06983#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ vless://50c2a064-551a-4ae3-893b-8ad2be17c07e@www.speedtest.net:2086?path=/@Alfre
 vless://50c32afb-ee63-443c-ad0a-a3f4866e4106@23.227.38.0:443?security=tls&sni=us5.pqvip.top&type=ws&host=us5.pqvip.top&path=%2Fpq%2Fus5&fp=ios#🔒
 vless://50cfad9c-d60a-4276-bd3f-696bc1ca9c25@hol.9model.ir:1025?security=reality&encryption=none&pbk=sFgTIJFnMoj6ke5FMGqf3qWtXHftTuQk2FSTqPMHTmc&headerType=none&fp=chrome&type=tcp&sni=refersion.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://50cfad9c-d60a-4276-bd3f-696bc1ca9c25@hol.9model.ir:1025?security=reality&encryption=none&pbk=sFgTIJFnMoj6ke5FMGqf3qWtXHftTuQk2FSTqPMHTmc&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|NL🇳🇱
-vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed%3D2560&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru:0&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3

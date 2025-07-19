@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://caeb576d-bcb1-4aa8-8b97-2f3846a2968d@192.200.160.26:2087?security=tls&sni=dns.tron2tron.ir&type=ws&path=/inboundsCWNeRzWFjgWHWZFw?ed&fp=chrome#🔒
+        vless://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.157.220:443?security=tls&sni=c1swER.777159.xYz&type=ws&host=c1swer.777159.xyz&path=%2FM31AlZi4vavXqXENw4Z4&fp=chrome&alpn=http%2F1.1#🔒
+vless://caeb576d-bcb1-4aa8-8b97-2f3846a2968d@192.200.160.26:2087?security=tls&sni=dns.tron2tron.ir&type=ws&path=/inboundsCWNeRzWFjgWHWZFw?ed&fp=chrome#🔒
 vless://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052?security=&encryption=none&type=grpc&serviceName=vless-grpc#@meli_proxyy
 vless://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052?security=&encryption=none&type=grpc&serviceName=vless-grpc#US🇺🇸
 vless://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052?security=&encryption=none&type=grpc&serviceName=vless-grpc#⚡Telegram
@@ -502,4 +503,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:8880?encrypt
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@VIProxys
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@VIPro
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@VIProxys
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🇨🇦CA_1087_@Surfboardv2ray
