@@ -3,13 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e4f536f0-2e37-4215-9b7e-55822cddb63f@join.unlimiteddev.fastly80-3.hosting-ip.com:80/?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#@VIProxys
-ss://e4f536f02e3742159b7e55822cddb63fOg==@fishlab.ucdavis.edu:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+fishlab.ucdavis.edu-443+%7C+25.74ms
-ss://e4f536f02e3742159b7e55822cddb63fOg==@join.unlimiteddev.fastly80-3.hosting-ip.com:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+join.unlimiteddev.fastly80-3.hosting-ip.com-80+%7C+27.88ms
-ss://e4fed8c8-0bd1-4fce-8ffc-817bce3369e8@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=%2FTelegram%40viturey%3Fed%3D2048&mode=auto#US🇺🇸
-ss://e5065d53-e95b-4dbd-cf7a-e3d323aa1093@168.119.167.255:443?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=P_FOKz_hYDyi1FwtsHozm0P0wNXsBrLyjt5x6Ke_3jg#🔒
-ss://e53892eb-3eaa-4fdc-b88b-167160764eb3@104.16.88.167:443?sni=fei.989618.xyz&type=ws&host=fei.989618.xyz&allowInsecure=0#🔒
-ss://e53892eb-3eaa-4fdc-b88b-167160764eb3@104.24.181.117:443?security=tls&sni=fei.989618.xyz&type=ws&host=fei.989618.xyz&allowInsecure=0#🔒
+        ss://e53892eb-3eaa-4fdc-b88b-167160764eb3@104.24.181.117:443?security=tls&sni=fei.989618.xyz&type=ws&host=fei.989618.xyz&allowInsecure=0#🔒
 ss://e53892eb-3eaa-4fdc-b88b-167160764eb3@190.93.246.23:2087?sni=fei.989618.xyz&type=ws&host=fei.989618.xyz&allowInsecure=0#🔒
 ss://e53d3c58-c143-4d33-824c-4e3f1ef3b655@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#🇨🇦CA_1221_@Surfboardv2ray
 ss://e53d3c58-c143-4d33-824c-4e3f1ef3b655@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#🌐سرور
@@ -503,3 +497,9 @@ ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.21.20.237:443?security=tls&sni=edc
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.21.21.140:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.21.230.91:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.21.235.84:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.21.74.120:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.22.11.223:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.22.49.199:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.22.54.192:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.22.57.239:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.22.59.233:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒
