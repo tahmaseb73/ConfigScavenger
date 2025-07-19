@@ -3,7 +3,13 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://97c136a7-da4b-40b7-af73-1321f9e75fe8@5.198.168.92:2095?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.198.168.92%3A2095
+        vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.148:18010?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.148%3A18010
+vless://d34e592b-a56d-4e31-a8c7-25da5844d6aa@85.133.247.37:2095?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.37%3A2095
+vless://db7d4b58-0aff-4408-a637-c72cd0f8a774@[::ffff:185.79.158.149]:8091?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-%5B%3A%3Affff%3Ab94f%3A9e95%5D%3A8091
+vless://56c1e261-c9c3-4ac0-b5d1-db746e3e320b@85.133.247.51:2082?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.51%3A2082
+vless://1b9dabd6-b893-4cb2-99c9-9400f4f4881f@2.188.233.150:18010?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.150%3A18010
+vless://f2ab13f2-4681-4a74-9947-3f6a386f65dc@45.159.148.163:7000?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-45.159.148.163%3A7000
+vless://97c136a7-da4b-40b7-af73-1321f9e75fe8@5.198.168.92:2095?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.198.168.92%3A2095
 vless://d0d63657-bd5a-42a8-b4ed-72c0c0c04be6@[::ffff:87.248.155.85]:155?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-%5B%3A%3Affff%3A57f8%3A9b55%5D%3A155
 vless://2b9fe769-ba91-4212-80c6-80dde4c030a3@85.133.219.236:30654?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.219.236%3A30654
 vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.5:2086?encryption=none&security=none&type=ws&host=iriknet.ir&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.143.233.5%3A2086
@@ -497,9 +503,3 @@ ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY=@93.179.112.70:253#%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25283#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1869
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25270#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1870
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25247#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1871
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25218#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1872
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25222#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1873
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25254#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1874
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.49.89:443#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.49.89-1875
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25286#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1876
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25217#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-1879

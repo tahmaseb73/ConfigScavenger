@@ -3,7 +3,13 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://583ceab3-4022-4553-9158-9bedc625ad4e@209.46.30.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0247
+        vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.129.165.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0241
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@104.129.165.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0242
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.46.30.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0243
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@198.202.211.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0244
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.179:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram@WangCai2/?ed=2048#US_speednode_0245
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.194:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#US_speednode_0246
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@209.46.30.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0247
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@104.254.140.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0248
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@14.102.229.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#US_speednode_0249
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@162.120.94.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0250
@@ -497,9 +503,3 @@ vless://ee4ef665-99fc-4ee5-ba8d-9190430b6d97@104.18.26.90:80?path=%2Ftelegram-%4
 vless://ed8e4525-2d90-4a22-aa04-6d08efa0041a@151.101.3.8:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=hopeforall.com.global.prod.fastly.net&type=xhttp#US🇺🇸 | hopeforall.com.global.prod.fastly.net-80 | 9.22ms
 vless://ec9406f9-3fc6-442d-b9f6-90c59b64eff2@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#US🇺🇸 | Zmaoz.Faculty.Ucdavis.Edu-443 | 225.7ms
 vless://ec93d50f-2135-5965-bf56-9198504e387f@bot.nimeshab-nabod.info:80?encryption=none&host=Behrfbot.global.ssl.fastly.net&mode=auto&path=%2F%40itsproxy%3Fed%3D2560&security=none&type=xhttp#US🇺🇸 | Behrfbot.global.ssl.fastly.net-80 | 10.6ms
-vless://ebbd3aa7-60ac-4a1a-9377-91ef60b7d6e9@185.143.235.1:443?encryption=none&security=tls&sni=r1-edge-v2-p.s3mer.net&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=dash.error-log.ir&path=%2Ftelegram-mitivpn#IR🇮🇷 | r1-edge-v2-p.s3mer.net-443 | 741.1ms
-vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=%2FbPJ4mgkJbA7CnY7q%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#RELAY🚩 | nOCTYq.pAGES.DEV-2053 | 44.1ms
-vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=%2FbPJ4mgkJbA7CnY7q%3Fed%3D2560&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#RELAY🚩 | nOCTYq.pAGES.DEV-2053 | 2.76ms
-vless://ea4019ed-aa5f-43eb-a967-f8aaf6ded375@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&alpn=h2%2Chttp%2F1.1&host=leader-of-www.com&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸 | live.skornorth.com-80 | 107.34ms
-vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443?type=tcp&encryption=none&flow=&security=tls&sni=147135001195.sec22org.com#US🇺🇸 | 147135001195.sec22org.com-443 | 61.46ms
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.211.208:443?encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#US🇺🇸 | 147135001195.sec22org.com-443 | 40.95ms
