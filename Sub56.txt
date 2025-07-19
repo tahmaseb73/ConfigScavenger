@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://f13b0d60-ab23-49c3-8e4f-fc31ca6fbeca@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=jobinja.pages.dev&fp=firefox&type=ws&sni=pages.dev#RELAY🚩
-ss://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?security=&type=ws&path=/&host=danuwazero.com&encryption=none#@awlix_ir
+        ss://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?security=&type=ws&path=/&host=danuwazero.com&encryption=none#@awlix_ir
 ss://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?security=&type=ws&path=/&host=danuwazero.com&encryption=none#🇺🇸US_1264_@Surfboardv2ray
 ss://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?type=ws&host=danuwazero.com&path=/#🔒
 ss://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.129.124:80?security=none&type=ws&host=danuwazero.com&path=%2F#🔒
@@ -503,3 +502,4 @@ ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.11:8880?type=ws&host=sg.lao
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.121:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.122:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.124:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.125:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
