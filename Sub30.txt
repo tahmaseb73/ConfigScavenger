@@ -3,7 +3,16 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=/#🔒
+        ss://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#vmessprotocolخرید
+ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@104.21.69.154:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%40VPNHTTPInjectorfree#t.me%2Fpeterjest
+ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@104.21.69.154:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=@VPNHTTPInjectorfree#🔒
+ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%2F#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40MTConfig
+ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%2F#t.me%2Fpeterjest
+ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#🇨🇦CA_625_@Surfboardv2ray
+ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&allowInsecure=1&fp=chrome&type=ws&host=v2ra1.ecrgpk.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=v2ra1.ecrgpk.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram@v2ray_alpha?ed%3D2048&host=v2ra1.ecrgpk.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=/#🔒
 ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.67.209.163:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%40VPNHTTPInjectorfree#t.me%2Fpeterjest
 ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.67.209.163:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=@VPNHTTPInjectorfree#🔒
 ss://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@104.18.39.141:443?security=tls&sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&type=ws&host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D5460#🔒
@@ -494,12 +503,3 @@ ss://6d91bc33-2d86-4839-9205-02024ff483c7@172.67.176.243:443?security=tls&sni=wt
 ss://6d91bc33-2d86-4839-9205-02024ff483c7@172.67.176.243:443?security=tls&sni=wtestfrtt.requesttest.cloudns.org&type=ws&host=wtestfrtt.requesttest.cloudns.org&fp=chrome&alpn=http/1.1#🔒
 ss://6d94acdb-04cf-409a-9410-81442f8417c5@62.60.148.163:11072?security=none&type=tcp&headerType=http#🔒
 ss://6d9c02ec-a9db-4860-a4e9-05e5b8e3c6c1@172.66.44.92:2087?security=tls&sni=mahdISerVer-9hH.paGeS.DEv&type=ws&host=mahdiserver-9hh.pages.dev&path=%2FGljpLfn5lyKrxPQb%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://6d9c02ec-a9db-4860-a4e9-05e5b8e3c6c1@172.66.47.164:2087?security=tls&sni=mahdISerVer-9hH.paGeS.DEv&type=ws&host=mahdISerVer-9hH.paGeS.DEv&path=%2Fgljplfn5lykrxpqb%3Fed%3D2560#🔒
-ss://6dae3114-fb66-4e74-87d5-d48e271c0d04@104.16.32.0:443?security=tls&sni=lrnz.xyz&type=ws&host=lrnz.xyz&allowInsecure=0#🔒
-ss://6dae3114-fb66-4e74-87d5-d48e271c0d04@104.18.160.0:443?security=tls&sni=lrnz.xyz&type=ws&host=lrnz.xyz&allowInsecure=0#🔒
-ss://6dd2355a-1839-4c77-b63b-67380a43d23a@172.67.21.239:2052?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇨🇦CA_675_@Surfboardv2ray
-ss://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.115:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.#🔒
-ss://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.23:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.#🔒
-ss://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.84:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.#🔒
-ss://6dfdd5a6-4e19-461c-84d3-81cbbdee179b@54.255.22.244:44333?security=tls&sni=111.workerscf.dpdns.org&type=ws&host=111.workerscf.dpdns.org&path=%2F%3Fed#🔒
-ss://6e34f2c5-6c68-4d3a-a93d-93385c2026c8@104.21.20.148:443?security=tls&sni=worker-proud-waterfall-c38e.amir1.workers.dev&type=ws&host=worker-proud-waterfall-c38e.amir1.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒
