@@ -3,15 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://19b6fa27-c968-46be-b980-ca371ff5c0f6@kryos.cloudupdate.ir:50552?type=grpc&serviceName=&authority=&security=reality&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&fp=chrome&sni=yahoo.com&sid=09&spx=/#🇩🇪DE_249_@Surfboardv2ray
-ss://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.109:2082?security=none&type=httpupgrade&host=Join-bede-CONFIGT.wordperessweb.ir&path=%2FChannel-CONFIGT%3Fed%3D2082#🔒
-ss://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.232:2082?security=none&type=httpupgrade&host=Join-bede-CONFIGT.wordperessweb.ir&path=%2FChannel-CONFIGT%3Fed%3D2082#🔒
-ss://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.253:2082?security=none&type=httpupgrade&host=Join-bede-CONFIGT.wordperessweb.ir#🔒
-ss://19bf0ff0-0dc5-4e24-80fc-450afa43d9fb@104.18.26.39:443?security=tls&sni=25707.lanpinguo.cloud-ip.biz&type=ws&host=25707.lanpinguo.cloud-ip.biz&allowInsecure=1#🔒
-ss://19bf0ff0-0dc5-4e24-80fc-450afa43d9fb@104.18.27.39:443?security=tls&sni=25707.lanpinguo.cloud-ip.biz&type=ws&host=25707.lanpinguo.cloud-ip.biz&path=%2F%3Fed%3D2560&fp=chrome#🔒
-ss://19ce2438-558d-4d24-ad7c-33d8c73f8d20@188.245.65.4:443?security=reality&sni=frcaa.crocodileserver.ir&type=tcp&fp=firefox&pbk=bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8&sid=1da8d08f24e92861#🔒
-ss://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http%2F1.1&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#RELAY🚩
-ss://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?security=tls&sni=trojanyu.pages.dev&type=ws&host=trojanyu.pages.dev&fp=chrome&alpn=http/1.1#🔒
+        ss://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?security=tls&sni=trojanyu.pages.dev&type=ws&host=trojanyu.pages.dev&fp=chrome&alpn=http/1.1#🔒
 ss://1a50ebe0-2a29-4a46-ad16-906614733213@104.18.162.24:2086?security=none&type=httpupgrade&host=aljywww.speedtest.net.%E7%9C%9F%E7%9A%84www.digikala.com.%E6%88%91%E7%9C%9F.%E7%9A%84%E7%9C%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E7%88%B1%E7%9A%84%E5%BE%88%E7%88%B1%E5%BE%88join.www.speedtest.net.ovh.Powerfullserver.de.venora.xyzfyl.uyflutufa.gozaroshloreshin.irb.cfnmthod.ir.&path=%2Fwww.adsl.tci.ir%3Fed%3D1024#🔒
 ss://1a57253c-9012-442d-b1e4-db4e2eb12a31@104.21.69.44:2087?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=mehdi1.honarestan-hegmataneh.com#🇨🇦CA_250_@Surfboardv2ray
 ss://1a6ce7b2-836b-46e7-b16c-db979a5a6564@www.parsvds.com:2096?path=/2096/@V2RayyNGVpn&security=tls&alpn=h2,http/1.1&encryption=none&host=rEDzOnE.MirAcLehEaRTbIt.ICu&fp=chrome&type=ws&sni=rEDzOnE.MirAcLehEaRTbIt.ICu#🇨🇦CA_251_@Surfboardv2ray
@@ -503,3 +495,11 @@ ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tl
 ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s05.alvandserver1.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s05.alvandserver1.ir&fp=#telegram
 ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com&fp=#@meli_proxyy
 ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com&fp=#telegram
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com&fp=#⚡Telegram
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s06.alvandserver1.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s06.alvandserver1.ir&fp=#telegram
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s08.alvandserver1.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s08.alvandserver1.ir&fp=#telegram
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s09.drlimit2.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.drlimit2.com&fp=#@meli_proxyy
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s09.drlimit2.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.drlimit2.com&fp=#telegram
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s09.drlimit2.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.drlimit2.com&fp=#⚡Telegram
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s10.ulserver.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s10.ulserver.ir&fp=#telegram
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s11.uuserveruu.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s11.uuserveruu.ir&fp=#telegram
