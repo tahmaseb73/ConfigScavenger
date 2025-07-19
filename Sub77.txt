@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://55520747-311e-4015-83ce-be46e2060ce3@104.18.185.26:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
-vless://55520747-311e-4015-83ce-be46e2060ce3@104.21.224.5:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
+        vless://55520747-311e-4015-83ce-be46e2060ce3@104.21.224.5:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@104.21.227.134:443?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@119.197.201.29:11481?sni=cl.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒
 vless://55520747-311e-4015-83ce-be46e2060ce3@121.163.244.186:19222?sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&allowInsecure=1#🔒
@@ -503,3 +502,4 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2038%20%28%40Outline_Vpn%29
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%206000%20%28%40Outline_Vpn%29
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2074%20%28%40Outline_Vpn%29
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#🇨🇦CA_595_@Surfboardv2ray

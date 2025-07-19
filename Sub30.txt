@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://5ee914ec-2e31-4a99-8dcb-a477bfe055ec@185.79.158.144:8099?security=none&type=tcp&headerType=http#🔒
-ss://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?encryption=none&security=none&type=grpc&authority=&serviceName=DarkTeam_VPN&mode=gun#🇬🇧GB_628_@Surfboardv2ray
+        ss://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?encryption=none&security=none&type=grpc&authority=&serviceName=DarkTeam_VPN&mode=gun#🇬🇧GB_628_@Surfboardv2ray
 ss://5f077162-99ad-424d-9f77-e5f7e37d9ef8@103.160.204.242:443?sni=nnchk.codesofun.pp.ua&type=ws&host=nnchk.codesofun.pp.ua#🔒
 ss://5f0b488f-c3e1-5db0-a236-070455375af1@194.147.35.250:2052?security=none&type=grpc&serviceName=vless-grpc&sid=%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🇬🇧[openproxylist.com]
 ss://5f0b488f-c3e1-5db0-a236-070455375af1@194.147.35.250:2052?security=none&type=grpc&serviceName=vless-grpc&sid=%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🔒
@@ -503,3 +502,4 @@ ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%2F%3Fed%3D256
 ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&type=ws#%40kingofilter
 ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&type=ws#kingofilter
 ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=/?ed=2560&security=none&encryption=none&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&type=ws#🇨🇦CA_677_@Surfboardv2ray
+ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=www.speedtest.net.zula.ir.cfw1.chimigi.sIte.&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
