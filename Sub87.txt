@@ -3,7 +3,15 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://b4e8f51d-6533-4597-958e-61d6725970bb@104.17.229.45:443?security=tls&sni=de.xyxy.dpdns.org&type=ws&host=de.xyxy.dpdns.org&path=%2Fb4e8f51d#🔒
+        vless://b4a7532a-777d-4fc4-839f-37a34e3f4970@theatlantic.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=khorzokhan.com&type=ws#⚡Telegram
+vless://b4a7532a-777d-4fc4-839f-37a34e3f4970@theatlantic.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=khorzokhan.com&type=ws#🇺🇸US_965_@Surfboardv2ray
+vless://b4c97223-8d5d-4ffd-af6f-d5a59b575ffc@172.67.196.100:443?security=tls&sni=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&type=ws&host=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+vless://b4d8b834-2e9c-4815-b3bb-57c278ddfecb@104.24.225.159:2096?security=tls&sni=bai-56t.pages.dev&type=ws&host=bai-56t.pages.dev&allowInsecure=0#🔒
+vless://b4d8b834-2e9c-4815-b3bb-57c278ddfecb@104.24.85.214:8443?security=tls&sni=bai-56t.pages.dev&type=ws&host=bai-56t.pages.dev&allowInsecure=0#🔒
+vless://b4e8f51d-6533-4597-958e-61d6725970bb@104.17.229.45:443?encryption=none&security=tls&sni=de.xyxy.dpdns.org&type=ws&host=de.xyxy.dpdns.org&path=%2Fb4e8f51d#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A8.17ms
+vless://b4e8f51d-6533-4597-958e-61d6725970bb@104.17.229.45:443?path=%2Fb4e8f51d&security=tls&encryption=none&host=de.xyxy.dpdns.org&type=ws&sni=de.xyxy.dpdns.org#@meli_proxyy
+vless://b4e8f51d-6533-4597-958e-61d6725970bb@104.17.229.45:443?path=%2Fb4e8f51d&security=tls&encryption=none&host=de.xyxy.dpdns.org&type=ws&sni=de.xyxy.dpdns.org#⚡Telegram
+vless://b4e8f51d-6533-4597-958e-61d6725970bb@104.17.229.45:443?security=tls&sni=de.xyxy.dpdns.org&type=ws&host=de.xyxy.dpdns.org&path=%2Fb4e8f51d#🔒
 vless://b4f6b703-961b-46bf-8d7e-e2330c5be800@45.85.119.139:443?encryption=none&security=tls&sni=InBarZendegi.site&alpn=h3&fp=chrome&type=xhttp&host=inbarzendegi.site&path=/azadi?ed=2560&mode=auto&extra={
 vless://b4f6b703-961b-46bf-8d7e-e2330c5be800@www.speedtest.net:443?encryption=none&security=tls&sni=InBarZendegi.Site.&alpn=h3&fp=chrome&type=xhttp&host=inbarzendegi.site&path=/azadi?ed=2560&mode=auto&extra={
 vless://b5154b7e-3a59-4537-a163-1d5a73d4b4bb@146.59.116.201:443?mode=gun&security=reality&encryption=none&pbk=-q5LnD8S-F7Q6khGlle_aovNZt3fhmxCYHjbWXZvdUQ&fp=chrome&spx=/&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=convertio.co&sid=e3b41bfe#🇵🇱PL_968_@Surfboardv2ray
@@ -495,11 +503,3 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.135.235.185:8880?security=none&t
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.135.235.97:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.136:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.160:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.17:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.221:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.245:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.57:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.122:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.159:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.232:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.241:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
