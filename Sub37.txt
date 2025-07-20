@@ -3,7 +3,22 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.41.105:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#🔒
+        ss://9db6acf4-d3d3-4176-f704-0da5f6da6165@185.248.187.69:10297?security=reality&sni=www.sega.com&allowInsecure=1&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20VL-TCP-RLT%204%E2%83%A3
+ss://9db9cb88-d722-459d-8241-fd1d6d8f9688@198.244.193.109:13039?security=none&type=grpc&serviceName=DarkTeam_VPN#🇬🇧[openproxylist.com]
+ss://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.155.131:443?security=tls&sni=cf.breakday.top&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cf.breakday.top&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.155.131:443?security=tls&sni=cf.breakday.top&allowInsecure=1&fp=chrome&type=ws&path=/Telegram@V2ray_Alpha/?ed%3D2560&host=cf.breakday.top&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.155.131:443?security=tls&sni=cf.breakday.top&type=ws&host=cf.breakday.top&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒
+ss://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.7.206:443?security=tls&sni=cf.breakday.top&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cf.breakday.top&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.7.206:443?security=tls&sni=cf.breakday.top&allowInsecure=1&fp=chrome&type=ws&path=/TELEGRAM@MARAMBASHI_MARAMBASHI/?ed%3D2560&host=cf.breakday.top&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.7.206:443?security=tls&sni=cf.breakday.top&allowInsecure=1&fp=chrome&type=ws&path=/Telegram@V2ray_Alpha/?ed%3D2560&host=cf.breakday.top&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.7.206:443?security=tls&sni=cf.breakday.top&type=ws&host=cf.breakday.top&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒
+ss://9dca0400-cb85-4328-88f3-6e765c9a2e82@172.64.68.152:8443?sni=iiiiiii-d4h.pages.dev&type=ws&host=iiiiiii-d4h.pages.dev&allowInsecure=0#🔒
+ss://9dcab1c2-398d-419e-efaf-198f094bbe27@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#🇨🇦CA_833_@Surfboardv2ray
+ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&fp=chrome#🔒
+ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.222.128:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#🔒
+ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.35.218:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#🔒
+ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.38.176:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&fp=random#🔒
+ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.41.105:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#🔒
 ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#🔒
 ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.17.135.91:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#🔒
 ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒
@@ -488,18 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmU2N2Y1YS02M2U0LTQ1NjYtODcwYy03NmVhYTljZjc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmU2N2Y1YS02M2U0LTQ1NjYtODcwYy03NmVhYTljZjc2ZmU=@149.28.106.134:31444#US%F0%9F%87%BA%F0%9F%87%B8+%7C+149.28.106.134-31444+%7C+61.91ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmU2N2Y1YS02M2U0LTQ1NjYtODcwYy03NmVhYTljZjc2ZmU=@149.28.106.134:31444#🇺🇸[openproxylist.com]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmU2N2Y1YS02M2U0LTQ1NjYtODcwYy03NmVhYTljZjc2ZmU=@149.28.106.134:31444#🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31111#@Hope_
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31141#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31145#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31171#@Hope_Net⚠️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31175#@Hope_Net⚠️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31211#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31215#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31241#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31271#@Hope_
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31341#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31471#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31511#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31611#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31641#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31671#@Hope_Net
