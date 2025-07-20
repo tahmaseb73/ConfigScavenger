@@ -20,7 +20,7 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=%2Freklaz1
 vless://c5faf134-bade-4e16-96de-a33a24c51cce@sn.lunarmc.ir:8082?mode=multi&security=none&encryption=none&authority=N1ZucxBTN2elyqg&type=grpc&serviceName=sn.lunarmc.ir#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85`
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJhcGkuanF1ZXJ5LmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii91cy5ra3AubWUuZXUub3JnL2FhIiwiaG9zdCI6ImFkbWluLmthc3JheC5pciIsInRscyI6InRscyJ9
+trojan://SdCqFLcA@36.151.251.57:40252?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%20%E7%A7%BB%E5%8A%A8
 trojan://Aimer@27.50.48.126:2083?allowInsecure=1&sni=tyep.esslh.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#TG%E9%A2%91%E9%81%93stymei1%E4%B8%A829
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#45%20%7C%20%202.5MB%2Fs%7C46%25%7COpenai%7CGem...
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#63%20%7C%20%202.1MB%2Fs%7C46%25%7COpenai%7CGem...
@@ -37,10 +37,9 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:32962?allowInsecure=1&s
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0#GB_speednode_0122
 trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&ws=1&wspath=%2F#SG_speednode_0256
 trojan://SdCqFLcA@36.151.251.57:40252?allowInsecure=0&sni=www.baidu.com#%E6%97%A5%E6%9C%9F%EF%BC%9A07-20
-ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0QDE1Mi41My4yLjEyODozNDA0NQ==#%F0%9F%87%A6%F0%9F%87%B9AT-152.53.2.128-0327
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4NS40Ny4yNTMuMjI3Ojk5MA==#%F0%9F%87%AA%F0%9F%87%A8EC-185.47.253.227-5190
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDEzNC4yNTUuMjEwLjQ5Ojk5MA==#%F0%9F%87%A8%F0%9F%87%BECY-134.255.210.49-5179
-trojan://xxoo@us.blazeppn.info:443?allowInsecure=1&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0372
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0QDE1Mi41My4yLjEyODozNDA0NQ==#%F0%9F%87%A6%F0%9F%87%B9AT-152.53.2.128-0308
+trojan://xxoo@us.blazeppn.info:443?allowInsecure=1&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0402
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?allowInsecure=1&sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-192.3.107.252-5306
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.62:14495?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.62:2078?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:41225?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
@@ -64,10 +63,8 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:3596?allowInsecure=1&sn
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:32962?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0#GB_speednode_0122
 trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&ws=1&wspath=%2F#SG_speednode_0256
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:32962?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.239:3596?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-trojan://SdCqFLcA@36.151.251.57:40252?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
+trojan://SdCqFLcA@36.151.251.57:40252?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
+trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
 trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#%E6%9C%AA%E7%9F%A52
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%203.4MB/s%7C15%25%7COpenai
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.228.235.1:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%204.4MB/s%7C30%25%7COpenai
