@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=chrome&type=ws&sni=hOZori.iR#RELAY🚩 | hOZori.iR-443 | 6.12ms
-vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#RELAY🚩 | hOZori.iR-443 | 6.41ms
-vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.148.22:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#RELAY🚩 | hOZori.iR-443 | 6.2ms
-vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#RELAY🚩 | hOZori.iR-443 | 6.2ms
+        vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#RELAY🚩 | hOZori.iR-443 | 6.2ms
 vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@xhttp-gr.hardwarenew.ir:80?path=%2Fnews&security=&encryption=none&type=ws#DE🇩🇪 | xhttp-gr.hardwarenew.ir-80 | 423.15ms
 vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@ws.connectgamerix.ir:80?path=%2Fnews&security=&encryption=none&type=ws#AT🇦🇹 | ws.connectgamerix.ir-80 | 410.46ms
 vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@37.153.171.4:443?path=%2Fnews&security=tls&encryption=none&host=cdn.hardwarenew.ir&type=ws#RELAY🚩 | cdn.hardwarenew.ir-443 | 224.27ms
@@ -503,3 +500,6 @@ ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.0:80#KZ%F0%9F%87%B0%F0%9F%87
 ss://ee8626d3029547539c374cbe1c5eac0e@www.speedtest.net:443#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-443+%7C+14.62ms
 ss://ec8a65adaafc40959b8cea10890ca629Og==@154.92.9.151:443#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+154.92.9.151-443+%7C+5.39ms
 ss://ebbd3aa760ac4a1a937791ef60b7d6e9Og==@185.143.235.1:443#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.235.1-443+%7C+51.6ms
+ss://ea286109d20f415e849e4af20ab04b65Og==@8.210.29.68:443#HK%F0%9F%87%AD%F0%9F%87%B0+%7C+8.210.29.68-443+%7C+214.17ms
+ss://ea286109d20f415e849e4af20ab04b65Og==@8.210.29.68:443#HK%F0%9F%87%AD%F0%9F%87%B0+%7C+8.210.29.68-443+%7C+209.13ms
+ss://ea286109d20f415e849e4af20ab04b65Og==@47.251.95.178:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+47.251.95.178-443+%7C+67.82ms
