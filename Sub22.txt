@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://27073304-b25d-4631-ae25-37171bdecf99@104.17.147.22:2095?security=none&type=httpupgrade&host=mmad.mmadvip8563.ir&path=%2F%3Fed%3D2048#🔒
+        ss://26be6b9170c54687b9450862d86538feOg==@hajlab.ucdavis.edu:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+hajlab.ucdavis.edu-443+%7C+3.84ms
+ss://27073304-b25d-4631-ae25-37171bdecf99@104.17.147.22:2095?security=none&type=httpupgrade&host=mmad.mmadvip8563.ir&path=%2F%3Fed%3D2048#🔒
 ss://27073304-b25d-4631-ae25-37171bdecf99@Www.speedtest.net:2095?path=/?ed=2048&security=none&encryption=none&host=mmad.mmadvip8563.ir&type=httpupgrade#🇨🇦CA_289_@Surfboardv2ray
 ss://271d139e-b41b-5338-b306-32f66450140b@faculty.ucdavis.edu:443?allowInsecure=1&security=tls&host=PABLOO-MOSTAFA.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#@VIProxys
 ss://271d139e-b41b-5338-b306-32f66450140b@fastly.nEt:80?security=none&encryption=none&host=PABLOO-MOSTAFA.COM&type=ws#@VIPro
@@ -502,4 +503,3 @@ ss://337f33aa-2cb2-4a3e-8edf-ffe56878fc12@128.140.59.104:2083?security=tls&sni=g
 ss://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@104.21.5.179:8880?security=none&type=ws&host=bia-zod-falcunargo.545c437f13.workers.Dev&path=%2F%3Fed%3D2048#🔒
 ss://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@172.67.133.177:8880?type=ws&host=bia-zod-falcunargo.545c437f13.workers.Dev&path=%2F%3Fed%3D2048#🔒
 ss://33fa5663-d6c8-4f91-9426-4c28b252fbd3@91.242.241.45:443?security=tls&flow=xtls-rprx-vision&sni=sin5.vpntype.dev&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒
-ss://340584ff-c506-4197-ac96-cefc1b5e9a9d@www.speedtest.net:80?path=/&security=none&encryption=none&host=xn--047h.fastv2ray.online.&type=ws#🇨🇦CA_335_@Surfboardv2ray

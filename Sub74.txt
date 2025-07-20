@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.34.163:443?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#%40V2rayNG3
+        vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.34.163:443?encryption=none&security=tls&sni=crolinde.carlotta.cloudns.org&alpn=http%2F1.1&fp=random&type=ws&host=crolinde.carlotta.cloudns.org&path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560#RoseVpn%F0%9F%8C%B9%40v222ray
+vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.34.163:443?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#%40V2rayNG3
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.34.163:443?security=tls&sni=crolinde.carlotta.cloudns.org&type=ws&host=crolinde.carlotta.cloudns.org&path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.61.72:443?security=tls&sni=crolinde.carlotta.cloudns.org&type=ws&host=crolinde.carlotta.cloudns.org&fp=chrome&alpn=http/1.1#🔒
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.8.214:443?security=tls&sni=crolinde.carlotta.cloudns.org&type=ws&host=crolinde.carlotta.cloudns.org&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=chrome#🔒
@@ -502,4 +503,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@147.185.161.131:80?sni=reedfree8mah
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@147.185.161.225:80?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Channel&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@147.78.140.20:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@147.78.140.85:80?security=none&type=ws&host=ipsycho.suex12.ir#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.194.46:80?security=none&type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🔒
