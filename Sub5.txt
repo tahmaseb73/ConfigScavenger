@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://914b6452-d26a-4a5b-85e1-515835d826ec@speedtestcustom.com:80?type=xhttp&path=%2Fgdyvwegvxasg%3Fed%3D2560&host=take4.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | take4.global.ssl.fastly.net-80 | 11.47ms
+        vless://914b6452-d26a-4a5b-85e1-515835d826ec@speedtestcustom.com:80?type=xhttp&path=%2Fgdyvwegvxasg%3Fed%3D2560&host=take6.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | take6.global.ssl.fastly.net-80 | 4.73ms
+vless://914b6452-d26a-4a5b-85e1-515835d826ec@speedtestcustom.com:80?type=xhttp&path=%2Fgdyvwegvxasg%3Fed%3D2560&host=take4.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | take4.global.ssl.fastly.net-80 | 11.47ms
 vless://914b6452-d26a-4a5b-85e1-515835d826ec@speedtestcustom.com:80?type=xhttp&path=%2Fgdyvwegvxasg%3Fed%3D2560&host=take2.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | take2.global.ssl.fastly.net-80 | 6.23ms
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&type=ws&sni=kawaiifreevpn.pages.dev#RELAY🚩 | kawaiifreevpn.pages.dev-443 | 43.56ms
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#RELAY🚩 | kawaiifreevpn.pages.dev-443 | 3.56ms
@@ -502,4 +503,3 @@ vless://2d37cd89-d6e5-4d58-a688-8b0208a48e6e@185.127.94.27:8443?mode=auto&path=%
 vless://2bf68309-d231-4533-abd2-35e24628b052@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=zedmodeon237.global.ssl.fastly.net&type=xhttp#US🇺🇸 | zedmodeon237.global.ssl.fastly.net-80 | 9.42ms
 vless://2b74d623-68b3-4fca-988b-5b5d5fc85c75@fl-vip.digitalldns.net:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#RELAY🚩 | www.speedtest.net-8080 | 21.51ms
 vless://2b7240a7-ef93-4876-8fcb-641e924122a1@185.143.232.201:2086?encryption=none&security=none&type=ws&path=%2F#IR🇮🇷 | 185.143.232.201-2086 | 47.35ms
-vless://2b59f595-bc0e-4642-a542-e8e0fc8926b6@104.17.35.37:8080?path=%2FTelegram%3A%40%40vpnclashfa+-+382#RELAY🚩 | 104.17.35.37-8080 | 2.73ms

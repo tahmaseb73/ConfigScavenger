@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d342d11ed4244583b36e524ab1f0afa4Og==@tgju.org:80#RELAY%F0%9F%9A%A9+%7C+tgju.org-80+%7C+123.51ms
+        ss://d342d11ed4244583b36e524ab1f0afa4Og==@172.67.73.163:80#RELAY%F0%9F%9A%A9+%7C+172.67.73.163-80+%7C+1.73ms
+ss://d342d11ed4244583b36e524ab1f0afa4Og==@tgju.org:80#RELAY%F0%9F%9A%A9+%7C+tgju.org-80+%7C+123.51ms
 ss://d345d11e-c424-4583-b36e-527ab1f0afa4@104.18.10.128:2083?security=tls&sni=v2raynselling.kir-rasol-kir.workers.dev&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev&path=%2F%3Fed%3D2048#🔒
 ss://d345d11e-c424-4583-b36e-527ab1f0afa4@104.18.10.128:2086?sni=v2raynselling.kir-rasol-kir.workers.dev&type=ws&path=%2F#🔒
 ss://d345d11e-c424-4583-b36e-527ab1f0afa4@104.26.4.60:8080?security=none&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev#🔒
@@ -502,4 +503,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Falkenstein%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=none&encryption=none&type=grpc#Free%2056%20%28%40Outline_Vpn%29
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.114.143:8880?security=&type=grpc&encryption=none#🇩🇪DE_1138_@Surfboardv2ray
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.219.115:8880/?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#@VIPro

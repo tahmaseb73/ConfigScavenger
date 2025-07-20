@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.192.124.188:989#BR%F0%9F%87%A7%F0%9F%87%B7+%7C+185.192.124.188-989+%7C+135.66ms
+        ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+185.213.23.226-989+%7C+112.68ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.192.124.188:989#BR%F0%9F%87%A7%F0%9F%87%B7+%7C+185.192.124.188-989+%7C+135.66ms
 ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@217.30.10.18:9084#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9084+%7C+120.66ms
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.30:38388#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+103.186.155.30-38388+%7C+240.44ms
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+103.186.155.22-38388+%7C+247.51ms
@@ -502,4 +503,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?encryption=none&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638822597953394465.hamedan-shledrc-acbs.info:8880?encryption=none&security=none&type=grpc#FR-%3EFR-%3EMTN-%3E%40Sezar_Sec
 vless://46b7dfdb-fc88-4dbc-819e-db3ab8093c90@104.18.15.19:8880?encryption=none&security=none&type=ws&host=1230.6xopb2a7.workers.dev&path=%2F%3Fed%3D2560#CA-%3EFR-%3EADL-%3E%40Sezar_Sec
 vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?encryption=none&security=tls&sni=005188006073.sec1org.com&alpn=h2%2Chttp%5C1.1&type=tcp&headerType=none#UA-%3EUA-%3ERTL-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#US-%3ENL-%3EMTN-%3E%40Sezar_Sec
