@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@23.227.39.179:443?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒
-ss://9ae18aa0-8887-4913-a35a-9f014d58d100@104.21.42.56:443?security=tls&sni=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos.958dtd.workers.Dev&type=ws&host=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos.958dtd.workers.Dev&path=%2F#🔒
+        ss://9ae18aa0-8887-4913-a35a-9f014d58d100@104.21.42.56:443?security=tls&sni=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos.958dtd.workers.Dev&type=ws&host=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos.958dtd.workers.Dev&path=%2F#🔒
 ss://9aed32d7-3556-48a4-95f8-e82dcc2e1b54@57.128.178.253:443?security=tls&sni=en.linceedab.com&alpn=http%2F1.1&fp=safari&type=tcp&packetEncoding=xudp&encryption=none#FR🇫🇷
 ss://9aed32d7-3556-48a4-95f8-e82dcc2e1b54@57.128.178.253:443?security=tls&sni=en.linceedab.com&type=tcp&fp=safari&alpn=http%2F1.1#🔒
 ss://9af46703-64fa-4d42-b87b-656372e517ae@5.10.246.231:443?sni=seen-israel-dining-sure.trycloudflare.com&type=ws&host=seen-israel-dining-sure.trycloudflare.com&allowInsecure=1#🔒
@@ -503,3 +502,4 @@ ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFi
 ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=nufilterasli.org&type=ws#🇺🇸US_887_@Surfboardv2ray
 ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=nufilterasli.org&type=ws#🌐سرور
 ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3araekar.net&type=ws#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%40vless_vmess
+ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3araekar.net&type=ws#vless_vmess
