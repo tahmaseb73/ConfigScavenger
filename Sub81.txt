@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://76f4dfbf-71ed-4c66-9ec7-bf69b114424d@185.235.241.208:2087?encryption=none&security=reality&sni=www.cdn77.com&fp=chrome&pbk=WAexhAE6LEk2BSCikHVk7eSNTWel__rYPsJfq5Ud9Tc&sid=1f8912&spx=%2F&type=grpc&authority=&serviceName=Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs&mode=gun#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping%3A32.39ms
-vless://76fbf88a-f7d3-4b3a-b6f4-1fdfc569f0de@104.22.32.78:2052?type=ws&host=mosiv2.eliii.mosiv2.mosiv2.www.speedtest.net.mosiv2.mosic7.info.#🔒
+        vless://76fbf88a-f7d3-4b3a-b6f4-1fdfc569f0de@104.22.32.78:2052?type=ws&host=mosiv2.eliii.mosiv2.mosiv2.www.speedtest.net.mosiv2.mosic7.info.#🔒
 vless://76fbf88a-f7d3-4b3a-b6f4-1fdfc569f0de@104.22.33.78:2052?type=ws&host=mosiv2.eliii.mosiv2.mosiv2.www.speedtest.net.mosiv2.mosic7.info.#🔒
 vless://76fbf88a-f7d3-4b3a-b6f4-1fdfc569f0de@172.67.24.121:2052?type=ws&host=mosiv2.eliii.mosiv2.mosiv2.www.speedtest.net.mosiv2.mosic7.info.#🔒
 vless://7705f8ef-49f3-46b1-9355-1490a7717aeb@bermuda.jahanmataleb.ir:443?type=tcp&security=reality&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&fp=chrome&sni=www.refersion.com&sid=e869&spx=/#🇩🇪DE_697_@Surfboardv2ray
@@ -503,3 +502,4 @@ vless://82d5e8f8-11f9-45c6-b602-2920d9c39bd2@104.26.12.31:443?security=tls&sni=i
 vless://82d5e8f8-11f9-45c6-b602-2920d9c39bd2@104.26.13.31:443?security=tls&sni=ip.sb&type=xhttp&host=de.ovo2024.dpdns.org&path=f743e7c4&allowInsecure=1#🔒
 vless://82f6a148-5c4a-48f9-931a-e3b26777ffa2@45.150.165.121:7885?security=tls&flow=xtls-rprx-vision-udp443&sni=www.yahoo.com&fp=chrome&allowInsecure=0#🔒
 vless://82fd9622-83a8-4378-92d6-dcb4a2787d63@129.154.194.191:443?security=tls&sni=qwok.feidyql.dpdns.org&type=ws&host=qwok.feidyql.dpdns.org&allowInsecure=1#🔒
+vless://82fd9622-83a8-4378-92d6-dcb4a2787d63@130.61.124.127:443?security=tls&sni=qwok.feidyql.dpdns.org&type=ws&host=qwok.feidyql.dpdns.org&allowInsecure=1#🔒

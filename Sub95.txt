@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.192.140:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me#🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.192.66:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
+        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.192.66:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.198.210:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.199.254:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.251.139:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
@@ -503,3 +502,4 @@ vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.232.46.60:443/?type=grpc&encryp
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.232.46.60:443?mode=gun&security=reality&encryption=none&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&fp=chrome&type=grpc&sni=foNts.gOogLeApis.com.&sid=0ede823b93853771#@meli_proxyy
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.232.46.60:443?mode=gun&security=reality&encryption=none&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&fp=chrome&type=grpc&sni=foNts.gOogLeApis.com.&sid=0ede823b93853771#⚡Telegram
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&fp=random&type=grpc&sni=rEfErSion.Com.&sid=6ba85179e30d4fc2#@meli_proxyy
+vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&fp=random&type=grpc&sni=rEfErSion.Com.&sid=6ba85179e30d4fc2#⚡Telegram
