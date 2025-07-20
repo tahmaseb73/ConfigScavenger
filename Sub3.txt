@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.159.218.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0342
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.85.99.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0343
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@199.34.230.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#US_speednode_0344
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.79.104.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0345
+        vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.79.104.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0345
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.148.106.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0346
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.79.105.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0347
 vless://d13b3634-094c-41fd-8154-76a512662dbe@31.44.4.107:8443?allowInsecure=0&sni=zula.ir#US_speednode_0348
@@ -503,3 +500,6 @@ vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=%2FbPJ4mgk
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=%2FbPJ4mgkJbA7CnY7q%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#RELAY🚩 | nOCTYq.pAGES.DEV-2053 | 3.32ms
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=%2FbPJ4mgkJbA7CnY7q%3Fed%3D2560&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#RELAY🚩 | nOCTYq.pAGES.DEV-2053 | 2.8ms
 vless://ea4019ed-aa5f-43eb-a967-f8aaf6ded375@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&alpn=h2%2Chttp%2F1.1&host=leader-of-www.com&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸 | live.skornorth.com-80 | 40.03ms
+vless://ea286109-d20f-415e-849e-4af20ab04b65@51.81.37.5:443?encryption=none&security=tls&sni=147135001195.sec22org.com&fp=chrome&type=tcp&headerType=none#US🇺🇸 | 147135001195.sec22org.com-443 | 126.46ms
+vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#US🇺🇸 | 147135001195.sec22org.com-443 | 76.48ms
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.211.208:443?encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#US🇺🇸 | 147135001195.sec22org.com-443 | 52.51ms

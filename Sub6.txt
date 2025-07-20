@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://2b59f595-bc0e-4642-a542-e8e0fc8926b6@104.17.35.37:8080?path=%2FTelegram%3A%40%40vpnclashfa+-+382#RELAY🚩 | 104.17.35.37-8080 | 2.73ms
-vless://2b51506d-1324-4eae-a9f2-0da4dc87b09b@172.66.40.99:8880?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=ba-velam-kon.motorphrotan.ir.&type=ws#RELAY🚩 | ba-velam-kon.motorphrotan.ir.-8880 | 261.1ms
-vless://2ac0e285-4f51-406b-805f-4e4c3cfbfe27@143.14.220.111:25888?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&security=reality&pbk=eHaAkgZIfsYhrH_0HCj07-Vbd7nrMHnnAa663_969DA&sid=be1be5fc&packetEncoding=xudp#REALITY|US🇺🇸 | 143.14.220.111-25888 | 24.77ms
-vless://2a265422-84e6-5585-b36c-1e2d9437d0db@185.255.178.188:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=185.255.178.188&path=%2Fvless#RELAY🚩 | zula.ir-443 | 3.2ms
+        vless://2a265422-84e6-5585-b36c-1e2d9437d0db@185.255.178.188:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=185.255.178.188&path=%2Fvless#RELAY🚩 | zula.ir-443 | 3.2ms
 vless://2a11c595-935d-4e1b-81d4-ab8dd1e10bff@104.17.147.22:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DECENt-ReFerEnCE.ZUlAir.oRG.&type=ws#RELAY🚩 | DECENt-ReFerEnCE.ZUlAir.oRG.-80 | 43.05ms
 vless://2a0e68d1-56e9-43cc-802f-5cbc617e8e98@23.239.29.19:443?type=xhttp&path=%2F&host=&mode=stream-one&security=none#US🇺🇸 | 23.239.29.19-443 | 22.76ms
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@tr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#REALITY|TR🇹🇷 | tr01-vlr01.tcp-reset-club.net-443 | 195.98ms
@@ -503,3 +500,6 @@ ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.18:9093#PL%F0%9F%87%B5%F
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.18:9094#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9094+%7C+118.1ms
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.18:9040#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9040+%7C+115.5ms
 ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.18:9018#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9018+%7C+118.02ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+185.213.23.226-989+%7C+112.68ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.192.124.188:989#BR%F0%9F%87%A7%F0%9F%87%B7+%7C+185.192.124.188-989+%7C+135.66ms
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@217.30.10.18:9084#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9084+%7C+120.66ms
