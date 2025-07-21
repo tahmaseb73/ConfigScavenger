@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://0a44145f-59dc-4e5b-a233-677b97f5114c@147135011033.sec21org.com:443?encryption=none&security=tls&sni=147135011033.sec21org.com&fp=chrome&type=tcp&headerType=none#q2_160
+        vless://0a36ef92-8f87-4b58-97f9-bccb585d9923@188.245.154.237:443?security=tls&sni=shup.speedx3net.ir&type=httpupgrade&host=shup.speedx3net.ir&path=/14891/osiris#🔒
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.174.211:443?security=tls&sni=147135011033.sec21org.com&type=tcp#🔒
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.177.39:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#@meli_proxyy
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.101:443?security=tls&sni=147135011033.sec21org.com&type=tcp#🔒
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.99:443?security=tls&sni=147135011033.sec21org.com&type=tcp#🔒
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@147135011033.sec21org.com:443?encryption=none&security=tls&sni=147135011033.sec21org.com&fp=chrome&type=tcp&headerType=none#q2_160
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.187.172:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135011033.sec21org.com#🇺🇸US_187_@Surfboardv2ray
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.187.172:443?security=tls&sni=147135011033.sec21org.com&type=tcp&fp=chrome#🔒
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.18.62:443?security=tls&sni=147135011033.sec21org.com&type=raw&fp=chrome#🔒
@@ -498,8 +503,3 @@ vless://1865a948-c6da-45f7-b39e-6a365bbaafc0@www.zula.ir:8880?path=/Channel----V
 vless://18709282-9626-460c-9247-6ccdea0074c0@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
 vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?security=tls&sni=hvxoo.metahkh.com&type=grpc&serviceName=grpc&fp=random&alpn=h2#🔒
 vless://18750858-755a-4148-99e5-e61de55ce2d0@104.26.1.117:2052?type=ws&host=wWw.SpeedtesT.net.mAzMaznet.store.&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#🔒
-vless://18750858-755a-4148-99e5-e61de55ce2d0@172.67.69.216:2052?type=ws&host=wWw.SpeedtesT.net.mAzMaznet.store.&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#🔒
-vless://187556a8-e805-4eb8-8187-a59c89df211d@hajlab.ucdavis.edu:443?path=/seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmtxmplus?ed=1024&security=tls&encryption=none&host=SeyyedMTtelegramChannel.net&fp=chrome&type=ws&sni=SeyyedMTtelegramChannel.net#🇺🇸US_236_@Surfboardv2ray
-vless://187556a8-e805-4eb8-8187-a59c89df211d@hajlab.ucdavis.edu:80?path=/seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmtxmplus?ed=1024&security=none&encryption=none&host=SeyyedMTtelegramChannel.net&type=ws#🇺🇸US_237_@Surfboardv2ray
-vless://187556a8-e805-4eb8-8187-a59c89df211d@panel.seyyedmtmodidandansax.blog:2052?mode=gun&security=reality&encryption=none&authority=&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&fp=chrome&type=grpc&serviceName=2052vless&sni=joinplatinumrealty.com&sid=4156caa9#🇱🇹LT_238_@Surfboardv2ray
-vless://187556a8-e805-4eb8-8187-a59c89df211d@panel2.seyyedmtmodidandansax.blog:2052?mode=gun&security=reality&encryption=none&authority=&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&fp=chrome&type=grpc&serviceName=2052vless&sni=miro.com&sid=4156caa9#🇱🇹LT_239_@Surfboardv2ray
