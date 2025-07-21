@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?encryption=none&security=none&type=ws&path=telegram%3A%40fastshadow_vpn#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.206.14%3A12700
+        vless://aa39887e-2572-4665-b9a9-491d21e492e4@94.182.136.90:9096?encryption=none&security=none&type=tcp&headerType=http&host=cloudflare.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.182.136.90%3A9096
+vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.64:2051?encryption=none&security=none&type=tcp&headerType=http&host=snapp.taxi#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.182.46.64%3A2051
+vless://d6f74a60-3c9a-49ac-993e-46a567dfd1bd@87.236.212.230:1020?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-87.236.212.230%3A1020
+vless://d1b5f42a-5b48-496c-8db7-373b98d9892f@37.202.231.220:1043?encryption=none&security=none&type=tcp&headerType=http&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-37.202.231.220%3A1043
+vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?encryption=none&security=none&type=ws&path=telegram%3A%40fastshadow_vpn#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.206.14%3A12700
 vless://81e0f36e-d632-4e03-afd0-a0c95be5ca43@89.47.200.102:8443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-89.47.200.102%3A8443
 vless://b489cc27-6056-48bb-891e-de437658d519@185.143.233.5:80?encryption=none&security=none&type=ws&host=nim-f6a8e4b837-sh.apps.ir-central1.arvancaas.ir&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.143.233.5%3A80
 vless://8c15cc84-2bec-f384-6044-399800ead842@81.12.35.242:40100?encryption=none&security=none&type=tcp&headerType=http&host=vssweb.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-81.12.35.242%3A40100
@@ -499,7 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.171-0391
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.138-0392
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0395
-ss://YWVzLTEyOC1nY206ZjAzMzBkMzktMTY5ZS00OWJlLWIyMjQtNWMwYzg4NzYzZmIw@120.233.7.76:25023#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.7.76-0077
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.67:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-0409
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@185.167.116.253:9014#%F0%9F%87%A6%F0%9F%87%BAAU-185.167.116.253-0411
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.19:5601#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-0412

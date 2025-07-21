@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@sullivan.ns.cloudflare.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@otto.ns.cloudflare.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@pranab.ns.cloudflare.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@rustam.ns.cloudflare.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@steamdb.info:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@sullivan.ns.cloudflare.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@time.is:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@toy-people.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@trevor.ns.cloudflare.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
@@ -499,7 +503,3 @@ ss://15868173-1378-4984-a4e2-07d51591b237@188.244.122.224:2096?security=tls&sni=
 ss://15868173-1378-4984-a4e2-07d51591b237@91.107.189.60:8080?security=none&type=grpc&serviceName=vless#🔒
 ss://15afab6f-4ff9-4087-9ced-4b32ee19a0f3@157.230.17.102:37529?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE_224_@Surfboardv2ray
 ss://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.30.167:443?security=tls&sni=d3332856-cd74.2032.pp.ua&type=ws&host=d3332856-cd74.2032.pp.ua&path=%2Fok1UBnf7txQ8YJFJxz&fp=chrome&alpn=http%2F1.1#🔒
-ss://15b24b56-d667-4fa8-b548-f3dc942fb461@172.67.173.64:443?security=tls&sni=46bac781.2032.pp.ua&type=ws&host=46bac781.2032.pp.ua&alpn=http/1.1#🔒
-ss://15b24b56-d667-4fa8-b548-f3dc942fb461@172.67.208.155:443?security=tls&sni=2werty.2030.pp.ua&type=ws&host=2werty.2030.pp.ua&path=%2Fok1UBnf7txQ8YJFJxz&fp=chrome&alpn=http%2F1.1#🔒
-ss://15cc8d40-f0c0-4e5c-9f43-da04c368353c@104.24.251.4:443?security=tls&sni=66.sgfc.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=66.sgfc.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-ss://15cc8d40-f0c0-4e5c-9f43-da04c368353c@104.24.251.4:443?security=tls&sni=66.sgfc.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/Telegram@V2ray_Alpha/?ed%3D2560&host=66.sgfc.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
