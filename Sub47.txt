@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://bcd3d9f9-63d6-5ca5-a8e4-7f7f25acfbed@nslookup.io:443?security=tls&sni=ca-1-sso.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca-1-sso.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSO%20-%20WSCT-111%20-%20CA%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
-ss://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒
-ss://bcf52004-0af2-4f73-adf8-42579c0d385d@188.245.254.106:2053?security=none&type=grpc&serviceName=varzeshtv.pucapc.ir#@VIPro
-ss://bcf52004-0af2-4f73-adf8-42579c0d385d@188.245.254.106:2053?security=none&type=grpc&serviceName=varzeshtv.pucapc.ir#@VIProxys
-ss://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#🇨🇦CA_1009_@Surfboardv2ray
-ss://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#🌐سرور
+        ss://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#🌐سرور
 ss://bd3b011a-403f-4006-9c2c-2d49d6f25acd@104.17.173.246:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&fp=chrome&alpn=h3,h2#🔒
 ss://bd3b011a-403f-4006-9c2c-2d49d6f25acd@104.22.19.174:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://bd3b011a-403f-4006-9c2c-2d49d6f25acd@162.159.128.64:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -503,3 +498,8 @@ ss://c6fc5c04-f087-49cc-a3df-2a37ef490467@104.17.147.22:2052?path=%2F%3Fed%3D204
 ss://c6fc5c04-f087-49cc-a3df-2a37ef490467@104.17.147.22:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=infoalfa7.novintecc.ORG.&type=httpupgrade#DE🇩🇪
 ss://c6fc5c04-f087-49cc-a3df-2a37ef490467@104.17.147.22:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=infoalfa7.novintecc.ORG.&type=httpupgrade#⚡Telegram
 ss://c6fc5c04-f087-49cc-a3df-2a37ef490467@167.71.61.199:21367/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#⚡Telegram
+ss://c6fc5c04-f087-49cc-a3df-2a37ef490467@167.71.61.199:21367?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#🔒
+ss://c6fc5c04-f087-49cc-a3df-2a37ef490467@Www.speedtest.net:2052?path=%2F%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=info96382.novintecc.ORG.&type=httpupgrade#@meli_proxyy
+ss://c6fc5c04-f087-49cc-a3df-2a37ef490467@Www.speedtest.net:2052?path=%2F%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=info96382.novintecc.ORG.&type=httpupgrade#⚡Telegram
+ss://c6fc5c04-f087-49cc-a3df-2a37ef490467@Www.speedtest.net:2052?path=%2F%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=infoalfa7.novintecc.ORG.&type=httpupgrade#@meli_proxyy
+ss://c6fc5c04-f087-49cc-a3df-2a37ef490467@Www.speedtest.net:2052?path=%2F%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=infoalfa7.novintecc.ORG.&type=httpupgrade#DE🇩🇪
