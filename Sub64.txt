@@ -3,19 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://aTArbZ2F0E@172.66.168.218:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#t.me%2Fpeterjest
-trojan://aTArbZ2F0E@172.66.168.218:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#🔒
-trojan://aTArbZ2F0E@172.66.168.218:443?type=ws&sni=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws&host=uSa-vp-27.bLAzECLOUD.SITE#%E6%9C%AA%E7%9F%A548
-trojan://aTArbZ2F0E@172.66.168.223:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#t.me%2Fpeterjest
-trojan://aTArbZ2F0E@172.66.168.223:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#🔒
-trojan://aTArbZ2F0E@172.66.168.226:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#t.me%2Fpeterjest
-trojan://aTArbZ2F0E@172.66.168.226:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#🔒
-trojan://aTArbZ2F0E@172.66.168.227:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#t.me%2Fpeterjest
-trojan://aTArbZ2F0E@172.66.168.227:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#🔒
-trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#@meli_proxyy
-trojan://aa0b5a20-1af3-11f0-b31b-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://aa0b5a20-1af3-11f0-b31b-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%F0%9F%92%99
-trojan://aa424865-2762-404c-b767-66c9f98e026b@104.21.38.48:443?security=tls&sni=4WwwWwWWWwWWWwwWWWWWWwwTttTtTT.HuAnGdI2031.dpdnS.ORG&type=tcp&allowInsecure=1#🔒
+        trojan://aa424865-2762-404c-b767-66c9f98e026b@104.21.38.48:443?security=tls&sni=4WwwWwWWWwWWWwwWWWWWWwwTttTtTT.HuAnGdI2031.dpdnS.ORG&type=tcp&allowInsecure=1#🔒
 trojan://aa424865-2762-404c-b767-66c9f98e026b@104.21.38.48:443?security=tls&type=tcp&sni=4WwwWwWWWwWWWwwWWWWWWwwTttTtTT.HuAnGdI2031.dpdnS.ORG#%E6%9C%AA%E7%9F%A571
 trojan://aabbcac-abac-aacb-abdc-cbbacbacabca@127.0.0.1:3080?security=tls&type=tcp#🛡
 trojan://aabbcca-aabc-aacb-dbac-bacccabbbaca@127.0.0.1:2080?security=tls&type=tcp#🤖
@@ -503,3 +491,15 @@ trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.77.214:54860?security=tls&s
 trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.82.176:64804?security=tls&sni=t9.qifei.app#🔒
 trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@23.94.25.129:55511?security=tls&sni=t17.qifei.app&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@23.94.25.129:55511?security=tls&sni=t17.qifei.app&type=tcp#🔒
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@42.200.230.100:59623?security=tls&sni=t2.qifei.app&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@42.200.230.100:59623?security=tls&sni=t2.qifei.app&type=tcp#🔒
+trojan://efad7560-dfe7-11ef-b6c6-1239d0255272@51.210.182.170:443?security=tls&sni=momtazpanel.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://f06ad4c0-e786-11ef-bd28-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.25.95:443?security=tls&sni=DDd.890604.FIlEGear-sG.Me&allowInsecure=1&type=ws&path=%2FmZr1mA5hub7QHHkQBzYO#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
+trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.25.95:443?sni=DDd.890604.FIlEGear-sG.Me&type=ws&path=/mZr1mA5hub7QHHkQBzYO#🔒
+trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.133.248:443?security=tls&sni=DDd.890604.FIlEGear-sG.Me&type=ws&host=ddd.890604.filegear-sg.me&path=%2FmZr1mA5hub7QHHkQBzYO#t.me%2Fpeterjest
+trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.133.248:443?security=tls&sni=DDd.890604.FIlEGear-sG.Me&type=ws&host=ddd.890604.filegear-sg.me&path=/mZr1mA5hub7QHHkQBzYO#@Hope_Net-join-us-on-Telegram
+trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.133.248:443?security=tls&sni=DDd.890604.FIlEGear-sG.Me&type=ws&host=ddd.890604.filegear-sg.me&path=/mZr1mA5hub7QHHkQBzYO#🔒
+trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.133.248:443?security=tls&type=ws&sni=DDd.890604.FIlEGear-sG.Me&path=/mZr1mA5hub7QHHkQBzYO&host=ddd.890604.filegear-sg.me#%E6%9C%AA%E7%9F%A5144
+trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@103.224.182.251:443?security=tls&sni=sg2.jjzgy.live&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@103.224.182.251:443?security=tls&sni=us1.jjzgy.live&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
