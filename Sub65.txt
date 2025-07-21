@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://ksCDo3aEam@tabnak.itn24.ir:443?security=tls&sni=tabnak.itn24.ir&fp=chrome&type=httpupgrade&host=tabnak.itn24.ir&path=%2F33041%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+        trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&sni=x1-england-ovh-v2.devefun.net&type=tcp&headerType=none#t.me%2Fpeterjest
+trojan://ksCDo3aEam@104.21.71.8:443?security=tls&sni=tabnak.itn24.ir&type=ws&host=tabnak.itn24.ir&path=/51759/@M3HDIO1#🔒
+trojan://ksCDo3aEam@172.67.141.68:443?security=tls&sni=tabnak.itn24.ir&type=ws&host=tabnak.itn24.ir&path=/51759/@M3HDIO1#🔒
+trojan://ksCDo3aEam@tabnak.itn24.ir:443?security=tls&sni=tabnak.itn24.ir&fp=chrome&type=httpupgrade&host=tabnak.itn24.ir&path=%2F33041%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 trojan://ksCDo3aEam@tabnak.itn24.ir:443?security=tls&sni=tabnak.itn24.ir&fp=chrome&type=ws&host=tabnak.itn24.ir&path=%2F15681%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 trojan://ksCDo3aEam@tabnak.itn24.ir:443?security=tls&sni=tabnak.itn24.ir&fp=chrome&type=ws&host=tabnak.itn24.ir&path=%2F51759%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 trojan://ksCDo3aEam@tabnak.itn24.ir:443?security=tls&sni=tabnak.itn24.ir&fp=chrome&type=ws&host=tabnak.itn24.ir&path=25590%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
@@ -500,6 +503,3 @@ trojan://vip@104.26.4.57:443?security=tls&type=tcp&sni=heihu880.pages.dev#%E6%9C
 trojan://vip@104.26.6.112:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒
 trojan://vip@104.26.7.112:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒
 trojan://vip@104.26.8.156:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒
-trojan://vip@104.26.9.156:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒
-trojan://vip@172.64.145.93:443?security=tls&sni=heihu880.pages.dev&type=tcp#🔒
-trojan://vip@172.67.153.253:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#🔒

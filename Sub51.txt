@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?security=&type=grpc&encryption=none#🇱🇹LT_1175_@Surfboardv2ray
+        ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?type=grpc#🔒
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?mode=gun&security=none&encryption=none&type=grpc#%40Golestan_VPN%20-%20%F0%9F%87%B1%F0%9F%87%B9
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹LT_1174_@Surfboardv2ray
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?security=&type=grpc&encryption=none#🇱🇹LT_1175_@Surfboardv2ray
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.35:8880?mode=gun&type=grpc&security=none&encryption=none#🇱🇹Lithuania
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
@@ -500,6 +503,3 @@ ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?encryption=none&securi
 ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#@VIPro
 ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#@VIProxys
 ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=pormang.webhost99.workers.dev&type=ws#@VIProxys
-ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#@VIPro
-ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?security=&type=ws&path=/telegram@v2ray_alpha/?ed%3D2560&host=pormang.webhost99.workers.dev&encryption=none#@awlix_ir
-ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?security=&type=ws&path=/telegram@v2ray_alpha/?ed=2560&host=pormang.webhost99.workers.dev&encryption=none#🇨🇦CA_1218_@Surfboardv2ray
