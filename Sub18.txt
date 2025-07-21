@@ -3,20 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://0511ddb2-b684-43eb-93db-cb5476a463b8@157.180.41.190:2029?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@157.180.41.190:2434?security=reality&sni=chess.com&type=tcp&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@157.180.41.190:3789?type=tcp&host=varzesh3.com&headerType=http#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@157.180.41.190:3799?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@157.180.41.190:4928?security=none&type=tcp&host=speedtest.net&headerType=http#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@157.180.41.190:7722?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@157.180.41.190:8722?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:1429?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:1534?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:1535?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:2029?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:2434?security=reality&sni=chess.com&type=tcp&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:3789?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒
-ss://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:3799?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒
+        ss://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:3799?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒
 ss://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:4928?security=none&type=tcp&host=speedtest.net&headerType=http#🔒
 ss://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:7722?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒
 ss://0511ddb2-b684-43eb-93db-cb5476a463b8@188.245.120.39:8722?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒
@@ -503,3 +490,16 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?sni=hl.ylka.dpdns.or
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.167:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.209:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.56:443?sni=nl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.58:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@47.57.233.126:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@59.25.82.79:12318?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.100:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.136:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.177:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.241:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.58:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.67:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.92:443?sni=nn.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.93:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.94:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.96:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒
