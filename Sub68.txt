@@ -3,18 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://082c8176-3e8e-4226-9045-79cee15b5111@194.182.79.202:39049?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#all%20%F0%9F%87%A8%F0%9F%87%BF%20%28%40ZEDMODEON%29%20202
-vless://08355b07-1f90-4225-a420-6373c2e1c059@104.21.7.147:443?security=tls&sni=m12wErT.HuangSHAnG.dpDNS.Org&type=ws&host=m12wert.huangshang.dpdns.org&path=%2FvaETNuCIptYKnk9eiIGVIW&fp=chrome&alpn=http%2F1.1#🔒
-vless://0836463b-214f-4af6-aa85-85a56a62388e@104.21.32.1:443?encryption=none&security=tls&sni=D2127A49-flaT-wOoD-C4b5.mIlIA-aKBaRpOOr.WORkERs.Dev&fp=randomized&type=ws&host=D2127A49-flaT-wOoD-C4b5.mIlIA-aKBaRpOOr.WORkERs.Dev&path=%2FKDBYvL5fP0YDtED8%3Fed%3D2560#q1_350
-vless://0836463b-214f-4af6-aa85-85a56a62388e@104.21.96.1:443?encryption=none&security=tls&sni=D2127A49-Flat-WOoD-c4b5.Milia-AKbaRpOor.workers.Dev&fp=randomized&type=ws&host=D2127A49-Flat-WOoD-c4b5.Milia-AKbaRpOor.workers.Dev&path=%2FPl67KhTLWmJqQ2lY%3Fed%3D2560#q1_387
-vless://083a70ea-07c5-4542-9f53-fbdc7f31cc52@49.13.126.159:443?security=tls&sni=phone-ship.phoneonline.com.tr&type=grpc&serviceName=xzy#🔒
-vless://0870a931-b121-1278-f010-b140a958a300@156.238.19.165:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-vless://0870a931-b121-1278-f010-b140a958a300@176.53.144.22:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-vless://0870a931-b121-1278-f010-b140a958a300@176.53.144.29:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-vless://0870a931-b121-1278-f010-b140a958a300@185.148.106.19:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-vless://0870a931-b121-1278-f010-b140a958a300@194.76.18.199:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-vless://0870a931-b121-1278-f010-b140a958a300@195.85.59.11:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-vless://08a94be2-dc83-53b5-8454-47c6b5c053c9@95.215.8.25:443?security=tls&sni=95.215.8.25&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.215.8.25&encryption=none#Rayan%20-%20SSM%20-%20WSDR-114%20-%20NL%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+        vless://08a94be2-dc83-53b5-8454-47c6b5c053c9@95.215.8.25:443?security=tls&sni=95.215.8.25&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.215.8.25&encryption=none#Rayan%20-%20SSM%20-%20WSDR-114%20-%20NL%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://08a94be2-dc83-53b5-8454-47c6b5c053c9@zula.ir:443?security=tls&sni=nl-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-114%20-%20NL%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 vless://08aa33d0-a8af-460b-807a-39791019015c@77.90.10.16:58666?security=reality&encryption=none&pbk=bGCJWIH3EHCAGMeI-qgvjGZlL5tkY_HIqQEtsOqEVlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=a6a18a6e0259#Free%207000%20%28%40Outline_Vpn%29
 vless://08aa8e13-d639-4b24-9a7a-c2e56ee0beaa@91.107.131.93:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=SdNh0nIUd1kC8NVV7eDgUUEDwbQ-NP1JpRhJanIlxks&type=tcp&headerType=none#@VIProxys
@@ -503,3 +492,14 @@ vless://17272b75-51c8-4999-a4ce-b3bd8679e04e@190.93.246.124:443?security=tls&sni
 vless://172fd450-cebd-4678-937f-ac15be1d2925@188.114.96.3:2083?security=tls&sni=maHDiservEr-UfF.PaGES.dEv&type=ws&host=mahdiserver-uff.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒
 vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@130.162.163.216:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.tv.apple.com&fp=chrome&allowInsecure=0#🔒
 vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@131.186.22.238:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.music.apple.com&fp=chrome&allowInsecure=0#🔒
+vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@140.245.43.199:443?security=tls&flow=xtls-rprx-vision-udp443&sni=tv.apple.com&fp=chrome&allowInsecure=0#🔒
+vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@140.245.58.56:443?security=tls&flow=xtls-rprx-vision-udp443&sni=tv.apple.com&fp=chrome&allowInsecure=0#🔒
+vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@146.235.208.162:443?security=tls&flow=xtls-rprx-vision-udp443&sni=dcpqjs.yydjc.top&fp=ios&allowInsecure=0#🔒
+vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@146.235.228.34:443?security=tls&flow=xtls-rprx-vision-udp443&sni=dcpqjs.yydjc.top&fp=ios&allowInsecure=0#🔒
+vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@152.70.99.180:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.music.apple.com&fp=chrome&allowInsecure=0#🔒
+vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@168.138.165.109:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.music.apple.com&fp=ios&allowInsecure=0#🔒
+vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@192.9.129.206:443?security=tls&flow=xtls-rprx-vision-udp443&sni=dcpqjs.yydjc.top&fp=ios&allowInsecure=0#🔒
+vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@213.35.108.22:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.music.apple.com&fp=chrome&allowInsecure=0#🔒
+vless://177a73dd-3922-4aa5-887d-703cf7acda67@104.24.197.20:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=/&fp=random&alpn=h2,http/1.1#🔒
+vless://1792f052-6399-465c-8497-ed28d6dff638@65.109.212.145:36716?security=reality&encryption=none&pbk=JbRBBeUXey0AAabQ4oLo7cp8YyBP_SX18gvU0CRuOiM&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel%40JOKERRVPN&type=tcp&sni=www.cdn77.com&sid=b65d#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85💷
+vless://1792f052-6399-465c-8497-ed28d6dff638@65.109.212.145:36716?security=reality&encryption=none&pbk=JbRBBeUXey0AAabQ4oLo7cp8YyBP_SX18gvU0CRuOiM&host=/Join_Bade_Channel@JOKERRVPN&headerType=none&fp=chrome&spx=/Join_Bade_Channel@JOKERRVPN&type=tcp&sni=www.cdn77.com&sid=b65d#🇫🇮FI_232_@Surfboardv2ray

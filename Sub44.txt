@@ -3,18 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9101#🔒
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#🔒
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#🔒
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9102#🔒
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.93.113:9101#t.me%2Fpeterjest
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.93.113:9101#🔒
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@67.220.95.102:9101#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A9101
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@67.220.95.102:9101#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102:9101
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@67.220.95.102:9102#%F0%9F%87%BA%F0%9F%87%B8%20Ashburn,%20VA,%20United%20States%20(33)
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@67.220.95.102:9102#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A9102
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@69.50.93.113:9101
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@69.50.93.113:9101#%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.93.113:9101
+        ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@69.50.93.113:9101#%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.93.113:9101
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.248.235:2376#%F0%9F%87%BA%F0%9F%87%B8%20US-23.150.248.235%3A2376
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.248.235:2376#US%F0%9F%87%BA%F0%9F%87%B8+%7C+23.150.248.235-2376+%7C+41.44ms
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.248.235:2376#🔒
@@ -503,3 +492,14 @@ ss://ad122ec7-d56b-4327-8af5-96c63ed7bf3e@zula.ir:8443?security=tls&sni=uae-2-ss
 ss://ad1357bd-a1ce-4977-ae09-47411d2d1eee@104.21.78.12:443?security=tls&sni=deg.iranasanejesh.org&type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns#🔒
 ss://ad1357bd-a1ce-4977-ae09-47411d2d1eee@172.67.214.110:443?security=tls&sni=deg.iranasanejesh.org&type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns#🔒
 ss://ad1357bd-a1ce-4977-ae09-47411d2d1eee@91.195.240.13:443?security=tls&sni=deg.iranasanejesh.org&type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns#🔒
+ss://ad179afa-18b0-4ae2-eb2d-086b767f08d3@185.146.173.49:2095?security=none&type=ws&host=Da8.speedtest.hopeserver1.tech.#🔒
+ss://ad179afa-18b0-4ae2-eb2d-086b767f08d3@190.93.247.155:2095?security=none&type=ws&host=Da8.speedtest.hopeserver1.tech.#🔒
+ss://ad19c2cb-202e-4126-a004-265737ca4006@162.159.152.2:8443?security=tls&sni=telegram-falcunargo-turky.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-turky.falcunar.asso.eu.org&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒
+ss://ad19c2cb-202e-4126-a004-265737ca4006@162.159.153.2:8443?security=tls&sni=telegram-falcunargo-turky.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-turky.falcunar.asso.eu.org&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒
+ss://ad2889ee-a156-41cf-a407-93212acdfc16@91.107.163.138:2053?security=reality&sni=cloudflare.com&type=xhttp&path=%2F&fp=randomized&pbk=qTAvG2BQw51XOgg5j-HYTIoB6bpVS4-Kyk92dtT9U1c&sid=ed9ccaba#🔒
+ss://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@140.248.180.62:443?path=/Channel-MOSIV2--MOSIV2--Channel-MOSIV2--MOSIV2?ed=2560=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&security=tls&encryption=none&host=Channel-MOSIV2-MOSIV2.IR&fp=chrome&type=ws&sni=Channel-MOSIV2-MOSIV2.IR&allowInsecure=1&fp=chrome#🇺🇸US_934_@Surfboardv2ray
+ss://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&host=pamchall.com.&type=ws#@meli_proxyy
+ss://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&host=pamchall.com.&type=ws#⚡Telegram
+ss://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed=2560=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&security=none&encryption=none&host=pamchall.com.&type=ws#🇨🇦CA_935_@Surfboardv2ray
+ss://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.23.162:443?security=tls&sni=7yu8.131.pp.ua&type=ws&host=7yu8.131.pp.ua&path=%2FrdcXpTqcZpByZyxgvJgLl&fp=chrome&alpn=http%2F1.1#🔒
+ss://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@172.67.212.82:443?security=tls&sni=7tgn.131.pp.ua&type=ws&host=7tgn.131.pp.ua&path=%2FrdcXpTqcZpByZyxgvJgLl&fp=chrome&alpn=http%2F1.1#🔒
