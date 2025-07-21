@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://083a70ea-07c5-4542-9f53-fbdc7f31cc52@49.13.126.159:443?security=tls&sni=phone-ship.phoneonline.com.tr&type=grpc&serviceName=xzy#🔒
+        vless://082c8176-3e8e-4226-9045-79cee15b5111@194.182.79.202:39049?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#all%20%F0%9F%87%A8%F0%9F%87%BF%20%28%40ZEDMODEON%29%20202
+vless://08355b07-1f90-4225-a420-6373c2e1c059@104.21.7.147:443?security=tls&sni=m12wErT.HuangSHAnG.dpDNS.Org&type=ws&host=m12wert.huangshang.dpdns.org&path=%2FvaETNuCIptYKnk9eiIGVIW&fp=chrome&alpn=http%2F1.1#🔒
+vless://0836463b-214f-4af6-aa85-85a56a62388e@104.21.32.1:443?encryption=none&security=tls&sni=D2127A49-flaT-wOoD-C4b5.mIlIA-aKBaRpOOr.WORkERs.Dev&fp=randomized&type=ws&host=D2127A49-flaT-wOoD-C4b5.mIlIA-aKBaRpOOr.WORkERs.Dev&path=%2FKDBYvL5fP0YDtED8%3Fed%3D2560#q1_350
+vless://0836463b-214f-4af6-aa85-85a56a62388e@104.21.96.1:443?encryption=none&security=tls&sni=D2127A49-Flat-WOoD-c4b5.Milia-AKbaRpOor.workers.Dev&fp=randomized&type=ws&host=D2127A49-Flat-WOoD-c4b5.Milia-AKbaRpOor.workers.Dev&path=%2FPl67KhTLWmJqQ2lY%3Fed%3D2560#q1_387
+vless://083a70ea-07c5-4542-9f53-fbdc7f31cc52@49.13.126.159:443?security=tls&sni=phone-ship.phoneonline.com.tr&type=grpc&serviceName=xzy#🔒
 vless://0870a931-b121-1278-f010-b140a958a300@156.238.19.165:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 vless://0870a931-b121-1278-f010-b140a958a300@176.53.144.22:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 vless://0870a931-b121-1278-f010-b140a958a300@176.53.144.29:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
@@ -499,7 +503,3 @@ vless://17272b75-51c8-4999-a4ce-b3bd8679e04e@190.93.246.124:443?security=tls&sni
 vless://172fd450-cebd-4678-937f-ac15be1d2925@188.114.96.3:2083?security=tls&sni=maHDiservEr-UfF.PaGES.dEv&type=ws&host=mahdiserver-uff.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒
 vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@130.162.163.216:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.tv.apple.com&fp=chrome&allowInsecure=0#🔒
 vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@131.186.22.238:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.music.apple.com&fp=chrome&allowInsecure=0#🔒
-vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@140.245.43.199:443?security=tls&flow=xtls-rprx-vision-udp443&sni=tv.apple.com&fp=chrome&allowInsecure=0#🔒
-vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@140.245.58.56:443?security=tls&flow=xtls-rprx-vision-udp443&sni=tv.apple.com&fp=chrome&allowInsecure=0#🔒
-vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@146.235.208.162:443?security=tls&flow=xtls-rprx-vision-udp443&sni=dcpqjs.yydjc.top&fp=ios&allowInsecure=0#🔒
-vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@146.235.228.34:443?security=tls&flow=xtls-rprx-vision-udp443&sni=dcpqjs.yydjc.top&fp=ios&allowInsecure=0#🔒

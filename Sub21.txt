@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#@VIPro
+        ss://236d825d-ff2e-4751-af97-6ba3a34675fe@104.16.94.219:443?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒
+ss://236d825d-ff2e-4751-af97-6ba3a34675fe@104.24.180.93:443?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒
+ss://236d825d-ff2e-4751-af97-6ba3a34675fe@172.64.154.222:2053?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒
+ss://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#🔒
+ss://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#@VIPro
 ss://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#@VIProxys
 ss://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://2370f4d866944e518c72b2782ae96a59Og==@172.64.78.198:80#RELAY%F0%9F%9A%A9+%7C+172.64.78.198-80+%7C+66.29ms
@@ -499,7 +503,3 @@ ss://2aa879cd-d74d-7919-493c-4e1c1c68a02b@188.245.120.39:8249?security=none&sni=
 ss://2ab04aa0-5f28-432f-96c7-d168d09973d8@103.21.244.255:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=hidden-river-df80-ppal03.bewome9099.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=%2F#t.me%2Fpeterjest
 ss://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80?security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev#🔒
-ss://2aeb19d8-ae92-4c21-afd1-f6609517df19@cdnjs.com:443?security=tls&sni=cr7.parmida.us.kg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.parmida.us.kg&encryption=none#Rayan%20-%20CF%20-%20WSCT-106%20-%20C.06%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
-ss://2aeb19d8-ae92-4c21-afd1-f6609517df19@creativecommons.org:443?security=tls&sni=cr7.parmida.us.kg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.parmida.us.kg&encryption=none#Rayan%20-%20CF%20-%20WSCT-110%20-%20C.10%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
-ss://2aeb19d8-ae92-4c21-afd1-f6609517df19@digg.com:443?security=tls&sni=cr7.parmida.us.kg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.parmida.us.kg&encryption=none#Rayan%20-%20CF%20-%20WSCT-104%20-%20C.04%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
-ss://2aeb19d8-ae92-4c21-afd1-f6609517df19@jquery.com:443?security=tls&sni=cr7.parmida.us.kg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.parmida.us.kg&encryption=none#Rayan%20-%20CF%20-%20WSCT-102%20-%20C.02%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
