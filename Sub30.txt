@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://599a3443-4db5-4d91-9117-066ef0bda053@104.21.58.220:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        ss://599a3443-4db5-4d91-9117-066ef0bda053@104.20.225.252:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://599a3443-4db5-4d91-9117-066ef0bda053@104.21.58.220:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://599a3443-4db5-4d91-9117-066ef0bda053@162.159.195.168:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://599a3443-4db5-4d91-9117-066ef0bda053@170.114.46.42:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://599a3443-4db5-4d91-9117-066ef0bda053@172.67.153.29:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -502,4 +503,3 @@ ss://683a03a2f691351724aca517@no-tel-id-im_soon.tryfreenet24.xyz:52496?security=
 ss://683e439b-468e-5956-87bc-ec77e2ff36c7@194.226.121.190:443?security=tls&sni=194.226.121.190&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#Rayan%20-%20SSM%20-%20WSDR-116%20-%20RU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://683e439b-468e-5956-87bc-ec77e2ff36c7@zula.ir:443?security=tls&sni=ru-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ru-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-116%20-%20RU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 ss://68509c26-cfad-4dc8-9def-e8190a98d647@162.159.152.2:8880?security=none&type=ws&host=revolutiontime-dailyconfigs.vigilante.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2048#🔒
-ss://68509c26-cfad-4dc8-9def-e8190a98d647@162.159.153.2:8880?security=none&type=ws&host=revolutiontime-dailyconfigs.vigilante.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2048#🔒

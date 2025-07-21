@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=none&type=grpc#🔒
+        ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&type=grpc&encryption=none#🇹🇷TR_1254_@Surfboardv2ray
+ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=none&type=grpc#🔒
 ss://ed37675e-12d0-4782-8352-d851ede3e961@108.162.193.81:443?security=tls&sni=vdeb4r.adresstime.com&type=ws&host=vdeb4r.adresstime.com&path=%2Fwss&alpn=http%2F1.1#🔒
 ss://ed37675e-12d0-4782-8352-d851ede3e961@172.64.33.81:443?security=tls&sni=vdeb4r.adresstime.com&type=ws&host=vdeb4r.adresstime.com&path=%2Fwss&alpn=http%2F1.1#🔒
 ss://ed37675e-12d0-4782-8352-d851ede3e961@173.245.59.81:443?security=tls&sni=vdeb4r.adresstime.com&type=ws&host=vdeb4r.adresstime.com&path=%2Fwss&alpn=http%2F1.1#🔒
@@ -502,4 +503,3 @@ ss://eyJ2IjogIjIiLCAicHMiOiAiMTJ88J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWR
 ss://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR8576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYzMi5oZWR1aWFuLmxpbmsiLCAicG9ydCI6ICIzMDgzMiIsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIiwgImhvc3QiOiAiYmFpZHUuY29tIiwgInBhdGgiOiAiL29vb28ifQ==🤯
 ss://eyJ2IjogIjIiLCAicHMiOiAiMTMsMjEsMjUsMjd85Y+w5rm+MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxNTYuMjI0Ljc3Ljk4IiwgInBvcnQiOiAiMTExMTAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMTExMDMyZjgtZWFiYy00NmMwLWZlODktOGFjY2VhZWIzNGU1IiwgInNuaSI6ICIifQ==
 ss://eyJ2IjogIjIiLCAicHMiOiAiMTMsMjEsMjUsMjd85pel5pysNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMTk4LjcxLjE4NCIsICJwb3J0IjogIjEwNzAzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjZBNUMxMTU1LUJDMjQtRjMxMi01RTY3LTlFNzM1RTM2RTE5QSIsICJzbmkiOiAiIn0=
-ss://eyJ2IjogIjIiLCAicHMiOiAiMTMsMjEsMjUsMjd85pel5pysQXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4LjIwOS4yMDMuODgiLCAicG9ydCI6ICI1ODQ5MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1NTEwODdlNS05YTAzLTQ2MzQtOWU3Zi03MTQxMzNlYjNjY2IiLCAic25pIjogIiJ9

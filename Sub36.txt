@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.112:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
+        ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.103:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.112:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.134:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.139:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.158:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
@@ -502,4 +503,3 @@ ss://9ffa6da8-26dc-435c-884b-32662e7ffe7e@104.18.15.19:2095?security=none&allowI
 ss://9ffa6da8-26dc-435c-884b-32662e7ffe7e@104.18.15.19:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0314.hiyasta2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://9ffa6da8-26dc-435c-884b-32662e7ffe7e@104.18.15.19:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0314.hiyasta2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://9ffa6da8-26dc-435c-884b-32662e7ffe7e@104.18.15.19:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0314.hiyasta2.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://ASinTech-id-telegram@46.245.70.72:8080?encryption=none&security=none&type=ws&host=ASinTech.ir.www.speedtest.net.www.zula.ir.cloudflare.com.ASinTech.top.&path=%2Ftelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%3Fed%3D2560#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub

@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.45.37:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒
+        ss://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.45.29:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒
+ss://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.45.37:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒
 ss://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.45.40:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒
 ss://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.46.216:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒
 ss://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.46.219:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒
@@ -502,4 +503,3 @@ ss://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp
 ss://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?type=tcp#🔒
 ss://35fcfcfd-001e-45c6-9111-913767b12d06@104.21.112.1:8443?security=tls&sni=mas41.459.pp.ua&type=ws&host=mas41.459.pp.ua&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 ss://35fcfcfd-001e-45c6-9111-913767b12d06@104.21.16.1:8443?security=tls&sni=mas41.459.pp.ua&type=ws&host=mas41.459.pp.ua&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-ss://35fcfcfd-001e-45c6-9111-913767b12d06@104.21.80.1:8443?security=tls&sni=mas41.459.pp.ua&type=ws&host=mas41.459.pp.ua&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
