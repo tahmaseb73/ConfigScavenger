@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://6d9c02ec-a9db-4860-a4e9-05e5b8e3c6c1@172.66.47.164:2087?security=tls&sni=mahdISerVer-9hH.paGeS.DEv&type=ws&host=mahdISerVer-9hH.paGeS.DEv&path=%2Fgljplfn5lykrxpqb%3Fed%3D2560#🔒
-vless://6dae3114-fb66-4e74-87d5-d48e271c0d04@104.16.32.0:443?security=tls&sni=lrnz.xyz&type=ws&host=lrnz.xyz&allowInsecure=0#🔒
+        vless://6dae3114-fb66-4e74-87d5-d48e271c0d04@104.16.32.0:443?security=tls&sni=lrnz.xyz&type=ws&host=lrnz.xyz&allowInsecure=0#🔒
 vless://6dae3114-fb66-4e74-87d5-d48e271c0d04@104.18.160.0:443?security=tls&sni=lrnz.xyz&type=ws&host=lrnz.xyz&allowInsecure=0#🔒
 vless://6dd2355a-1839-4c77-b63b-67380a43d23a@172.67.21.239:2052?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇨🇦CA_675_@Surfboardv2ray
 vless://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.115:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.#🔒
@@ -503,3 +502,4 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-09.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-3
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-10.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-10.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-4
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-11.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-11.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-5
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=rayan-12.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-6

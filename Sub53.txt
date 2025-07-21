@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://ed37675e-12d0-4782-8352-d851ede3e961@108.162.193.81:443?security=tls&sni=vdeb4r.adresstime.com&type=ws&host=vdeb4r.adresstime.com&path=%2Fwss&alpn=http%2F1.1#🔒
-ss://ed37675e-12d0-4782-8352-d851ede3e961@172.64.33.81:443?security=tls&sni=vdeb4r.adresstime.com&type=ws&host=vdeb4r.adresstime.com&path=%2Fwss&alpn=http%2F1.1#🔒
+        ss://ed37675e-12d0-4782-8352-d851ede3e961@172.64.33.81:443?security=tls&sni=vdeb4r.adresstime.com&type=ws&host=vdeb4r.adresstime.com&path=%2Fwss&alpn=http%2F1.1#🔒
 ss://ed37675e-12d0-4782-8352-d851ede3e961@173.245.59.81:443?security=tls&sni=vdeb4r.adresstime.com&type=ws&host=vdeb4r.adresstime.com&path=%2Fwss&alpn=http%2F1.1#🔒
 ss://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@213.21.245.91:443?security=tls&flow=xtls-rprx-vision-udp443&sni=tgju.org&fp=chrome&allowInsecure=0#🔒
 ss://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@arvancloud.de.ir.systemgamingirani.ir:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#@meli_proxyy
@@ -503,3 +502,4 @@ ss://eyJ2IjogIjIiLCAicHMiOiAiMTMsMjEsMjUsMjd85Y+w5rm+MnxAcmlwYW9qaWVkaWFuIiwgImF
 ss://eyJ2IjogIjIiLCAicHMiOiAiMTMsMjEsMjUsMjd85pel5pysNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMTk4LjcxLjE4NCIsICJwb3J0IjogIjEwNzAzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjZBNUMxMTU1LUJDMjQtRjMxMi01RTY3LTlFNzM1RTM2RTE5QSIsICJzbmkiOiAiIn0=
 ss://eyJ2IjogIjIiLCAicHMiOiAiMTMsMjEsMjUsMjd85pel5pysQXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4LjIwOS4yMDMuODgiLCAicG9ydCI6ICI1ODQ5MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1NTEwODdlNS05YTAzLTQ2MzQtOWU3Zi03MTQxMzNlYjNjY2IiLCAic25pIjogIiJ9
 ss://eyJ2IjogIjIiLCAicHMiOiAiMTMsMjEsMjUsMjd86aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjMyLjE1My42MyIsICJwb3J0IjogIjQwMTAyIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjc3MGVlNzMwLTI0NTAtNGUzYy1hNmM2LTM5MzJiZDMyYWZiZCIsICJzbmkiOiAiIn0=
+ss://eyJ2IjogIjIiLCAicHMiOiAiMTMsMjEsMjUsMjd86aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjMyLjE1My40MCIsICJwb3J0IjogIjUxMTgyIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=

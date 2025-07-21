@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://5cf78a1b-2e4b-4bef-b791-c276a2c8dd6a@104.16.40.244:80?security=none&type=ws&host=CDN73524.erfantop.ir&path=%2F%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20%3Fed%3D2048#🔒
-vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?security=reality&encryption=none&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com.cn&sid=83a5b6cd#@meli_proxyy
+        vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?security=reality&encryption=none&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com.cn&sid=83a5b6cd#@meli_proxyy
 vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?security=reality&encryption=none&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com.cn&sid=83a5b6cd#REALITY|SC🇸🇨
 vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?security=reality&encryption=none&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com.cn&sid=83a5b6cd#⚡Telegram
 vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?security=reality&flow=xtls-rprx-vision&sni=www.apple.com.cn&type=tcp&fp=chrome&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&sid=83a5b6cd#🔒
@@ -503,3 +502,4 @@ vless://6d91bc33-2d86-4839-9205-02024ff483c7@172.67.176.243:443?security=tls&sni
 vless://6d91bc33-2d86-4839-9205-02024ff483c7@172.67.176.243:443?security=tls&sni=wtestfrtt.requesttest.cloudns.org&type=ws&host=wtestfrtt.requesttest.cloudns.org&fp=chrome&alpn=http/1.1#🔒
 vless://6d94acdb-04cf-409a-9410-81442f8417c5@62.60.148.163:11072?security=none&type=tcp&headerType=http#🔒
 vless://6d9c02ec-a9db-4860-a4e9-05e5b8e3c6c1@172.66.44.92:2087?security=tls&sni=mahdISerVer-9hH.paGeS.DEv&type=ws&host=mahdiserver-9hh.pages.dev&path=%2FGljpLfn5lyKrxPQb%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+vless://6d9c02ec-a9db-4860-a4e9-05e5b8e3c6c1@172.66.47.164:2087?security=tls&sni=mahdISerVer-9hH.paGeS.DEv&type=ws&host=mahdISerVer-9hH.paGeS.DEv&path=%2Fgljplfn5lykrxpqb%3Fed%3D2560#🔒

@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://3656cbdb-4cf3-4720-a6d2-3e605a6a5958@104.31.16.104:2053?security=tls&sni=ir.ipheydas.name.ng&type=ws&host=ir.ipheydas.name.ng&path=%2f&fp=chrome&alpn=h2,http/1.1#🔒
-ss://367d497b-7c86-48ab-a4fd-b760fff64ccd@104.16.147.32:8880?security=none&type=httpupgrade&host=app.mobilewersach.ir.&path=%2F%3Fed%3D1024-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam#🔒
+        ss://367d497b-7c86-48ab-a4fd-b760fff64ccd@104.16.147.32:8880?security=none&type=httpupgrade&host=app.mobilewersach.ir.&path=%2F%3Fed%3D1024-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam#🔒
 ss://3691f715-024c-411b-b269-d4a593f04ff2@185.193.158.10:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒
 ss://3691f715-024c-411b-b269-d4a593f04ff2@194.127.173.200:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒
 ss://3691f715-024c-411b-b269-d4a593f04ff2@194.127.173.201:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔒
@@ -503,3 +502,4 @@ ss://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.25:80?security=none&type=ws&h
 ss://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.4:80?security=none&type=ws&host=digitalscientificresearchgroup.ir&path=/Telegram#🔒
 ss://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.80:80?security=none&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒
 ss://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.213:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir#🔒
+ss://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.224:80?type=ws&host=digitalscientificresearchgroup.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒

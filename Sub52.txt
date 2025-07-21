@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=none&sni=pqh33v1.cinema33.shop&type=grpc#🇺🇸[openproxylist.com]
-ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=none&sni=pqh33v1.cinema33.shop&type=grpc#🔒
+        ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=none&sni=pqh33v1.cinema33.shop&type=grpc#🔒
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?encryption=none&security=none&sni=pqh33v3.vetdomok.shop&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A99.71ms
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B2%F0%9F%87%BD%C2%AE%EF%B8%8FMexico%C2%A9%EF%B8%8FMexico%20City%F0%9F%85%BF%EF%B8%8Fping%3A98.93ms
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2raying
@@ -503,3 +502,4 @@ ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&security=n
 ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&type=grpc&encryption=none#🇹🇷TR_1254_@Surfboardv2ray
 ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=none&type=grpc#🔒
+ss://ed37675e-12d0-4782-8352-d851ede3e961@108.162.193.81:443?security=tls&sni=vdeb4r.adresstime.com&type=ws&host=vdeb4r.adresstime.com&path=%2Fwss&alpn=http%2F1.1#🔒
