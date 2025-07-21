@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://98a6bc60-f1e3-44c9-8cb6-c238b9e4dc02@f.tehranserver.site:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#⚡Telegram
+        vless://98a6bc60-f1e3-44c9-8cb6-c238b9e4dc02@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=turkey.mizbangostar.com&type=httpupgrade#@meli_proxyy
+vless://98a6bc60-f1e3-44c9-8cb6-c238b9e4dc02@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=turkey.mizbangostar.com&type=httpupgrade#RELAY🚩
+vless://98a6bc60-f1e3-44c9-8cb6-c238b9e4dc02@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=turkey.mizbangostar.com&type=httpupgrade#⚡Telegram
+vless://98a6bc60-f1e3-44c9-8cb6-c238b9e4dc02@f.tehranserver.site:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#@meli_proxyy
+vless://98a6bc60-f1e3-44c9-8cb6-c238b9e4dc02@f.tehranserver.site:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#⚡Telegram
 vless://98a6bc60-f1e3-44c9-8cb6-c238b9e4dc02@finland.my-iranparspack.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#@meli_proxyy
 vless://98a6bc60-f1e3-44c9-8cb6-c238b9e4dc02@finland.my-iranparspack.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#REALITY|FR🇫🇷
 vless://98a6bc60-f1e3-44c9-8cb6-c238b9e4dc02@finland.my-iranparspack.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#⚡Telegram
@@ -499,7 +503,3 @@ vless://Parsashonam-249@[2a01:4f8:1c1b:e1d0::1]:8888?security=none=/@Telegram-|-
 vless://Parsashonam-250@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@Parsashonam
 vless://Parsashonam-250@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@meli_proxyy
 vless://Parsashonam-250@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#⚡Telegram
-vless://Parsashonam-250@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🇸🇪SE_873_@Surfboardv2ray
-vless://Parsashonam-250@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40Parsashonam%20%F0%9F%87%A9%F0%9F%87%AA
-vless://Parsashonam-250@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@meli_proxyy
-vless://Parsashonam-250@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
