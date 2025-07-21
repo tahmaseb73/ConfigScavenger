@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://3a87ca1d-4378-4277-a0bc-0e0cc5df45dc@172.66.47.183:443?security=tls&sni=maHdISErveR-Ds3.Pages.dev&type=ws&host=mahdiserver-ds3.pages.dev&path=%2FrbR9PR3zqc6sFrFg%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-vless://3ad737c3-f3a8-4faa-824b-850d7d143fd1@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#🇨🇦CA_350_@Surfboardv2ray
-vless://3ae5e5e9-44be-4acd-b22b-f9e5ae69a0fc@live.wkrq.com:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=live.wkrq.com#US🇺🇸
-vless://3ae7aece-c3f9-4d8d-8219-ad167f116455@speedtest.net:80?mode=auto&path=/@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray..../@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray?ed=2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#🇺🇸US_351_@Surfboardv2ray
-vless://3b297ee1-6178-4546-b22d-235c9590a81a@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#🇨🇦CA_352_@Surfboardv2ray
-vless://3b2eb5e5-ec54-4db4-aece-297faf81d926@216.221.222.153:443?security=tls&sni=xuy.cyberkotakbas.ru&type=xhttp&host=x1.cyberkotakbas.ru&path=%2F&fp=chrome&alpn=h3#🔒
+        vless://3b2eb5e5-ec54-4db4-aece-297faf81d926@216.221.222.153:443?security=tls&sni=xuy.cyberkotakbas.ru&type=xhttp&host=x1.cyberkotakbas.ru&path=%2F&fp=chrome&alpn=h3#🔒
 vless://3b3931d3-9a88-489c-89f3-72b883310811@199.232.246.59:80?security=none&type=xhttp&host=biyatovistavdoray.com&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048#🔒
 vless://3b5bb963-d8cb-4942-b2ac-f3ff437e6c6a@92.223.124.45:80?security=none&type=ws&host=panelvip.com&path=%2F%3Fed%3D2048#🔒
 vless://3b8d3bcd-aadd-4f3f-ae6d-b41f3d51697b@188.245.32.66:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
@@ -503,3 +498,8 @@ vless://428287e2-0a51-42d5-89a5-d07f5f10a481@173.245.58.100:8080?security=none&t
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@173.245.59.100:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@185.146.173.39:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔒
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@192.71.82.103:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
+vless://428287e2-0a51-42d5-89a5-d07f5f10a481@192.71.82.53:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
+vless://428287e2-0a51-42d5-89a5-d07f5f10a481@192.71.82.7:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
+vless://428287e2-0a51-42d5-89a5-d07f5f10a481@91.206.71.110:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
+vless://428287e2-0a51-42d5-89a5-d07f5f10a481@91.206.71.202:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
+vless://42890216-1d90-489d-a231-e0f5df231fb2@104.21.77.118:2096?security=tls&sni=blog.afghancloud.ir&type=xhttp&host=blog.afghancloud.ir&path=%2Fnewyork&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒

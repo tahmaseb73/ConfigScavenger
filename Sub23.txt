@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://37243333-f398-4239-817b-fcdc40922ce4@108.162.195.250:443?security=tls&sni=iix74u.alligator27.com&type=ws&host=iix74u.alligator27.com&path=/wss&alpn=http/1.1#🔒
-ss://37243333-f398-4239-817b-fcdc40922ce4@162.159.44.250:443?security=tls&sni=iix74u.alligator27.com&type=ws&host=iix74u.alligator27.com&path=/wss&alpn=http/1.1#🔒
-ss://37243333-f398-4239-817b-fcdc40922ce4@172.64.35.250:443?security=tls&sni=iix74u.alligator27.com&type=ws&host=iix74u.alligator27.com&path=/wss&alpn=http/1.1#🔒
-ss://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?encryption=none&security=tls&sni=freedom11.fmnxmt.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=freedom11.fmnxmt.workers.dev&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.84.22%3A443
-ss://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?security=tls&sni=freedom11.fmnxmt.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=freedom11.fmnxmt.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-ss://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?security=tls&sni=freedom11.fmnxmt.workers.dev&type=ws&host=freedom11.fmnxmt.workers.dev&path=%2F&fp=chrome#🔒
+        ss://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?security=tls&sni=freedom11.fmnxmt.workers.dev&type=ws&host=freedom11.fmnxmt.workers.dev&path=%2F&fp=chrome#🔒
 ss://3767788b-4932-4a89-a443-c77f040ca70c@hajlab.ucdavis.edu:443/?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#@VIPro
 ss://3767788b-4932-4a89-a443-c77f040ca70c@hajlab.ucdavis.edu:443/?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#@VIProxys
 ss://3767788b49324a89a443c77f040ca70cOg==@hajlab.ucdavis.edu:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+hajlab.ucdavis.edu-443+%7C+3.36ms
@@ -503,3 +498,8 @@ ss://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.254:80?sni=digitalscientificr
 ss://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.53:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir#🔒
 ss://4088e698-69fd-4d15-98bc-f1fe4c071642@45.159.218.180:80?security=none&type=ws&host=digitalscientificresearchgroup.ir#🔒
 ss://4088e698-69fd-4d15-98bc-f1fe4c071642@45.77.25.6:27854?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒
+ss://4088e698-69fd-4d15-98bc-f1fe4c071642@49.166.202.100:30045?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#🔒
+ss://4088e698-69fd-4d15-98bc-f1fe4c071642@49.171.243.145:30049?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2F#🔒
+ss://4088e698-69fd-4d15-98bc-f1fe4c071642@49.171.243.145:50027?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒
+ss://4088e698-69fd-4d15-98bc-f1fe4c071642@59.5.53.119:23349?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒
+ss://4088e698-69fd-4d15-98bc-f1fe4c071642@66.203.150.210:7656?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒

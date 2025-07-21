@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D2083%2F%3F&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#DE🇩🇪 | cho.chonon.sbs-2083 | 272.91ms
-vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D2083%2F%3F&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#DE🇩🇪 | cho.chonon.sbs-2083 | 108.9ms
-vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#RELAY🚩 | yx.yushan.dpdns.org-443 | 3539.28ms
-vless://c3e86d0c-bfe5-4bb5-a051-5e143df2024d@o2.sigmamessenger.com:443?encryption=none&security=tls&sni=o2.sigmamessenger.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#GB🇬🇧 | o2.sigmamessenger.com-443 | 128.6ms
-vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2&type=tcp&encryption=none#REALITY|IS🇮🇸 | 45.83.21.107-59997 | 105.71ms
-vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?mode=auto&path=%2FBeraghsa&security=&encryption=none&host=MoenTechProxy.global.ssl.fastly.net&type=xhttp#US🇺🇸 | MoenTechProxy.global.ssl.fastly.net-80 | 28.23ms
+        vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?mode=auto&path=%2FBeraghsa&security=&encryption=none&host=MoenTechProxy.global.ssl.fastly.net&type=xhttp#US🇺🇸 | MoenTechProxy.global.ssl.fastly.net-80 | 28.23ms
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 6.22ms
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 6.49ms
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#RELAY🚩 | zula.ir-443 | 5.96ms
@@ -503,3 +498,8 @@ vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:80?path=%2F&security=&encryption=none&type=ws#RELAY🚩 | obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk-80 | 10.26ms
 vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=0f917152a871e9c0#REALITY|RU🇷🇺 | a.ru.maviks.ru-443 | 315.72ms
 vless://55bf4a5e-af61-44e3-b105-cb373c987d2a@104.21.72.109:443?path=%2FChannel---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pamchall.com&fp=randomized&type=ws&sni=PamcHalL.coM#RELAY🚩 | PamcHalL.coM-443 | 6.41ms
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#RELAY🚩 | 019309B7.XyZ0.PaGeS.dEV-2053 | 58.06ms
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram%40Sy66%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#RELAY🚩 | 019309B7.XyZ0.PaGeS.dEV-2053 | 6.11ms
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#RELAY🚩 | 019309B7.XyZ0.PaGeS.dEV-2053 | 6.01ms
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@147.185.161.46:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#RELAY🚩 | 019309B7.XyZ0.PaGeS.dEV-2053 | 5.87ms
+vless://54c6740f-76f0-4152-a06c-71fb77a7ae2c@173.255.199.188:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#RELAY🚩 | zula.ir-443 | 5.83ms

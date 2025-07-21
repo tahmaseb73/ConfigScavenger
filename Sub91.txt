@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.4.8:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.5.6:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.6.6:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.7.226:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.8.55:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.9.55:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒
+        vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.9.55:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.146.66:2095?type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=%2F%3Fed%3D2560#🔒
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.147.50:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.152.69:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒
@@ -503,3 +498,8 @@ vless://db6b6448-e4e3-4534-b814-c629ead2887e@hajlab.ucdavis.edu:443?encryption=n
 vless://db6b6448-e4e3-4534-b814-c629ead2887e@hajlab.ucdavis.edu:80?encryption=none&security=none&type=ws&host=v2riran.com&path=/telegram-@V2RIRAN,telegram-@V2RIRAN,telegram-@V2RIRAN,telegram-@V2RIRAN,telegram-@V2RIRAN,telegram-@V2RIRAN,telegram-@V2RIRAN,telegram-@V2RIRAN,telegram-@V2RIRAN,telegram-@V2RIRAN,telegram-@V2RIRAN,telegram-@V2RIRAN%3Fed%3D2056#@VIProxys
 vless://dbbfc9a5-7bed-45fd-afae-a655f285788d@104.16.6.70:2095?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔒
 vless://dbbfc9a5-7bed-45fd-afae-a655f285788d@104.16.7.70:2095?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔒
+vless://dbc86d36-bf2c-479b-89c8-f242467ca21f@51.222.157.86:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=51.222.157.86&encryption=none#Rayan%20-%20CBT%20-%20WSDR-101%20-%20CA%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
+vless://dbc86d36-bf2c-479b-89c8-f242467ca21f@digitalocean.com:2087?security=tls&sni=ca-1-cbt.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca-1-cbt.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CBT%20-%20WSCT-101%20-%20CA%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
+vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:2052?type=ws&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560#🔒
+vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:2095?type=ws&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560#🔒
+vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:8080?type=ws&host=0221.enedrehd.workers.dev#🔒
