@@ -3,7 +3,15 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.67:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.58:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@47.57.233.126:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@59.25.82.79:12318?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.100:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.136:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.177:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.241:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.58:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.67:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.92:443?sni=nn.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.93:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.94:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
@@ -495,11 +503,3 @@ ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@upstream.lonup.org:55100?security=real
 ss://14cea04c-dbfa-4436-baa8-5a497d8f9e2c@167.82.9.225:80?security=none&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#🔒
 ss://14cea04c-dbfa-4436-baa8-5a497d8f9e2c@23.235.33.233:80?security=none&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#🔒
 ss://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40vpnaloo
-ss://14d89fc5-84d9-534a-a724-ac65060c6356@5.39.249.119:443?security=tls&sni=5.39.249.119&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.39.249.119&encryption=none#Rayan%20-%20SSM%20-%20WSDR-110%20-%20DE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-ss://14d89fc5-84d9-534a-a724-ac65060c6356@digitalocean.com:443?security=tls&sni=de-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=de-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-110%20-%20DE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-ss://14e51f2d-be1d-43c6-a7bf-565d9f22d90f@91.107.138.13:24530?security=none&type=xhttp&host=biyatovistavdoray.com&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048#🔒
-ss://150ae8c6-6867-4803-991b-95c9954b7400@5.10.245.102:443?sni=lapth.lzj520hxw.dpdns.org&type=ws&host=lapth.lzj520hxw.dpdns.org&allowInsecure=1#🔒
-ss://151d3d24-6725-4d9b-9b24-3920ce154a4f@104.16.128.247:443?encryption=none&security=tls&sni=gitneb.pages.dev&fp=random&type=ws&host=gitneb.pages.dev&path=%2F%3Fed%3D2560#q1_205
-ss://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.40.28:443?security=tls&sni=d5.medicaltreatment.ir&type=ws&host=d5.medicaltreatment.ir&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#🔒
-ss://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443?security=tls&sni=d5.medicaltreatment.ir&allowInsecure=1&fp=chrome&type=ws&path=/&host=d5.medicaltreatment.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-ss://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443?security=tls&sni=d5.medicaltreatment.ir&allowInsecure=1&fp=chrome&type=ws&path=/sinavm-sinavm/?ed%3D2560flow%3D-udp443&host=d5.medicaltreatment.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
