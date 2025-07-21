@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.155.20.137:8250?sni=edccd.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.156.181.203:443?security=tls&sni=edccy.aimercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@45.39.198.43:8080?security=tls&sni=edccx.aimercc.filegear-sg.me&type=ws&host=edccx.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@45.39.198.43:8080?security=tls&sni=edccx.aimercc.filegear-sg.me&type=ws&host=edccx.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.245.95.160:1443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.84.167:443?sni=edccc.aimercc.filegear-sg.me&type=ws&host=edccc.aimercc.filegear-sg.me&allowInsecure=1#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.90.37:49153?security=tls&sni=edccn.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒
@@ -503,3 +501,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.227:80?sni=cs.laoyoutia
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.230:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=1#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.233:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.241:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=1#🔒
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.245:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.249:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
