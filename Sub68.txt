@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@204.110.220.222:80?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.136:443?security=tls&sni=ds.dbbn2024.us.kg&type=ws&path=%2F%3Fed#🔒
+        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.136:443?security=tls&sni=ds.dbbn2024.us.kg&type=ws&path=%2F%3Fed#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.143:443?security=tls&sni=vs.bgm2024.us.kg&type=ws&host=vs.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.240:443?security=tls&sni=nc.dbbn2024.us.kg&type=ws&path=/?ed#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.237.105:443?security=tls&sni=nc.dbbn2024.us.kg&type=ws&path=/?ed#🔒
@@ -503,3 +502,4 @@ vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.226.117.234:995?encryption=none
 vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.226.117.234:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_214_@Surfboardv2ray
 vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.97.117.210:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_204_@Surfboardv2ray
 vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.97.117.210:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_215_@Surfboardv2ray
+vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@37.32.22.63:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_205_@Surfboardv2ray

@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@104.22.75.105:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@104.24.0.14:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@104.24.0.14:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@104.26.10.4:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@162.159.192.222:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@162.159.195.34:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -503,3 +502,4 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@47.79.92.16:443?security=tls&sni=Cx
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@47.79.92.16:443?security=tls&sni=CxNiMjJz.cAfUnEaR.InFo&type=ws&host=CxNiMjJz.cAfUnEaR.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@66.81.247.21:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.176:2198?security=none&type=tcp#🔒
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@91.225.219.114:2052?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me&packetEncoding=xudp&encryption=none#%F0%9F%87%B2%F0%9F%87%A9%20Moldova,%20Republic%20of%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3

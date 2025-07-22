@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?path=/?ed=2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#🇨🇦CA_291_@Surfboardv2ray
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒
+        vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.31.16.58:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@germanmel.mehrdadsadaf.com:7594?mode=gun&security=reality&encryption=none&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&fp=chrome&type=grpc&serviceName=7594vless&sni=dash.cloudflare.com&sid=765e8e700426816c#Free%20152%20%28%40Outline_Vpn%29
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@germanmel.mehrdadsadaf.com:7594?mode=gun&security=reality&encryption=none&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&fp=chrome&type=grpc&serviceName=7594vless&sni=dash.cloudflare.com&sid=765e8e700426816c#🇩🇪DE_292_@Surfboardv2ray
@@ -503,3 +502,4 @@ vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#🇦🇺AU_338_@Surfboardv2ray
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?type=tcp#🔒
 vless://35fcfcfd-001e-45c6-9111-913767b12d06@104.21.112.1:8443?security=tls&sni=mas41.459.pp.ua&type=ws&host=mas41.459.pp.ua&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+vless://35fcfcfd-001e-45c6-9111-913767b12d06@104.21.16.1:8443?security=tls&sni=mas41.459.pp.ua&type=ws&host=mas41.459.pp.ua&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒

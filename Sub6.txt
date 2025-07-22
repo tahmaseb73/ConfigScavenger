@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&sid=a31a8d04622560&type=tcp&headerType=none#REALITY|GB🇬🇧 | 51.38.64.196-443 | 141.55ms
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none#REALITY|AM🇦🇲 | 77.91.68.70-55983 | 199.46ms
+        vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none#REALITY|AM🇦🇲 | 77.91.68.70-55983 | 199.46ms
 vless://f27c4a6f-feb0-463b-b515-b97de9899be3@trgrns.vertalist.ir:7005?security=reality&encryption=none&pbk=BEgwKAxJOC_U3JNvu1psNSkcbSUL9p8g5nMEOtHY4Sc&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=c3537867431956f6#REALITY|DE🇩🇪 | trgrns.vertalist.ir-7005 | 426.77ms
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11745?mode=gun&security=reality&encryption=none&pbk=hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=26a52325#REALITY|CZ🇨🇿 | 194.182.79.142-11745 | 154.96ms
 vless://f0c8dad9-013d-4a5a-b4bd-6de40561cdf3@ss.2.70707.sbs:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dropbox.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#REALITY|RU🇷🇺 | ss.2.70707.sbs-8443 | 5177.18ms
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphSnJZMjI1WU00RkQ4U09YbFJqbklB@USA.tiny1.clou
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@rusrv.vmagnum.win:57456#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+rusrv.vmagnum.win-57456+%7C+2347.46ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+45.144.49.140-57456+%7C+165.83ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+38.107.234.38-57456+%7C+229.55ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+216.173.70.187-57456+%7C+157.79ms

@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://b9f13d1f-570a-0e2e-5e78-8efa5c738b6f@5.202.9.242:3070?security=none&type=tcp#🔒
-vless://ba09e854-4fec-489b-8f02-1d4d3739c46c@77.110.98.221:36994?security=reality&encryption=none&pbk=B0o9qWjR8-Rwid0pZe-C4LPfxUJCDSWANN0CMbbPxSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=8b5ba7aca4#@meli_proxyy
+        vless://ba09e854-4fec-489b-8f02-1d4d3739c46c@77.110.98.221:36994?security=reality&encryption=none&pbk=B0o9qWjR8-Rwid0pZe-C4LPfxUJCDSWANN0CMbbPxSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=8b5ba7aca4#@meli_proxyy
 vless://ba09e854-4fec-489b-8f02-1d4d3739c46c@77.110.98.221:36994?security=reality&encryption=none&pbk=B0o9qWjR8-Rwid0pZe-C4LPfxUJCDSWANN0CMbbPxSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=8b5ba7aca4#⚡Telegram
 vless://ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@104.17.147.22:80?mode=auto&path=%2F%3Fsinavm-sinavm&security=none&encryption=none&host=mother521.dgclix.ir&type=xhttp#%40%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%F0%9F%8F%BB%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C😵🤔🙁😝😤☹️🙁☹️    📌
 vless://ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@www.speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=mother521.dgclix.ir&type=xhttp#🇨🇦CA_999_@Surfboardv2ray
@@ -503,3 +502,4 @@ vless://c62d1cba-4966-42e9-8aab-c76c90668c0b@89.168.112.135:985/?type=tcp&channe
 vless://c6494ddf-326c-4748-93dc-efaebb017f2d@213.142.134.123:13003?security=none&type=grpc#🔒
 vless://c650b795-aa5b-49d4-9cec-4c3c7ba6c31f@172.66.213.38:443?security=tls&sni=mansdhuuidjcn.vip202030.com.tr&type=xhttp&host=mansdhuuidjcn.vip202030.com.tr&path=/Zfr830dnZP1HI14E52Wh&fp=chrome&alpn=h3#🔒
 vless://c6763909-34f1-4b80-9522-f70d930e90e6@152.53.231.109:56701?security=reality&flow=xtls-rprx-vision&sni=addons.mozilla.org&type=tcp&fp=firefox&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#🔒
+vless://c6763909-34f1-4b80-9522-f70d930e90e6@152.53.231.109:56701?security=tls&flow=xtls-rprx-vision-udp443&sni=addons.mozilla.org&fp=firefox#🔒

@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK-80 | 9.17ms
-vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=%2F&security=&encryption=none&type=ws#RELAY🚩 | wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK-80 | 9.03ms
+        vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=%2F&security=&encryption=none&type=ws#RELAY🚩 | wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK-80 | 9.03ms
 vless://616997f9-fff3-4280-8760-adddf9048203@104.17.148.22:8443?path=%2F&security=tls&encryption=none&host=pishgam.pinpen.ir.&fp=chrome&type=ws&sni=pishgam.pinpen.ir.#RELAY🚩 | pishgam.pinpen.ir.-8443 | 173.02ms
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#REALITY|DE🇩🇪 | micro.slumbo.com-443 | 609.2ms
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#REALITY|DE🇩🇪 | micro.slumbo.com-443 | 206.13ms
@@ -503,3 +502,4 @@ vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?encryption=none&f
 vless://fbcf2298-a348-48a8-b17c-00d9c7dff36e@138.199.168.187:28153?encryption=none&security=reality&sni=zhaket.com&fp=chrome&pbk=wIyC9CuOB33Hx1HbHnx_0JZXypmEink7icN0rWmzTlE&sid=b6f9&spx=%2F&type=xhttp&path=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&mode=auto#REALITY|DE🇩🇪 | 138.199.168.187-28153 | 155.31ms
 vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?sni=yahoo.com&host=%2F-%3Fed&sid=a31a8d04622560&security=reality&encryption=none&headerType=none&fp=chrome&type=tcp&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s#REALITY|GB🇬🇧 | 51.38.64.196-443 | 135.33ms
 vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?security=reality&encryption=none&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a31a8d04622560#REALITY|GB🇬🇧 | 51.38.64.196-443 | 137.36ms
+vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&sid=a31a8d04622560&type=tcp&headerType=none#REALITY|GB🇬🇧 | 51.38.64.196-443 | 141.55ms

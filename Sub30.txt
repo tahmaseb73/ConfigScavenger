@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.239:80?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=0#🔒
-ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.51:80?type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40%40pgkj666%2F%3Fed%3D2560#🔒
+        ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.51:80?type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40%40pgkj666%2F%3Fed%3D2560#🔒
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.80:80?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=0#🔒
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.67.100:80?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.67.33:80?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
@@ -503,3 +502,4 @@ ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&encry
 ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&encryption=none&headerType=none&type=tcp#🇮🇷IR_631_@Surfboardv2ray
 ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&encryption=none&headerType=none&type=tcp#🇮🇷IR_646_@Surfboardv2ray
 ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&encryption=none&headerType=none&type=tcp#🇮🇷IR_647_@Surfboardv2ray
+ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&type=tcp#🇮🇷[openproxylist.com]

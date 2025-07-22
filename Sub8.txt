@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLT4tPk1UTi0+QERlYW1OZXRfUHJveHkiLA0KICAiYWRkIjogImhrMi5scnpkeC51ayIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkYjY5ZDViYy1kMzZjLTQ5MDMtZjQ3MS03NGI5OGM1Y2VmZTUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yZWdpc3RlciIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJoazIubHJ6ZHgudWsiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOW1RYlJKOHBzMXgzRW5XZ0FHUkNCR3JMU1A1c3hoeHBva2E2RGRDZTVjZmIxWUF2RUZaeEVYUENXanhzUWJTRGpGUEZxTThLTm5EUVlmVzFzMWZzbkN1SHNHYkN4R3I%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOW1RYlJKOHBzMXgzRW5XZ0FHUkNCR3JMU1A1c3hoeHBva2E2RGRDZTVjZmIxWUF2RUZaeEVYUENXanhzUWJTRGpGUEZxTThLTm5EUVlmVzFzMWZzbkN1SHNHYkN4R3I%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 vless://2f7d96b3-ea62-4081-b337-8d3b6c3771f7@ov-germany1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#DE-%3E-%3EMTN-%3E%40Sezar_Sec
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@178.209.51.115:444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=opensuse.org&fp=chrome&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72&type=tcp&headerType=none#CH-%3ECH-%3EMTN-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#US-%3ENL-%3EMTN-%3E%40Sezar_Sec
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.251-0384
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@80.92.204.106:9064#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-0350
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@89.46.238.35:989#%F0%9F%87%B1%F0%9F%87%BBLV-89.46.238.35-0361
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-0353
