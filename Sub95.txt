@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.1.135:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.11.111:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
+        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.11.111:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.12.208:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.4.3:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.4.41:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒
@@ -503,3 +502,4 @@ vless://f84898a3-1691-489a-8d6e-0eb0981bef00@104.16.90.246:443?security=tls&sni=
 vless://f86586c2-3a4c-49c9-83ec-5ae43786d4f7@104.16.182.65:80?type=ws&host=dark-bonus-0f2f-ppal03.yapeyef825.workers.dev&path=%2FTelegram#🔒
 vless://f87a5cb2-8ab9-40a2-f90e-a87bbd2933e4@173.245.58.100:2095?security=none&type=ws&host=www.speedtest.net.isv.spEedtest5.sOckschanGert.ir.&path=@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam%3Fed%3D2048#🔒
 vless://f886e4a3-7f1a-43da-8311-3d060eb67c57@www.speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=mother110.dgclix.ir&type=xhttp#🇨🇦CA_1284_@Surfboardv2ray
+vless://f88e0a3c-75d5-411d-a39d-7a95bb123fd0@104.22.32.78:2087?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=httpupgrade&host=BeAt.mIRacLeTaXbItS.tOP.&path=%2F%40V2rayyNGvpn%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒

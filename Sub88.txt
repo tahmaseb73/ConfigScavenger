@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.228.41:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.228.52:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.228.52:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.229.26:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.229.66:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.229.84:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -503,3 +502,4 @@ vless://ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@www.speedtest.net:80?mode=auto&path
 vless://ba902158-fce5-4b33-8cb0-ef32bf6d05f3@5.10.246.73:443?security=tls&sni=mc1.777999.lol&type=ws&host=mc1.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=1#🔒
 vless://ba934c6e-db86-4a04-9b99-d5974b732880@104.18.8.74:443?security=tls&sni=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&type=ws&host=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=/admin&fp=chrome&alpn=h2,http/1.1#🔒
 vless://baaaccb-acba-cbaa-abcd-bacaabcccabb@127.0.0.1:2080?security=tls&type=tcp#_1000_@Surfboardv2ray
+vless://baabacc-acba-baca-acbd-bacabaacbcbc@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram⚠️
