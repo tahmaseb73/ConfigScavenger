@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@server2.fergalvpnmod.com:59365?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%3A%40%40vpnclashfa+-+2028#REALITY|NL🇳🇱 | server2.fergalvpnmod.com-59365 | 167.53ms
+        vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?mode=gun&security=reality&encryption=none&authority=&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=varzesh3.com&sid=7c0b6c88fe5c#REALITY|DE🇩🇪 | abzartun2.divartehran.online-23737 | 119.59ms
+vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@server2.fergalvpnmod.com:59365?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%3A%40%40vpnclashfa+-+2028#REALITY|NL🇳🇱 | server2.fergalvpnmod.com-59365 | 167.53ms
 vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@146.190.17.238:59365?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&sid=1e&type=grpc&authority=&serviceName=Telegram%3A%40%40vpnclashfa+-+2027#REALITY|NL🇳🇱 | 146.190.17.238-59365 | 83.11ms
 vless://d7db3e29-c388-4312-91f1-0da96d624e5b@p2.3dfigures.ir:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=V0yu6BQhNI5cO2600tllGbF2D5AJcT7o6Xq7AiBKxBE&host=rema.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=4d#REALITY|GB🇬🇧 | p2.3dfigures.ir-80 | 535.4ms
 vless://d4fa2f07-b925-4448-b921-9039bb5e6257@mci1.irancdngame.com:2012?security=reality&type=tcp&headerType=&path=&host=&sni=www.pcmag.com&fp=firefox&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&sid=#REALITY|DE🇩🇪 | mci1.irancdngame.com-2012 | 113.16ms
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc3@93.152.207.167:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+93.152.207.167-443+%7C+104.55ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@rusrv.vmagnum.win:57456#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+rusrv.vmagnum.win-57456+%7C+216.87ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+45.144.49.140-57456+%7C+109.72ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+38.107.234.38-57456+%7C+180.26ms

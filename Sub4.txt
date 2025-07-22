@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=random&type=ws&sni=vless8-ekh.pages.dev#RELAY🚩 | vless8-ekh.pages.dev-443 | 2.24ms
+        vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless8-ekh.pages.dev&type=ws&sni=vless8-ekh.pages.dev#RELAY🚩 | vless8-ekh.pages.dev-443 | 2.42ms
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=random&type=ws&sni=vless8-ekh.pages.dev#RELAY🚩 | vless8-ekh.pages.dev-443 | 2.24ms
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?encryption=none&security=tls&sni=vless8-ekh.pages.dev&type=ws&host=vless8-ekh.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | vless8-ekh.pages.dev-443 | 2.15ms
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?encryption=none&security=tls&sni=vless8-ekh.pages.dev&alpn=h3&fp=random&type=ws&host=vless8-ekh.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | vless8-ekh.pages.dev-443 | 2.77ms
 vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@speedtestcustom.com:80?type=xhttp&path=%2Frddeserfgg%3Fed%3D2560&host=lake9.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake9.global.ssl.fastly.net-80 | 17.11ms
@@ -502,4 +503,3 @@ vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=%2Ftelegram%
 vless://62f0db3b-b43d-4936-f5cc-d59aab745f18@104.22.71.106:2053?security=tls&sni=nKaMhsNG1.ZaNddynASTYOfPersia.ORG&type=ws&host=nKaMhsNG1.ZaNddynASTYOfPersia.ORG&path=%2F#RELAY🚩 | nKaMhsNG1.ZaNddynASTYOfPersia.ORG-2053 | 2.43ms
 vless://62dcd14e-5828-4a02-a888-b67a91c3e488@151.101.3.8:80?mode=auto&path=Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs&security=none&encryption=none&host=nexoroute.global.ssl.fastly.net&type=xhttp#US🇺🇸 | nexoroute.global.ssl.fastly.net-80 | 7.75ms
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wonderful-degree.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | wonderful-degree.seotoolsforyou.co.uk-80 | 104.16ms
-vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK-80 | 8.8ms

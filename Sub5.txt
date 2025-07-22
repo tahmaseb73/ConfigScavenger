@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://616997f9-fff3-4280-8760-adddf9048203@104.17.148.22:8443?path=%2F&security=tls&encryption=none&host=pishgam.pinpen.ir.&fp=chrome&type=ws&sni=pishgam.pinpen.ir.#RELAY🚩 | pishgam.pinpen.ir.-8443 | 437.8ms
+        vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK-80 | 8.8ms
+vless://616997f9-fff3-4280-8760-adddf9048203@104.17.148.22:8443?path=%2F&security=tls&encryption=none&host=pishgam.pinpen.ir.&fp=chrome&type=ws&sni=pishgam.pinpen.ir.#RELAY🚩 | pishgam.pinpen.ir.-8443 | 437.8ms
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#REALITY|DE🇩🇪 | micro.slumbo.com-443 | 278.69ms
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#REALITY|DE🇩🇪 | micro.slumbo.com-443 | 128.6ms
 vless://60bb8ec1-fb7e-4e6a-89b7-5df1b743ec43@172.236.109.98:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#RELAY🚩 | zula.ir-443 | 2.72ms
@@ -502,4 +503,3 @@ vless://e241fa5d-ee9d-413c-a64e-53ba0112071a@91.107.170.231:24070?type=grpc&serv
 vless://e21789d4-820c-42c9-9729-26fd904e754a@77.110.107.195:28898?type=xhttp&path=%2F&host=fast.com&mode=auto&security=reality&pbk=mVptIpBcUtMqN2tfYE8eNwBrhqNdb0lWJoeRvYen8TY&fp=random&sni=yahoo.com&sid=2cb4454d18&spx=%2F#REALITY|DE🇩🇪 | 77.110.107.195-28898 | 89.51ms
 vless://e05482d4-ba12-41ac-af45-2bf2afc56b4a@46.31.76.3:80?mode=auto&path=%2Fpwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#REALITY|GB🇬🇧 | 46.31.76.3-80 | 120.81ms
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&spx=%2F&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#REALITY|DE🇩🇪 | abzartun2.divartehran.online-23737 | 124ms
-vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?mode=gun&security=reality&encryption=none&authority=&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=varzesh3.com&sid=7c0b6c88fe5c#REALITY|DE🇩🇪 | abzartun2.divartehran.online-23737 | 119.59ms

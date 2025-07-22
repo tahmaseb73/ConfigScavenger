@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@172.67.153.236:443?sni=epccg.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@172.67.153.221:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.67.153.236:443?sni=epccg.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.67.153.47:443?sni=epccg.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.67.154.187:443?sni=epcch.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.67.155.201:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A539
@@ -502,4 +503,3 @@ trojan://SSorg@104.19.60.104:2096?security=tls&sni=ssjj.esslh.filegear-sg.me&typ
 trojan://SSorg@172.67.156.115:2087?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒
 trojan://SSorg@199.34.228.71:8443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒
 trojan://SSorg@199.34.228.71:8443?security=tls&type=tcp&sni=ssjj.esslh.filegear-sg.me#US16
-trojan://SYlC7B9Tgl@tabnak.itn24.ir:8443?security=tls&allowInsecure=1&type=ws&host=tabnak.itn24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
