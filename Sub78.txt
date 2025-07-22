@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.125:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.127:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
+        vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.127:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.128:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.129:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.12:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
@@ -503,3 +502,4 @@ vless://5a29a909-66c2-476e-b851-73966c64023c@194.182.79.202:39049?mode=gun&secur
 vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@185.174.138.66:443?security=tls&sni=yomyauqpy.wwtraveler.com&type=grpc&serviceName=michi#🔒
 vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@45.135.235.31:443?security=tls&sni=yomyauqpy.wwtraveler.com&type=grpc&serviceName=michi#🔒
 vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@45.135.235.69:443?security=tls&sni=yomyauqpy.wwtraveler.com&type=grpc&serviceName=michi#🔒
+vless://5a39e3c7-ba53-433c-ae32-0bc18d81dbe3@77.110.121.136:14703?security=none&type=tcp&host=analytics.google.com&headerType=http#🔒
