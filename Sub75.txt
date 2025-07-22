@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.59:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒
+        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.138:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2#🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.148:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.152:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2#🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.155:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.19:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.59:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.68:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@152.67.74.223:443?security=tls&sni=psycho.suex12.ir&type=ws&host=psycho.suex12.ir&path=%2FEujcp9ekQlNJr3cu%3Fed#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.108.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#1%7C%F0%9F%87%B8%F0%9F%87%AC3%20%7C%20%201.2MB/s%7C30%25%7CDisney%7COpen...
@@ -498,8 +503,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.220:8880?security=none&t
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.241:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.27:80?path=Telegram:@Selinc/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇧🇿BZ_511_@Surfboardv2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.27:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.34:80?path=Telegram:#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.56:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.6:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40Selinc%2F%3Fed%3D2560#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.99:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=1#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.9:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒

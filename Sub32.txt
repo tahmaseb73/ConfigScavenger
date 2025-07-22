@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@109.206.241.155:443?security=tls&sni=cdn.getasa.ir&type=ws&path=%2Fwp-admin&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
+        ss://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@152.70.23.50:25720?encryption=none&security=none&type=tcp&headerType=none#%5BVLESS%2017%5D%20%40ResistalProxy
+ss://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@152.70.23.50:25720?security=none&encryption=none&headerType=none&type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+ss://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@38.242.196.10:25574?security=none&encryption=none&headerType=none&type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+ss://74049a59-4a76-48bb-9689-efa31e4dad6f@154.17.229.206:443?security=tls&sni=usa.cayuo.me&type=ws&host=usa.cayuo.me&path=/bing&fp=chrome#🔒
+ss://74049a59-4a76-48bb-9689-efa31e4dad6f@154.17.229.206:443?type=ws&host=usa.cayuo.me&path=/bing&security=tls&fp=chrome&sni=usa.cayuo.me#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+ss://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@109.206.241.155:443?security=tls&sni=cdn.getasa.ir&type=ws&path=%2Fwp-admin&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@31.220.87.74:443?security=tls&sni=cdn.getasa.ir&type=ws&path=%2Fwp-admin&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@104.16.211.129:443?security=tls&sni=taoj.eu.org&type=ws&host=taoj.eu.org&allowInsecure=0#🔒
 ss://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@104.16.27.231:443?security=tls&sni=taoj.eu.org&type=ws&host=taoj.eu.org#🔒
@@ -498,8 +503,3 @@ ss://804385b5-c39b-4070-9f6d-33ffc6cefda9@italy.tehranserver.site:443?security=r
 ss://804385b5-c39b-4070-9f6d-33ffc6cefda9@italy.tehranserver.site:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#REALITY|IT🇮🇹
 ss://804385b5-c39b-4070-9f6d-33ffc6cefda9@italy.tehranserver.site:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#⚡Telegram
 ss://804385b5-c39b-4070-9f6d-33ffc6cefda9@mizbangostar.com:3993?path=%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&fp=chrome&type=ws&sni=marzban.negintel.xyz#@meli_proxyy
-ss://804385b5-c39b-4070-9f6d-33ffc6cefda9@mizbangostar.com:3993?path=%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&fp=chrome&type=ws&sni=marzban.negintel.xyz#DE🇩🇪
-ss://804385b5-c39b-4070-9f6d-33ffc6cefda9@mizbangostar.com:3993?path=%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&fp=chrome&type=ws&sni=marzban.negintel.xyz#⚡Telegram
-ss://804385b5-c39b-4070-9f6d-33ffc6cefda9@mizbangostar.com:3993?path=%3Fed%3D2084&security=tls&encryption=none&fp=chrome&type=ws&sni=marzban.negintel.xyz#@meli_proxyy
-ss://804385b5-c39b-4070-9f6d-33ffc6cefda9@mizbangostar.com:3993?path=%3Fed%3D2084&security=tls&encryption=none&fp=chrome&type=ws&sni=marzban.negintel.xyz#⚡Telegram
-ss://804385b5-c39b-4070-9f6d-33ffc6cefda9@netherland.zone-server-irani.ir:3993?path=%2F&security=tls&encryption=none&type=ws&sni=marzban.negintel.xyz#@meli_proxyy
