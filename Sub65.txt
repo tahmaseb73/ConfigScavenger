@@ -3,7 +3,14 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#@meli_proxyy
+        trojan://e374de29-e25d-4307-9b22-4fa359422813@uk1.trojvpn.site:443?host=uk1.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
+trojan://e3eda010-b95c-11ee-a3da-1239d0255272@51.38.65.155:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@48.218.11.10:443?sni=usla.mjt000.com&allowInsecure=0#🔒
+trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@usla.mjt000.com:443/?type=tcp&security=tls&sni=usla.mjt000.com#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@usla.mjt000.com:443?allowInsecure=0&sni=usla.mjt000.com#12%2C13%7C%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=/rIQYIUFzZ8PfAZpXO7Ci#🔒
+trojan://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:443?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=/rIQYIUFzZ8PfAZpXO7Ci#🔒
+trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#@meli_proxyy
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#@v2Source🇺🇸🌍
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#US🇺🇸
@@ -496,10 +503,3 @@ trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.73.241.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@3.73.241.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
 trojan://telegram-id-privatevpns@3.74.181.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@3.76.138.183:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AAGermany
-trojan://telegram-id-privatevpns@3.76.74.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@3.77.119.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@3.77.119.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
-trojan://telegram-id-privatevpns@3.77.119.255:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping%3A25.73ms
-trojan://telegram-id-privatevpns@3.77.75.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@3.77.75.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram

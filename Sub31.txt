@@ -3,7 +3,14 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://64d39d67-62dc-470c-a592-1d5a6ee87cb5@45.159.218.17:80?sni=worker-flat-disk-100d.b9563f65aef681.workers.dev&type=ws&host=worker-flat-disk-100d.b9563f65aef681.workers.dev&path=/&allowInsecure=0#🔒
+        ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&type=tcp#🇮🇷[openproxylist.com]
+ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&type=tcp#🔒
+ss://64ce3550-595a-4327-ba2c-5af2590b3d3b@151.101.158.204:80?encryption=none&security=none&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D64#@VIPro
+ss://64ce3550-595a-4327-ba2c-5af2590b3d3b@151.101.158.204:80?encryption=none&security=none&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D64#@VIProxys
+ss://64ce3550-595a-4327-ba2c-5af2590b3d3b@151.101.158.204:80?security=none&type=ws&host=fatmelo.com&path=/olem/ws#🔒
+ss://64ce3550595a4327ba2c5af2590b3d3bOg==@151.101.158.204:80#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+151.101.158.204-80+%7C+247.32ms
+ss://64d02e12-2db7-479b-89c9-8fd89b5db0f7@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
+ss://64d39d67-62dc-470c-a592-1d5a6ee87cb5@45.159.218.17:80?sni=worker-flat-disk-100d.b9563f65aef681.workers.dev&type=ws&host=worker-flat-disk-100d.b9563f65aef681.workers.dev&path=/&allowInsecure=0#🔒
 ss://64f05df5-3f67-41ae-dbfe-56e55cfb72f3@188.34.164.75:2053?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#🇩🇪DE_648_@Surfboardv2ray
 ss://650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.134:36380?security=none&type=ws#🔒
 ss://650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.135:36380?security=none&type=ws#🔒
@@ -496,10 +503,3 @@ ss://736e4ed1-63dc-4d63-af14-451c17ac059a@104.18.15.19:8080?security=none&allowI
 ss://736e4ed1-63dc-4d63-af14-451c17ac059a@104.18.15.19:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0124.5zvmocbv.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://736e4ed1-63dc-4d63-af14-451c17ac059a@104.18.15.19:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=0124.5zvmocbv.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.169:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒
-ss://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒
-ss://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.1:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒
-ss://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.83:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒
-ss://739b7052-1e58-444d-b068-6cdbbe487663@188.114.97.3:443?encryption=none&security=tls&sni=DFb32Af2.panLO-eSCObaR0099269.Pages.deV&fp=randomized&type=ws&host=DFb32Af2.panLO-eSCObaR0099269.Pages.deV&path=%2FD7UhD7IgkjUTf9Hl%3Fed%3D2560#q1_084
-ss://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443?security=reality&flow=xtls-rprx-vision&sni=pingless.com&type=tcp&fp=random&pbk=y_kHGyJmpYqiGgeh5gTgDRda0d_l6p-_2at2HHBrWEU&sid=700c1d3ddf2f99#🔒
-ss://73bf4bac-98cf-4423-b728-3cc8a0e56424@139.180.146.164:2020?type=tcp&security=reality&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&fp=chrome&sni=ea.com&sid=05fb89d5&spx=/&flow=xtls-rprx-vision#🇸🇬SG_690_@Surfboardv2ray
-ss://73c4fdef-f27b-404f-8776-9fcd3d5d3acf@185.143.233.5:8880?security=none&type=ws&host=getasa.ir&path=%2Fwp-admin#🔒
