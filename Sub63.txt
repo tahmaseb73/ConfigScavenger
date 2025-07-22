@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@172.67.152.167:443?sni=epcco.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.153.221:443?sni=epccf.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.153.236:443?sni=epccg.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@172.67.153.236:443?sni=epccg.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.67.153.47:443?sni=epccg.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.67.154.187:443?sni=epcch.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.67.155.201:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A539
@@ -503,3 +501,5 @@ trojan://Pooria@104.17.148.22:443?security=tls&sni=301.pOORiAm.ir&alpn=h2%2Chttp
 trojan://Pooria@104.17.148.22:443?security=tls&sni=301.pOORiAm.ir&type=ws&host=301.pooriam.ir&path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 trojan://Q%5Ec5%26MzXRa%23%25@172.67.141.68:2087?security=tls&sni=fars.itn24.ir&type=httpupgrade&host=fars.itn24.ir&path=/dHV8LpKm#🔒
 trojan://Q4KnAZDVhc@157.245.45.54:443?security=tls&sni=uk.justfarazmand.ir&type=tcp#🔒
+trojan://QTKsqSws9Sgc@104.21.112.1:2087?security=tls&sni=hamshahri.twn24.ir&type=httpupgrade&host=hamshahri.twn24.ir&path=/🆔@M3HDIO1#🔒
+trojan://QTKsqSws9Sgc@104.21.48.1:2087?security=tls&sni=hamshahri.twn24.ir&type=httpupgrade&host=hamshahri.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒
