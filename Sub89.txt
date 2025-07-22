@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://be813f12-47ac-4b16-9146-8435ebacae3f@170.114.46.148:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
-vless://be813f12-47ac-4b16-9146-8435ebacae3f@172.64.40.240:443?sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org#🔒
-vless://be813f12-47ac-4b16-9146-8435ebacae3f@45.12.31.37:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
+        vless://be813f12-47ac-4b16-9146-8435ebacae3f@45.12.31.37:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
 vless://be813f12-47ac-4b16-9146-8435ebacae3f@45.131.209.47:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
 vless://be813f12-47ac-4b16-9146-8435ebacae3f@45.131.211.54:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
 vless://be813f12-47ac-4b16-9146-8435ebacae3f@45.131.6.167:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
@@ -503,3 +501,5 @@ vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@104.19.255.51:443?security=tls&sni=
 vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@104.21.61.76:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@104.22.59.149:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@104.25.255.254:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@104.26.1.242:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@162.159.128.53:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

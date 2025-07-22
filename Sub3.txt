@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:803#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0186
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:806#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.164-0185
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:811#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.164-0184
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:811#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.164-0184
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:806#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0183
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:800#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0182
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:808#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0181
@@ -503,3 +501,5 @@ vless://c10a3651-7fbc-4bb0-877d-edf83de02492@151.101.3.8:80?mode=auto&path=%2F&s
 vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=tls&alpn=http%2F1.1&encryption=none&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&fp=randomized&type=ws&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev#RELAY🚩 | 0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev-2053 | 23.33ms
 vless://c0d8539c-c1c4-42f8-a05a-7052a5830214@198.41.206.160:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev#RELAY🚩 | xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev-443 | 155.66ms
 vless://c0d8539c-c1c4-42f8-a05a-7052a5830214@188.114.97.121:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev#RELAY🚩 | xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev-443 | 48.9ms
+vless://c0d8539c-c1c4-42f8-a05a-7052a5830214@172.64.198.22:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev#RELAY🚩 | xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev-443 | 21.46ms
+vless://c0d8539c-c1c4-42f8-a05a-7052a5830214@170.114.45.8:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=steep-pine-3b0b.facic63646.workers.dev&fp=chrome&type=ws&sni=steep-pine-3b0b.facic63646.workers.dev#RELAY🚩 | steep-pine-3b0b.facic63646.workers.dev-443 | 32.98ms

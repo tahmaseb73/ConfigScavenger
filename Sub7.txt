@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#US%F0%9F%87%BA%F0%9F%87%B8+%7C+144.126.146.38-30100+%7C+151.92ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MEdueXJMeldjUlQ0d1VhVk0wU3Vz@62.133.63.21:65262#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.21-65262+%7C+221.77ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RzBPRGZOd0NVR1IwS0VmM1ZQUUxo@77.238.229.244:12369#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+77.238.229.244-12369+%7C+151.45ms
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RzBPRGZOd0NVR1IwS0VmM1ZQUUxo@77.238.229.244:12369#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+77.238.229.244-12369+%7C+151.45ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+admin.c4.webramz.co-443+%7C+160.18ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eU9vVXFCcHdFZXZhR1E3Z014QzBG@62.84.102.28:26923#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+62.84.102.28-26923+%7C+153.53ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cm5wTjY2amhpazlaZjBFYVdZVUJB@46.4.162.31:1080#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+46.4.162.31-1080+%7C+161.64ms
@@ -503,3 +501,5 @@ vless://2b9fe769-ba91-4212-80c6-80dde4c030a3@62.60.160.184:64335?encryption=none
 vless://09aaaf34-4be3-a68d-6ac4-b7e0bcc6789c@81.29.255.187:619?encryption=none&security=none&type=ws&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&path=%2Fws%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-81.29.255.187%3A619
 vless://8a5ea164-0f49-4483-ac03-1ae7805e12ef@185.4.31.215:11885?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.4.31.215%3A11885
 vless://7e7002f1-bb3a-4706-bca4-b03ace4eec93@37.202.224.130:4040?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-37.202.224.130%3A4040
+vless://aa39887e-2572-4665-b9a9-491d21e492e4@94.182.136.90:9096?encryption=none&security=none&type=tcp&headerType=http&host=cloudflare.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.182.136.90%3A9096
+vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.64:2051?encryption=none&security=none&type=tcp&headerType=http&host=snapp.taxi#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.182.46.64%3A2051
