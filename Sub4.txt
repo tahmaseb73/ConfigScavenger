@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@speedtestcustom.com:80?type=xhttp&path=%2Frddeserfgg%3Fed%3D2560&host=lake10.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake10.global.ssl.fastly.net-80 | 8.44ms
+        vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@speedtestcustom.com:80?type=xhttp&path=%2Frddeserfgg%3Fed%3D2560&host=lake2.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake2.global.ssl.fastly.net-80 | 6.11ms
+vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@speedtestcustom.com:80?type=xhttp&path=%2Frddeserfgg%3Fed%3D2560&host=lake10.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake10.global.ssl.fastly.net-80 | 8.44ms
 vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@speedtestcustom.com:80?type=xhttp&path=%2Frddeserfgg%3Fed%3D2560&host=lake1.global.ssl.fastly.net&mode=auto&security=none#US🇺🇸 | lake1.global.ssl.fastly.net-80 | 6.22ms
 vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@speedtestcustom.com:80?mode=auto&path=%2Frddeserfgg%3Fed%3D%23Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=none&encryption=none&host=lake10.global.ssl.fastly.net&type=xhttp#US🇺🇸 | lake10.global.ssl.fastly.net-80 | 3.4ms
 vless://c948832c-8ba7-4e9b-92cc-1370d18e14ef@104.26.6.89:2096?path=%2FDaeiXTesla&security=tls&encryption=none&alpn=h3%2Ch2&host=OnLyTesLaTg.xz027.com&fp=chrome&type=ws&sni=ts13.xz027.com#RELAY🚩 | ts13.xz027.com-2096 | 95.28ms
@@ -502,4 +503,3 @@ vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:80?path=%2F&security=&encryption=none&type=ws#RELAY🚩 | obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk-80 | 2.35ms
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:80?flow=&path=%2F&type=ws#RELAY🚩 | obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk-80 | 2.51ms
 vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=maviks.ru&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0&type=tcp&headerType=none#REALITY|RU🇷🇺 | a.ru.maviks.ru-443 | 455.87ms
-vless://55bf4a5e-af61-44e3-b105-cb373c987d2a@104.21.72.109:443?path=%2FChannel---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pamchall.com&fp=randomized&type=ws&sni=PamcHalL.coM#RELAY🚩 | PamcHalL.coM-443 | 2.59ms
