@@ -3,7 +3,14 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@43.155.30.252:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
+        ss://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@220.77.114.12:11075?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🔒
+ss://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.48.115:2087?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
+ss://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.48.21:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
+ss://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.49.209:2087/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=ngedc.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=ngedc.ambercc.filegear-sg.me#@VIPro
+ss://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.49.209:2087?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&host=ngedc.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.49.224:8443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
+ss://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.49.74:2087?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒
+ss://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@43.155.30.252:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
 ss://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@8.20.125.1:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
 ss://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@92.243.74.23:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒
 ss://cf3df05cbb63427ab48ad8b1d9ada2c4Og==@27.50.49.209:2087#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+27.50.49.209-2087+%7C+1.64ms
@@ -496,10 +503,3 @@ ss://d4eddaf9-a660-4905-b835-cad98677b380@104.16.178.238:80?sni=little-bird-a235
 ss://d53b1702-56a6-461c-ef1c-1decc60d6cf4@167.82.70.50:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🔒
 ss://d5502d2e-100c-4f4b-92fb-866bdf4e1ef0@speedtest.net:80?mode=auto&path=/@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray..../@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray?ed=2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#🇺🇸US_1098_@Surfboardv2ray
 ss://d577c7ec-372e-484b-8430-249b8314859b@5.161.135.194:65123?security=reality&encryption=none&pbk=TB3m0CBMDxvFdG6PpzLR0pGp5SYgsyE1nGFlkYbspRU&headerType=none&fp=chrome&type=tcp&sni=www.fra-shop.ir&sid=edae4083bf85d314#%F0%9F%87%BA%F0%9F%87%B8%20usa%20
-ss://d577c7ec-372e-484b-8430-249b8314859b@5.161.135.194:65123?security=reality&encryption=none&pbk=TB3m0CBMDxvFdG6PpzLR0pGp5SYgsyE1nGFlkYbspRU&headerType=none&fp=chrome&type=tcp&sni=www.fra-shop.ir&sid=edae4083bf85d314#%F0%9F%87%BA%F0%9F%87%B8%20usa%20…
-ss://d577c7ec-372e-484b-8430-249b8314859b@5.161.135.194:65123?security=reality&encryption=none&pbk=TB3m0CBMDxvFdG6PpzLR0pGp5SYgsyE1nGFlkYbspRU&headerType=none&fp=chrome&type=tcp&sni=www.fra-shop.ir&sid=edae4083bf85d314#%F0%9F%87%BA%F0%9F%87%B8%20usa%20📱☝🤍🤍
-ss://d577c7ec-372e-484b-8430-249b8314859b@5.161.135.194:65123?security=reality&sni=www.fra-shop.ir&type=tcp&fp=chrome&pbk=TB3m0CBMDxvFdG6PpzLR0pGp5SYgsyE1nGFlkYbspRU&sid=edae4083bf85d314#🔒
-ss://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80?security=none&type=ws&host=IRANINGOAT2.IR#🔒
-ss://d57b2a9e-e0c8-4cfe-898a-62f5f95f7eca@190.93.245.137:443?security=tls&sni=WWW.EsfahAnsimaN.infO.&type=ws&host=WWW.EsfahAnsimaN.infO.&path=TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram⚠️
-ss://d58909c6-16be-4e1d-bca6-bfbfca35ae48@151.101.195.6:443?security=tls&sni=Hydyrow.com&type=xhttp&host=Hydyrow.com&path=%2F&fp=chrome&alpn=h3&allowInsecure=1#🔒
-ss://d595611f-ac43-48cb-b66b-a81d4a97ce89@37.32.41.223:20464?security=none&type=tcp&host=speedtest.net&headerType=http#🔒

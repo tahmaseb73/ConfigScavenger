@@ -3,7 +3,14 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@149.202.82.172:5000#%40Golestan_VPN%20-%20%20%F0%9F%87%AB%F0%9F%87
+        ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@67.220.95.102:8008#US%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@67.220.95.102:8008#t.me%2Fpeterjest
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@67.220.95.102:8008#🔒
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@67.220.95.102:8008#%F0%9F%87%BA%F0%9F%87%B8%20Ashburn,%20VA,%20United%20States%20(12)
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@67.220.95.102:8008#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A8008
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@67.220.95.102:8009#%F0%9F%87%BA%F0%9F%87%B8%20Ashburn,%20VA,%20United%20States%20(2)
+ss://YWVzLTI1Ni1nY206WFFJNDI2QVJYUExCNkNGSw==@31.40.212.221:20006#🔒
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@149.202.82.172:5000#%40Golestan_VPN%20-%20%20%F0%9F%87%AB%F0%9F%87
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@192.46.209.146:3306#🔒
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.134.94.168:3389#@awlix_irسری
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:3306#US%F0%9F%87%BA%F0%9F%87%B8+%7C+23.154.136.132-3306+%7C+102.68ms
@@ -496,10 +503,3 @@ ss://a91b85c5-de1a-4ff2-a447-933202708386@188.119.113.68:443?security=tls&encryp
 ss://a93bf8ef-0b48-4c49-95ff-03d20d211025@109.61.17.90:6587?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒
 ss://a93fc14d-9438-4f2f-9778-313e2c57031b@138.199.162.176:465?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_925_@Surfboardv2ray
 ss://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?security=tls&sni=5c53ca21.vpn-aryoo.pages.dev&type=ws&host=5c53ca21.vpn-aryoo.pages.dev#🔒
-ss://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?security=tls&sni=5c53ca21.vpn-aryoo.pages.dev&type=ws&host=5c53ca21.vpn-aryoo.pages.dev&path=%2F%3Fed%3D2560&fp=chrome#🔒
-ss://a95b8225-c07b-47fe-b1e4-b1bda89c7f7c@www.speedtest.net:80?allowInsecure=1&sni=Www.speedtest.net.sIgmasigmaboy.site.&type=ws&host=Www.speedtest.net.sIgmasigmaboy.site.&path=/-ViV2ry@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN?ed=2048#1%7C%F0%9F%87%BA%F0%9F%87%A61%20%7C%20%203.3MB/s%7C0%25%7COpenai
-ss://a96e28a5-6b24-4d38-a372-c7ed42b54212@172.67.163.123:443?security=tls&sni=MIKasA.drAgoNAllEy.ir.&type=ws&host=MIKasA.drAgoNAllEy.ir.&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒
-ss://a9718c02-7177-4100-a133-3c74ada7ce63@104.21.23.63:80?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🔒
-ss://a9718c02-7177-4100-a133-3c74ada7ce63@151.101.204.249:80?security=none&type=ws&host=website.amin-app.ir&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔒
-ss://a9718c02-7177-4100-a133-3c74ada7ce63@159.242.243.96:80?security=none&type=ws&host=website.amin-app.ir#🔒
-ss://a9718c02-7177-4100-a133-3c74ada7ce63@172.67.209.117:80?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🔒

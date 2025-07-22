@@ -3,7 +3,14 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://6bc29783-3ff6-4379-8650-611a7095307b@192.9.247.127:443?security=tls&flow=xtls-rprx-vision&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒
+        vless://6bc29783-3ff6-4379-8650-611a7095307b@129.159.227.221:443?security=tls&flow=xtls-rprx-vision-udp443&sni=767w1-7kjd0-9kcf2.xn--4gq62f52gppi29k.com&fp=safari&allowInsecure=0#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@140.238.101.15:443?security=tls&flow=xtls-rprx-vision-udp443&sni=767w1-38dc0-9icf2.xn--4gq62f52gppi29k.com&fp=safari&allowInsecure=0#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@141.253.124.138:443?security=tls&flow=xtls-rprx-vision-udp443&sni=b2-9fr2329-6bh.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@144.24.206.147:443?security=tls&flow=xtls-rprx-vision-udp443&sni=b2-9fr5232-96bh.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@165.1.68.155:443?security=tls&flow=xtls-rprx-vision&sni=767w1-38dc0-9ocf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@18.179.206.207:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@192.9.142.185:443?security=tls&flow=xtls-rprx-vision-udp443&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@192.9.247.127:443?security=tls&flow=xtls-rprx-vision&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒
 vless://6bc29783-3ff6-4379-8650-611a7095307b@193.123.187.39:443?security=tls&flow=xtls-rprx-vision-udp443&sni=767w1-38dc0-9kcf2.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
 vless://6bc29783-3ff6-4379-8650-611a7095307b@219.76.131.205:443?security=tls&flow=xtls-rprx-vision&sni=yfhk1.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3.0.101.89:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
@@ -496,10 +503,3 @@ vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@104.18.83.92:443?security=tls&sni=0
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.123.255.51:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=1#🔒
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560fp=random&security=tls#@Hope_Net-join-us-on-Telegram⚠️
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#🔒
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.152.69:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3DProxyIP.Oracle.cmliussss.net#🔒
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.153.170:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua#🔒
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.153.42:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua#🔒
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.153.72:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3Dproxyip.oracle.cmliussss.netsecurity%3Dtls#🔒
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.115:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#🔒
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.244:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2F%3Fed%3D2560security%3Dtls#🔒
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram

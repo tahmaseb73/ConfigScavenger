@@ -3,7 +3,14 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+arxfw2b78fi2q9hzylhn.freesocks.work-443+%7C+294.92ms
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.167-8080+%7C+111.51ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+151.242.251.153-8080+%7C+111.37ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVUVSaXl4dnJ6VEppNWtmdHg5ODBH@213.111.142.216:8443#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+213.111.142.216-8443+%7C+37.42ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg==@209.200.246.174:8388#CA%F0%9F%87%A8%F0%9F%87%A6+%7C+209.200.246.174-8388+%7C+41.01ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg==@209.200.246.174:8388#CA%F0%9F%87%A8%F0%9F%87%A6+%7C+209.200.246.174-8388+%7C+29.74ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg3D3A==@ca.opensocks.site:8388#CA%F0%9F%87%A8%F0%9F%87%A6+%7C+ca.opensocks.site-8388+%7C+86.22ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1U1Wg==@ca.opensocks.site:8388#CA%F0%9F%87%A8%F0%9F%87%A6+%7C+ca.opensocks.site-8388+%7C+70.34ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+arxfw2b78fi2q9hzylhn.freesocks.work-443+%7C+294.92ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpONW1rZTM0aXcyYjg=@85.159.229.43:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+85.159.229.43-443+%7C+252.2ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMd2lHV3BiMVZGYUw4Z1MwcVY5WEpj@de.xray.services:8443#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+de.xray.services-8443+%7C+331.71ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+45.144.54.33-34803+%7C+131.75ms
@@ -496,10 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:5
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBLT5OTC0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMTA0LjE3LjE0OC4yMiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1ZjcyNmZlMy1kODJlLTRkYTUtYTcxMS04YWYwY2JiMmI2ODIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJpdHRlci1ib2F0LTYwMDQuc2FtaW5laC1zZnJpLTk1LndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiL2I2MmE5NDhjLWZhYTItNGU4YS1iZjhhLTNmZjMxMjFjODc1YS5hc291bC1hdmEudG9wL2F6dW1hc2UucmVuIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImJpdHRlci1ib2F0LTYwMDQuc2FtaW5laC1zZnJpLTk1LndvcmtlcnMuZGV2IiwNCiAgImFscG4iOiAiaHR0cC8xLjEiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.0:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#KZ-%3E-%3EADL-%3E%40Sezar_Sec
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#US-%3EUS-%3EADL-%3E%40Sezar_Sec
-trojan://xxoo@138.197.5.103:443?security=tls&sni=telewebion.com&fp=chrome&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVTlqdXJ0SjJ6SHBUZjVDZUo1TENBekdvU2M3S0NZbXp1TThxblF6QVhVSkE4amZyZVlXUEp0TGNIQzRkSlhTU0FRM21MaEpkYlZQRTFNUm9wMzdXa2dhbnNjUm5ZdjQ%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
-vless://ba2def0c-37cc-417b-89fc-a15daeff639f@188.114.97.3:443?encryption=none&security=tls&sni=nobn4mmes6ngtz69omncgukgspsgyd9wfuwabmsuup4h29wpba6dfefdfsfdsfd.uicd7i4r.workers.Dev&type=ws&host=nobn4mmes6ngtz69omncgukgspsgyd9wfuwabmsuup4h29wpba6dfefdfsfdsfd.uicd7i4r.workers.Dev&path=Telegram%2Bchannel%2B%3A%2B%40pandavpntc#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#CA-%3EDE-%3EMTN-%3E%40Sezar_Sec
-vless://e1d3a347-d380-4ef6-8145-ae76318002d1@www.visa.com:8080?encryption=none&security=none&type=ws&host=0110.wdpkomyt.workers.dev&path=%2F%3Fed%3D2560#CA-%3E-%3EMCI-%3E%40Sezar_Sec
-vless://4004b4f2-d973-432f-8376-043a52cec187@57.129.41.217:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#DE-%3EDE-%3EMTN-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#GB-%3E-%3EMTN-%3E%40Sezar_Sec
