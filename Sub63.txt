@@ -3,25 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@172.67.157.174:443?sni=epccf.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.157.182:443?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.157.215:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@172.67.157.40:2096?sni=agepu.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.157.62:443?sni=epccj.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.158.150:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A527
-trojan://Aimer@172.67.158.150:443?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.158.217:443?sni=epccf.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.158.3:443?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.158.62:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@172.67.158.71:443?sni=epccx.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.158.96:443?sni=epcca.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.158.97:443?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.159.144:443?sni=epms.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.159.182:443?sni=epccj.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.159.40:443?sni=epccx.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.159.44:443?sni=epccv.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.163.2:443?sni=epccx.ambercc.filegear-sg.me#🔒
-trojan://Aimer@172.67.163.39:443?sni=epccv.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@172.67.163.39:443?sni=epccv.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.67.164.80:443?sni=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.67.168.28:443?sni=epcch.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.67.170.18:443?sni=epccf.ambercc.filegear-sg.me#🔒
@@ -503,3 +485,21 @@ trojan://OL4zCJlzpxm2@104.21.112.1:2083?security=tls&sni=yjc.twn24.ir&type=ws&ho
 trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net&alpn=h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net&type=tcp&allowInsecure=1#🔒
 trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net&type=tcp&headerType=none#t.me%2Fpeterjest
+trojan://PiEKEIIMDz1h@172.67.175.40:2087?security=tls&sni=tasnim.farsonline24.ir&type=ws&host=tasnim.farsonline24.ir&path=/рЯЖФ@M3HDIO1#🔒
+trojan://Pooria@104.17.147.22:80?type=ws&host=redfree8w.pooriam.ir&path=%2FtrLwW5jiTelegramFreeV2Alpha%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
+trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520%23FreeV2Alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
+trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
+trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#@VIPro
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
+trojan://Pooria@104.17.148.22:443?security=none&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-NONE%204%E2%83%A3
+trojan://Pooria@104.17.148.22:443?security=tls&sni=301.pOORiAm.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=301.pooriam.ir&path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
+trojan://Pooria@104.17.148.22:443?security=tls&sni=301.pOORiAm.ir&type=ws&host=301.pooriam.ir&path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+trojan://Q%5Ec5%26MzXRa%23%25@172.67.141.68:2087?security=tls&sni=fars.itn24.ir&type=httpupgrade&host=fars.itn24.ir&path=/dHV8LpKm#🔒
+trojan://Q4KnAZDVhc@157.245.45.54:443?security=tls&sni=uk.justfarazmand.ir&type=tcp#🔒
+trojan://QTKsqSws9Sgc@104.21.112.1:2087?security=tls&sni=hamshahri.twn24.ir&type=httpupgrade&host=hamshahri.twn24.ir&path=/🆔@M3HDIO1#🔒
+trojan://QTKsqSws9Sgc@104.21.48.1:2087?security=tls&sni=hamshahri.twn24.ir&type=httpupgrade&host=hamshahri.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒
+trojan://QTKsqSws9Sgc@104.21.80.1:2087?security=tls&sni=hamshahri.twn24.ir&type=httpupgrade&path=/#🔒
+trojan://QTKsqSws9Sgc@104.21.96.1:2087?security=tls&sni=hamshahri.twn24.ir&type=httpupgrade&host=hamshahri.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒
+trojan://RISBa%3B60%40iJ0Y9j%24@104.23.109.228:443?security=tls&sni=cOol-PAper-B369.H-175.wOrkErS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrNCANj6FlNU8ziJBH%3Fed%3D2560#%F0%9F%92%A7%209%20-%20Trojan%20-%20Clean%20IP%20%3A%20443
+trojan://RISBa%3B60%40iJ0Y9j%24@188.114.96.3:443?security=tls&sni=cOOL-paPER-B369.H-175.wORKeRs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrbVfBloJgsCGIXPAy%3Fed%3D2560#%F0%9F%92%A7%204%20-%20Trojan%20-%20IPv4%20%3A%20443
+trojan://RISBa%3B60%40iJ0Y9j%24@188.114.97.3:443?security=tls&sni=coOl-PapeR-b369.h-175.wOrkeRS.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrADnQEIdSzg7Lf0Mg%3Fed%3D2560#%F0%9F%92%A7%203%20-%20Trojan%20-%20IPv4%20%3A%20443
