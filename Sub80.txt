@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://6c877f5e-de88-487f-9c35-3158178a8fdd@45.156.25.214:777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.z4car.com&fp=chrome&pbk=qWY8r82gxj_HTKHco58xRRz8FpyZHZqyDVXycgpuynY&sid=d4dbb8&spx=/&type=tcp&headerType=none#🇳🇱NL_671_@Surfboardv2ray
-vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.197.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒
+        vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.197.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒
 vless://6cd3a8db-690d-4b6a-9779-fb0840d79831@185.143.233.120:443?security=tls&sni=jmu.ac.ir&type=ws&host=am.vijra.ir&path=%2Fjoin%3A%40Am20094&fp=chrome&alpn=http%2F1.1#🔒
 vless://6cd3a8db-690d-4b6a-9779-fb0840d79831@185.143.233.120:443?type=ws&path=%2Fjoin%3A%40%40vpnclashfa+-+674#IR🇮🇷
 vless://6cd3a8db-690d-4b6a-9779-fb0840d79831@185.143.233.120:443?type=ws&path=%2Fjoin%3A%40Am20094&host=am.vijra.ir&security=tls&fp=chrome&alpn=http%2F1.1&allowInsecure=1&sni=jmu.ac.ir#@meli_proxyy
@@ -503,3 +502,4 @@ vless://797755cb-bd76-4b11-8d57-9ce427e67441@194.182.79.41:48615?security=none&t
 vless://7979b82a-a615-4e4e-b4ce-34260f6e8bd6@104.17.147.22:80?mode=auto&path=%2F%3FBIA_CHANEL%40mtmvpn&security=&encryption=none&host=mother5280.dgclix.ir&type=xhttp#@meli_pro
 vless://7979b82a-a615-4e4e-b4ce-34260f6e8bd6@104.17.148.22:80?mode=auto&path=%2F%3FBIA_CHANELtelegram-MTMVPN&security=&encryption=none&host=mother5280.dgclix.ir&type=xhttp#@meli_proxyy
 vless://7979b82a-a615-4e4e-b4ce-34260f6e8bd6@104.17.148.22:80?mode=auto&path=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=mother5280.dgclix.ir&type=xhttp#@meli_proxyy
+vless://7979b82a-a615-4e4e-b4ce-34260f6e8bd6@104.17.148.22:80?mode=auto&path=%2F%3FJoin_Bade_Channel%40mtmvpn&security=&encryption=none&host=mother5280.dgclix.ir&type=xhttp#@meli_proxyy

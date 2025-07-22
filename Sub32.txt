@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://75acab94-15b1-4ac6-95d4-5c18e36a72eb@h5.xn--gmq282ekfhyys3gs.com:2087/?type=grpc&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&sni=dash.cloudflare.com&fp=firefox&security=reality&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&sid=83cdb009#@VIProxys
-ss://75c966ea-e594-4c73-8d11-07aa56ef10a7@104.24.196.20:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#🔒
+        ss://75c966ea-e594-4c73-8d11-07aa56ef10a7@104.24.196.20:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#🔒
 ss://75c966ea-e594-4c73-8d11-07aa56ef10a7@172.67.66.177:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#🔒
 ss://75ecef77-2050-4250-99f7-936d0188edf2@151.101.130.133:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/ws/?ed%3D2048&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
 ss://75ecef77-2050-4250-99f7-936d0188edf2@151.101.194.133:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/ws/?ed%3D2048&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
@@ -503,3 +502,4 @@ ss://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.161.104:2095?security=none&type
 ss://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.168.93:2095?sni=testdvpnhub69.95f425b718.workers.dev&type=ws&path=%2FProxyIP#🔒
 ss://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.168.93:80?encryption=none&security=none&type=ws&host=testdvpnhub69.95f425b718.workers.dev&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
 ss://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.168.93:80?security=none&type=ws&host=testdvpnhub69.95f425b718.workers.dev&path=%2F%3Fed%3D2048#🔒
+ss://8172ce99-4146-4dbe-bbd0-cf6533081014@104.22.13.192:80?security=none&type=ws&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&path=/#🔒

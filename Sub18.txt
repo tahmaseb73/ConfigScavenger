@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://0467eb58-29e0-4ecd-9b09-3b909862c377@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed=2560&security=&encryption=none=#🇨🇦CA_176_@Surfboardv2ray
-ss://046da250-d5ef-4867-9095-302477d54d20@140.99.233.58:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=feng.ipy29c99.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Berlin%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+        ss://046da250-d5ef-4867-9095-302477d54d20@140.99.233.58:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=feng.ipy29c99.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Berlin%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://046da250-d5ef-4867-9095-302477d54d20@140.99.233.58:80?sni=feng.ipy29c99.workers.dev&type=ws&host=feng.ipy29c99.workers.dev&allowInsecure=1#🔒
 ss://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?security=tls&sni=wear.net&type=ws&host=aw035.ir&path=%2F%3Fed%3D2048#🔒
 ss://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.214.133:443?security=tls&sni=wear.net&type=ws&host=aw035.ir&path=%2F%3Fed%3D2048#🔒
@@ -503,3 +502,4 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.63.29:443?sni=sl.ylka.dpdns.org&
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.63.89:443?sni=cz.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.200.160.119:443?sni=sv.ylka.dpdns.org&type=ws&host=sv.ylka.dpdns.org&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.139.160:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.139.160:443?sni=nl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒

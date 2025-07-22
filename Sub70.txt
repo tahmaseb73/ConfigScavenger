@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://236b64ca-e4c7-40ad-a49a-d3a8937b9b9b@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#DE🇩🇪
-vless://236d825d-ff2e-4751-af97-6ba3a34675fe@104.16.94.219:443?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒
+        vless://236d825d-ff2e-4751-af97-6ba3a34675fe@104.16.94.219:443?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒
 vless://236d825d-ff2e-4751-af97-6ba3a34675fe@104.24.180.93:443?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒
 vless://236d825d-ff2e-4751-af97-6ba3a34675fe@172.64.154.222:2053?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒
 vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#🔒
@@ -503,3 +502,4 @@ vless://2b160c50-7991-4274-86e3-9a5e2b3db8ef@151.101.130.133:80?path=/-LiV2ry@LI
 vless://2b2d95c9-b629-4fa8-faa6-cd2461743a7f@49.12.189.31:17100?type=tcp#🔒
 vless://2b2d95c9-b629-4fa8-faa6-cd2461743a7f@49.12.213.230:17100?type=tcp#🔒
 vless://2b2d95c9-b629-4fa8-faa6-cd2461743a7f@49.12.215.41:17100?security=none&type=tcp#🔒
+vless://2b2d95c9-b629-4fa8-faa6-cd2461743a7f@49.13.12.223:17100?type=tcp#🔒

@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.80.190:2083?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.80.190:443?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒
+        vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.80.190:443?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.80.190:8443?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80?encryption=none&security=none&type=ws&host=c.lkzb-0t0.workers.dev&path=%2F%3Fed%3D2048#t.me%2Fpeterjest
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=c.lkzb-0t0.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
@@ -503,3 +502,4 @@ vless://da064419-96e2-4ee4-b98d-f22ef1fe0a65@104.19.150.10:2086?path=%2Fd3d3Lmly
 vless://da064419-96e2-4ee4-b98d-f22ef1fe0a65@104.19.150.10:2086?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=&encryption=none&host=mci.mtn.ir.com.org.net.om.org.net.hy.gameapkmode.info.&type=httpupgrade#@meli_proxyy
 vless://da064419-96e2-4ee4-b98d-f22ef1fe0a65@104.19.150.10:2086?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=&encryption=none&host=mci.mtn.ir.com.org.net.om.org.www.lighttolife.net.&type=httpupgrade#@meli_pro
 vless://da064419-96e2-4ee4-b98d-f22ef1fe0a65@104.19.150.10:2086?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=&encryption=none&host=mci.mtn.ir.com.org.net.om.org.www.lighttolife.net.&type=httpupgrade#@meli_proxyy
+vless://da064419-96e2-4ee4-b98d-f22ef1fe0a65@104.19.150.10:2086?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=&encryption=none&host=mci.mtn.ir.com.org.net.om.org.www.lighttolife.net.&type=httpupgrade#RELAY🚩

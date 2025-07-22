@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://4d877e02-e49f-47d3-a542-42b568ceee02@172.64.145.120:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-vless://4d877e02-e49f-47d3-a542-42b568ceee02@172.67.167.112:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        vless://4d877e02-e49f-47d3-a542-42b568ceee02@172.67.167.112:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://4d877e02-e49f-47d3-a542-42b568ceee02@185.176.26.53:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://4d877e02-e49f-47d3-a542-42b568ceee02@188.114.99.157:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@103.160.204.39:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒
@@ -503,3 +502,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052?security=none&t
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.174:80?type=ws&host=redw.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.197:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.205:80?type=ws&host=redw.pooriam.ir&path=Telegram#🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.208:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA

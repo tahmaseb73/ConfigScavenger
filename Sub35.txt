@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://8b5e0dc6-abde-4323-ac8a-9f26824b3c5f@104.16.163.16:443?security=tls&sni=edgetunnel-3pc.pages.dev&type=ws&path=%2F%3Fed&fp=random#🔒
-ss://8b5e0dc6-abde-4323-ac8a-9f26824b3c5f@104.16.96.120:443?security=tls&sni=edgetunnel-3pc.pages.dev&type=ws&path=%2F%3Fed&fp=random#🔒
+        ss://8b5e0dc6-abde-4323-ac8a-9f26824b3c5f@104.16.96.120:443?security=tls&sni=edgetunnel-3pc.pages.dev&type=ws&path=%2F%3Fed&fp=random#🔒
 ss://8b5e0dc6-abde-4323-ac8a-9f26824b3c5f@104.24.3.206:443?security=tls&sni=edgetunnel-3pc.pages.dev&type=ws&path=%2F%3Fed&fp=random#🔒
 ss://8b6ad77f-aeef-413d-b1a1-6419770a8bc7@104.16.176.212:443?security=tls&sni=vless-new.linginglu.eu.org&type=ws&host=vless-new.linginglu.eu.org&allowInsecure=0#🔒
 ss://8b6ad77f-aeef-413d-b1a1-6419770a8bc7@104.24.191.191:443?sni=vless-new.linginglu.eu.org&type=ws&host=vless-new.linginglu.eu.org&allowInsecure=0#🔒
@@ -503,3 +502,4 @@ ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.67.175.36:2087?security=tls&sni=Ci
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.67.178.177:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.67.178.177:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@173.245.58.154:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@185.135.9.203:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒

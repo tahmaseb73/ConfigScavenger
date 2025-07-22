@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=maviks.ru&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0&type=tcp&headerType=none#REALITY|RU🇷🇺 | a.ru.maviks.ru-443 | 455.87ms
-vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram+%3A+%40PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#REALITY|DE🇩🇪 | 5.75.197.120-2025 | 156.2ms
+        vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram+%3A+%40PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#REALITY|DE🇩🇪 | 5.75.197.120-2025 | 156.2ms
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@ru.sfasti.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&headerType=none#REALITY|RU🇷🇺 | ru.sfasti.ru-443 | 756.18ms
 vless://52395e5e-40db-4c24-c32e-57954697f906@218.33.84.142:26518?encryption=none&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&type=tcp&headerType=none#REALITY|ID🇮🇩 | 218.33.84.142-26518 | 169.1ms
 vless://51a08234-9b5e-4e8d-804d-bd0a824bb809@185.100.159.28:16922?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=xkCxFXlnv8uM2BeOF6MqOU6N-mY4J8ounFhwmRUO-xY&sid=ccdce4&spx=%2F&type=grpc#REALITY|RU🇷🇺 | 185.100.159.28-16922 | 159.08ms
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDc0pMMHdrM2xYS2x1NHpZWnB6WElL@89.185.84.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDR0gyRW5xNWdQWWNNWlVCT0lpVHZ1@h110vpnus.outlinekeys.net:9483#US%F0%9F%87%BA%F0%9F%87%B8+%7C+h110vpnus.outlinekeys.net-9483+%7C+214.41ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+85.210.120.237-443+%7C+147.94ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+85.210.120.237-443+%7C+146.74ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@4.158.76.91:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+4.158.76.91-443+%7C+146.65ms
