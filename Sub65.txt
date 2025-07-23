@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.84:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
+        trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.59:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.66:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.69:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.80:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.84:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.88:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.8:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
 trojan://c6840587-7ac4-40be-aa4b-ae327eb4fa53@172.67.200.117:443?security=tls&sni=ccdfRt6.890634.Xyz&type=ws&host=ccdfrt6.890634.xyz&path=%2FogSVyJu0ksqZjqvVUXlLhk95Ad&fp=chrome&alpn=http%2F1.1#🔒
@@ -499,7 +503,3 @@ trojan://telegram-id-privatevpns@15.236.13.62:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@15.236.13.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
 trojan://telegram-id-privatevpns@15.236.59.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@15.236.59.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs🤯
-trojan://telegram-id-privatevpns@15.236.59.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
-trojan://telegram-id-privatevpns@15.236.59.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
-trojan://telegram-id-privatevpns@15.236.59.146:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒
-trojan://telegram-id-privatevpns@15.237.104.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش

@@ -78,10 +78,10 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.1
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai6lzpnumq&security=tls&encryption=none&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=random&type=ws&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2F&security=tls&alpn=h3&encryption=none&host=nginx-z.pages.dev&type=ws&sni=NGINX-Z.pages.DEV#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7```
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-Hr6yYQkgXg.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-Hr6yYQkgXg.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-Hr6yYQkgXg.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-Hr6yYQkgXg.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-WXqfuE2j3A.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-WXqfuE2j3A.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-WXqfuE2j3A.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-WXqfuE2j3A.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
 hysteria2://4VDmo53kWX@185.219.81.33:18865?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal2
 hysteria2://4VDmo53kWX@185.219.81.33:20675?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal
 hysteria2://4VDmo53kWX@185.219.81.33:50757?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal3
