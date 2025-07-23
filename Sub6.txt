@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#REALITY|KZ🇰🇿 | 83.222.23.81-38065 | 186.34ms
+        vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=%2F&type=tcp&headerType=none#REALITY|CA🇨🇦 | amazon-13.cristiano.name.ng-443 | 44.16ms
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#REALITY|KZ🇰🇿 | 83.222.23.81-38065 | 186.34ms
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&type=tcp&headerType=none#REALITY|KZ🇰🇿 | 83.222.23.81-38065 | 175.79ms
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#REALITY|KZ🇰🇿 | 83.222.23.81-38065 | 181.01ms
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺 | 5.181.171.10-443 | 29.72ms
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@4.158.76.91:443#GB%F0%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZ3JoSUY5c2lsUUtNNHk0NUZ2c0Zq@h110vpntr.outlinekeys.net:65262#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+h110vpntr.outlinekeys.net-65262+%7C+249.51ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+admin.c2.havij.co-443+%7C+100.37ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@172.187.109.127:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+172.187.109.127-443+%7C+97.28ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBWHlHUlRkeU8wbjZ4Y0dt@admin.c2.havij.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+admin.c2.havij.co-443+%7C+104.55ms

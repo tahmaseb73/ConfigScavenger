@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.108.25:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.108.234:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.108.25:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.108.65:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.108.76:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.108.91:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -502,4 +503,3 @@ vless://bba36957-66e0-4987-88db-7be198612689@104.18.13.66:443?security=tls&sni=c
 vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.44.223:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&fp=chrome#🔒
 vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&fp=chrome#🔒
 vless://bbacf1fe-4b0b-42fe-89cb-32fa9c438063@152.42.184.200:443?security=tls&sni=webex.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&fp=chrome&type=tcp&encryption=none#US🇺🇸
-vless://bbe3c5b9-876f-59c9-9793-9eeb3edcbc22@138.124.31.187:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش

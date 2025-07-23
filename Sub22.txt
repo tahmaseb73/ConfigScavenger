@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@188.114.96.113:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        ss://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@172.67.197.186:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@188.114.96.113:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@188.114.98.120:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@188.114.98.243:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@188.114.99.43:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -502,4 +503,3 @@ ss://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?security=tls&sni=par
 ss://34aeb3df-956b-4686-9db3-b6443408c802@top.cloudupdate.ir:29685/?type=grpc&serviceName=&authority=&security=reality&pbk=Ws0Bbou_txQJWcd1fGsdyRgVjwCyN0Tx0f95-QcHY18&fp=chrome&sni=yahoo.com&sid=8f9c09cd&spx=/#🇩🇪DE_336_@Surfboardv2ray
 ss://34b3cbba-e6ac-485a-9481-976a0415eab9@172.67.141.28:443?security=tls&sni=ESEtSeCuriTYliCEnse.nZEWlx.wOrKeRs.DeV&type=ws&host=esEtSecURITYLicEnse.NzeWLx.WorKErs.deV&path=%2FTelegram@V2ray_Alpha%2Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 ss://34b3cbba-e6ac-495a-9481-976a0419eab9@172.67.200.215:443?encryption=none&security=tls&sni=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&allowInsecure=1&type=ws&host=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.200.215%3A443
-ss://34b3cbba-e6ac-495a-9481-976a0419eab9@172.67.200.215:443?security=tls&sni=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&type=ws&host=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&path=%2F#🔒
