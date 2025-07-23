@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+arxfw2b78fi2q9hzylhn.freesocks.work-443+%7C+369.78ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+160.19.78.75-443+%7C+304.26ms
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+160.19.78.75-443+%7C+304.26ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMd2lHV3BiMVZGYUw4Z1MwcVY5WEpj@de.xray.services:8443#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+de.xray.services-8443+%7C+296.73ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUThoTGlYNjlWVWxjZmtmTTluZThT@h110vpnch.outlinekeys.net:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+h110vpnch.outlinekeys.net-4248+%7C+235.49ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+141.98.4.67-52952+%7C+142.85ms
@@ -503,3 +502,4 @@ vless://6e9c63fe-e36c-45e2-80d2-f8662c0f6783@www.speedtest.net:443?encryption=no
 vless://ad4a8fe9-2a32-49c4-a532-e4eef253f148@104.19.54.50:443?encryption=none&security=tls&sni=azadanet.azadanet.workers.dev&type=ws&host=azadanet.azadanet.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#CA-%3E-%3EMCI-%3E%40Sezar_Sec
 vless://5e950790-bf2e-463c-bea5-2e3dcb0cc1d8@ov-germany1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#DE-%3EDE-%3ERTL-%3E%40Sezar_Sec
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBLT5GUi0+TVROLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMTcyLjY3LjE3MC4xMyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImdsd2VpZGYuc2JzIiwNCiAgInBhdGgiOiAiL2xpbmt3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJnbHdlaWRmLnNicyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?encryption=none&security=none&type=grpc#US-%3EUS-%3EMTN-%3E%40Sezar_Sec

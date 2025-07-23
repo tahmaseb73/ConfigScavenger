@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://37243333-f398-4239-817b-fcdc40922ce4@108.162.195.250:443?security=tls&sni=iix74u.alligator27.com&type=ws&host=iix74u.alligator27.com&path=/wss&alpn=http/1.1#🔒
-vless://37243333-f398-4239-817b-fcdc40922ce4@162.159.44.250:443?security=tls&sni=iix74u.alligator27.com&type=ws&host=iix74u.alligator27.com&path=/wss&alpn=http/1.1#🔒
+        vless://37243333-f398-4239-817b-fcdc40922ce4@162.159.44.250:443?security=tls&sni=iix74u.alligator27.com&type=ws&host=iix74u.alligator27.com&path=/wss&alpn=http/1.1#🔒
 vless://37243333-f398-4239-817b-fcdc40922ce4@172.64.35.250:443?security=tls&sni=iix74u.alligator27.com&type=ws&host=iix74u.alligator27.com&path=/wss&alpn=http/1.1#🔒
 vless://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?encryption=none&security=tls&sni=freedom11.fmnxmt.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=freedom11.fmnxmt.workers.dev&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.84.22%3A443
 vless://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?security=tls&sni=freedom11.fmnxmt.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=freedom11.fmnxmt.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
@@ -503,3 +502,4 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.171.243.145:30049?security=tls&s
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.171.243.145:50027?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@59.5.53.119:23349?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@66.203.150.210:7656?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒
+vless://4094f4ed-cc16-46b2-a1a0-e56910baf105@104.18.22.19:80?path=/Join@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG?ed#🔒

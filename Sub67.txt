@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.24.184.113:80?type=ws&host=sparkling-limit-ppal03.yibijow194.workers.dev&path=%2F#🔒
-vless://03dbff96-9b92-43c8-ae14-1c10fb10a489@151.101.130.133:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=Lightning.ir&type=ws#🇺🇸US_173_@Surfboardv2ray
+        vless://03dbff96-9b92-43c8-ae14-1c10fb10a489@151.101.130.133:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=Lightning.ir&type=ws#🇺🇸US_173_@Surfboardv2ray
 vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?encryption=none&security=none&sni=ppal03-ppal03.letiwe3303.workers.dev&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=%2F#t.me%2Fpeterjest
 vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?sni=ppal03-ppal03.letiwe3303.workers.dev&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/&allowInsecure=1#🔒
 vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
@@ -503,3 +502,4 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.227.116:443?sni=hn.ylka.dpdns
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.248.209:60000?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@194.76.18.83:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.41.221.186:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.62.62.156:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒

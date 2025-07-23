@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | obedient-menu.seotoolsforyou.co.uk-80 | 21.31ms
-vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?type=ws&encryption=none&flow=&path=%2F#RELAY🚩 | obedient-menu.seotoolsforyou.co.uk-80 | 2.23ms
+        vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?type=ws&encryption=none&flow=&path=%2F#RELAY🚩 | obedient-menu.seotoolsforyou.co.uk-80 | 2.23ms
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:80?path=%2F&security=&encryption=none&type=ws#RELAY🚩 | obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk-80 | 2.99ms
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:80?flow=&path=%2F&type=ws#RELAY🚩 | obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk-80 | 2.35ms
 vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=0f917152a871e9c0#REALITY|RU🇷🇺 | a.ru.maviks.ru-443 | 365.59ms
@@ -503,3 +502,4 @@ vless://9beca423-b31d-496d-aee6-a1ab64f0bd81@54.36.162.84:8880?security=reality&
 vless://9987a847-5e57-440c-890e-33fd179af6ff@130.185.122.252:28964?encryption=none&security=reality&sni=www.bing.com&fp=chrome&pbk=aaKkZMXLmcOEj1Gt7uEpXU5buAKh9V33PiRwJvuOqXs&sid=5405&spx=%2F&type=xhttp&path=%2Fgrizzlyvpn&mode=auto#REALITY|NL🇳🇱 | 130.185.122.252-28964 | 96.1ms
 vless://96095804-6e2b-4ed4-8bd5-49c28cb73679@194.182.79.64:14074?mode=gun&security=reality&encryption=none&pbk=B-hICgbbnIsubfTgqZknMtYp-iY1VndOynbv_iXcEng&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=61#REALITY|CZ🇨🇿 | 194.182.79.64-14074 | 103.12ms
 vless://92c7897a-6494-4719-aefd-aea8280314ce@vip1.proxystore11.news:10358?security=reality&encryption=none&pbk=axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=b373044d#REALITY|DE🇩🇪 | vip1.proxystore11.news-10358 | 131.82ms
+vless://92c7897a-6494-4719-aefd-aea8280314ce@vip1.proxystore11.news:10358?security=reality&encryption=none&pbk=axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk&headerType=&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=b373044d#REALITY|DE🇩🇪 | vip1.proxystore11.news-10358 | 101.81ms

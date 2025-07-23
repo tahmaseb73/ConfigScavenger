@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?encryption=none&security=none&type=grpc#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
-vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:26113?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=GUcD8LK1DFNuVun5yhsqeEego_p3PF2yIdvE2KY2Nng&sid=1fbd20fd&type=tcp&headerType=none#CA-%3ECA-%3EMTN-%3E%40Sezar_Sec
+        vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:26113?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=GUcD8LK1DFNuVun5yhsqeEego_p3PF2yIdvE2KY2Nng&sid=1fbd20fd&type=tcp&headerType=none#CA-%3ECA-%3EMTN-%3E%40Sezar_Sec
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#CA-%3E-%3EMCI-%3E%40Sezar_Sec
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.102:8118#US-%3EUS-%3EADL-%3E%40Sezar_Sec
 trojan://xxoo@138.197.5.103:443?security=tls&sni=telewebion.com&type=tcp&headerType=none#US-%3EUS-%3ERTL-%3E%40Sezar_Sec
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:803#%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:812#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.138-0168
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:808#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0167
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:809#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0166
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:812#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0165

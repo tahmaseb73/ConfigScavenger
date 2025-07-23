@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://cc5d15ef-fd93-40f6-b2f9-7a80225e7e5d@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706570136.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706570136.amsterdam-prx-dnraaal.info&path=%2Fnqxbfjws#RELAY🚩 | 638879176706570136.amsterdam-prx-dnraaal.info-2096 | 2.52ms
-vless://cc4c43a7-b599-4d15-8f29-150dea82a2ba@151.101.2.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#US🇺🇸 | hajlab.ucdavis.edu-443 | 193.92ms
+        vless://cc4c43a7-b599-4d15-8f29-150dea82a2ba@151.101.2.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#US🇺🇸 | hajlab.ucdavis.edu-443 | 193.92ms
 vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080?path=%2Fkhkdjhsd%3Fed%3D2048&security=none&encryption=none&host=in2772.novintecc.ORG.&type=httpupgrade#RELAY🚩 | in2772.novintecc.ORG.-8080 | 91.38ms
 vless://cbfa8a4f-ca68-45b2-80b7-dbdf4d00dc95@104.24.150.187:2087?path=%2F&security=tls&encryption=none&host=vless1.chuyangz1.sbs&fp=chrome&type=ws&sni=vless1.chuyangz1.sbs#RELAY🚩 | vless1.chuyangz1.sbs-2087 | 20.17ms
 vless://cba4b9d0-60ca-4b37-a932-f8b723f1c700@91.99.188.127:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#IR🇮🇷 | exo.ir-443 | 223.88ms
@@ -503,3 +502,4 @@ vless://5767ae45-cdd4-4df2-bbe3-c21b66ced9b1@95.164.68.37:443?mode=gun&security=
 vless://57300a6a-3d22-4edb-9794-c0fef45ce946@162.159.20.126:80?type=httpupgrade&security=none&host=v2ngfast.nanvrfood.ir.&path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048#FR🇫🇷 | v2ngfast.nanvrfood.ir.-80 | 361.51ms
 vless://5721967b-7414-4694-8110-fa524c96087f@216.22.5.68:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#RELAY🚩 | zula.ir-443 | 2.9ms
 vless://56652249-2e67-4429-b86c-3df8b838ad85@tgju.org:8080?encryption=none&security=none&type=ws&host=4j.QBAo1g5z6k.ZulaIR.org.&path=%2F#RELAY🚩 | 4j.QBAo1g5z6k.ZulaIR.org.-8080 | 135.46ms
+vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | obedient-menu.seotoolsforyou.co.uk-80 | 21.31ms

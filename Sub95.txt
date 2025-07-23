@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.6.199:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.6.217:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.6.217:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.6.95:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.9.183:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.128:443?sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&allowInsecure=1#🔒
@@ -503,3 +502,4 @@ vless://f88e0a3c-75d5-411d-a39d-7a95bb123fd0@172.67.24.121:2087?security=tls&sni
 vless://f8ce69c3-7571-4262-8d6a-c0d0c53ec791@31.57.33.106:23836?security=none&encryption=none&host=/Join_Bade_Channel@JOKERRVPN&headerType=none&type=tcp#🇹🇷TR_1285_@Surfboardv2ray
 vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?security=none&type=tcp&headerType=http#🔒
 vless://f93a6388-c998-4864-8eb7-c61de4754aca@95.38.38.226:21000?security=none&encryption=none&host=www.irna.ir.www.alibaba.ir&headerType=http&type=tcp#%40v2raying
+vless://f93a6388-c998-4864-8eb7-c61de4754aca@95.38.38.226:23000?security=none&type=tcp&host=speedtest.net.fast.com&headerType=http#@Hope_Net-join-us-on-Telegram
