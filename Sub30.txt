@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.5.57:2087?security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=1&fp=chrome&type=ws&path=/flow%3D-udp443&host=23-lsjfjwiposkfls.hc2021.cfd&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+        ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.5.157:2083?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&fp=random#🔒
+ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.5.57:2087?security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=1&fp=chrome&type=ws&path=/flow%3D-udp443&host=23-lsjfjwiposkfls.hc2021.cfd&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.5.57:2087?security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&fp=chrome#🔒
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.10:80?type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40%40pgkj666%2F%3Fed%3D2560#🔒
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.239:80?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=0#🔒
@@ -502,4 +503,3 @@ ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=&encryptio
 ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&encryption=none&headerType=none&type=tcp#%40erfanandroid
 ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&encryption=none&headerType=none&type=tcp#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supp
 ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram
-ss://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&encryption=none&headerType=none&type=tcp#🇮🇷IR_630_@Surfboardv2ray
