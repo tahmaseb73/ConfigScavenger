@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697
+        ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#🔒
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#%F0%9F%87%BA%F0%9F%87%B8%20US-23.154.136.51%3A6697
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#%F0%9F%87%BA%F0%9F%87%B8%20US-23.154.136.51:6697
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#23.154.136.51:6697%20(1)
@@ -502,4 +503,3 @@ ss://a736037b-bbef-44e3-a44e-964be0e2826b@138.201.159.111:45216?security=reality
 ss://a73cf704-008c-439b-8a22-8b693a9e3104@104.16.203.184:2083?sni=lyxahh316.dpdns.org&type=ws&host=lyxahh316.dpdns.org&allowInsecure=0#🔒
 ss://a73cf704-008c-439b-8a22-8b693a9e3104@104.16.43.61:2053?sni=lyxahh316.dpdns.org&type=ws&host=lyxahh316.dpdns.org&allowInsecure=0#🔒
 ss://a73cf704-008c-439b-8a22-8b693a9e3104@162.159.153.245:2087?security=tls&sni=lyxahh316.dpdns.org&type=ws&host=lyxahh316.dpdns.org&path=%2F%3Fed%3D2560#🔒
-ss://a73cf704-008c-439b-8a22-8b693a9e3104@190.93.246.207:2083?sni=lyxahh316.dpdns.org&type=ws&host=lyxahh316.dpdns.org&allowInsecure=0#🔒
