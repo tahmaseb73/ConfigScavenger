@@ -3,7 +3,14 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@103.116.7.67:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
+        trojan://Aimer@103.116.7.152:2096?sni=epme.ambercc.filegear-sg.me#🔒
+trojan://Aimer@103.116.7.189:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@103.116.7.220:2096?sni=epccj.ambercc.filegear-sg.me#🔒
+trojan://Aimer@103.116.7.230:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@103.116.7.235:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@103.116.7.248:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=tcp&allowInsecure=1#🔒
+trojan://Aimer@103.116.7.248:443?security=tls&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=%2F#t.me%2Fpeterjest
+trojan://Aimer@103.116.7.67:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
 trojan://Aimer@104.129.166.131:8443?sni=epme.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.129.167.255:8443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=/#🔒
 trojan://Aimer@104.16.0.121:443?sni=epcco.ambercc.filegear-sg.me#🔒
@@ -496,10 +503,3 @@ trojan://Aimer@108.165.152.1:2087?sni=epccx.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.202:2083?sni=epccj.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.204:2096?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.207:443?sni=epcca.ambercc.filegear-sg.me#US2
-trojan://Aimer@108.165.152.207:443?sni=epcca.ambercc.filegear-sg.me#🔒
-trojan://Aimer@108.165.152.219:443?sni=epccj.ambercc.filegear-sg.me#🔒
-trojan://Aimer@108.165.152.225:2083?sni=epmw.ambercc.filegear-sg.me#🔒
-trojan://Aimer@108.165.152.239:8443?sni=epccf.ambercc.filegear-sg.me#🔒
-trojan://Aimer@108.165.152.241:2053?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@108.165.152.241:2053?sni=epmw.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@108.165.152.249:2087?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram⚠️

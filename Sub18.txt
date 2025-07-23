@@ -3,7 +3,14 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eleven.dilik.co#🇵🇱PL_174_@Surfboardv2ray
+        ss://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
+ss://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=%2F%3Fed%3D2560#🔒
+ss://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒
+ss://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.4.120:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒
+ss://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.5.114:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒
+ss://04314541-ba99-49d9-9547-868e16961a1c@51.89.71.174:2053?security=reality&sni=sourceforge.net&type=tcp&fp=chrome&pbk=FfxMkKZQbG8Cdua7TSwH2NCOr-7JnJHSqfVq7dEHrCQ&sid=a153ba05a5faf65a#🔒
+ss://0460e65b-0c2c-4767-ae4a-0086bed6a2af@zula.ir:8443?security=tls&sni=us-1-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=us-1-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-126%20-%20US%20-%20I%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
+ss://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eleven.dilik.co#🇵🇱PL_174_@Surfboardv2ray
 ss://0467eb58-29e0-4ecd-9b09-3b909862c377@140.248.180.62:443?path=/Channel-MOSIV2--MOSIV2--Channel-MOSIV2--MOSIV2?ed=2560&security=tls&encryption=none=#🇺🇸US_175_@Surfboardv2ray
 ss://0467eb58-29e0-4ecd-9b09-3b909862c377@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed=2560&security=&encryption=none=#🇨🇦CA_176_@Surfboardv2ray
 ss://046da250-d5ef-4867-9095-302477d54d20@140.99.233.58:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=feng.ipy29c99.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Berlin%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
@@ -496,10 +503,3 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.54.74:443?sni=sl.ylka.dpdns.org&
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.63.116:443?sni=vx.ylks0033.dpdns.org&type=ws&host=vx.ylks0033.dpdns.org&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.63.200:443?sni=vx.ylks0033.dpdns.org&type=ws&host=vx.ylks0033.dpdns.org&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.63.211:443?sni=nn.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.63.29:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.63.89:443?sni=cz.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.200.160.119:443?sni=sv.ylka.dpdns.org&type=ws&host=sv.ylka.dpdns.org&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.139.160:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.139.160:443?sni=nl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.227.116:443?sni=hn.ylka.dpdns.org&type=ws&host=hn.ylka.dpdns.org&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.248.209:60000?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒

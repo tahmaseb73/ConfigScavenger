@@ -3,7 +3,14 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5000#US25%201.9MB%2Fs
+        ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#🔒
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#🔒
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#🔒
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#🔒
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#🔒
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5600#🔒
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:3306#🔒
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5000#US25%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5000#🔒
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5600#🔒
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:9090#🔒
@@ -496,10 +503,3 @@ ss://aaabccb-abac-aabc-dabc-bacccbcababa@127.0.0.1:2080?security=tls&type=tcp#_9
 ss://aaabccb-caba-acba-dabc-bacababcbcca@127.0.0.1:3080?security=tls&type=tcp#🛡
 ss://aaacbcb-acba-bcaa-dcab-bababccccbaa@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 ss://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?security=none&type=ws&host=luact.zahedan.eu.org#🔒
-ss://aabccba-baac-cbaa-abcd-baabcabacbcc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-ss://aabccba-baac-cbaa-abcd-baabcabacbcc@127.0.0.1:1080?security=tls&type=tcp#_927_@Surfboardv2ray
-ss://aad8ecd0-4fef-45ee-8cd6-b66e0dd06129@141.193.213.20:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=free.theekshana.store&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
-ss://aad8ecd0-4fef-45ee-8cd6-b66e0dd06129@141.193.213.21:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=free.theekshana.store&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
-ss://ab126a40-24fa-4a51-a505-00cfb67ada28@185.79.158.154:8087?security=none&encryption=none&host=/BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#🇮🇷IR_928_@Surfboardv2ray
-ss://ab126a40-24fa-4a51-a505-00cfb67ada28@185.79.158.154:8087?security=none&type=tcp&host=/BIA_CHANEL@JOKERRVPN&headerType=http#🔒
-ss://ab1ba65d-7af4-4ffb-bf26-44d79793af45@104.17.147.22:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=/#🔒
