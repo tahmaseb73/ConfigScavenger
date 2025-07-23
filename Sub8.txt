@@ -3,19 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#US-%3EUS-%3EADL-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q3BTSk1Za0ZRZXBHNG80UU5LeW83cW90cFJFSnp3UzFiYmt5SE5hdXBocktnWVVoVTNCTEUxbmJBZVRxWVpoOHJNOUtSZXhuWU5nRVdCbXRaSDFyanhkMmJpRHFYSk0%3D@185.5.38.111:55988#FI-%3EFI-%3EADL-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMkJXbzJ6S2ZtQTdKb1doblJRU1hyTjZMRm1QU3BMY2NwWVZjVWVvOFVvTXE0ZHZGYWZiWjNXaURWZkNGRHNMVlBlNWppRmFnak1mNDVaVmc5cnhSazFKUmNKS1JLSlE%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#US-%3ENL-%3ERTL-%3E%40Sezar_Sec
-vless://d26f473f-db91-45b2-8c7e-8f38d294b6b5@172.67.73.163:8080?encryption=none&security=none&type=ws&host=e2.Ion7FPGEJ8.zuLAIR.org.&path=%2F%3Fed%3D2048#CA-%3EPL-%3EMTN-%3E%40Sezar_Sec
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI-%3EFI-%3EMTN-%3E%40Sezar_Sec
-vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?encryption=none&security=tls&sni=yx.yushan.dpdns.org&fp=random&type=ws&host=yx.yushan.dpdns.org&path=%2F%3Fed%3D2560#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
-vless://6e9c63fe-e36c-45e2-80d2-f8662c0f6783@www.speedtest.net:443?encryption=none&security=tls&sni=B1333196-venoM.aBolfAzlSHOKRI80.WORKErs.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=b1333196-venom.abolfazlshokri80.workers.dev&path=%2FdredzCvKNAjjBpoH%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
-vless://ad4a8fe9-2a32-49c4-a532-e4eef253f148@104.19.54.50:443?encryption=none&security=tls&sni=azadanet.azadanet.workers.dev&type=ws&host=azadanet.azadanet.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#CA-%3E-%3EMCI-%3E%40Sezar_Sec
-vless://5e950790-bf2e-463c-bea5-2e3dcb0cc1d8@ov-germany1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#DE-%3EDE-%3ERTL-%3E%40Sezar_Sec
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBLT5GUi0+TVROLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMTcyLjY3LjE3MC4xMyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImdsd2VpZGYuc2JzIiwNCiAgInBhdGgiOiAiL2xpbmt3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJnbHdlaWRmLnNicyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?encryption=none&security=none&type=grpc#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
-vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:26113?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=GUcD8LK1DFNuVun5yhsqeEego_p3PF2yIdvE2KY2Nng&sid=1fbd20fd&type=tcp&headerType=none#CA-%3ECA-%3EMTN-%3E%40Sezar_Sec
+        vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:26113?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=GUcD8LK1DFNuVun5yhsqeEego_p3PF2yIdvE2KY2Nng&sid=1fbd20fd&type=tcp&headerType=none#CA-%3ECA-%3EMTN-%3E%40Sezar_Sec
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#CA-%3E-%3EMCI-%3E%40Sezar_Sec
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.102:8118#US-%3EUS-%3EADL-%3E%40Sezar_Sec
 trojan://xxoo@138.197.5.103:443?security=tls&sni=telewebion.com&type=tcp&headerType=none#US-%3EUS-%3ERTL-%3E%40Sezar_Sec
@@ -503,3 +491,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:809#%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:807#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0179
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:801#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:800#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.138-0177
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:801#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.152-0176
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:807#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0175
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:804#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.138-0174
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:809#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.152-0173
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:811#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0172
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:803#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0171
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.184:809#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.184-0170
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:803#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.138-0169
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:812#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.138-0168
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:808#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0167
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:809#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0166
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:812#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0165
