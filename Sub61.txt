@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@104.129.167.255:8443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=/#🔒
+        trojan://Aimer@103.116.7.67:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒
+trojan://Aimer@104.129.166.131:8443?sni=epme.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.129.167.255:8443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=/#🔒
 trojan://Aimer@104.16.0.121:443?sni=epcco.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.16.0.144:443?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.16.0.249:443?sni=epccv.ambercc.filegear-sg.me#🔒
@@ -501,5 +503,3 @@ trojan://Aimer@108.165.152.239:8443?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.241:2053?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@108.165.152.241:2053?sni=epmw.ambercc.filegear-sg.me&allowInsecure=0#🔒
 trojan://Aimer@108.165.152.249:2087?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram⚠️
-trojan://Aimer@108.165.152.249:2087?sni=epmw.ambercc.filegear-sg.me&allowInsecure=0#🔒
-trojan://Aimer@108.165.152.252:2096?security=tls&sni=epccf.ambercc.filegear-sg.me&type=ws&host=epccf.ambercc.filegear-sg.me&path=/#🔒

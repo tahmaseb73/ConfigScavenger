@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@176.124.223.92:443?sni=epccn.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@176.124.223.40:2053?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒
+trojan://Aimer@176.124.223.50:8443?security=tls&sni=ageph.ambercc.filegear-sg.me&type=ws&host=ageph.ambercc.filegear-sg.mehttp/1.1&path=/#🔒
+trojan://Aimer@176.124.223.92:443?sni=epccn.ambercc.filegear-sg.me#🔒
 trojan://Aimer@176.53.144.206:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒
 trojan://Aimer@176.53.144.206:8443?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Teleg
 trojan://Aimer@18.143.93.7:33522?sni=epcco.ambercc.filegear-sg.me#🔒
@@ -501,5 +503,3 @@ trojan://aTArbZ2F0E@172.66.168.213:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&hos
 trojan://aTArbZ2F0E@172.66.168.218:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#t.me%2Fpeterjest
 trojan://aTArbZ2F0E@172.66.168.218:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#🔒
 trojan://aTArbZ2F0E@172.66.168.218:443?type=ws&sni=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws&host=uSa-vp-27.bLAzECLOUD.SITE#%E6%9C%AA%E7%9F%A548
-trojan://aTArbZ2F0E@172.66.168.223:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#t.me%2Fpeterjest
-trojan://aTArbZ2F0E@172.66.168.223:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#🔒

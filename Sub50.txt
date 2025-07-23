@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d6660712-4d18-47fd-b095-0c36db667250@104.21.75.191:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        ss://d6660712-4d18-47fd-b095-0c36db667250@104.18.28.219:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://d6660712-4d18-47fd-b095-0c36db667250@104.18.77.116:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://d6660712-4d18-47fd-b095-0c36db667250@104.21.75.191:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://d6660712-4d18-47fd-b095-0c36db667250@104.24.213.42:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://d6660712-4d18-47fd-b095-0c36db667250@141.101.121.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://d6660712-4d18-47fd-b095-0c36db667250@162.159.192.14:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -501,5 +503,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?type=grpc&security=&
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.15:8880?type=grpc&security=&encryption=none#🔒
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.174:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FChicago%F0%9F%85%BF%EF%B8%8Fping%3A107.79ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.175:8880?encryption=none&security=none&type=grpc#@VIPro
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.175:8880?encryption=none&security=none&type=grpc#@VIProxys
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.178:8880?mode=gun&security=&encryption=none&type=grpc#@meli_proxyy

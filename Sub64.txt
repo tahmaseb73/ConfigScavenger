@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://aTArbZ2F0E@172.66.168.226:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#t.me%2Fpeterjest
+        trojan://aTArbZ2F0E@172.66.168.223:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#t.me%2Fpeterjest
+trojan://aTArbZ2F0E@172.66.168.223:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#🔒
+trojan://aTArbZ2F0E@172.66.168.226:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#t.me%2Fpeterjest
 trojan://aTArbZ2F0E@172.66.168.226:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#🔒
 trojan://aTArbZ2F0E@172.66.168.227:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#t.me%2Fpeterjest
 trojan://aTArbZ2F0E@172.66.168.227:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#🔒
@@ -501,5 +503,3 @@ trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.133.248:443?security=tls&sn
 trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.133.248:443?security=tls&type=ws&sni=DDd.890604.FIlEGear-sG.Me&path=/mZr1mA5hub7QHHkQBzYO&host=ddd.890604.filegear-sg.me#%E6%9C%AA%E7%9F%A5144
 trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@103.224.182.251:443?security=tls&sni=sg2.jjzgy.live&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@103.224.182.251:443?security=tls&sni=us1.jjzgy.live&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://f1f6dad0-0622-11f0-92c5-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش

@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?security=tls&sni=iran.akcovufun.ir&type=ws&host=iran.akcovufun.ir&path=%2F#🔒
+        vless://39a26a13-639e-43f8-f356-127f6735cd78@188.34.164.75:6666?type=grpc&serviceName=%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy#@Hope_Net-join-us-on-Telegram
+vless://39a26a13-639e-43f8-f356-127f6735cd78@188.34.164.75:6666?type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#DE🇩🇪
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?security=tls&sni=iran.akcovufun.ir&type=ws&host=iran.akcovufun.ir&path=%2F#🔒
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.1.117:2053?security=tls&sni=iran.akcovufun.ir&type=ws&host=iran.akcovufun.ir&path=%2F#🔒
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security=tls&encryption=none&host=ir.akcovufun.ir&type=ws&sni=ir.akcovufun.ir#%40G0Dv2ray
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security=tls&encryption=none&host=ir.akcovufun.ir&type=ws&sni=ir.akcovufun.ir#%40V2ray1_Ng
@@ -501,5 +503,3 @@ vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@104.26.10.91:443?security=tls&sni=c
 vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@104.26.3.137:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@162.159.129.41:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@172.67.162.100:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@172.67.164.184:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@172.67.74.219:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

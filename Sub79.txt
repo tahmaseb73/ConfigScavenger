@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@81.30.156.91:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
+        vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@37.157.255.161:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
+vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@5.199.138.12:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
+vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@81.30.156.91:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@85.114.138.122:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@89.163.214.14:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@89.163.221.152:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒
@@ -501,5 +503,3 @@ vless://6d2a3f0d-3d10-4e97-a73c-aa5f88d7184f@172.66.168.201:443?security=tls&sni
 vless://6d3c5337-ddb9-4746-b931-e7bfa44183ad@5.252.21.62:18946/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&sni=dl.google.com&fp=chrome&security=reality&pbk=Rwk0fJSI3AOCRHGCEuEGRadxWUxCWPi7-S7yITPxsV0&sid=a5#⚡Telegram
 vless://6d3c5337-ddb9-4746-b931-e7bfa44183ad@5.252.21.62:18946?security=reality&sni=dl.google.com&type=tcp&fp=chrome&pbk=Rwk0fJSI3AOCRHGCEuEGRadxWUxCWPi7-S7yITPxsV0&sid=a5#🇳🇱[openproxylist.com]
 vless://6d3c5337-ddb9-4746-b931-e7bfa44183ad@5.252.21.62:18946?security=reality&sni=dl.google.com&type=tcp&fp=chrome&pbk=Rwk0fJSI3AOCRHGCEuEGRadxWUxCWPi7-S7yITPxsV0&sid=a5#🔒
-vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.0.137:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D2048#🔒
-vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.0.150:80?security=none&type=ws&host=game.baziha0098.ir#🔒

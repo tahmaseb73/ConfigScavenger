@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://bd892d3c-c912-43fa-b434-39ee9343d5b5@94.182.129.84:90?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.182.129.84%3A90
+        vless://2a54636c-20ab-42cd-b725-f0da347c50e2@94.101.176.12:443?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.101.176.12%3A443
+vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.232.201:2053?encryption=none&security=tls&sni=num.2d2d.ir&fp=chrome&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.143.232.201%3A2053
+vless://bd892d3c-c912-43fa-b434-39ee9343d5b5@94.182.129.84:90?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.182.129.84%3A90
 vless://b4f28955-84f9-4639-b1d4-a8b5d65b585d@81.12.32.1:8080?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-81.12.32.1%3A8080
 vless://09aaaf34-4be3-a68d-6ac4-b7e0bcc6789c@81.29.255.187:621?encryption=none&security=none&type=ws&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&path=%2Fws%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-81.29.255.187%3A621
 vless://b1148015-c856-4344-ba62-c7cb7e34d026@5.202.8.198:1195?encryption=none&security=tls&sni=r7.irlancer.ir&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.202.8.198%3A1195
@@ -501,5 +503,3 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.141.14:7002#%F0%9F%87%BA%F0%9F
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.163-0121
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#%F0%9F%87%A8%F0%9F%87%ADCH-185.126.116.125-0120
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.34:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.34-0118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.212-0343
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#%F0%9F%87%B8%F0%9F%87%ACSG-103.36.91.23-0346

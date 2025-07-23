@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%20102%20%28%40Outline_Vpn%29
+        ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.64.146.66:8443?security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Golestan_VPN%20-%20%F0%9F%8E%89‏⬅️
+ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.64.146.66:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&fp=chrome#🔒
+ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%20102%20%28%40Outline_Vpn%29
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%20111%20%28%40Outline_Vpn%29
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2040%20%28%40Outline_Vpn%29
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#Free%2064%20%28%40Outline_Vpn%29
@@ -501,5 +503,3 @@ ss://66623734-6266-4361-b037-613830383631@162.159.128.233:443?security=tls&sni=c
 ss://66623734-6266-4361-b037-613830383631@162.159.135.232:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔒
 ss://66623734-6266-4361-b037-613830383631@162.159.136.232:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔒
 ss://66623734-6266-4361-b037-613830383631@162.159.137.232:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔒
-ss://66623734-6266-4361-b037-613830383631@162.159.138.232:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔒
-ss://666a9bd9-c6c0-4c2b-8d78-69142424931d@104.16.156.65:443?security=tls&sni=paipai-kti.pages.dev&type=ws&host=paipai-kti.pages.dev&allowInsecure=0#🔒

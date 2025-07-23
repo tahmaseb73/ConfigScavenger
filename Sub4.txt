@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D2083%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=tls&alpn=h3&encryption=none&fp=chrome&type=xhttp&sni=cho.chonon.sbs#DE🇩🇪 | cho.chonon.sbs-2083 | 132.01ms
+        vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?security=tls&encryption=none&type=xhttp&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D2083%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&sni=cho.chonon.sbs&fp=chrome&mode=auto&alpn=h3#DE🇩🇪 | cho.chonon.sbs-2083 | 174.13ms
+vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D2083%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#DE🇩🇪 | cho.chonon.sbs-2083 | 130.03ms
+vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D2083%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=tls&alpn=h3&encryption=none&fp=chrome&type=xhttp&sni=cho.chonon.sbs#DE🇩🇪 | cho.chonon.sbs-2083 | 132.01ms
 vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D2083%2F%3F&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#DE🇩🇪 | cho.chonon.sbs-2083 | 114.59ms
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?encryption=none&security=tls&sni=yx.yushan.dpdns.org&fp=random&type=ws&host=yx.yushan.dpdns.org&path=%2F%3Fed%3D2560#RELAY🚩 | yx.yushan.dpdns.org-443 | 284.06ms
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#RELAY🚩 | yx.yushan.dpdns.org-443 | 4.18ms
@@ -501,5 +503,3 @@ vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@tgju.org:8080?encryption=none&secur
 vless://4e57e34d-fc11-486e-9dbb-bcce9db1c39d@178.162.244.226:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 3.46ms
 vless://4e57e34d-fc11-486e-9dbb-bcce9db1c39d@178.162.244.226:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 2.89ms
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=zhina.tas-bazi.com&fp=firefox&type=xhttp&sni=zhina.tas-bazi.com#RELAY🚩 | zhina.tas-bazi.com-443 | 84.88ms
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=lama.tas-bazi.com&fp=firefox&type=xhttp&sni=lama.tas-bazi.com#RELAY🚩 | lama.tas-bazi.com-443 | 24.35ms
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=ali.tas-bazi.com&fp=firefox&type=xhttp&sni=ali.tas-bazi.com#RELAY🚩 | ali.tas-bazi.com-443 | 66.42ms
