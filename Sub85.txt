@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.4.159:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.4.173:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#🇮🇷IR_789_@Surfboardv2ray
+        vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.4.173:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#🇮🇷IR_789_@Surfboardv2ray
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.4.173:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#🇮🇷IR_790_@Surfboardv2ray
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.4.173:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#🇮🇷IR_815_@Surfboardv2ray
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.4.173:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#🇮🇷IR_816_@Surfboardv2ray
@@ -503,3 +502,4 @@ vless://Parsashonam-231@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed
 vless://Parsashonam-232@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#DE🇩🇪
 vless://Parsashonam-232@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
 vless://Parsashonam-233@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#DE🇩🇪
+vless://Parsashonam-234@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#DE🇩🇪

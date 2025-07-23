@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://64a125b1-4a57-4a64-bfb2-7dc6866c55bc@50.7.85.221:443?path=%2F%3Fed&security=tls&encryption=none&host=kosesher2.nayase6031.workers.dev&fp=chrome&type=ws&sni=kosesher2.nayase6031.workers.dev#RELAY🚩 | kosesher2.nayase6031.workers.dev-443 | 98.98ms
-vless://63317fb1-b61a-45f1-a306-007399d2334b@45.79.201.106:443?type=xhttp&path=%2F&host=&mode=stream-one&security=none#US🇺🇸 | 45.79.201.106-443 | 13.63ms
+        vless://63317fb1-b61a-45f1-a306-007399d2334b@45.79.201.106:443?type=xhttp&path=%2F&host=&mode=stream-one&security=none#US🇺🇸 | 45.79.201.106-443 | 13.63ms
 vless://632dfd11-8f92-49a2-92ce-5f995de1d879@104.16.157.108:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#FR🇫🇷 | masterserver1.nanvrfood.ir.-8080 | 518.58ms
 vless://630a2b53-1757-4450-9417-963f2de0d974@twonew.iranfreedomserver.com:7005?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=w0WnHYqR0pFt1LP9paI3yLYAkJ1wbgksqeR5v4x2hyM#REALITY|DE🇩🇪 | twonew.iranfreedomserver.com-7005 | 227.66ms
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443?path=%2Ftelegram%40v2ray_configs_pools%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=configmr.pages.dev&fp=randomized&type=ws&sni=ConFIgmr.PaGeS.dEV#RELAY🚩 | ConFIgmr.PaGeS.dEV-443 | 38.2ms
@@ -503,3 +502,4 @@ vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v16.vxlimir.com:1370?security=reali
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v15.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#REALITY|GB🇬🇧 | v15.vxlimir.com-1370 | 541.81ms
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v14.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#REALITY|FR🇫🇷 | v14.vxlimir.com-1370 | 320.78ms
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v13.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#REALITY|GB🇬🇧 | v13.vxlimir.com-1370 | 335.6ms
+vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v07.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#REALITY|FR🇫🇷 | v07.vxlimir.com-1370 | 339.35ms
