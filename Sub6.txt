@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://9987a847-5e57-440c-890e-33fd179af6ff@130.185.122.252:28964?encryption=none&security=reality&sni=www.bing.com&fp=chrome&pbk=aaKkZMXLmcOEj1Gt7uEpXU5buAKh9V33PiRwJvuOqXs&sid=5405&spx=%2F&type=xhttp&path=%2Fgrizzlyvpn&mode=auto#REALITY|NL🇳🇱 | 130.185.122.252-28964 | 96.1ms
-vless://96095804-6e2b-4ed4-8bd5-49c28cb73679@194.182.79.64:14074?mode=gun&security=reality&encryption=none&pbk=B-hICgbbnIsubfTgqZknMtYp-iY1VndOynbv_iXcEng&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=61#REALITY|CZ🇨🇿 | 194.182.79.64-14074 | 103.12ms
+        vless://96095804-6e2b-4ed4-8bd5-49c28cb73679@194.182.79.64:14074?mode=gun&security=reality&encryption=none&pbk=B-hICgbbnIsubfTgqZknMtYp-iY1VndOynbv_iXcEng&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=61#REALITY|CZ🇨🇿 | 194.182.79.64-14074 | 103.12ms
 vless://92c7897a-6494-4719-aefd-aea8280314ce@vip1.proxystore11.news:10358?security=reality&encryption=none&pbk=axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=b373044d#REALITY|DE🇩🇪 | vip1.proxystore11.news-10358 | 131.82ms
 vless://92c7897a-6494-4719-aefd-aea8280314ce@vip1.proxystore11.news:10358?security=reality&encryption=none&pbk=axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk&headerType=&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=b373044d#REALITY|DE🇩🇪 | vip1.proxystore11.news-10358 | 101.81ms
 vless://8ee4b805-5a65-4977-bcbb-f759fb8d9441@god.mygoldiran.com:11867?mode=multi&security=reality&encryption=none&pbk=-mYOfmHHBGIPqR5Uho9lT7MjSXLlSVi4l83ohs3MaTM&fp=chrome&spx=%2FYniTnQJG9tRiVv1&type=grpc&sni=tgju.org&sid=d2#REALITY|NL🇳🇱 | god.mygoldiran.com-11867 | 175.05ms
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.180-8080+%7C+82.3ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.167-8080+%7C+86.03ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+193.29.139.227-8080+%7C+82.24ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnF6cUJjckNrUkNEQ0JUSnZUY3VR@104.192.227.162:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+104.192.227.162-443+%7C+24.09ms

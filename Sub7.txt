@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnF6cUJjckNrUkNEQ0JUSnZUY3VR@104.192.227.162:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+104.192.227.162-443+%7C+24.09ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdTFoWGxQS3gwd0tKYk91UmZyOER5@176.124.207.105:37322#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+176.124.207.105-37322+%7C+103.24ms
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdTFoWGxQS3gwd0tKYk91UmZyOER5@176.124.207.105:37322#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+176.124.207.105-37322+%7C+103.24ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVUVSaXl4dnJ6VEppNWtmdHg5ODBH@213.111.142.216:8443#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+213.111.142.216-8443+%7C+56.51ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+arxfw2b78fi2q9hzylhn.freesocks.work-443+%7C+369.78ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+160.19.78.75-443+%7C+304.26ms
@@ -503,3 +502,4 @@ vless://d26f473f-db91-45b2-8c7e-8f38d294b6b5@172.67.73.163:8080?encryption=none&
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI-%3EFI-%3EMTN-%3E%40Sezar_Sec
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?encryption=none&security=tls&sni=yx.yushan.dpdns.org&fp=random&type=ws&host=yx.yushan.dpdns.org&path=%2F%3Fed%3D2560#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
 vless://6e9c63fe-e36c-45e2-80d2-f8662c0f6783@www.speedtest.net:443?encryption=none&security=tls&sni=B1333196-venoM.aBolfAzlSHOKRI80.WORKErs.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=b1333196-venom.abolfazlshokri80.workers.dev&path=%2FdredzCvKNAjjBpoH%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
+vless://ad4a8fe9-2a32-49c4-a532-e4eef253f148@104.19.54.50:443?encryption=none&security=tls&sni=azadanet.azadanet.workers.dev&type=ws&host=azadanet.azadanet.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#CA-%3E-%3EMCI-%3E%40Sezar_Sec

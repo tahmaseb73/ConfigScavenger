@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=lease-20.access.name.ng&type=ws&sni=lease-20.access.name.ng#GB🇬🇧 | lease-20.access.name.ng-8443 | 177.27ms
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none&security=tls&sni=lease-15.access.name.ng&type=ws&host=lease-15.access.name.ng&path=%2F#GB🇬🇧 | lease-15.access.name.ng-8443 | 378.67ms
+        vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none&security=tls&sni=lease-15.access.name.ng&type=ws&host=lease-15.access.name.ng&path=%2F#GB🇬🇧 | lease-15.access.name.ng-8443 | 378.67ms
 vless://cc5d15ef-fd93-40f6-b2f9-7a80225e7e5d@www.speedtest.net:2096?path=%2Fnqxbfjws&security=tls&encryption=none&host=638879176706570136.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706570136.amsterdam-prx-dnraaal.info#RELAY🚩 | 638879176706570136.amsterdam-prx-dnraaal.info-2096 | 201.12ms
 vless://cc5d15ef-fd93-40f6-b2f9-7a80225e7e5d@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706570136.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706570136.amsterdam-prx-dnraaal.info&path=%2Fnqxbfjws#RELAY🚩 | 638879176706570136.amsterdam-prx-dnraaal.info-2096 | 2.52ms
 vless://cc4c43a7-b599-4d15-8f29-150dea82a2ba@151.101.2.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#US🇺🇸 | hajlab.ucdavis.edu-443 | 193.92ms
@@ -503,3 +502,4 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.25.25.177:8880?path=%2FTelegram+
 vless://5801ebec-b1b3-496e-9088-7858e006f0e9@151.101.2.216:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&alpn=h2%2Chttp%2F1.1&host=leader-of-www.com&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸 | live.skornorth.com-80 | 133.86ms
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#RELAY🚩 | ovhwuxian.pai50288.uk-8443 | 20.2ms
 vless://5767ae45-cdd4-4df2-bbe3-c21b66ced9b1@95.164.68.37:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#RELAY🚩 | sourceforge.net-443 | 36.26ms
+vless://57300a6a-3d22-4edb-9794-c0fef45ce946@162.159.20.126:80?type=httpupgrade&security=none&host=v2ngfast.nanvrfood.ir.&path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048#FR🇫🇷 | v2ngfast.nanvrfood.ir.-80 | 361.51ms
