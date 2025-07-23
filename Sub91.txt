@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:2083?security=tls&sni=tabnaK.FARSONlinE24.IR&type=ws&host=tabnak.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=h2#🔒
-vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:2087?security=tls&sni=exPrESSTV.farsonLine24.IR&type=ws&host=expresstv.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=h2#🔒
-vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:2096?security=tls&sni=TABnak.FArsONlInE24.ir&type=httpupgrade&host=tabnak.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒
+        vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:2096?security=tls&sni=TABnak.FArsONlInE24.ir&type=httpupgrade&host=tabnak.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:443?security=tls&sni=tAsnIm.faRsonLiNE24.ir&type=httpupgrade&host=tasnim.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:8443?security=tls&sni=meHRnEWS.FARSOnLInE24.IR&type=ws&host=mehrnews.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=http%2F1.1#🔒
 vless://d265e1f4-6d11-45c2-9715-39830c55c232@5.75.207.190:2096?path=%2Fwe&security=none&encryption=none&type=ws#@meli_proxyy♾نامحدود
@@ -503,3 +501,5 @@ vless://d7da05fc-678d-47e8-8a40-f18d72b1a8ae@45.85.119.139:443?encryption=none&s
 vless://d7da05fc-678d-47e8-8a40-f18d72b1a8ae@45.85.119.139:443?security=tls&sni=InBarZendegi.site&type=xhttp&host=inbarzendegi.site&fp=chrome&alpn=h3#🔒
 vless://d7da05fc-678d-47e8-8a40-f18d72b1a8ae@zula.ir:443?encryption=none&security=tls&sni=InBarZendegi.Site.&alpn=h3&fp=chrome&type=xhttp&host=inbarzendegi.site&path=/azadi?ed=2560&mode=auto&extra={
 vless://d7f40691-ef51-45ce-9a2c-051e2a1b0750@join-bede-achavpn.claudify.org:8000?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=tr-1.claudify.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85😾
+vless://d7f40691-ef51-45ce-9a2c-051e2a1b0750@join-bede-achavpn.claudify.org:8000?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=tr-1.claudify.org#TR🇹🇷
+vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.16.168.120:8443?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=%2F%3Fed%3D2560&fp=random#🔒
