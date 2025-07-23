@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://10d9df89-9a20-4110-9711-bca119490ee9@188.114.97.33:443?security=tls&sni=masaleini.mahsaamini.dpdns.org&type=ws&host=masaleini.mahsaamini.dpdns.org&path=/&fp=chrome#🔒
-ss://10d9df89-9a20-4110-9711-bca119490ee9@94.140.0.0:2086?security=none&allowInsecure=1&fp=chrome&type=ws&path=/TM-@AZARBAYJAB1&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20NA%20%F0%9F%8C%8F%20VL-WS-NONE%204%E2%83%A3
-ss://10d9df89-9a20-4110-9711-bca119490ee9@94.140.0.0:2086?security=none&type=ws&host=masaleini.mahsaamini.dpdns.org&path=/TM-@AZARBAYJAB1#🔒
+        ss://10d9df89-9a20-4110-9711-bca119490ee9@94.140.0.0:2086?security=none&type=ws&host=masaleini.mahsaamini.dpdns.org&path=/TM-@AZARBAYJAB1#🔒
 ss://10d9df89-9a20-4110-9711-bca119490ee9@tabrizm137.owner.pages.dev:80?path=%2FTM%40AZAFBAYJAB1flow%3D-udp443&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#
 ss://10f3806e-ddc1-431e-bd76-ec66345e94b7@104.16.89.89:443?security=tls&sni=uziyyds1.uztryildg.sbs&type=ws&host=uziyyds1.uztryildg.sbs&allowInsecure=0#🔒
 ss://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها
@@ -503,3 +501,5 @@ ss://1e5fa2e7-81ed-4861-a8c2-bff334440c4c@151.101.64.155:80?type=ws&host=Lightni
 ss://1e915e11-f6af-4cf9-bcb7-a75eaebbd52f@104.21.92.57:443?security=tls&sni=cdn1.proxystore11.news&type=xhttp&host=cdn1.proxystore11.news&path=%2FAZFlrd5mM4sTe3tLTdYD&fp=chrome&alpn=h3#🔒
 ss://1e915e11-f6af-4cf9-bcb7-a75eaebbd52f@172.67.187.18:443?security=tls&sni=cdn1.proxystore11.news&type=xhttp&host=cdn1.proxystore11.news&path=%2FAZFlrd5mM4sTe3tLTdYD&fp=chrome&alpn=h3#🔒
 ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40kingofilter
+ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?type=grpc&serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
+ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?type=grpc&serviceName=vless-grpc#SE🇸🇪

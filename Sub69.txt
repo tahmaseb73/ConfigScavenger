@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://13a544e8-3055-4f6a-b280-967433f46049@104.16.114.142:443?security=tls&sni=zlgmz.top&type=ws&host=zlgmz.top#🔒
-vless://13bcc3fb-a184-4c42-82eb-7a5af6633a2f@104.24.6.76:2053?security=tls&sni=msjsusjsjdjkd.vsgdgddgjdjjdjjrjrjejbdeudhrhruejhrhhrhehehrail.ir&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&alpn=h3,h2,http/1.1#🔒
-vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.226.117.234:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_203_@Surfboardv2ray
+        vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.226.117.234:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_203_@Surfboardv2ray
 vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.226.117.234:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_214_@Surfboardv2ray
 vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.97.117.210:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_204_@Surfboardv2ray
 vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.97.117.210:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_215_@Surfboardv2ray
@@ -503,3 +501,5 @@ vless://20fe9385-f429-4dc4-acc8-2e372a3d982b@165.22.69.147:443?type=xhttp&path=%
 vless://21016605-0d5e-4750-9360-694dc55997cd@104.22.30.181:443?security=tls&sni=hy6.lzj520hxw.dpdns.org&type=ws&host=hy6.lzj520hxw.dpdns.org&path=%2Flzjjjjjjj#🔒
 vless://21016605-0d5e-4750-9360-694dc55997cd@104.22.31.181:443?security=tls&sni=hy6.lzj520hxw.dpdns.org&type=ws&host=hy6.lzj520hxw.dpdns.org&path=%2Flzjjjjjjj#🔒
 vless://21016605-0d5e-4750-9360-694dc55997cd@172.67.4.74:443?security=tls&sni=hy6.lzj520hxw.dpdns.org&type=ws&host=hy6.lzj520hxw.dpdns.org&path=%2Flzjjjjjjj#🔒
+vless://2104aafe-2b01-4ee6-a4e3-47edfc170bc6@172.66.44.246:2087?security=tls&sni=JOINMAhDIserVer-5S7.pAGeS.Dev&type=ws&host=joinmahdiserver-5s7.pages.dev&path=%2FLxA7m3Z4dH7XARPH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+vless://2118755b-d056-46aa-9349-b0a220dee1ed@www.speedtest.net:443?mode=auto&path=/&security=tls&encryption=none&host=test2025.dgclix.ir&type=xhttp#🇨🇦CA_275_@Surfboardv2ray
