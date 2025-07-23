@@ -3,16 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#CA-%3EDE-%3EMTN-%3E%40Sezar_Sec
-vless://e1d3a347-d380-4ef6-8145-ae76318002d1@www.visa.com:8080?encryption=none&security=none&type=ws&host=0110.wdpkomyt.workers.dev&path=%2F%3Fed%3D2560#CA-%3E-%3EMCI-%3E%40Sezar_Sec
-vless://4004b4f2-d973-432f-8376-043a52cec187@57.129.41.217:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#DE-%3EDE-%3EMTN-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#GB-%3E-%3EMTN-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#US-%3ENL-%3EMTN-%3E%40Sezar_Sec
-vless://76b3cbba-e6ac-485a-9481-336a0415eab9@172.67.157.202:443?encryption=none&security=tls&sni=oLD-DISK-EFcD.jOJahOf109.woRkeRS.dEv&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=OlD-DISK-EFcd.joJaHOF109.WOrKers.dev&path=%2F#CA-%3EDE-%3EADL-%3E%40Sezar_Sec
-vless://409ef7ff-6449-4b9a-9db9-775927a1a925@eng1.lunayek.ir:8989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=TfbgQiZ2DOhCTDVLjx5Gwc5WHFSlQ_LXhyzKUEGR6mc&type=tcp&headerType=none#GB-%3EGB-%3EMTN-%3E%40Sezar_Sec
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.31:8880?encryption=none&security=none&type=ws&host=yd.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#JP-%3EFR-%3EMCI-%3E%40Sezar_Sec
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIklOLT5JTi0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMTUyLjY3LjguMjA1IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB-%3E-%3EMTN-%3E%40Sezar_Sec
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB-%3E-%3EMTN-%3E%40Sezar_Sec
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.153.29:443?encryption=none&security=tls&sni=147135004002.sec20org.com&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#US-%3EUS-%3EADL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q3BTSk1Za0ZRZXBHNG80UU5LeW83cW90cFJFSnp3UzFiYmt5SE5hdXBocktnWVVoVTNCTEUxbmJBZVRxWVpoOHJNOUtSZXhuWU5nRVdCbXRaSDFyanhkMmJpRHFYSk0%3D@185.5.38.111:55988#FI-%3EFI-%3EADL-%3E%40Sezar_Sec
@@ -503,3 +494,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.147-0257
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:807#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.138-0187
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.154-0259
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:805#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0186
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.146-0261
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:806#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0185
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:802#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0184
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:807#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0183
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:802#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.138-0182
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:805#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0181
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:809#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0180
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:807#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0179
