@@ -3,15 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?path=%2FduJhdsnTCbijwHNYeMcCs9&security=tls&host=m2rrrty.777219.xyz&type=ws&sni=m2rrrty.777219.xyz#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supp
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?path=%2FduJhdsnTCbijwHNYeMcCs9&security=tls&host=m2rrrty.777219.xyz&type=ws&sni=m2rrrty.777219.xyz#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?path=%2FduJhdsnTCbijwHNYeMcCs9&security=tls&host=m2rrrty.777219.xyz&type=ws&sni=m2rrrty.777219.xyz#RELAY🚩
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?security=tls&sni=m2rrrty.777219.xyz&type=ws&host=m2rrrty.777219.xyz&path=%2FduJhdsnTCbijwHNYeMcCs9#t.me%2Fpeterjest
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?security=tls&sni=m2rrrty.777219.xyz&type=ws&host=m2rrrty.777219.xyz&path=%2FduJhdsnTCbijwHNYeMcCs9#🔒
-trojan://9eabd870-29cc-11f0-b0a3-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://9eabd870-29cc-11f0-b0a3-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9
-trojan://9f3a6150-f389-11ef-8c6c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://9kHuEbiX7Bcp@104.21.71.8:2053?security=tls&sni=khabaronline.itn24.ir&type=ws&host=khabaronline.itn24.ir&path=/рЯЖФ@M3HDIO1#🔒
+        trojan://9kHuEbiX7Bcp@104.21.71.8:2053?security=tls&sni=khabaronline.itn24.ir&type=ws&host=khabaronline.itn24.ir&path=/рЯЖФ@M3HDIO1#🔒
 trojan://9kHuEbiX7Bcp@172.67.141.68:2053?security=tls&sni=khabaronline.itn24.ir&type=ws&host=khabaronline.itn24.ir&path=/рЯЖФ@M3HDIO1#🔒
 trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#RELAY🚩
 trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
@@ -503,3 +495,11 @@ trojan://Aimer@108.162.195.82:443?sni=epccz.ambercc.filegear-sg.me&allowInsecure
 trojan://Aimer@108.162.195.82:443?sni=epms.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
 trojan://Aimer@108.162.195.82:443?sni=epms.ambercc.filegear-sg.me#🔒
 trojan://Aimer@108.165.152.0:8443?sni=epmw.ambercc.filegear-sg.me#🔒
+trojan://Aimer@108.165.152.104:2053?sni=epccs.ambercc.filegear-sg.me#🔒
+trojan://Aimer@108.165.152.113:443?sni=epccd.ambercc.filegear-sg.me#🔒
+trojan://Aimer@108.165.152.130:2083?sni=epccv.ambercc.filegear-sg.me#🔒
+trojan://Aimer@108.165.152.131:443?sni=epccu.ambercc.filegear-sg.me#🔒
+trojan://Aimer@108.165.152.143:2087?sni=epmw.ambercc.filegear-sg.me#🔒
+trojan://Aimer@108.165.152.14:2096?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@108.165.152.14:2096?sni=epmq.ambercc.filegear-sg.me#🔒
+trojan://Aimer@108.165.152.163:2087?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒
