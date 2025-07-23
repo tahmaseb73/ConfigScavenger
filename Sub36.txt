@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.137.128:2053?security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒
-ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.178:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒
+        ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.178:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.178:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.204:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@168.100.6.42:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒
@@ -503,3 +502,4 @@ ss://9f0eae34-97c1-4c07-8a55-438379981334@104.18.56.155:8080?security=none&type=
 ss://9f0eae34-97c1-4c07-8a55-438379981334@104.25.35.114:8080?security=none&type=ws&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev#🔒
 ss://9f30f465-e9c1-4726-87e8-6738ee3af36c@185.79.158.147:8087?security=none&type=tcp&path=%2F&headerType=http#🔒
 ss://9f30f465-e9c1-4726-87e8-6738ee3af36c@tn35.adamlinux.ir:8087?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Isfahan🅿️ping:113.26ms`
+ss://9f387ad9-043b-40b2-97c5-265d30cbfbf1@172.66.44.156:443?security=tls&sni=besTiIvPn-6t8.PAGes.DEV&type=ws&host=besTiIvPn-6t8.PAGes.DEV&alpn=h2%2Chttp/1.1&allowInsecure=0#🔒
