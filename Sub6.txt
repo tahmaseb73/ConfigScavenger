@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://blue2024@104.16.223.123:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 545.14ms
-trojan://blue2024@104.16.183.141:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 557.16ms
+        trojan://blue2024@104.16.183.141:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 557.16ms
 trojan://blue2024@104.16.179.237:443?sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 551.79ms
 trojan://blue2024@104.16.179.237:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 547.15ms
 trojan://blue2024@104.16.16.26:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 555.3ms
@@ -503,3 +502,4 @@ ss://01d68a9bbe484c7bb4f971b29c4cfacaOg==@95.217.206.161:443#FI%F0%9F%87%AB%F0%9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFLT5ERS0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNTcuMTI5LjI0LjEyNCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImF2ZWlyb3IuY29tIiwNCiAgInBhdGgiOiAiL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidmt2ZDEyNy5teWNkbi5tZSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.83:1001?encryption=none&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?encryption=none&security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=%2FVb2kRpQSrEqsUKCX%3Fed%3D2560%2F%3FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#VN-%3EVN-%3ERTL-%3E%40Sezar_Sec

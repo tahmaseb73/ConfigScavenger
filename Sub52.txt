@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#@VIProxys
-ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=pormang.webhost99.workers.dev&type=ws#@VIProxys
-ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#@VIPro
-ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?security=&type=ws&path=/telegram@v2ray_alpha/?ed%3D2560&host=pormang.webhost99.workers.dev&encryption=none#@awlix_ir
+        ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?security=&type=ws&path=/telegram@v2ray_alpha/?ed%3D2560&host=pormang.webhost99.workers.dev&encryption=none#@awlix_ir
 ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?security=&type=ws&path=/telegram@v2ray_alpha/?ed=2560&host=pormang.webhost99.workers.dev&encryption=none#🇨🇦CA_1218_@Surfboardv2ray
 ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?type=ws&host=pormang.webhost99.workers.dev&path=/telegram@v2ray_alpha/?ed%3D2560#🔒
 ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.43.197:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#🔒
@@ -503,3 +500,6 @@ ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.151.96:443?security=tls&sni=edc
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.16.120:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.162.86:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.165.232:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.173.32:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.188.219:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.221.252:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
