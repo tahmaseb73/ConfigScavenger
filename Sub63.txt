@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@210.100.138.35:12356?sni=epmd.ambercc.filegear-sg.me#🔒
-trojan://Aimer@210.100.138.35:17779?sni=epmq.ambercc.filegear-sg.me#🔒
-trojan://Aimer@210.104.255.234:50000?sni=epme.ambercc.filegear-sg.me#🔒
-trojan://Aimer@210.222.30.180:17100?security=tls&sni=agepq.ambercc.filegear-sg.me&type=ws&host=agepq.ambercc.filegear-sg.mehttp/1.1&path=/#🔒
+        trojan://Aimer@210.222.30.180:17100?security=tls&sni=agepq.ambercc.filegear-sg.me&type=ws&host=agepq.ambercc.filegear-sg.mehttp/1.1&path=/#🔒
 trojan://Aimer@210.61.97.241:81?security=tls&sni=epmd.ambercc.filegear-sg.me&type=ws&host=epmd.ambercc.filegear-sg.me&path=%2F#🔒
 trojan://Aimer@210.95.195.69:12336?sni=epmq.ambercc.filegear-sg.me&allowInsecure=0#🔒
 trojan://Aimer@210.99.119.3:50000?sni=epms.ambercc.filegear-sg.me#🔒
@@ -214,6 +211,7 @@ trojan://Bw5Mz7QkVp@z-v2-077707.kailib.com:443?security=tls&headerType=none&type
 trojan://Bw5Mz7QkVp@z-v2-077707.kailib.com:443?security=tls&headerType=none&type=tcp#US🇺🇸
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#🔒
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&type=grpc&sni=irancell-ir-4.mmdruby13.store#%E6%9C%AA%E7%9F%A5107
+trojan://DNUMdmnJ@36.151.192.242:51377?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://E%5D5p%232Hxe3q%29t_oX@172.66.46.252:2087?security=tls&sni=WEEKNdJoOn.pages.DeV&type=ws&host=weekndjoon.pages.dev#🔒
 trojan://E0nPlYFeYt@82.115.6.120:46420?security=reality&sni=yahoo.com&type=tcp#🔒
 trojan://EbtvoL1xJV@172.67.161.74:2096?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=/@M3HDIO1#🔒
@@ -258,6 +256,7 @@ trojan://NHcpqLrnuW@tabnak.itn24.ir:8443?security=tls&allowInsecure=1&type=ws&ho
 trojan://NISHIKUITAN111@104.16.218.64:443?#🔒
 trojan://NISHIKUITAN111@104.16.80.174:443?#🔒
 trojan://NISHIKUITAN111@104.17.157.109:443?#🔒
+trojan://NISHIKUITAN111@104.17.174.232:443?#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.19.44.160:443?#🔒
 trojan://NISHIKUITAN111@104.20.138.222:443?#🔒
 trojan://NISHIKUITAN111@104.20.151.19:443?#🔒
@@ -269,19 +268,17 @@ trojan://NISHIKUITAN111@104.21.84.200:443?security=tls&sni=zb.ylks.xyz&type=ws&h
 trojan://NISHIKUITAN111@104.24.140.72:443?#🔒
 trojan://NISHIKUITAN111@104.24.60.239:443?#🔒
 trojan://NISHIKUITAN111@104.25.22.6:443?#🔒
+trojan://NISHIKUITAN111@104.25.251.180:443?#@Hope_Net-join-us-on-Telegram⚠️
 trojan://NISHIKUITAN111@141.101.121.18:443?#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@141.101.122.171:443?#🔒
 trojan://NISHIKUITAN111@141.11.203.203:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=/#🔒
-trojan://NISHIKUITAN111@154.197.121.175:443?#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@162.159.16.224:443?#🔒
 trojan://NISHIKUITAN111@172.67.49.68:443?#🔒
-trojan://NISHIKUITAN111@173.245.59.30:443?#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@173.245.59.91:443?#🔒
 trojan://NISHIKUITAN111@185.148.106.44:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=/#🔒
 trojan://NISHIKUITAN111@185.193.29.193:443?#%E6%9C%AA%E7%9F%A551
 trojan://NISHIKUITAN111@185.193.29.193:443?#🔒
 trojan://NISHIKUITAN111@190.93.247.175:443?#🔒
-trojan://NISHIKUITAN111@193.227.99.60:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F#@Hope_Net-join-us-on-Telegram⚠️
 trojan://NISHIKUITAN111@193.227.99.60:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//#🔒
 trojan://NISHIKUITAN111@198.41.205.240:443?#🔒
 trojan://NISHIKUITAN111@198.41.217.62:443?#🔒
@@ -323,7 +320,7 @@ trojan://QTKsqSws9Sgc@104.21.112.1:2087?security=tls&sni=hamshahri.twn24.ir&type
 trojan://QTKsqSws9Sgc@104.21.48.1:2087?security=tls&sni=hamshahri.twn24.ir&type=httpupgrade&host=hamshahri.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒
 trojan://QTKsqSws9Sgc@104.21.80.1:2087?security=tls&sni=hamshahri.twn24.ir&type=httpupgrade&path=/#🔒
 trojan://QTKsqSws9Sgc@104.21.96.1:2087?security=tls&sni=hamshahri.twn24.ir&type=httpupgrade&host=hamshahri.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒
-trojan://QwwHvrnN@36.151.192.242:6985?allowInsecure=1#@Hope_Net-join-us-on-Telegram
+trojan://QwwHvrnN@36.151.192.196:25241?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://RISBa%3B60%40iJ0Y9j%24@104.23.109.228:443?security=tls&sni=cOol-PAper-B369.H-175.wOrkErS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrNCANj6FlNU8ziJBH%3Fed%3D2560#%F0%9F%92%A7%209%20-%20Trojan%20-%20Clean%20IP%20%3A%20443
 trojan://RISBa%3B60%40iJ0Y9j%24@188.114.96.3:443?security=tls&sni=cOOL-paPER-B369.H-175.wORKeRs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrbVfBloJgsCGIXPAy%3Fed%3D2560#%F0%9F%92%A7%204%20-%20Trojan%20-%20IPv4%20%3A%20443
 trojan://RISBa%3B60%40iJ0Y9j%24@188.114.97.3:443?security=tls&sni=coOl-PapeR-b369.h-175.wOrkeRS.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrADnQEIdSzg7Lf0Mg%3Fed%3D2560#%F0%9F%92%A7%203%20-%20Trojan%20-%20IPv4%20%3A%20443
@@ -450,6 +447,8 @@ trojan://amclubs@154.83.2.94:2053?security=tls&sni=tran.amclubstest.nyc.mn&type=
 trojan://amclubs@156.238.19.69:2096?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn#🔒
 trojan://amclubs@162.159.129.11:2053?sni=tran.amclubs.rr.nu&type=ws&host=tran.amclubs.rr.nu#🔒
 trojan://amclubs@162.159.129.67:8443?sni=tran.amclubs.rr.nu&type=ws&host=tran.amclubs.rr.nu#🔒
+trojan://auto@104.16.224.104:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#@Hope_Net-join-us-on-Telegram
+trojan://auto@104.16.224.104:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#[51975]
 trojan://auto@104.17.147.22:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/floral-shadow-a524.bestmanvpn2020.workers.dev/?ed%3D2560&host=floral-shadow-a524.bestmanvpn2020.workers.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://auto@104.17.147.22:80?security=none&type=ws&host=floral-shadow-a524.bestmanvpn2020.workers.dev#🔒
 trojan://auto@104.17.148.22:2087?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev#🔒
@@ -503,3 +502,4 @@ trojan://b3d27d09-77fe-431d-9829-6eba7dce20b0@103.224.182.210:443?security=tls&s
 trojan://b3df8f31-da3a-4cda-90b1-b3b777cd48e7@51.255.49.192:443?security=tls&sni=ba24.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://b4258c20-dffe-11ef-a56c-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://b4305190-e617-11ef-839d-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://b483bf41-79d4-48df-bec6-30a756a3bd6b@js-12f83a8c.kaiqsz.com:42765/?type=tcp&security=tls&sni=mmbiz1.redapricotcloud.com&allowInsecure=1#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
