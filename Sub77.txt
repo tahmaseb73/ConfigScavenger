@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
+        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FLondon%F0%9F%85%BF%EF%B8%8Fping%3A8.11ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.35:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.38:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.49:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
@@ -502,4 +503,3 @@ vless://575e55f1-d619-4c65-85fe-e2b757b6477b@VPNCUSTOMIZE.fastly80-3.hosting-ip.
 vless://576c8681-b9e8-4751-a1ae-02e08d18d6d7@212.95.33.206:11045?type=grpc&serviceName=Tel#🔒
 vless://576d1c42-4b4a-4bba-c786-f1c43700d05d@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@VIProxys
 vless://576d5e09-997b-47b8-9783-afa6c72e9364@172.66.44.185:443?security=tls&sni=sjgi.pages.dev&type=ws&host=sjgi.pages.dev#🔒
-vless://576d5e09-997b-47b8-9783-afa6c72e9364@172.66.47.71:443?security=tls&sni=sjgi.pages.dev&type=ws&host=sjgi.pages.dev#🔒
