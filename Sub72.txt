@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://3c1ebdca-b974-466f-b983-01243363c8e6@157.230.17.102:39940?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supp
-vless://3c269817-978d-43ca-b9b0-c69362d43849@172.66.44.141:8443?security=tls&sni=mAhdIserVEr-amu.PaGes.Dev&type=ws&host=mahdiserver-amu.pages.dev&path=%2FkT0m9GABwZrs7Tc8%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-vless://3c269817-978d-43ca-b9b0-c69362d43849@172.66.47.115:8443?security=tls&sni=mAhdIserVEr-amu.PaGes.Dev&type=ws&host=mahdiserver-amu.pages.dev&path=%2FkT0m9GABwZrs7Tc8%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+        vless://3c269817-978d-43ca-b9b0-c69362d43849@172.66.47.115:8443?security=tls&sni=mAhdIserVEr-amu.PaGes.Dev&type=ws&host=mahdiserver-amu.pages.dev&path=%2FkT0m9GABwZrs7Tc8%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 vless://3c2791ae-6b40-5668-89c6-7dcba89fcb4e@www.speedtest.net:2052?path=/vless#🇨🇦CA_355_@Surfboardv2ray
 vless://3c2791ae-6b40-5668-89c6-7dcba89fcb4e@www.speedtest.net:2052?path=/vless#🇨🇦CA_356_@Surfboardv2ray
 vless://3c341197-8ff3-442c-afad-b853c6a6d0de@138.128.224.100:443?security=tls&sni=ns.design-mobo.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒
@@ -503,3 +501,5 @@ vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?encryption=none&se
 vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?path=%2Fswordnewnewnew&security=tls&encryption=none&host=us.cishanjichang.me&fp=chrome&type=ws&sni=us.cishanjichang.me#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
 vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?path=%2Fswordnewnewnew&security=tls&encryption=none&host=us.cishanjichang.me&fp=chrome&type=ws&sni=us.cishanjichang.me#RELAY🚩
 vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?security=tls&sni=us.cishanjichang.me&fp=chrome&type=ws&path=/swordnewnewnew&host=us.cishanjichang.me&encryption=none#🇨🇦CA_393_@Surfboardv2ray
+vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?security=tls&sni=us.cishanjichang.me&type=ws&host=us.cishanjichang.me&path=%2Fswordnewnewnew&fp=chrome#🔒
+vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@172.67.196.8:443?path=%2Fswordnewnewnew&security=tls&encryption=none&host=us.cishanjichang.me&fp=chrome&type=ws&sni=us.cishanjichang.me#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support

@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://7ca6e049-77e4-4d17-b072-850091bdcd32@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#🇨🇦CA_720_@Surfboardv2ray
-vless://7ce7c75e-ffdd-43e5-af83-e3239652d0de@zula.ir:8880?path=/?ed=2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#🇨🇦CA_721_@Surfboardv2ray
-vless://7d23bb8d-1b0b-4643-a392-7619cf92090a@104.17.148.22:2095?security=none&type=httpupgrade&host=Ne.vipmehspd.ir.#🔒
+        vless://7d23bb8d-1b0b-4643-a392-7619cf92090a@104.17.148.22:2095?security=none&type=httpupgrade&host=Ne.vipmehspd.ir.#🔒
 vless://7d23bb8d-1b0b-4643-a392-7619cf92090a@Www.speedtest.net:2095?path=/?ed=2048&security=none&encryption=none&host=Ne.vipmehspd.ir.&type=httpupgrade#🇨🇦CA_722_@Surfboardv2ray
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?security=tls&sni=Pages.dev&type=ws&host=1v-2wk.pages.dev&path=%2FTelegram-Xv2ry2-7%3Fed%3D512#🔒
 vless://7d54a4ed-a079-453e-9320-61fd06c596e2@151.101.74.133:80?security=none&type=xhttp&host=joinbede_unlimiteddev.ir#🔒
@@ -503,3 +501,5 @@ vless://88bc3858-b31c-4a1d-9f17-9c485ae404b1@ne2sr.blushop1403.info:17160?securi
 vless://88d201d0-7fdb-4746-baaf-c5f782431c06@188.121.100.12:80?encryption=none&security=tls&type=ws&path=%2F%40v2graphy%2Fgiveaway%2Fws1%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B7_%E4%BC%8A%E6%9C%97
 vless://88d201d0-7fdb-4746-baaf-c5f782431c06@188.121.100.12:80?security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560#🔒
 vless://88d3918c-de54-497d-af89-c4c1e79e9385@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.vegaskala.com.&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20V2rayng_Fast%40
+vless://88f7f39a-163c-4b83-989e-f69a7b579314@172.66.44.233:2096?security=tls&sni=mAHDISeRVEr-Ea5.pagEs.deV&type=ws&host=mahdiserver-ea5.pages.dev&path=%2FSOwISLd53Dj231ht%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+vless://88f7f39a-163c-4b83-989e-f69a7b579314@172.66.47.23:2096?security=tls&sni=mAHDISeRVEr-Ea5.pagEs.deV&type=ws&host=mAHDISeRVEr-Ea5.pagEs.deV&path=%2Fsowisld53dj231ht%3Fed%3D2560#🔒

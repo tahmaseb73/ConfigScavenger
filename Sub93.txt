@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.216.166.80:8880?mode=gun&security=none&encryption=none&type=grpc#@VIProxys
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_1193_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.8.216:8880?mode=gun&security=none&encryption=none&type=grpc#%40Golestan_VPN%20-%20%20%F0%9F%87%AB%F0%9F%87%AE‏⬅️
+        vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.8.216:8880?mode=gun&security=none&encryption=none&type=grpc#%40Golestan_VPN%20-%20%20%F0%9F%87%AB%F0%9F%87%AE‏⬅️
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.8.216:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_1194_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@…
 vless://df0a7c22-83e7-4580-a123-ce4e1010ba4a@Mashhad-Website.thorav.ir:2087?mode=gun&security=reality&encryption=none&pbk=yXSBn5-hiNy4K9Lg_w2E0cGXSkcwXtwGn6r46UJ96HU&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=55#Reality
@@ -503,3 +501,5 @@ vless://e8bad3b8-8ff9-4cf8-be46-d01466514368@151.101.2.228:443?security=tls&sni=
 vless://e8bad3b8-8ff9-4cf8-be46-d01466514368@151.101.66.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=www.darcy.ir&path=/&fp=chrome&allowInsecure=1#🔒
 vless://e8bad3b8-8ff9-4cf8-be46-d01466514368@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&fp=chrome&allowInsecure=1&type=ws&host=www.darcy.ir&path=/#🇺🇸US_1230_@Surfboardv2ray
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
+vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#🇦🇪AE_1231_@Surfboardv2ray
+vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=ws&host=iriknet.ir&path=/telegram-mitivpn#@Hope_Net-join-us-on-Telegram⚠️
