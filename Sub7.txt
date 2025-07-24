@@ -3,14 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://5590572598384f0580bd97fcc4371443Og==@78.157.59.178:27053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+78.157.59.178-27053+%7C+236.52ms
-ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.156:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.156-443+%7C+72.04ms
-ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.155:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.155-443+%7C+71.81ms
-ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.154:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.154-443+%7C+75.74ms
-ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.147:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.147-443+%7C+63.82ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@zula.ir:80#RELAY%F0%9F%9A%A9+%7C+zula.ir-80+%7C+182.37ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@www.wappalyzer.com:80#RELAY%F0%9F%9A%A9+%7C+www.wappalyzer.com-80+%7C+44.9ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@www.speedmeter.life:80#RELAY%F0%9F%9A%A9+%7C+www.speedmeter.life-80+%7C+338.26ms
+        ss://542f694be8bd4b9e858cccb1c46a3316Og==@www.speedmeter.life:80#RELAY%F0%9F%9A%A9+%7C+www.speedmeter.life-80+%7C+338.26ms
 ss://542f694be8bd4b9e858cccb1c46a3316Og==@herfeh-honarmand.com:80#RELAY%F0%9F%9A%A9+%7C+herfeh-honarmand.com-80+%7C+89.39ms
 ss://542f694be8bd4b9e858cccb1c46a3316Og==@104.17.147.22:80#RELAY%F0%9F%9A%A9+%7C+104.17.147.22-80+%7C+1.86ms
 ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-80+%7C+7.16ms
@@ -503,3 +496,10 @@ vless://8aff0bd4-87f0-4ade-a8d1-ef5594703e31@79.132.192.148:12087?encryption=non
 vless://8a83abad-42a6-4d44-9d96-5dcf323bbc84@185.143.235.1:2086?encryption=none&security=none&type=ws&host=cdn.iranpoems.ir&path=%2Ftelegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.143.235.1%3A2086
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.233.120:2053?encryption=none&security=tls&sni=num.2d2d.ir&fp=chrome&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.143.233.120%3A2053
 vless://d1b5f42a-5b48-496c-8db7-373b98d9892f@37.202.231.220:1042?encryption=none&security=none&type=tcp&headerType=http&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-37.202.231.220%3A1042
+vless://da1a4498-a6bf-4a2e-a077-7268ba6c4fdc@2.188.224.150:17200?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.224.150%3A17200
+vless://6552d9b6-eae3-4fa9-af6f-e912a3aa44a0@85.133.250.157:45095?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.250.157%3A45095
+vless://2a7b6666-d93f-4015-aa29-60cfe0a2d724@2.188.224.76:24341?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.224.76%3A24341
+vless://c44def03-fec4-4c87-aa5b-4f16f8b228d4@2.188.233.140:17510?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.140%3A17510
+vless://8573c914-bf7a-44b4-9049-ce502b4864d6@85.133.247.48:2082?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.48%3A2082
+vless://1d6b55be-75d3-4ea2-bedf-98f3a757c458@185.79.158.153:8051?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.79.158.153%3A8051
+vless://bb6a6945-b996-4d6e-80a4-41099620e477@37.202.225.173:3450?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-37.202.225.173%3A3450
