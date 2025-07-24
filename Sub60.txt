@@ -3,21 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.7.214:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.7.214:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2F#t.me%2Fpeterjest
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.7.37:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.7.37:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2F#t.me%2Fpeterjest
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@130.61.51.100:8443?sni=icecream.955850.xyz#🔒
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@138.2.107.107:443?sni=icecream.955850.xyz#🔒
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@149.129.8.215:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2F#t.me%2Fpeterjest
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@149.129.8.215:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?sni=icecream.955850.xyz#@Hope_Net-join-us-on-Telegram⚠️
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?sni=icecream.955850.xyz#RELAY🚩
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?sni=icecream.955850.xyz#🔒
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2F#t.me%2Fpeterjest
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443?sni=icecream.955850.xyz#🔒
+        trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443?sni=icecream.955850.xyz#🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2F#t.me%2Fpeterjest
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.169:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D160.79.105.169%3A443&proxyIP=null#RELAY🚩
@@ -269,7 +255,6 @@ trojan://7794ad20-ec7d-11ef-b7be-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://78ddda10-2132-11f0-89cb-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://78ddda10-2132-11f0-89cb-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%F0%9F%92%99
 trojan://79948ddf-fd26-466c-ab37-e3ad41acf08f@de1.trojvpn.site:443?host=de1.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
-trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
 trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443?security=tls&sni=in.stablize.top&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://7d4fa9d0-f389-11ef-b18e-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://7f2b54d0-c85d-11ef-9e18-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -345,7 +330,6 @@ trojan://8ea8d6f0-e617-11ef-90c6-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://8jqRgpyc5lEe34TzC9A8DuFD23aS3ZyCleIFuCxp3xOYnZRCeA3Oc3yCga8C2DKYBDaRp@18.141.138.96:443?security=tls&sni=mention.protocolbuffer.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://8r%3C%5B9
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=koma-yt.pages.dev#🔒
-trojan://8r%3C%5B9%27l6hAO%238ZQi@koma-yt.pages.dev:8443?path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=koma-yt.pages.dev&fp=randomized&type=ws&sni=Koma-YT.PAGeS.Dev#r%E2%99%A1ya
 trojan://9022b080-2132-11f0-9bd5-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://9022b080-2132-11f0-9bd5-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%E2%9D%A4%EF%B8%8F
 trojan://905fcd78-866c-81e1-3cb8-1beb59d661ab@3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com:27231/?type=tcp&security=tls&sni=3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com#%E6%96%B0%E5%8A%A0%E5%9D%A15%7C%40ripaojiedian
@@ -503,3 +487,19 @@ trojan://Aimer@104.16.36.89:443?sni=epccu.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.16.37.70:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒
 trojan://Aimer@104.16.37.70:443?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&host=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5103
 trojan://Aimer@104.16.37.87:443?sni=epccv.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.38.223:443?sni=epccv.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.38.3:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
+trojan://Aimer@104.16.39.114:443?sni=epccv.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.39.37:443?sni=epccv.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.4.161:443?sni=epccj.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.4.25:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.4.91:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.40.66:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.40.98:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A599
+trojan://Aimer@104.16.40.98:443?sni=epccv.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.41.210:443?sni=epccu.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.42.81:443?sni=epccv.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.43.217:443?sni=epcca.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.43.250:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
+trojan://Aimer@104.16.43.45:443?sni=epccu.ambercc.filegear-sg.me#🔒
+trojan://Aimer@104.16.43.68:443?sni=epccv.ambercc.filegear-sg.me#🔒
