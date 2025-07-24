@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.99.203:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.99.56:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-vless://c8a4ced0-b100-4700-8857-d06ca3b251af@198.41.193.154:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        vless://c8a4ced0-b100-4700-8857-d06ca3b251af@198.41.193.154:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://c8d0f8a3-58fa-4fe7-9307-8720791abee4@zula.ir:8443?security=tls&sni=de-3-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=de-3-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-120%20-%20DE%20-%20III%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
 vless://c8d38c10-8973-46d9-bc60-40e9f791d187@104.21.48.1:443?encryption=none&security=tls&sni=mEHDiaMA.JAwakI2348.WOrKeRS.DEV&fp=chrome&type=ws&host=mEHDiaMA.JAwakI2348.WOrKeRS.DEV&path=%2FZPYo6XE9nKhTQnTE%3Fed%3D2560#q1_364
 vless://c8d38c10-8973-46d9-bc60-40e9f791d187@104.21.48.1:443?encryption=none&security=tls&sni=mEHDiaMA.JAwakI2348.WOrKeRS.DEV&fp=random&type=ws&host=mEHDiaMA.JAwakI2348.WOrKeRS.DEV&path=%2FZPYo6XE9nKhTQnTE%3Fed%3D2560#q1_345
@@ -503,3 +501,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?allowInsecure=1&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?allowInsecure=1&sni=hello.96xckkzx.workers.dev&type=ws&host=hello.96xckkzx.workers.dev&path=/?ed=2048#🇳🇱NL_1086_@Surfboardv2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?encryption=none&security=none&sni=hello.96xckkzx.workers.dev&type=ws&host=hello.96xckkzx.workers.dev&path=%2F#t.me%2Fpeterjest
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?sni=hello.96xckkzx.workers.dev&type=ws&host=hello.96xckkzx.workers.dev&allowInsecure=1#🔒
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.121:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1-TABREZ.NET%3Fed%3D2560#🔒
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.240:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1-TABREZ.NET%3Fed%3D2560#🔒

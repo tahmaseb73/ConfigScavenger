@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://41abecd9-8096-4142-a75c-4e1d36d990bd@138.3.240.63:443?security=tls&sni=mmdserver.us.kg&type=ws&path=%2F%3Fed#🔒
-ss://41abecd9-8096-4142-a75c-4e1d36d990bd@192.0.54.235:443?sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg#🔒
-ss://41abecd9-8096-4142-a75c-4e1d36d990bd@45.80.108.253:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
+        ss://41abecd9-8096-4142-a75c-4e1d36d990bd@45.80.108.253:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
 ss://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048fp%3Dios#🔒
 ss://41abecd9-8096-4142-a75c-4e1d36d990bd@91.149.239.122:443?security=tls&sni=mmdserver.us.kg&type=ws&path=%2F%3Fed#🔒
 ss://41abecd9-8096-4142-a75c-4e1d36d990bd@92.60.74.100:443?security=tls&sni=mmdserver.us.kg&type=ws&path=%2F%3Fed#🔒
@@ -503,3 +501,5 @@ ss://4d5848af-3baf-4225-8f2b-fc25fc3370bb@18.208.170.209:80?security=none&type=t
 ss://4d5848af-3baf-4225-8f2b-fc25fc3370bb@18.208.170.209:80?security=none&type=tcp#@VIProxys
 ss://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.173.246.17:80?security=none&type=tcp#@VIPro
 ss://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.173.246.17:80?security=none&type=tcp#@VIProxys
+ss://4d6bbaef-4630-4500-ab22-273dd42db9ca@104.17.147.22:8880?encryption=none&security=tls&sni=de-snapp23.academigroup.ir.&type=ws&host=de-snapp23.academigroup.ir.&path=%2Ftelegram---academi_vpn--telegram--academi_vpn--telegram--academi_vpn--telegram--academi_vpn--telegram----academi_vpn--mystic_vpn%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+ss://4d705f5a-6db6-4528-85cf-f7e0da6ccb16@84.201.20.248:45868?security=reality&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&pbk=Xf_flAxrxjR_kM0e6StsmGy3h5a-PDoYvYJrfP4KUTQ&fp=chrome&spx=/&type=grpc&serviceName=@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod&sni=google.com&sid=7f#🇩🇪DE_426_@Surfboardv2ray

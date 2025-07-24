@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.234.120:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.234.120-2053+%7C+36.93ms
-ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.232.201:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.232.201-2053+%7C+37.19ms
-ss://4ea841c10dc145639f47deba8407cb4eOg==@tgju.org:8080#RELAY%F0%9F%9A%A9+%7C+tgju.org-8080+%7C+16.09ms
+        ss://4ea841c10dc145639f47deba8407cb4eOg==@tgju.org:8080#RELAY%F0%9F%9A%A9+%7C+tgju.org-8080+%7C+16.09ms
 ss://468d811a8540451797790f542b5150d2Og==@104.24.7.232:80#RELAY%F0%9F%9A%A9+%7C+104.24.7.232-80+%7C+14.37ms
 ss://45a4985c536d41a6a7e028f9acdc5cc7Og==@151.101.64.155:80#US%F0%9F%87%BA%F0%9F%87%B8+%7C+151.101.64.155-80+%7C+13.67ms
 ss://44b686258022452b8c91ee40abe7ff63Og==@104.21.85.68:443#RELAY%F0%9F%9A%A9+%7C+104.21.85.68-443+%7C+14.12ms
@@ -503,3 +501,5 @@ vless://a850d045-3c17-4430-b9fe-e6411b27b038@151.234.162.87:443?encryption=none&
 vless://2b9fe769-ba91-4212-80c6-80dde4c030a3@85.133.219.236:20275?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.219.236%3A20275
 vless://bc22dfaf-ddad-4e59-99c9-3a9844b71408@193.151.134.73:2087?encryption=none&security=none&type=ws&host=stream48.cdn.asset.filimo.com&path=%2F#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.151.134.73%3A2087
 vless://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@5.159.49.238:42539?encryption=none&security=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.159.49.238%3A42539
+vless://f638c87c-d064-42ac-a710-f5755ee45a81@85.9.101.168:38323?encryption=none&security=none&type=tcp&headerType=http&host=alibaba.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.9.101.168%3A38323
+vless://53884fb6-ed33-442a-e100-bac2c1f6fff1@2.188.224.150:18200?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.224.150%3A18200
