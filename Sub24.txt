@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://428287e2-0a51-42d5-89a5-d07f5f10a481@91.206.71.110:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
+        ss://428287e2-0a51-42d5-89a5-d07f5f10a481@173.245.59.100:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
+ss://428287e2-0a51-42d5-89a5-d07f5f10a481@185.146.173.39:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔒
+ss://428287e2-0a51-42d5-89a5-d07f5f10a481@192.71.82.103:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
+ss://428287e2-0a51-42d5-89a5-d07f5f10a481@192.71.82.53:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
+ss://428287e2-0a51-42d5-89a5-d07f5f10a481@192.71.82.7:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
+ss://428287e2-0a51-42d5-89a5-d07f5f10a481@91.206.71.110:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
 ss://428287e2-0a51-42d5-89a5-d07f5f10a481@91.206.71.202:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#🔒
 ss://42890216-1d90-489d-a231-e0f5df231fb2@104.21.77.118:2096?security=tls&sni=blog.afghancloud.ir&type=xhttp&host=blog.afghancloud.ir&path=%2Fnewyork&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://42890216-1d90-489d-a231-e0f5df231fb2@172.67.207.92:2096?security=tls&sni=blog.afghancloud.ir&type=xhttp&host=blog.afghancloud.ir&path=%2Fnewyork&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
@@ -498,8 +503,3 @@ ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@194.36.55.243:443?security=tls&sni=myp
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@195.85.23.229:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@195.85.59.198:443?security=tls&sni=myphotograpicpicture.ir&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig#🔒
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@31.43.179.208:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&fp=chrome&alpn=http%2F1.1#🔒
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@31.43.179.228:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/fJBvsL0uR2MtzRig&host=myphotograpicpicture.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20NA%20%F0%9F%8C%8F%20VL-WS-TLS%204%E2%83%A3
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@31.43.179.228:443?security=tls&sni=myphotograpicpicture.ir&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig#🔒
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@31.43.179.37:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.12.30.132:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/fJBvsL0uR2MtzRig&host=myphotograpicpicture.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.12.30.132:443?security=tls&sni=myphotograpicpicture.ir&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig#🔒

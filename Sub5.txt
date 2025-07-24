@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2FJOKERRVPNTELEGRAM----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pages.dev&type=ws&sni=pages.dev#RELAY🚩 | pages.dev-443 | 2.97ms
+        vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&encryption=none&headerType=none&type=tcp#CA🇨🇦 | 51.222.86.7-51952 | 64.88ms
+vless://3955aa4f-b0a0-41ff-8780-131d3e9e5a78@104.18.26.90:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.isvcloud1.ir.&type=ws#RELAY🚩 | www.isvcloud1.ir.-80 | 412.56ms
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2Fproxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#RELAY🚩 | PaGes.deV-443 | 2.28ms
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2Fff_kikor---ff_kikor---ff_kikor---ff_kikor---ff_kikor---ff_kikor%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#RELAY🚩 | PaGes.deV-443 | 2.45ms
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2FJOKERRVPNTELEGRAM----...%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pages.dev&type=ws&sni=pages.dev#RELAY🚩 | pages.dev-443 | 2.41ms
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2FJOKERRVPNTELEGRAM----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN----%40HiByeVPNN%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pages.dev&type=ws&sni=pages.dev#RELAY🚩 | pages.dev-443 | 2.97ms
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40ff_kikor%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#RELAY🚩 | PaGes.deV-443 | 2.69ms
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40ShadowProxy66%3Fed&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#RELAY🚩 | PaGes.deV-443 | 2.76ms
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40Prime_Verse%3Fed&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#RELAY🚩 | PaGes.deV-443 | 2.47ms
@@ -498,8 +503,3 @@ trojan://blue2024@103.21.244.133:443?allowInsecure=1&sni=td.promote.icu#US🇺�
 trojan://auto@[2a06:98c1:3121::3]:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&alpn=h3&fp=randomized&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | dcf741e8.epeius-2gy.pages.dev-443 | 29.16ms
 trojan://auto@172.67.223.178:443?security=tls&type=ws&sni=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&host=abbas.ab841vpn.workers.dev#RELAY🚩 | abbas.ab841vpn.workers.dev-443 | 46.22ms
 trojan://auto@172.66.46.254:443?type=tcp&security=tls&sni=dcf741e8.epeius-2gy.pages.dev&allowInsecure=1#RELAY🚩 | dcf741e8.epeius-2gy.pages.dev-443 | 2.51ms
-trojan://auto@104.21.69.44:443?security=tls&type=ws&sni=pAges.dEv.&path=%2F%40custom_config%3Fed%3D2560&host=deploy-14030911.pages.dev#RELAY🚩 | pAges.dEv.-443 | 10.72ms
-trojan://ZU%290ryc%24VSrG@104.17.148.22:443?path=%2Ftrg2dhGAnG15ULOP7i%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=randomized&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#RELAY🚩 | uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV-443 | 22.96ms
-trojan://NISHIKUITAN222@104.20.19.100:443#RELAY🚩 | 104.20.19.100-443 | 1.51ms
-trojan://NISHIKUITAN111@92.53.190.87:443?security=tls&type=ws&sni=zb.ylks.xyz&path=%2F&host=zb.ylks.xyz#US🇺🇸 | zb.ylks.xyz-443 | 129.25ms
-trojan://NISHIKUITAN111@5.182.85.93:443?security=tls&type=ws&sni=za.ylks.xyz&path=%2F&host=za.ylks.xyz#US🇺🇸 | za.ylks.xyz-443 | 127.98ms
