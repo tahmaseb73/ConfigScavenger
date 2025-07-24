@@ -3,23 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?security=tls&encryption=none&type=ws&host=azadnet05.pages.dev&path=%2FlZU7WqWIDqC1jRn6%3Fed%3D2560&sni=azadnet05.pages.dev&fp=chrome#RELAY🚩 | azadnet05.pages.dev-2083 | 28.48ms
-vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=%2FlZU7WqWIDqC1jRn6%3Fed%3D2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#RELAY🚩 | azadnet05.pages.dev-2083 | 2.86ms
-vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=%2FlZU7WqWIDqC1jRn6%3Fed%3D2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws#RELAY🚩 | azadnet05.pages.dev-2083 | 2.51ms
-vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?encryption=none&security=tls&sni=azadnet05.pages.dev&type=ws&host=azadnet05.pages.dev&path=%2F#RELAY🚩 | azadnet05.pages.dev-2083 | 2.65ms
-vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=%2FlZU7WqWIDqC1jRn6%3Fed%3D2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#RELAY🚩 | azadnet05.pages.dev-2083 | 2.52ms
-vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:2083?path=%2F&security=tls&encryption=none&type=ws&sni=azadnet05.pages.dev#RELAY🚩 | azadnet05.pages.dev-2083 | 2.53ms
-vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:2083?encryption=none&security=tls&sni=azadnet05.pages.dev&type=ws&path=%2F#RELAY🚩 | azadnet05.pages.dev-2083 | 10.5ms
-vless://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?path=%2Fwsv%2F4c835bff-4f4d-4608-bb21-120099089688&security=tls&encryption=none&host=orange.fullmargintraders.com&fp=firefox&type=ws&sni=orange.fullmargintraders.com#DE🇩🇪 | orange.fullmargintraders.com-443 | 254.69ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#REALITY|CA🇨🇦 | amazon-4.cristiano.name.ng-443 | 104.08ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#REALITY|CA🇨🇦 | amazon-4.cristiano.name.ng-443 | 303.92ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&headerType=none#REALITY|CA🇨🇦 | amazon-4.cristiano.name.ng-443 | 264.75ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&encryption=none#REALITY|US🇺🇸 | amazon-20.cristiano.name.ng-443 | 432.91ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=%2F&type=tcp&headerType=none#REALITY|SG🇸🇬 | amazon-13.cristiano.name.ng-443 | 387.53ms
-vless://4bb3e45c-25a4-4d22-9916-bf8c4d32a1cd@IPB-AlphaOmega-Company.1AlphaOmega.Org:443?path=%2Fwss9000%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=DE-ComPany-AlphaOmega-Team.AlphaOmegaComPany-PoWerFull.Ir.&fp=randomized&type=httpupgrade&sni=DE-ComPany-AlphaOmega-Team.AlphaOmegaComPany-PoWerFull.Ir.#RELAY🚩 | DE-ComPany-AlphaOmega-Team.AlphaOmegaComPany-PoWerFull.Ir.-443 | 185.84ms
-vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | brilliant-knowledge.seotoolsforyou.co.uk-80 | 13.77ms
-vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#RELAY🚩 | brilliant-knowledge.seotoolsforyou.co.uk-80 | 21.17ms
-vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#RELAY🚩 | sourceforge.net-443 | 1.94ms
+        vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#RELAY🚩 | sourceforge.net-443 | 1.94ms
 vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#RELAY🚩 | sourceforge.net-443 | 2.42ms
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&sid=#REALITY|RU🇷🇺 | 5.181.171.10-443 | 79.77ms
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|PK🇵🇰 | 103.175.79.10-443 | 19.29ms
@@ -503,3 +487,19 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sn
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FTel-%40V2ray_Alpha#RELAY🚩 | vpn.stupidworld.web.id-443 | 20.61ms
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FTel-%40V2RAYNG_1378#RELAY🚩 | vpn.stupidworld.web.id-443 | 2.84ms
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#RELAY🚩 | vpn.stupidworld.web.id-443 | 20.53ms
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#RELAY🚩 | vpn.stupidworld.web.id-443 | 20.48ms
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#RELAY🚩 | vpn.stupidworld.web.id-443 | 2.44ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?security=tls&sni=vle.amclubsvip.dpdns.org&type=ws&host=vle.amclubsvip.dpdns.org&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#RELAY🚩 | vle.amclubsvip.dpdns.org-2096 | 148.3ms
+trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@pscresearch.faculty.ucdavis.edu:443?security=tls&type=ws&sni=pscresearch.faculty.ucdavis.edu&path=ws%2F%3Fed%3D2048&host=uhc6rhiubu.com#US🇺🇸 | pscresearch.faculty.ucdavis.edu-443 | 27.37ms
+trojan://bpb-trojan@japan.com:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#RELAY🚩 | zamim340.ggff.net-443 | 117.17ms
+trojan://bpb-trojan@172.66.44.128:443?security=tls&type=tcp&sni=cf.090227.xyz#RELAY🚩 | cf.090227.xyz-443 | 619.12ms
+trojan://bpb-trojan@162.159.152.35:443?security=tls&type=tcp&sni=cf.090227.xyz#RELAY🚩 | cf.090227.xyz-443 | 10.61ms
+trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#RELAY🚩 | zamim340.ggff.net-443 | 20.85ms
+trojan://blue2024@190.93.246.191:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 1226.08ms
+trojan://blue2024@190.93.245.62:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 1417.5ms
+trojan://blue2024@190.93.245.114:443?sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 765.35ms
+trojan://blue2024@190.93.244.61:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 549.81ms
+trojan://blue2024@188.114.97.99:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 553.41ms
+trojan://blue2024@188.114.96.186:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 549.4ms
+trojan://blue2024@188.114.96.163:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 1140.17ms
+trojan://blue2024@188.114.96.107:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 825.33ms
