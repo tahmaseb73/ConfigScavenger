@@ -3,7 +3,20 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://blue2024@104.18.139.97:443?sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 588.73ms
+        trojan://blue2024@104.19.242.185:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 592.69ms
+trojan://blue2024@104.19.238.98:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 594.05ms
+trojan://blue2024@104.19.217.93:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 588.8ms
+trojan://blue2024@104.19.187.2:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 590.24ms
+trojan://blue2024@104.19.185.248:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 597.05ms
+trojan://blue2024@104.19.183.241:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 596.55ms
+trojan://blue2024@104.19.172.92:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 593.48ms
+trojan://blue2024@104.19.163.145:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 591.19ms
+trojan://blue2024@104.19.162.122:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 592.36ms
+trojan://blue2024@104.18.99.145:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 585.06ms
+trojan://blue2024@104.18.35.253:443?allowInsecure=0&sni=ta.promote.icu#US🇺🇸 | ta.promote.icu-443 | 593.19ms
+trojan://blue2024@104.18.159.179:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 598.09ms
+trojan://blue2024@104.18.153.27:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 598.33ms
+trojan://blue2024@104.18.139.97:443?sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 588.73ms
 trojan://blue2024@104.18.139.97:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 591.9ms
 trojan://blue2024@104.18.138.78:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 590.78ms
 trojan://blue2024@104.18.121.158:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 596.29ms
@@ -490,16 +503,3 @@ ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.155:443#US%F0%9F%87%BA%F0%9
 ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.154:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.154-443+%7C+41.33ms
 ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.147:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.147-443+%7C+41.29ms
 ss://542f694be8bd4b9e858cccb1c46a3316Og==@zula.ir:80#RELAY%F0%9F%9A%A9+%7C+zula.ir-80+%7C+324.66ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@www.wappalyzer.com:80#RELAY%F0%9F%9A%A9+%7C+www.wappalyzer.com-80+%7C+79.16ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@www.speedmeter.life:80#RELAY%F0%9F%9A%A9+%7C+www.speedmeter.life-80+%7C+522.86ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@herfeh-honarmand.com:80#RELAY%F0%9F%9A%A9+%7C+herfeh-honarmand.com-80+%7C+87.43ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@104.17.147.22:80#RELAY%F0%9F%9A%A9+%7C+104.17.147.22-80+%7C+13.95ms
-ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-80+%7C+31.92ms
-ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-80+%7C+16.55ms
-ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-80+%7C+32.02ms
-ss://53fa8fafba4b43229c69a3e5b1555049Og==@104.17.148.22:80#RELAY%F0%9F%9A%A9+%7C+104.17.148.22-80+%7C+14.04ms
-ss://53fa8fafba4b43229c69a3e5b1555049Og==@104.17.148.22:80#RELAY%F0%9F%9A%A9+%7C+104.17.148.22-80+%7C+14.05ms
-ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.235.201:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.235.201-2053+%7C+36.98ms
-ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.234.120:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.234.120-2053+%7C+36.93ms
-ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.232.201:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.232.201-2053+%7C+37.19ms
-ss://4ea841c10dc145639f47deba8407cb4eOg==@tgju.org:8080#RELAY%F0%9F%9A%A9+%7C+tgju.org-8080+%7C+16.09ms
