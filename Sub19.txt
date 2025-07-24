@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.iakeys.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ipget.net:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.okcupid.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.pcmag.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.pcmag.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.whatismyip.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06fa2c71-38a0-4a4c-8493-8dc716ab1adf@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=VPNCUSTOMIZE.azmoon.net&path=/Telegram,VPNCUSTOMIZE%3Fed%3D443&fp=chrome&alpn=h3,h2,http/1.1#🔒
 ss://06fa2c71-38a0-4a4c-8493-8dc716ab1adf@151.101.2.219:443?security=tls&sni=speedtest.net&type=ws&host=VPNCUSTOMIZE.azmoon.net&path=/Telegram,VPNCUSTOMIZE%3Fed%3D443&fp=chrome&alpn=h3,h2,http/1.1#🔒
@@ -503,3 +500,6 @@ ss://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?path=%2F&security=tl
 ss://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?security=tls&sni=cr777.rayan.dpdns.org&type=ws&host=cr777.rayan.dpdns.org&allowInsecure=0#🔒
 ss://1688039e-a45f-499e-b9f4-c098c87d3b32@104.24.222.73:443?security=tls&sni=cr7.rayan.dpdns.org&type=ws&host=cr7.rayan.dpdns.org&path=sinavm-sinavm%2F%3Fed%3D2560&fp=chrome#🔒
 ss://1688039e-a45f-499e-b9f4-c098c87d3b32@108.162.196.159:443?security=tls&sni=cr7777.rayan.dpdns.org&type=ws&host=cr7777.rayan.dpdns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#🔒
+ss://1688039e-a45f-499e-b9f4-c098c87d3b32@138.2.235.193:443?security=tls&sni=cr7.rayan.dpdns.org&type=ws&host=cr7.rayan.dpdns.org&path=%2F#🔒
+ss://1688039e-a45f-499e-b9f4-c098c87d3b32@150.230.63.93:443?security=tls&sni=cr7.rayan.dpdns.org&type=ws&host=cr7.rayan.dpdns.org&path=%2F#🔒
+ss://1688039e-a45f-499e-b9f4-c098c87d3b32@152.69.195.36:443?security=tls&sni=cr7.rayan.dpdns.org&type=ws&host=cr7.rayan.dpdns.org&path=%2F#🔒
