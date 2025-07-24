@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.251.139:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
+        ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.199.254:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.251.139:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.29.201:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.3.154:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.36.135:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
@@ -502,4 +503,3 @@ ss://eyJ2IjogIjIiLCAicHMiOiAiMjF8Vk1FU1Mt5pyq55+lPue+juWbvS1ORuino+mUgeiHquWItuW
 ss://eyJ2IjogIjIiLCAicHMiOiAiMjF8X+S4reWbvSAjMSIsICJhZGQiOiAiMTIwLjE5OC43MS4yMTYiLCAicG9ydCI6ICI0MDA1OSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
 ss://eyJ2IjogIjIiLCAicHMiOiAiMjF8X+S4reWbvSAjMiIsICJhZGQiOiAiMTIwLjIzMi4xNTMuMTIzIiwgInBvcnQiOiAiNTEwNTIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
 ss://eyJ2IjogIjIiLCAicHMiOiAiMjF8X+S4reWbvSAjMyIsICJhZGQiOiAiMTIwLjIzMi4xNTMuNjMiLCAicG9ydCI6ICI0MDEwNSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
-ss://eyJ2IjogIjIiLCAicHMiOiAiMjF8X+S4reWbvSAjNCIsICJhZGQiOiAiMTIwLjIzMi4xNTMuNDAiLCAicG9ydCI6ICIzNDA0MiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==

@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.16:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
+        ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.168:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
+ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.16:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
 ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.170:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
 ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.171:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
 ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.172:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
@@ -502,4 +503,3 @@ ss://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.18.21.98:443?security=tls&sni=xxx.
 ss://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.18.24.128:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.19.186.16:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.20.161.43:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.21.72.150:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

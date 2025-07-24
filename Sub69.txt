@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.16.155.10:443?security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F&fp=chrome#🔒
+        vless://18d32757-070c-40aa-8904-eef3a590f7c6@147.45.73.191:29108?type=tcp&path=%2F%40ToxicV2ray%40ToxicV2ray%40ToxicV2ray%40ToxicV2ray%40ToxicV2ray%40ToxicV2ray%40ToxicV2ray%40ToxicV2ray&host=www.apple.com&headerType=http&security=none#@meli_proxyy
+vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.16.155.10:443?security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F&fp=chrome#🔒
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.17.213.241:443?security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F&fp=chrome#🔒
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.17.221.248:443?security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F&fp=chrome#🇦🇩[openproxylist.com]
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.17.221.248:443?security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F&fp=chrome#🔒
@@ -502,4 +503,3 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.pronetwork22.com#⚡Telegram
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v23.networkpro.net#telegram
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v23.pronetwork.com#telegram
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v23.pronetwork23.com#@meli_proxyy

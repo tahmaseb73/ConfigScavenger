@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.102:2375#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A2375
+        ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.102:2375#%F0%9F%87%BA%F0%9F%87%B8%20Ashburn,%20VA,%20United%20States%20(9)
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.102:2375#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A2375
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.133:2375#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.133%3A2375
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.133:2375#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.133:2375
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.133:2375#🔒
@@ -502,4 +503,3 @@ ss://adef036c-59ca-486c-d07a-e3667a25f536@151.101.64.155:80?type=grpc&serviceNam
 ss://ae143fd0-3fad-4a3e-bc14-064de037b578@172.67.162.197:443?security=tls&type=ws&sni=c1.gem2.cfd&path=/&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
 ss://ae8ee2e7-4e62-44ea-8cc3-c584515bacb1@172.67.204.120:443?security=tls&sni=mas3d1.890614.xyz&type=ws&host=mas3d1.890614.xyz&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 ss://ae942900-cae6-425e-94b0-21f086e6d7b1@157.180.40.162:443?security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&type=tcp&fp=chrome&pbk=__6BhtO3Rhjw4wnAmzklhquVvIngjhfnB8dhDVtj0Vs&sid=275f34&alpn=http/1.1#🔒
-ss://aea9fee6-68fc-4beb-a14a-7419e35aaedb@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=telegram.isvvpn.com&type=ws#🇺🇸US_937_@Surfboardv2ray
