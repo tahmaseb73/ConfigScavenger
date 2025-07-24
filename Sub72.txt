@@ -3,7 +3,15 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.19.223.79:2087?security=tls&sni=gvsoe.bangkok-amrikayekesafat.org&type=ws&host=gvsoe.bangkok-amrikayekesafat.org&path=/morano#🔒
+        vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&sid=f8a537&type=tcp&headerType=none#REALITY|GB🇬🇧
+vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445?security=reality&encryption=none&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=f8a537#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%98
+vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445?security=reality&encryption=none&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=f8a537#REALITY|GB🇬🇧
+vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445?security=reality&encryption=none&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=f8a537#⚡Telegram
+vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445?security=reality&flow=xtls-rprx-vision&sni=tesla.com&type=tcp&fp=chrome&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&sid=f8a537#🇬🇧[openproxylist.com]
+vless://3da521ba-5ab2-50ab-8758-ec444b5f1ad9@77.105.162.84:443?security=tls&sni=77.105.162.84&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=77.105.162.84&encryption=none#Rayan%20-%20SSM%20-%20WSDR-121%20-%20US%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+vless://3da521ba-5ab2-50ab-8758-ec444b5f1ad9@cdnjs.com:443?security=tls&sni=us-1-ssm.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=us-1-ssm.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SSM%20-%20WSCT-121%20-%20US%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.19.222.79:2087?security=tls&sni=gvsoe.bangkok-amrikayekesafat.org&type=ws&host=gvsoe.bangkok-amrikayekesafat.org&path=/morano#🔒
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.19.223.79:2087?security=tls&sni=gvsoe.bangkok-amrikayekesafat.org&type=ws&host=gvsoe.bangkok-amrikayekesafat.org&path=/morano#🔒
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.3.52:2087?security=tls&sni=vqscy.bamako-hipersonictodolist.info&type=ws&host=vqscy.bamako-hipersonictodolist.info&path=%2Fmorano#🔒
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.41.202:2087?security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=/morano#🔒
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.46.246:2087?security=tls&sni=divrt.bamako-amrikayekesafat.org&type=ws&host=divrt.bamako-amrikayekesafat.org&path=/morano#🔒
@@ -495,11 +503,3 @@ vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alp
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20VL-TCP-TLS%204%E2%83%A3
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&type=tcp&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.16.0.41:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
-vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.17.250.75:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
-vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.26.110.49:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
-vless://442ac940-bbdd-4044-9b2c-e4e53cbe0055@104.16.197.224:80?security=none&type=ws&host=little-grass-d3f7az.cijof58321.workers.dev&path=%2Ftelegram%40mtmvpn%3Fed%3D2560#🔒
-vless://443f6977-8d2b-4b6d-9f99-f16efb69f232@104.21.92.57:8443?security=tls&sni=panel.proxystore11.news&type=xhttp&host=panel.proxystore11.news&path=prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒
-vless://443f6977-8d2b-4b6d-9f99-f16efb69f232@172.67.187.18:8443?security=tls&sni=panel.proxystore11.news&type=xhttp&host=panel.proxystore11.news&path=prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11-prx11&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒
-vless://446eedeb-5199-4c05-8b0a-7096c9182df5@172.67.73.48:443?security=tls&sni=q1.grasSORy.shop&type=ws&host=q1.grasSORy.shop&path=/&fp=chrome&alpn=h2,http/1.1#🔒
-vless://4470f40c-963e-488c-9821-5aac0c5ff930@199.232.38.133:80?type=xhttp&host=joinbede_vmessorg.ir&path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480#🔒
-vless://4484a8e0-8cd7-4db3-9098-99819d346dc3@104.25.253.197:8443?security=tls&sni=oracle-sg.777999.lol&type=ws&host=oracle-sg.777999.lol&path=%2F%3Fed#🔒
