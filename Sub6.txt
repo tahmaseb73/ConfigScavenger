@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://blue2024@104.18.153.27:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 598.33ms
-trojan://blue2024@104.18.139.97:443?sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 588.73ms
+        trojan://blue2024@104.18.139.97:443?sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 588.73ms
 trojan://blue2024@104.18.139.97:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 591.9ms
 trojan://blue2024@104.18.138.78:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 590.78ms
 trojan://blue2024@104.18.121.158:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 596.29ms
@@ -503,3 +502,4 @@ ss://53fa8fafba4b43229c69a3e5b1555049Og==@104.17.148.22:80#RELAY%F0%9F%9A%A9+%7C
 ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.235.201:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.235.201-2053+%7C+36.98ms
 ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.234.120:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.234.120-2053+%7C+36.93ms
 ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.232.201:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.232.201-2053+%7C+37.19ms
+ss://4ea841c10dc145639f47deba8407cb4eOg==@tgju.org:8080#RELAY%F0%9F%9A%A9+%7C+tgju.org-8080+%7C+16.09ms
