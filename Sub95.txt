@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922?security=tls&sni=edcck.ambercc.filegear-sg.me&type=ws&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.210.96.197:12902?security=tls&sni=edcce.ambercc.filegear-sg.me&type=ws&host=edcce.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922?security=tls&sni=edcck.ambercc.filegear-sg.me&type=ws&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.180:8443?security=tls&sni=edccw.aimercc.filegear-sg.me&type=ws&host=edccw.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.239:8443?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.2:8443?security=tls&sni=edfgv.aimercc.filegear-sg.me&type=ws&host=edfgv.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
@@ -502,4 +503,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.28:80?encryption=none&s
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.28:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.29:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.36:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.43:80?type=ws&host=cs.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒

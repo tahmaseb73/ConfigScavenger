@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://6bc29783-3ff6-4379-8650-611a7095307b@219.76.131.205:443?security=tls&flow=xtls-rprx-vision&sni=yfhk1.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒
+        ss://6bc29783-3ff6-4379-8650-611a7095307b@193.123.187.39:443?security=tls&flow=xtls-rprx-vision-udp443&sni=767w1-38dc0-9kcf2.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@219.76.131.205:443?security=tls&flow=xtls-rprx-vision&sni=yfhk1.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒
 ss://6bc29783-3ff6-4379-8650-611a7095307b@3.0.101.89:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
 ss://6bc29783-3ff6-4379-8650-611a7095307b@3.112.235.148:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
 ss://6bc29783-3ff6-4379-8650-611a7095307b@43.207.164.222:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
@@ -502,4 +503,3 @@ ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?security=tls&sni=02
 ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.152.69:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3DProxyIP.Oracle.cmliussss.net#🔒
 ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.153.170:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua#🔒
 ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.153.42:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.153.72:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3Dproxyip.oracle.cmliussss.netsecurity%3Dtls#🔒

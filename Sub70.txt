@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=v7pro10.ulserver.ir&sni=v7pro10.ulserver.ir&fp=#telegram
+        vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=v7pro02.ulserver.ir&sni=v7pro02.ulserver.ir&fp=#telegram
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=v7pro10.ulserver.ir&sni=v7pro10.ulserver.ir&fp=#telegram
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=v7pro29.yozplhost.ir&sni=v7pro29.yozplhost.ir&fp=#telegram
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s01.alvandserver1.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s01.alvandserver1.ir&fp=#telegram
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s01.ulserver.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s01.ulserver.ir&fp=#telegram
@@ -502,4 +503,3 @@ vless://2f99cab3-9044-4e7d-8073-5bfa87c7c1b5@tci-sevre-poland.hiska.store:443?se
 vless://2f99cab3-9044-4e7d-8073-5bfa87c7c1b5@tci-sevre-poland.hiska.store:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#⚡Telegram
 vless://2f99cab3-9044-4e7d-8073-5bfa87c7c1b5@tci-sevre-poland.hiska.store:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#@meli_proxyy
 vless://2f99cab3-9044-4e7d-8073-5bfa87c7c1b5@tci-sevre-poland.hiska.store:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#REALITY|PL🇵🇱
-vless://2f99cab3-9044-4e7d-8073-5bfa87c7c1b5@tci-sevre-poland.hiska.store:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#⚡Telegram

@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://3ae5e5e9-44be-4acd-b22b-f9e5ae69a0fc@live.wkrq.com:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=live.wkrq.com#US🇺🇸 | live.wkrq.com-443 | 115.16ms
+        vless://3c36eadb-747a-4166-8db0-23fec9883ea2@162.251.82.187:443?encryption=none&security=tls&sni=HarmonY-427.pages.DEV&fp=chrome&type=ws&host=HarmonY-427.pages.DEV&path=%2F#RELAY🚩 | HarmonY-427.pages.DEV-443 | 29.03ms
+vless://3ae5e5e9-44be-4acd-b22b-f9e5ae69a0fc@live.wkrq.com:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=live.wkrq.com#US🇺🇸 | live.wkrq.com-443 | 115.16ms
 vless://3a95905b-0ee1-494b-bda8-79c20dc41be5@be.kimjo.ir:8080?mode=auto&path=%2F%3Fed%3D1204&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&host=zula.ir&type=xhttp#RELAY🚩 | zula.ir-8080 | 2.39ms
 vless://3a1228c5-ddf9-4430-ac88-57c889712cdd@209.38.45.230:21624?security=reality&encryption=none&pbk=N5HSrXmFSFmCmp38i_FtGh00Cfmyh3E4M6n5bdg97GE&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=refersion.com&sid=7bacf6051ced#REALITY|NL🇳🇱 | 209.38.45.230-21624 | 152.62ms
 vless://39fe44e8-3621-47d1-81f9-2eb9e00356e4@85.133.247.50:2086?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷 | 85.133.247.50-2086 | 270.71ms
@@ -502,4 +503,3 @@ trojan://blue2024@104.16.139.171:443?allowInsecure=1&sni=td.promote.icu#US🇺�
 trojan://blue2024@104.16.134.219:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 544.03ms
 trojan://blue2024@104.16.120.166:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 558.45ms
 trojan://blue2024@104.16.113.194:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 546.68ms
-trojan://blue2024@104.16.102.242:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 551.71ms
