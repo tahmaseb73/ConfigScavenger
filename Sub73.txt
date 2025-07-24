@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://439dbc9e-5519-40ae-9856-47070807d87a@162.159.135.234:2087?security=tls&sni=blog159.v2box.lol&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒
-vless://439dbc9e-5519-40ae-9856-47070807d87a@162.159.136.234:2087?security=tls&sni=blog159.v2box.lol&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒
-vless://43aa184c-531f-6c57-cc83-88c3f1921a76@199.232.212.3:80?security=none&type=ws&host=connectiran.ir#🔒
+        vless://43aa184c-531f-6c57-cc83-88c3f1921a76@199.232.212.3:80?security=none&type=ws&host=connectiran.ir#🔒
 vless://43be6ae5-48a9-4715-8b83-af3ee81c46fd@www.speedtest.net:80?path=%2FISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#RELAY🚩
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#@meli_proxyy
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮
@@ -503,3 +501,5 @@ vless://4f435a3a-dfb8-4c90-b637-8df8c5d44550@104.21.32.242:443?security=tls&sni=
 vless://4f435a3a-dfb8-4c90-b637-8df8c5d44550@172.67.188.77:443?security=tls&sni=9dswerty.890604.dpdns.org&type=ws&host=9dswerty.890604.dpdns.org&path=/vUUL3CyENdTbFYDBimbKYmPIggy&fp=chrome&alpn=http/1.1#🔒
 vless://4f6f85f9-9d32-4684-a952-338d2208e1af@104.18.13.149:80?security=none&type=ws&host=netbot.жИСзЪДеРНе≠ЧдЉКжЦѓжҐЕжіЫ.site.&path=/dont/trust/melo#🔒
 vless://4f79048b-2094-450d-bbf7-1dd1dc73c5cd@104.26.14.85:8880?type=httpupgrade#🔒
+vless://4f7f81ac-07fe-4d6a-ba57-728cb970b9fb@194.182.79.143:36936?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&mode=gun#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%BF%C2%AE%EF%B8%8FCzechia%C2%A9%EF%B8%8FPrague%F0%9F%85%BF%EF%B8%8Fping%3A38.49ms
+vless://4f7f81ac-07fe-4d6a-ba57-728cb970b9fb@194.182.79.143:36936?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#🇨🇿CZ_433_@Surfboardv2ray
