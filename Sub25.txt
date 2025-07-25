@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?path=/TorCippyy?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=aft.fi&fp=chrome&type=ws&sni=live.989bull.com#🇺🇸US_428_@Surfboardv2ray
-ss://4d877e02-e49f-47d3-a542-42b568ceee02@104.16.192.25:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://4d877e02-e49f-47d3-a542-42b568ceee02@104.16.85.150:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        ss://4d877e02-e49f-47d3-a542-42b568ceee02@104.16.85.150:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://4d877e02-e49f-47d3-a542-42b568ceee02@104.17.2.183:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://4d877e02-e49f-47d3-a542-42b568ceee02@104.18.11.63:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://4d877e02-e49f-47d3-a542-42b568ceee02@104.18.29.173:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -503,3 +501,5 @@ ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.110:8880?sni=reedfree8mahsa
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.111:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40v2raying
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.111:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.118:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.118:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed%3D2560#🔒
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.119:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒

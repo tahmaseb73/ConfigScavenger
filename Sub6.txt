@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://trojan@104.18.4.250:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#RELAY🚩 | ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev-2053 | 20.94ms
-trojan://trojan@104.18.13.229:8880?security=tls&type=ws&host=azadnet.vileyo6708.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | azadnet.vileyo6708.workers.dev-8880 | 86.56ms
-trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | pangpi.pages.dev-8443 | 26.5ms
+        trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | pangpi.pages.dev-8443 | 26.5ms
 trojan://tg-fq521free@198.62.62.67:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#RELAY🚩 | torjan.xn--xhq44j.eu.org-443 | 316.18ms
 trojan://f4107ed1e1016be@srwes1-confeg.sbs:56679?type=tcp&security=tls#FR🇫🇷 | srwes1-confeg.sbs-56679 | 169.84ms
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650#RELAY🚩 | aio.zipzap.biz.id-80 | 223.88ms
@@ -503,3 +501,5 @@ ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9
 ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-80+%7C+6.74ms
 ss://53fa8fafba4b43229c69a3e5b1555049Og==@104.17.148.22:80#RELAY%F0%9F%9A%A9+%7C+104.17.148.22-80+%7C+1.65ms
 ss://53fa8fafba4b43229c69a3e5b1555049Og==@104.17.148.22:80#RELAY%F0%9F%9A%A9+%7C+104.17.148.22-80+%7C+1.37ms
+ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.235.201:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.235.201-2053+%7C+8.37ms
+ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.234.120:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.234.120-2053+%7C+8.24ms
