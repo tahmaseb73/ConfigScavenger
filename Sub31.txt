@@ -3,7 +3,23 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://6bc29783-3ff6-4379-8650-611a7095307b@54.249.86.118:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+        ss://6bc29783-3ff6-4379-8650-611a7095307b@140.238.101.15:443?security=tls&flow=xtls-rprx-vision-udp443&sni=767w1-38dc0-9icf2.xn--4gq62f52gppi29k.com&fp=safari&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@141.253.124.138:443?security=tls&flow=xtls-rprx-vision-udp443&sni=b2-9fr2329-6bh.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@144.24.206.147:443?security=tls&flow=xtls-rprx-vision-udp443&sni=b2-9fr5232-96bh.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@165.1.68.155:443?security=tls&flow=xtls-rprx-vision&sni=767w1-38dc0-9ocf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@18.179.206.207:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@192.9.142.185:443?security=tls&flow=xtls-rprx-vision-udp443&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@192.9.247.127:443?security=tls&flow=xtls-rprx-vision&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@193.123.187.39:443?security=tls&flow=xtls-rprx-vision-udp443&sni=767w1-38dc0-9kcf2.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@219.76.131.205:443?security=tls&flow=xtls-rprx-vision&sni=yfhk1.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@3.0.101.89:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@3.112.235.148:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@43.207.164.222:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@52.196.242.13:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=safari&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@52.68.181.50:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@54.179.186.107:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@54.179.89.113:443?security=tls&flow=xtls-rprx-vision-udp443&sni=b295-23ap29-6bh.xn--4gq62f52gppi29k.com&fp=safari&allowInsecure=0#🔒
+ss://6bc29783-3ff6-4379-8650-611a7095307b@54.249.86.118:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
 ss://6bc29783-3ff6-4379-8650-611a7095307b@54.255.139.254:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=firefox&allowInsecure=0#🔒
 ss://6bc29783-3ff6-4379-8650-611a7095307b@64.181.255.250:443?security=tls&flow=xtls-rprx-vision&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=safari#🔒
 ss://6bee5e20-4fa9-427d-b148-767420bb5f72@162.159.24.142:8443?security=tls&sni=pro-b.ponyo.lat&type=ws&host=pro-b.ponyo.lat&fp=chrome&alpn=h2,http/1.1#🔒
@@ -487,19 +503,3 @@ ss://79409393-9b28-4db9-a4a8-98abc70dfcae@151.101.64.155:80?path=/-LiV2ry@LIGHTN
 ss://79473718-0451-41c3-a0a2-9f6d21c99f75@172.66.47.125:443?security=tls&sni=9052b030.joinmahdiserver-90p.pages.dev&type=ws&host=9052b030.joinmahdiserver-90p.pages.dev&path=Telegram-%40V2ray_Alpha%2F%3Fed%3D2048#🔒
 ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@104.17.102.95:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3DProxyIP.Oracle.cmliussss.net#🔒
 ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@104.18.80.243:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3Dproxyip.oracle.cmliussss.netsecurity%3Dtls#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@104.18.83.92:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=fp%3Dchrome#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.123.255.51:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=1#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560fp=random&security=tls#@Hope_Net-join-us-on-Telegram⚠️
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.152.69:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3DProxyIP.Oracle.cmliussss.net#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.153.170:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.153.42:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@162.159.153.72:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2Fproxyip%3Dproxyip.oracle.cmliussss.netsecurity%3Dtls#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.115:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.244:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2F%3Fed%3D2560security%3Dtls#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram⚠️
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#🇧🇷BR_702_@Surfboardv2ray
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.16.110.70:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2F%3Fed%3D2560security%3Dtls#🔒
-ss://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.26:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&path=%2F%3Fed#🔒
