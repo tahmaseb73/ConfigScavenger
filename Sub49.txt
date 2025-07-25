@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@208.86.168.45:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=/2096/@VRayyNGvpn#🔒
-ss://d3340fc0-69b2-4139-8a38-3a2dfa2e67ae@188.34.164.75:6666?mode=gun&security=none=#🇩🇪DE_1077_@Surfboardv2ray
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.142.237:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒
+        ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.142.237:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.143.237:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.148.244:2095?security=none&type=ws&host=fuckingxijinping.rapid-frog-9ce1.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.149.244:2095?security=none&type=ws&host=fuckingxijinping.rapid-frog-9ce1.workers.dev&path=%2F%3Fed%3D2560#🔒
@@ -503,3 +501,5 @@ ss://d7f943df-d885-4589-93e6-da8b1b2bbde2@188.114.98.42:2053?path=%2F%3Fed%3D256
 ss://d7f943df-d885-4589-93e6-da8b1b2bbde2@188.114.98.42:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#%40v2raying
 ss://d7f943df-d885-4589-93e6-da8b1b2bbde2@188.114.98.42:2053?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=%2F%3Fed%3D2560&fp=random#🔒
 ss://d824be7f-2634-491f-a3fe-8865c1b444c7@5.22.212.180:443?security=reality&sni=www.refersion.com&type=tcp&fp=chrome&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&sid=e869#🔒
+ss://d824be7f-2634-491f-a3fe-8865c1b444c7@bermuda.jahanmataleb.ir:443?type=tcp&security=reality&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&fp=chrome&sni=www.refersion.com&sid=e869&spx=/#🇩🇪DE_1112_@Surfboardv2ray
+ss://d87f96dc-f721-54a4-8a03-d1571809d882@88.218.95.12:443?security=tls&sni=88.218.95.12&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=88.218.95.12&encryption=none#Rayan%20-%20SSO%20-%20WSDR-123%20-%20ZA%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config

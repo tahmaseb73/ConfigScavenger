@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.133:5004#🔒
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.96:5003
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.96:5003#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.96:5003
+        ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.96:5003#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.96:5003
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.96:5003#🔒
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.93.113:5004
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.93.113:5004#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Reston%20%F0%9F%8C%8E%20SS-TCP-NA%204%E2%83%A3
@@ -503,3 +501,5 @@ ss://afc529ca-61fb-488f-8cc1-a068c02dcbaf@104.24.196.20:2086?type=grpc&serviceNa
 ss://afea4855-186d-47ee-a056-016c98f82b0f@164.90.223.126:443?mode=auto&path=telegram--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpntelegram--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn&security=reality&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&pbk=5x1UhHN7fsLbdxqkS53cOQXVodWYlKgYaNIv58d_8CY&fp=chrome&spx=/&type=xhttp&sni=maps.google.com&sid=5ad6#🇩🇪DE_949_@Surfboardv2ray
 ss://afea4855-186d-47ee-a056-016c98f82b0f@164.90.223.126:443?security=reality&sni=maps.google.com&type=xhttp&path=telegram--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpntelegram--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn--netpalvpn&fp=chrome&pbk=5x1UhHN7fsLbdxqkS53cOQXVodWYlKgYaNIv58d_8CY&sid=5ad6#🔒
 ss://affd5a9a-22fa-11ee-be56-0242ac120002@104.19.4.191:443?security=tls&sni=vpn870.tutorials26858.workers.dev&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/&host=vpn870.tutorials26858.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://affd5a9a-22fa-11ee-be56-0242ac120002@104.19.4.191:443?security=tls&sni=vpn870.tutorials26858.workers.dev&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&host=vpn870.tutorials26858.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://affd5a9a-22fa-11ee-be56-0242ac120002@104.20.224.95:443?security=tls&sni=vpn870.tutorials26858.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=vpn870.tutorials26858.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
