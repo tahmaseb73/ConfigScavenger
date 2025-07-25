@@ -3,14 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://blue2024@104.17.33.7:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 549.63ms
-trojan://blue2024@104.17.231.229:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 552.25ms
-trojan://blue2024@104.17.190.165:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 551.43ms
-trojan://blue2024@104.17.106.242:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 546.94ms
-trojan://blue2024@104.16.139.171:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 550.29ms
-trojan://blue2024@104.16.134.219:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 545.83ms
-trojan://auto@[2a06:98c1:3121::3]:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&alpn=h3&fp=randomized&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | dcf741e8.epeius-2gy.pages.dev-443 | 14.17ms
-trojan://auto@172.67.223.178:443?security=tls&type=ws&sni=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&host=abbas.ab841vpn.workers.dev#RELAY🚩 | abbas.ab841vpn.workers.dev-443 | 15.51ms
+        trojan://auto@172.67.223.178:443?security=tls&type=ws&sni=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&host=abbas.ab841vpn.workers.dev#RELAY🚩 | abbas.ab841vpn.workers.dev-443 | 15.51ms
 trojan://auto@104.21.69.44:443?security=tls&type=ws&sni=pAges.dEv.&path=%2F%40custom_config%3Fed%3D2560&host=deploy-14030911.pages.dev#RELAY🚩 | pAges.dEv.-443 | 6.9ms
 trojan://auto@104.17.147.22:2087?security=tls&type=ws&sni=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&host=abbas.ab841vpn.workers.dev#RELAY🚩 | abbas.ab841vpn.workers.dev-2087 | 2.57ms
 trojan://auto@104.16.224.104:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&host=trojanmz.pages.dev#RELAY🚩 | trojanmz.pages.dev-443 | 12.4ms
@@ -503,3 +496,10 @@ ss://0875a3815e5648d1867b08a2c3db13bfOg==@85.133.247.31:2086#IR%F0%9F%87%AE%F0%9
 ss://06fc8c6501f14c7cb9e54f4775a3cfe6Og==@dl-6.ainossupport.com:8060#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+dl-6.ainossupport.com-8060+%7C+499.13ms
 ss://01d68a9bbe484c7bb4f971b29c4cfacaOg==@api.chandplus.com:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+api.chandplus.com-443+%7C+256.2ms
 ss://01d68a9bbe484c7bb4f971b29c4cfacaOg==@95.217.206.161:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+95.217.206.161-443+%7C+176.35ms
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFLT5ERS0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNTcuMTI5LjI0LjEyNCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImF2ZWlyb3IuY29tIiwNCiAgInBhdGgiOiAiL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidmt2ZDEyNy5teWNkbi5tZSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.83:1001?encryption=none&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&headerType=none#US-%3EUS-%3EMTN-%3E%40Sezar_Sec
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?encryption=none&security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=%2FVb2kRpQSrEqsUKCX%3Fed%3D2560%2F%3FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#VN-%3EVN-%3ERTL-%3E%40Sezar_Sec
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlJVLT5SVS0+TVROLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMzEuMTI5LjEwNS4yMzkiLA0KICAicG9ydCI6ICIxNjIzMSIsDQogICJpZCI6ICI3OTNlMDNjYy0yYjA4LTRkMWItYmIwYi01OTI1NjdkMTkwNDMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjMxLjEyOS4xMDUuMjM5IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUOVZQZXQxZkdoZGI0SlBtVVM2U1M1Uk5aN05TZ0J2UU5GNHJrb1FUZEZoR1d2bUdlZHN6ZmpCVGdlZm1yUVloamh5Qjg2N1A5UnZ5QlFtdEVqTFVlZ201Q055bUhDM2k%3D@185.5.38.111:55988#FI-%3EFI-%3EADL-%3E%40Sezar_Sec

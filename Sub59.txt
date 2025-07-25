@@ -3,14 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#RELAY🚩
-trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
-trojan://123456@104.25.165.83:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
-trojan://123456@104.25.97.27:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
-trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
-trojan://123456@198.41.208.69:8443?allowInsecure=0&sni=top-azx.pages.dev&ws=1#@Hope_Net-join-us-on-Telegram
-trojan://123456@198.41.208.69:8443?allowInsecure=0&sni=top-azx.pages.dev&ws=1#RELAY🚩
-trojan://123456@198.41.208.69:8443?sni=top-azx.pages.dev#🔒
+        trojan://123456@198.41.208.69:8443?sni=top-azx.pages.dev#🔒
 trojan://123@104.24.92.207:2053?sni=epeius001-ea1.pages.dev&type=ws&host=epeius001-ea1.pages.dev#🔒
 trojan://127c3420-2133-11f0-b720-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://127c3420-2133-11f0-b720-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%F0%9F%92%9A
@@ -503,3 +496,10 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.152.71:443?security=tls&sni
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.152.71:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A552
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.161.104:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.161.104:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2F#t.me%2Fpeterjest
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.179.98:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.180.227:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.180.227:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2F#t.me%2Fpeterjest
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.182.83:443?security=tls&sni=icecream.955850.xyz&alpn=h3&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull#t.me%2Fpeterjest
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.182.83:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.192.124:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2F#t.me%2Fpeterjest
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.209.127:443?security=tls&sni=icecream.955850.xyz&alpn=h3&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443#t.me%2Fpeterjest
