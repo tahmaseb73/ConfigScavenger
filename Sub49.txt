@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.40.206:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒
+        ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.21.94:2095?security=none&type=ws&host=fuckingxijinping.rapid-frog-9ce1.workers.dev&path=%2F%3Fed%3D2560#🔒
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.40.206:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.41.190:2095?security=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.43.169:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed%3D2560#🔒
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.43.169:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed%3D2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
@@ -502,4 +503,3 @@ ss://d91894d8-c06b-44aa-b905-57ef6e9354aa@65.109.190.22:2087?security=tls&sni=xn
 ss://d91894d8-c06b-44aa-b905-57ef6e9354aa@65.109.218.111:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=ꄓoꄯrꅊaꅡfꅻiꆐcꆪꇍꇱꈍꄰꅋꈩꈿꉜꉭꉿ.YaHvE111.COM.&sni=xn--orafic-o58upgoa9wqa3x5l8j1nusxtyphrgojuwlyn.YAhVe111.COM#🇫🇮FI_1114_@Surfboardv2ray
 ss://d91894d8-c06b-44aa-b905-57ef6e9354aa@65.109.218.111:2087?security=tls&sni=xn--orafic-o58upgoa9wqa3x5l8j1nusxtyphrgojuwlyn.YAhVe111.COM&type=grpc&serviceName=ꄓoꄯrꅊaꅡfꅻiꆐcꆪꇍꇱꈍꄰꅋꈩꈿꉜꉭꉿ.YaHvE111.COM.&fp=chrome&alpn=h2#🔒
 ss://d93eed7f-64ae-4321-bbd2-dbc8fa45ce07@104.21.16.1:2083?security=tls&sni=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&type=ws&host=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=android&alpn=http%2F1.1#🔒
-ss://d96ddab8-306d-4a6b-86d9-d8e427316075@104.17.26.222:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

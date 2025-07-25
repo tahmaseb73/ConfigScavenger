@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://be0efe12-7ff0-46aa-8769-560c4d7d5dae@172.67.217.231:443?sni=netb.5678919.xyz&type=ws&host=netb.5678919.xyz#🔒
+        ss://be0efe12-7ff0-46aa-8769-560c4d7d5dae@104.21.62.18:443?sni=netb.5678919.xyz&type=ws&host=netb.5678919.xyz#🔒
+ss://be0efe12-7ff0-46aa-8769-560c4d7d5dae@172.67.217.231:443?sni=netb.5678919.xyz&type=ws&host=netb.5678919.xyz#🔒
 ss://be43bba1-83c7-46fe-a3e4-2873b522b44a@64.176.40.224:3533?security=tls&sni=oracle-sg.777999.lol&type=ws&host=oracle-sg.777999.lol&allowInsecure=1#🔒
 ss://be813f12-47ac-4b16-9146-8435ebacae3f@104.16.34.45:443?sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org#🔒
 ss://be813f12-47ac-4b16-9146-8435ebacae3f@104.16.59.79:443?sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org#🔒
@@ -502,4 +503,3 @@ ss://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?security=tls&sni=naut
 ss://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?encryption=none&security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#RELAY🚩
 ss://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?encryption=none&security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#RoseVpn%F0%9F%8C%B9%40v222ray📍خرید
 ss://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?path=%2F47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#Free%20119%20%28%40Outline_Vpn%29
-ss://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒
