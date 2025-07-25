@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://e1d98310-db5a-4279-bbf7-760902b4af0b@172.67.30.148:443?security=tls&sni=2576.papala.filegear-sg.me&type=ws&host=2576.papala.filegear-sg.me&path=%2F#🔒
+        vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@nestle.ir:443?path=/wws&security=tls&encryption=none&alpn=h2,http/1.1&host=cpanel.pharmaweb.info&fp=chrome&type=ws&sni=cpanel.pharmaweb.info#🇨🇦CA_1201_@Surfboardv2ray
+vless://e1d98310-db5a-4279-bbf7-760902b4af0b@104.22.58.100:443?security=tls&sni=2576.papala.filegear-sg.me&type=ws&host=2576.papala.filegear-sg.me&path=%2F%3Fed%3D2560&fp=randomized#🔒
+vless://e1d98310-db5a-4279-bbf7-760902b4af0b@104.22.59.100:443?security=tls&sni=2576.papala.filegear-sg.me&type=ws&host=2576.papala.filegear-sg.me#🔒
+vless://e1d98310-db5a-4279-bbf7-760902b4af0b@172.67.30.148:443?security=tls&sni=2576.papala.filegear-sg.me&type=ws&host=2576.papala.filegear-sg.me&path=%2F#🔒
 vless://e1ec0eef-2fde-53e4-b8d6-76f882e6b268@www.speedtest.net:2052?path=/vless#🇨🇦CA_1202_@Surfboardv2ray
 vless://e1f8f779-bd78-46a0-b196-707d169f4061@104.20.18.168:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#🔒
 vless://e1f8f779-bd78-46a0-b196-707d169f4061@104.20.19.168:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#🔒
@@ -500,6 +503,3 @@ vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@104.21.93.108:443?path=%2F8SgHUCa9r
 vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@104.21.93.108:443?path=%2F8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http%2F1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#⚡Telegram
 vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@104.21.93.108:443?path=/8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http/1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#🇨🇦CA_1239_@Surfboardv2ray
 vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@104.21.93.108:443?security=tls&sni=covh.blanku.me&type=tcp&fp=chrome&alpn=http%2F1.1#🔒
-vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?encryption=none&security=tls&sni=covh.blanku.me&alpn=http%2F1.1&fp=chrome&type=httpupgrade&host=covh.blanku.me&path=%2F8SgHUCa9rohiCVOzju871XiFr9#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A55.94ms
-vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=%2F8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http%2F1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#@meli_proxyy
-vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=%2F8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http%2F1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#⚡Telegram
