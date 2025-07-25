@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://79b9ba15-de8d-4b43-9e35-f763f483ce90@162.251.82.147:443?security=tls&sni=refiner-tls.autoimmune4.workers.dev&type=ws&host=refiner-tls.autoimmune4.workers.dev&path=%2Fde2-full.privateip.net%2Fws#🔒
+        ss://79b9ba15-de8d-4b43-9e35-f763f483ce90@141.101.113.6:443?security=tls&sni=refiner-tls.autoimmune4.workers.dev&type=ws&host=refiner-tls.autoimmune4.workers.dev&path=%2Fde2-full.privateip.net%2Fws#🔒
+ss://79b9ba15-de8d-4b43-9e35-f763f483ce90@162.159.141.134:443?security=tls&sni=refiner-tls.autoimmune4.workers.dev&type=ws&host=refiner-tls.autoimmune4.workers.dev&path=%2Fde2-full.privateip.net%2Fws#🔒
+ss://79b9ba15-de8d-4b43-9e35-f763f483ce90@162.251.82.147:443?security=tls&sni=refiner-tls.autoimmune4.workers.dev&type=ws&host=refiner-tls.autoimmune4.workers.dev&path=%2Fde2-full.privateip.net%2Fws#🔒
 ss://79d30b96-4d9e-4510-a61d-5fd0551cca4d@hajlab.ucdavis.edu:80?path=/seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmtxmplus?ed=1024&security=none&encryption=none&host=SeyyedMTtelegramChannel.net&type=ws#🇺🇸US_706_@Surfboardv2ray
 ss://79d30b96-4d9e-4510-a61d-5fd0551cca4d@panel2.seyyedmtmodidandansax.blog:2052?mode=gun&security=reality&encryption=none&authority=&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&fp=chrome&type=grpc&serviceName=2052vless&sni=alibiloungelv.com&sid=4156caa9#🇱🇹LT_707_@Surfboardv2ray
 ss://79d40805-c7eb-49cb-bb88-61d18b6c52b2@172.66.45.29:2053?security=tls&sni=mAHDiseRveR-ac2.pagEs.deV&type=ws&host=mahdiserver-ac2.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒
@@ -501,5 +503,3 @@ ss://85e11d8a-6868-44d3-b241-d6c8c11a82be@104.21.1.161:443?security=tls&sni=xxx.
 ss://85e11d8a-6868-44d3-b241-d6c8c11a82be@104.26.6.3:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://85e11d8a-6868-44d3-b241-d6c8c11a82be@162.159.195.149:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://85e11d8a-6868-44d3-b241-d6c8c11a82be@162.159.195.154:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://85e11d8a-6868-44d3-b241-d6c8c11a82be@162.159.195.226:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://85e11d8a-6868-44d3-b241-d6c8c11a82be@172.66.0.1:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

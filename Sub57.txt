@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.46:80?security=none&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒
+        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.43:80?type=ws&host=cs.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.44:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.46:80?security=none&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.53:80?type=ws&host=us.laoyoutiao.link&path=TelegramрЯЗ®рЯЗ≥#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.55:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.56:80?type=ws&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#🔒
@@ -501,5 +503,3 @@ ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.77:8880?allowInsecure=0&sni=
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.77:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.78:8880?allowInsecure=0&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/#14%7CGB_speednode_0032
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.78:8880?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/&allowInsecure=0#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.79:8880?allowInsecure=1&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#14%7CGB_speednode_0024
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.79:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒

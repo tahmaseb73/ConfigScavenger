@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://be813f12-47ac-4b16-9146-8435ebacae3f@45.8.211.206:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
+        ss://be813f12-47ac-4b16-9146-8435ebacae3f@45.131.6.47:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
+ss://be813f12-47ac-4b16-9146-8435ebacae3f@45.131.6.57:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
+ss://be813f12-47ac-4b16-9146-8435ebacae3f@45.8.211.206:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
 ss://be813f12-47ac-4b16-9146-8435ebacae3f@45.85.119.6:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒
 ss://be88b352-bc2e-45bf-abeb-cc117cf6f884@104.21.10.34:443?security=tls&sni=cdn.packageclub.net&type=ws&host=cdn.packageclub.net&path=%2Fws-connect%2Fdownload%2Fupdate%2Fcheck%2Fversion%2F2.1.9%2Fpatch%2Fforce&fp=edge#🔒
 ss://be88b352-bc2e-45bf-abeb-cc117cf6f884@172.67.189.227:443?security=tls&sni=cdn.packageclub.net&fp=chrome&type=ws&path=/ws-connect/download/update/check/version/2.1.9/patch/force&host=cdn.packageclub.net&encryption=none#🇨🇦CA_1011_@Surfboardv2ray
@@ -501,5 +503,3 @@ ss://c8465e28-72af-4c2a-8b56-665974314ec0@151.101.64.155:80?path=/-LiV2ry@LIGHTN
 ss://c8898cfd-9927-4f36-b7bc-40de76076b80@109.120.189.30:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒
 ss://c8898cfd-9927-4f36-b7bc-40de76076b80@185.193.158.10:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒
 ss://c8898cfd-9927-4f36-b7bc-40de76076b80@185.193.158.11:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒
-ss://c8898cfd-9927-4f36-b7bc-40de76076b80@185.193.158.8:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒
-ss://c8898cfd-9927-4f36-b7bc-40de76076b80@185.193.158.9:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒

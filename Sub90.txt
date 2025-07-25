@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://cab82999-0894-4247-a286-5540c6ab7dfd@104.24.179.72:443?sni=merlink.merakiqing.top&type=ws&host=merlink.merakiqing.top&allowInsecure=0#🔒
+        vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@138.199.201.254:3030?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA✅️تا
+vless://cab621f6-2c1b-4e1f-8e0c-3bfb13b8b211@172.67.141.236:8443?security=tls&sni=vpntv20.fastroot.ir&type=ws&path=%2Fmorteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM.morteza-TV.COM%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
+vless://cab82999-0894-4247-a286-5540c6ab7dfd@104.24.179.72:443?sni=merlink.merakiqing.top&type=ws&host=merlink.merakiqing.top&allowInsecure=0#🔒
 vless://cabaacb-abac-abca-badc-cacbccbabaab@127.0.0.1:1080?security=tls&type=tcp#🔄
 vless://cababac-caab-baca-cdba-abaabcccbabc@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Teleg
 vless://cabbaca-aabc-acab-adbc-abcccabbcbaa@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
@@ -501,5 +503,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:2082?encrypt
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:2083?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:2086?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:2087?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:2095?encryption=none&security=none&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@node.vauth.workers.dev:2096?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔗

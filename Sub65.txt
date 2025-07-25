@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://s8xwZ%5D%7C%3FV%3EcH@172.67.149.227:443?security=tls&sni=fL9F9zCnHrfnvkA1oYA84yy6p44dHfqP.tUrbOOsErveR.wOrKeRS.dEv&type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev#RELAY🚩
+        trojan://s8xwZ%5D%7C%3FV%3EcH@104.21.88.9:443?security=tls&sni=fL9F9zCnHrfnvkA1oYA84yy6p44dHfqP.tUrbOOsErveR.wOrKeRS.dEv&type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev#🔒
+trojan://s8xwZ%5D%7C%3FV%3EcH@172.67.149.227:443?security=tls&sni=fL9F9zCnHrfnvkA1oYA84yy6p44dHfqP.tUrbOOsErveR.wOrKeRS.dEv&type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev#@Hope_Net-join-us-on-Telegram
+trojan://s8xwZ%5D%7C%3FV%3EcH@172.67.149.227:443?security=tls&sni=fL9F9zCnHrfnvkA1oYA84yy6p44dHfqP.tUrbOOsErveR.wOrKeRS.dEv&type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev#RELAY🚩
 trojan://s8xwZ%5D%7C%3FV%3EcH@172.67.149.227:443?security=tls&sni=fL9F9zCnHrfnvkA1oYA84yy6p44dHfqP.tUrbOOsErveR.wOrKeRS.dEv&type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev#🔒
 trojan://slch2024@104.18.2.108:8443?sni=ocost-dy.wmlefl.cc#🔒
 trojan://slch2024@104.18.3.108:8443?sni=ocost-dy.wmlefl.cc#🔒
@@ -501,5 +503,3 @@ trojan://vpn@2.56.126.243:2025?security=none&allowInsecure=1&fp=chrome&type=ws&p
 trojan://vpn@2.56.126.243:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20-%20NA%20%F0%9F%8C%8F%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@2.59.162.145:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@2.59.162.145:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20Vilnius%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
-trojan://vpn@45.82.14.144:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20NA%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
-trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20NA%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3

@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_365_@Surfboardv2ray
+        vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
+vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#⚡Telegram
+vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_365_@Surfboardv2ray
 vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
 vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#⚡Telegram
 vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=foffmelo.com&type=ws#@meli_proxyy
@@ -501,5 +503,3 @@ vless://45631820-0d42-492e-8ff5-e45d39466bac@o.soskom.ir:11045?mode=gun&security
 vless://4576f933-f82f-40fd-b8a4-eedfdf855bda@zula.ir:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#RELAY🚩
 vless://4576f933-f82f-40fd-b8a4-eedfdf855bda@zula.ir:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#⚡Telegram
 vless://4576f933-f82f-40fd-b8a4-eedfdf855bda@zula.ir:8880?path=/?ed=2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#🇨🇦CA_400_@Surfboardv2ray
-vless://457e18b3-7422-4154-b946-1c144b6b87d8@83.147.18.200:2052?security=none&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=skype.comm&packetEncoding=xudp&encryption=none#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-vless://4587e98c-ec45-408e-b395-67923b6e9ded@104.16.0.6:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&fp=chrome&alpn=h3%2Ch2#🔒

@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443/?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIPro
+        ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.252.47:443/?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
+ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.252.47:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&fp=chrome#🔒
+ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443/?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIPro
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443/?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&fp=chrome#🔒
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?security=none&type=ws&host=edge.validbv3528.ir#🔒
@@ -501,5 +503,3 @@ ss://4d91916f-a7fd-419b-8b90-640bb8d4b9f4@188.114.97.1:443?encryption=none&secur
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b9f4@188.114.97.1:443?path=/E4FqomT5e0mKm2nh/MTU5LjY5LjE0LjEzOA&security=tls&alpn=http/1.1&encryption=none&host=myphotograpicpicture.ir&fp=chrome&type=ws&sni=MYPhoTOgrapICPictURe.IR#🇨🇦CA_429_@Surfboardv2ray
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b9f4@188.114.97.1:443?security=tls&sni=MYPhoTOgrapICPictURe.IR&type=ws&host=myphotograpicpicture.ir&path=/E4FqomT5e0mKm2nh/MTU5LjY5LjE0LjEzOA&fp=chrome&alpn=http/1.1#🔒
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b9f4@www.speedtest.net:443?encryption=none&security=tls&sni=mypHOtoGRapIcPictURe.ir&fp=randomized&type=ws&host=mypHOtoGRapIcPictURe.ir&path=%2FCY6EnyeHmgNASXJI%2FMTU5LjY5LjE0LjEzOA%3D%3D%3Fed%3D2560#q2_049
-ss://4d9aab0a-bbf3-406b-8b49-efc3241b8f47@104.26.10.126:443?security=tls&sni=azarandooz.marzneshin.workers.dev&type=ws&host=azarandooz.marzneshin.workers.dev&path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-ss://4d9aab0a-bbf3-406b-8b49-efc3241b8f47@104.26.11.126:443?security=tls&sni=azarandooz.marzneshin.workers.dev&type=ws&host=azarandooz.marzneshin.workers.dev&path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
