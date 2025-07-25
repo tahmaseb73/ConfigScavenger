@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://067c88cd-534f-4859-b124-c02653904775@ws.vpnfreedom.tech:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=HJy3Ck8VA7vnrolQ2g7rwOYhD7iZQQMIjOUJ_WQBFX8&sid=9a&spx=%2F&type=tcp&headerType=none#REALITY|SE🇸🇪 | ws.vpnfreedom.tech-443 | 188.95ms
-vless://04bd2301-8fea-462f-b74b-e244c514135d@a.ru.maviks.ru:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=0f917152a871e9c0#REALITY|RU🇷🇺 | a.ru.maviks.ru-443 | 435.94ms
+        vless://04bd2301-8fea-462f-b74b-e244c514135d@a.ru.maviks.ru:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=0f917152a871e9c0#REALITY|RU🇷🇺 | a.ru.maviks.ru-443 | 435.94ms
 vless://03595633-dc93-4d67-b494-93cd07bc1508@91.99.161.27:2222?encryption=none&security=reality&sni=cp7.cloudflare.com&fp=random&pbk=OIA3DwTDdqNQybLyRaF2zCIB6c2lZt5jLHwasBR7cXA&sid=62e73a9ff93761&spx=%2Fcdn%2Fimage.jpg&type=xhttp&path=%2F&mode=auto#REALITY|DE🇩🇪 | 91.99.161.27-2222 | 156.42ms
 trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=google.com#US🇺🇸 | google.com-443 | 9.25ms
 trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=%2F#RELAY🚩 | hsdgbuys.pages.dev-2087 | 19.36ms
@@ -503,3 +502,4 @@ ss://566522492e674429b86c3df8b838ad85Og==@tgju.org:8080#RELAY%F0%9F%9A%A9+%7C+tg
 ss://566522492e674429b86c3df8b838ad85Og==@104.26.15.85:8080#RELAY%F0%9F%9A%A9+%7C+104.26.15.85-8080+%7C+1.65ms
 ss://5590572598384f0580bd97fcc4371443Og==@78.157.59.178:27053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+78.157.59.178-27053+%7C+239.18ms
 ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.156:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.156-443+%7C+71.93ms
+ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.155:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.155-443+%7C+63.64ms

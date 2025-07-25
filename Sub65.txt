@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://juzi@18.184.27.249:443?sni=juzi8186-sr1.pages.dev#🔒
-trojan://juzi@194.87.148.148:8443?sni=juzi8186-sr1.pages.dev#🔒
+        trojan://juzi@194.87.148.148:8443?sni=juzi8186-sr1.pages.dev#🔒
 trojan://juzi@198.244.246.67:8443?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A5131
 trojan://juzi@198.244.246.67:8443?sni=juzi8186-sr1.pages.dev#🔒
 trojan://juzi@217.160.216.30:443?sni=juzi8186-sr1.pages.dev#🔒
@@ -503,3 +502,4 @@ trojan://uV8u9Q41e2@104.17.180.185:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&
 trojan://uV8u9Q41e2@104.17.180.185:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
 trojan://uV8u9Q41e2@104.18.165.147:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
 trojan://uV8u9Q41e2@104.18.165.203:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
+trojan://uV8u9Q41e2@104.18.165.78:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒

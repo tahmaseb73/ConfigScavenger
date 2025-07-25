@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.2:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.31:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+        vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.31:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.32:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.33:8880?security=none&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed#@Hope_Net-join-us-on-Telegram⚠️
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.33:8880?security=none&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed#🔒
@@ -503,3 +502,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMTF8576O5Zu9IENsb3VkRmxhcmXoioLngrkgIzEyIiwgImFk
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTF8576O5Zu9IENsb3VkRmxhcmXoioLngrkgIzIiLCAiYWRkIjogIjEwNC4xOS4xMzcuMjUzIiwgInBvcnQiOiA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNGJmMDc0ZjQtN2U5Yy00ZTRiLWExMGQtMTU2ZTI2MTk5NzI5IiwgImhvc3QiOiAidXMwM3MuNWQ4ZWNmODIuY2ZkIiwgInBhdGgiOiAiLyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTF8576O5Zu9IENsb3VkRmxhcmXoioLngrkgIzUiLCAiYWRkIjogInMyLmNuLWRiLnRvcCIsICJwb3J0IjogMjA5NSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImhvc3QiOiAiMTAwLTUxLTI0My0xMjguczIuY24tZGIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTcyLjY0LjEzLjE3MiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTF8576O5Zu9IENsb3VkRmxhcmXoioLngrkgIzciLCAiYWRkIjogInM0LmNuLWRiLnRvcCIsICJwb3J0IjogMjA5NSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImhvc3QiOiAiMTAwLTc4LTI1MC0xNDYuczQuY24tZGIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjI1LjM2LjkzIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTF8576O5Zu9IENsb3VkRmxhcmXoioLngrkgIzgiLCAiYWRkIjogInM0LmRiLWxpbmswMi50b3AiLCAicG9ydCI6IDIwNTIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJob3N0IjogIjEwMC0xNDUtMjE3LTE4Ni5zNC5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTcyLjY0LjguMjYifQ==

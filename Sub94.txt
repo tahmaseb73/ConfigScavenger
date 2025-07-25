@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://e8bad3b8-8ff9-4cf8-be46-d01466514368@151.101.66.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=www.darcy.ir&path=/&fp=chrome&allowInsecure=1#🔒
-vless://e8bad3b8-8ff9-4cf8-be46-d01466514368@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&fp=chrome&allowInsecure=1&type=ws&host=www.darcy.ir&path=/#🇺🇸US_1230_@Surfboardv2ray
+        vless://e8bad3b8-8ff9-4cf8-be46-d01466514368@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&fp=chrome&allowInsecure=1&type=ws&host=www.darcy.ir&path=/#🇺🇸US_1230_@Surfboardv2ray
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#🇦🇪AE_1231_@Surfboardv2ray
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=ws&host=iriknet.ir&path=/telegram-mitivpn#@Hope_Net-join-us-on-Telegram⚠️
@@ -503,3 +502,4 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@176.105.253.98:443?security=tls&sni
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@18.166.149.73:18443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&allowInsecure=1#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@185.188.147.79:443?sni=edmw.aimercc.filegear-sg.me&type=ws&host=edmw.aimercc.filegear-sg.me&allowInsecure=1#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@192.0.54.221:2083?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&alpn=h3#🔒
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@192.200.160.19:8443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&alpn=h3#🔒

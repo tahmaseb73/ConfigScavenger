@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.108.91:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-ss://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.121.106:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.121.106:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.121.211:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.121.252:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.121.63:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -503,3 +502,4 @@ ss://bbe3c5b9-876f-59c9-9793-9eeb3edcbc22@138.124.31.187:2052?mode=gun&security=
 ss://bbe3c5b9-876f-59c9-9793-9eeb3edcbc22@138.124.31.187:2052?security=none&type=grpc&serviceName=vless-grpc#🏳[openproxylist.com]
 ss://bbe3c5b9-876f-59c9-9793-9eeb3edcbc22@138.124.31.187:2052?security=none&type=grpc&serviceName=vless-grpc#🔒
 ss://bc04292b-d7e6-4966-b6ab-c9fe5f30fba3@104.20.1.94:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+ss://bc04292b-d7e6-4966-b6ab-c9fe5f30fba3@104.26.11.176:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

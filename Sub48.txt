@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://c6919990-40ee-448c-a716-1cfbd4f0165e@188.114.98.172:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-ss://c6919990-40ee-448c-a716-1cfbd4f0165e@188.114.98.229:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
+        ss://c6919990-40ee-448c-a716-1cfbd4f0165e@188.114.98.229:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 ss://c6945a21-0abf-4e19-91dd-e9145ce4a8cc@104.21.88.9:443?security=tls&sni=Fl9f9ZCNhrfnVKA1OYa84yY6p44DHfQp.tuRbOoseRVER.wORKeRS.deV&type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev&path=%2F2PNbAmbRoAqtRj0f%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 ss://c6945a21-0abf-4e19-91dd-e9145ce4a8cc@172.67.149.227:80?encryption=none&security=none&type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev&path=%2FaVSm9J5XUEFUKs1i%3Fed%3D2560#t.me%2Fpeterjest
 ss://c6945a21-0abf-4e19-91dd-e9145ce4a8cc@172.67.149.227:80?type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev&path=%2FaVSm9J5XUEFUKs1i%3Fed%3D2560#🔒
@@ -503,3 +502,4 @@ ss://d1aca49a-e5bc-48b2-870a-d590004099b0@185.16.110.44:2096?security=tls&sni=J0
 ss://d1b29ae3-cea2-496f-b2a5-28753d4cdec2@104.16.239.207:443?security=tls&sni=cf.zhaoyin.wang&type=ws&host=cf.zhaoyin.wang&allowInsecure=0#🔒
 ss://d1b29ae3-cea2-496f-b2a5-28753d4cdec2@104.16.65.128:443?security=tls&sni=cf.zhaoyin.wang&type=ws&host=cf.zhaoyin.wang#🔒
 ss://d1e900ce-dd3f-46e8-8a7c-1f2a81f3fe08@85.209.158.11:8443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=85.209.158.11&encryption=none#Rayan%20-%20VPH%20-%20WSDR-106%20-%20HK%20-%20I%20-%20%F0%9F%94%B4%20t.me/Rayan_Config
+ss://d1f79b2e-95b2-40e9-8407-552736728fbc@77.110.124.63:25360?type=tcp#🔒
