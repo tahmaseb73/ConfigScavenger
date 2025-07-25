@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://43367b08-d0d3-4253-b326-6392ee857d56@172.67.177.221:443?security=tls&sni=mu.4056860.xyz&type=ws&host=mu.4056860.xyz&alpn=h3%2Ch2%2Chttp/1.1#🔒
-vless://4337e327-c77e-4ae3-a376-0374fb82eca1@45.67.215.44:2096?security=tls&sni=Join-Channel-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒
-vless://433cc5ab-af3f-444c-85fb-00eb7d11448e@85.9.108.43:26995?security=none&encryption=none&host=Goodady.com&headerType=http&type=tcp#🇮🇷IR_374_@Surfboardv2ray
+        vless://433cc5ab-af3f-444c-85fb-00eb7d11448e@85.9.108.43:26995?security=none&encryption=none&host=Goodady.com&headerType=http&type=tcp#🇮🇷IR_374_@Surfboardv2ray
 vless://433cc5ab-af3f-444c-85fb-00eb7d11448e@85.9.108.43:26995?security=none&encryption=none&host=Goodady.com&headerType=http&type=tcp#🇮🇷IR_394_@Surfboardv2ray
 vless://43589def-fa09-47e3-b44e-7f6e069f470d@194.147.35.138:55799?security=reality&encryption=none&pbk=LBvEFKpH7REwityPTJqYPhEJ7MaIqcuIRL01VPzcpAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=iranhost.com&sid=a82b#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://43589def-fa09-47e3-b44e-7f6e069f470d@194.147.35.138:55799?security=reality&encryption=none&pbk=LBvEFKpH7REwityPTJqYPhEJ7MaIqcuIRL01VPzcpAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=iranhost.com&sid=a82b#🇬🇧GB_395_@Surfboardv2ray
@@ -503,3 +501,5 @@ vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@172.67.73.163:8080?type=ws&host=J9.
 vless://4ed35d81-30af-489d-aecc-7adc611a256a@185.148.105.52:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=/?ed%3D2048&fp=chrome&alpn=h3,h2#🔒
 vless://4eec7bc2-6bfd-4e54-b0a4-5890e8f97439@129.153.90.9:443?security=tls&flow=xtls-rprx-vision&sni=dj-download-us.xn--4gq62f52gopi49k.com&type=tcp&fp=ios#🔒
 vless://4eec7bc2-6bfd-4e54-b0a4-5890e8f97439@141.148.196.208:443?security=tls&flow=xtls-rprx-vision&sni=dj-downloadin.xn--4gq62f52gopi49k.com&type=tcp&fp=safari#🔒
+vless://4f2b9193-ab76-401f-a254-10982ac2881a@5.10.245.75:443?sni=hax-eu.lzj520hxw.dpdns.org&type=ws&host=hax-eu.lzj520hxw.dpdns.org#🔒
+vless://4f3662cc-c677-43d7-a5cc-ecc21dd286c3@104.16.183.186:2083?sni=ball.757718.xyz&type=ws&host=ball.757718.xyz&allowInsecure=0#🔒
