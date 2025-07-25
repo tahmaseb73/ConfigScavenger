@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443?encryption=none&security=reality&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf&type=tcp&headerType=none#REALITY|DE🇩🇪 | 5.75.198.47-443 | 168.69ms
+        vless://15c620a8-6852-ac9e-5285-f91ba0a8bdfb@51.195.218.231:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.frontiersin.org&pbk=laDETVOcOKzz_vtU8iuGEE-Sv-TxRj1yFuAvfnpclig&sid=1466b1508caf242e#REALITY|GB🇬🇧 | 51.195.218.231-443 | 138.61ms
+vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sid=974a74bf#REALITY|DE🇩🇪 | vpn_proxy_channel_vpn_proxy_channel.hohod.ir-443 | 173.72ms
+vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?encryption=none&security=reality&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf&type=tcp&headerType=none#REALITY|DE🇩🇪 | vpn_proxy_channel_vpn_proxy_channel.hohod.ir-443 | 330.45ms
+vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&sid=974a74bf#REALITY|DE🇩🇪 | 5.75.198.47-443 | 163.07ms
+vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443?encryption=none&security=reality&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf&type=tcp&headerType=none#REALITY|DE🇩🇪 | 5.75.198.47-443 | 168.69ms
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@margin.bitiboot.com:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#REALITY|DE🇩🇪 | margin.bitiboot.com-443 | 331.17ms
 vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@lovefishingfishes.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#REALITY|DE🇩🇪 | lovefishingfishes.kuckenpq.ir-32135 | 167.65ms
 vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@NLpizza.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#REALITY|AU🇦🇺 | NLpizza.kuckenpq.ir-32135 | 482.3ms
@@ -499,7 +503,3 @@ ss://6abbaf964b1648d3b996a6067fc=@tgju.org:8080#RELAY%F0%9F%9A%A9+%7C+tgju.org-8
 ss://6abbaf964b1648d3b996a6067fc=@172.67.73.163:8080#RELAY%F0%9F%9A%A9+%7C+172.67.73.163-8080+%7C+1.97ms
 ss://69755126665f4be4a5164a624d43d07fOg==@185.143.233.120:443#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.233.120-443+%7C+8.58ms
 ss://690ab90e3f21422b8cb1bc9845c7af1eOg==@tgju.org:8080#RELAY%F0%9F%9A%A9+%7C+tgju.org-8080+%7C+2.42ms
-ss://6693fcae4c2046dc903344be4a148804Og==@104.18.26.164:443#RELAY%F0%9F%9A%A9+%7C+104.18.26.164-443+%7C+1.47ms
-ss://5e950790bf2e463cbea52e3dcb0cc1d8Og==@ov-germany1.09vpn.com:8443#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+ov-germany1.09vpn.com-8443+%7C+189.43ms
-ss://5a1e5c0d92ec44f086f7add44c41aa83Og==@185.143.234.122:8080#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.234.122-8080+%7C+8.26ms
-ss://5a1e5c0d92ec44f086f7add44c41aa83Og==@185.143.233.122:8080#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.233.122-8080+%7C+8.27ms

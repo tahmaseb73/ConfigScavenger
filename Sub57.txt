@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?type=ws&host=us.laoyoutiao.link&path=/TelegramрЯЗ#🔒
+        ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.106:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.107:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.108:80?type=ws&host=us.laoyoutiao.link&path=TelegramрЯЗ®рЯЗ≥#🔒
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%D1%80%D0%AF%D0%97#t.me%2Fpeterjest
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?type=ws&host=us.laoyoutiao.link&path=/TelegramрЯЗ#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.117:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.118:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒
@@ -499,7 +503,3 @@ ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.196:8880?sni=sk.laoyoutiao.l
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.197:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.198:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/telegramu0001f1e8u0001f1f3&allowInsecure=0#🔒
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.199:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.1:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.200:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.201:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.202:8880?type=ws&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🔒

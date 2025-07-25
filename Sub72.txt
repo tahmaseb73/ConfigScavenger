@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.37.82:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
+        vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.124.80:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.120:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.37.120:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.37.82:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.5.1:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
 vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@172.67.203.57:443?security=tls&sni=TEl-pPAL03.chayA-duRGaN.workeRs.DeV&type=ws&host=TEl-ppAL03.CHayA-DuRGAN.WoRkers.dEv&path=%2Fz0HrW-43pVRvOrQE%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 vless://3beed68e-0ec8-4acf-b6a7-ea5d3224de30@95.135.153.17:41078?encryption=none&security=reality&sni=apple.com&fp=chrome&pbk=BsBpv3VObzs8hFB178lSOEkkzbOR1jYcU1WrUYDqrhY&sid=b3&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AD%F0%9F%87%B0%C2%AE%EF%B8%8FHong%20Kong%C2%A9%EF%B8%8FHong%20Kong%F0%9F%85%BF%EF%B8%8Fping%3A246.76ms
@@ -499,7 +503,3 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.252.47:443?security=tls&sni=
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443/?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIPro
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&fp=chrome#🔒
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?security=none&type=ws&host=edge.validbv3528.ir#🔒
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@172.64.162.60:443/?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIPro
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
