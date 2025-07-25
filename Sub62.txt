@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@162.159.130.164:443?sni=epccf.ambercc.filegear-sg.me#🔒
+        trojan://Aimer@162.159.130.123:443?sni=epccu.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.130.140:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://Aimer@162.159.130.164:443?sni=epccf.ambercc.filegear-sg.me#🔒
 trojan://Aimer@162.159.130.181:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒
 trojan://Aimer@162.159.130.192:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A594
 trojan://Aimer@162.159.130.192:443?sni=epccf.ambercc.filegear-sg.me#🔒
@@ -501,5 +503,3 @@ trojan://Aimer@27.50.48.126:2083?security=tls&sni=tyep.esslh.filegear-sg.me&allo
 trojan://Aimer@27.50.48.126:2083?security=tls&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@27.50.48.126:2083?security=tls&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me#RELAY🚩
 trojan://Aimer@27.50.48.126:2083?security=tls&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=%2F#t.me%2Fpeterjest
-trojan://Aimer@27.50.48.126:2083?security=tls&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=%2F&fp=chrome#🔒
-trojan://Aimer@27.50.48.154:8443?security=tls&sni=epccj.ambercc.filegear-sg.me&type=ws&host=epccj.ambercc.filegear-sg.me#🔒

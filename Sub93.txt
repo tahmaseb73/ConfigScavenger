@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://e1f8f779-bd78-46a0-b196-707d169f4061@172.67.2.238:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#🔒
+        vless://e1f8f779-bd78-46a0-b196-707d169f4061@104.20.18.168:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#🔒
+vless://e1f8f779-bd78-46a0-b196-707d169f4061@104.20.19.168:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#🔒
+vless://e1f8f779-bd78-46a0-b196-707d169f4061@172.67.2.238:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#🔒
 vless://e207c137-47aa-4f56-b82b-19e3d4ee72a6@51.77.108.99:13004?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#🇬🇧GB_1203_@Surfboardv2ray
 vless://e207c137-47aa-4f56-b82b-19e3d4ee72a6@51.77.108.99:13004?security=none&allowInsecure=1&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.14.0:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#US🇺🇸
@@ -501,5 +503,3 @@ vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=%2F8SgHUCa9r
 vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=%2F8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http%2F1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#⚡Telegram
 vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=/8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http/1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#🇨🇦CA_1240_@Surfboardv2ray
 vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=/8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http/1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#🇨🇦CA_1241_@Surfboardv2ray
-vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=/8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http/1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#🇨🇦CA_1242_@Surfboardv2ray
-vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?security=tls&sni=covh.blanku.me&type=httpupgrade&host=covh.blanku.me&path=%2F8SgHUCa9rohiCVOzju871XiFr9&fp=chrome&alpn=http%2F1.1#🔒

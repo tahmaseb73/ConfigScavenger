@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e5513584-3c19-49be-ab4d-8118ea22ffe1@web.wiroholding.ir:27081?security=none&encryption=none&host=fast%20com&headerType=http&type=tcp#Free%2035%20%28%40Outline_Vpn%29
+        ss://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:2083?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=/8PaKguUsL3cShypAZpXO7Ci&fp=chrome&alpn=http/1.1#🔒
+ss://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:8443?security=tls&sni=app.soft10.ir&type=httpupgrade&host=app.soft10.ir&path=/8PaKguUsL3cShypYFXoLUeVZ81vwc&fp=chrome&alpn=http/1.1#🔒
+ss://e5513584-3c19-49be-ab4d-8118ea22ffe1@web.wiroholding.ir:27081?security=none&encryption=none&host=fast%20com&headerType=http&type=tcp#Free%2035%20%28%40Outline_Vpn%29
 ss://e56a63bb-6556-4806-a8e5-3cf3c4bb7516@172.67.21.239:2052?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇨🇦CA_1222_@Surfboardv2ray
 ss://e56a63bb-6556-4806-a8e5-3cf3c4bb7516@172.67.21.239:2052?type=httpupgrade&host=v2ngfast.nanvrfood.ir.#🔒
 ss://e5b9b393-bac0-4bea-ad96-53acc299e622@104.21.112.1:2087?security=tls&sni=SUPerCaRS.gobeXOR577.workErs.deV&type=ws&host=supercars.gobexor577.workers.dev&path=%2F9cIedl69CKURumzI%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
@@ -501,5 +503,3 @@ ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.24.165.5:443?security=tls&sni=edcc
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.1.135:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.11.111:443?security=tls&sni=edcci.aimercc.filegear-sg.me&type=ws&host=edcci.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.12.208:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.4.3:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒
-ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.4.41:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me#🔒
