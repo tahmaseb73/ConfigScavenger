@@ -3,7 +3,22 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://tg-fq521free@198.62.62.67:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#RELAY🚩 | torjan.xn--xhq44j.eu.org-443 | 316.18ms
+        vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?security=reality&encryption=none&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2404#REALITY|US🇺🇸 | 172.245.232.117-443 | 69.52ms
+trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=google.com#US🇺🇸 | google.com-443 | 18.78ms
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=%2F#RELAY🚩 | hsdgbuys.pages.dev-2087 | 14.56ms
+trojan://wb6368@92.243.75.49:2087?type=tcp&security=tls&sni=hsdgbuys.pages.dev&allowInsecure=1#RELAY🚩 | hsdgbuys.pages.dev-2087 | 2.25ms
+trojan://vip@www.wto.org:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#RELAY🚩 | heihu880.pages.dev-443 | 13.76ms
+trojan://vip@www.whatismyip.com:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#RELAY🚩 | heihu880.pages.dev-443 | 1.9ms
+trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 2.12ms
+trojan://vip@104.21.90.78:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 2.15ms
+trojan://ttfang@128.199.237.143:443?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#RELAY🚩 | ttfang.fange.me-443 | 2ms
+trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#RELAY🚩 | azadnet-9ya.pages.dev-443 | 34.06ms
+trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=a.azadnet001.ddns-ip.net&fp=random&type=ws&sni=a.azadnet001.ddns-ip.net#RELAY🚩 | a.azadnet001.ddns-ip.net-443 | 341.66ms
+trojan://trojan@109.234.211.66:8443?path=%2F&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#RELAY🚩 | store.timimi.dpdns.org-8443 | 140ms
+trojan://trojan@104.18.4.250:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#RELAY🚩 | ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev-2053 | 20.94ms
+trojan://trojan@104.18.13.229:8880?security=tls&type=ws&host=azadnet.vileyo6708.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | azadnet.vileyo6708.workers.dev-8880 | 86.56ms
+trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | pangpi.pages.dev-8443 | 26.5ms
+trojan://tg-fq521free@198.62.62.67:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#RELAY🚩 | torjan.xn--xhq44j.eu.org-443 | 316.18ms
 trojan://f4107ed1e1016be@srwes1-confeg.sbs:56679?type=tcp&security=tls#FR🇫🇷 | srwes1-confeg.sbs-56679 | 169.84ms
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:80?sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650#RELAY🚩 | aio.zipzap.biz.id-80 | 223.88ms
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650#RELAY🚩 | aio.zipzap.biz.id-443 | 2.12ms
@@ -488,18 +503,3 @@ ss://566522492e674429b86c3df8b838ad85Og==@104.26.15.85:8080#RELAY%F0%9F%9A%A9+%7
 ss://5590572598384f0580bd97fcc4371443Og==@78.157.59.178:27053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+78.157.59.178-27053+%7C+232.75ms
 ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.156:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.156-443+%7C+71.62ms
 ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.155:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.155-443+%7C+75.88ms
-ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.154:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.154-443+%7C+71.21ms
-ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.147:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.147-443+%7C+70.62ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@zula.ir:80#RELAY%F0%9F%9A%A9+%7C+zula.ir-80+%7C+169.62ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@www.wappalyzer.com:80#RELAY%F0%9F%9A%A9+%7C+www.wappalyzer.com-80+%7C+78.16ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@www.speedmeter.life:80#RELAY%F0%9F%9A%A9+%7C+www.speedmeter.life-80+%7C+655.7ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@herfeh-honarmand.com:80#RELAY%F0%9F%9A%A9+%7C+herfeh-honarmand.com-80+%7C+27.95ms
-ss://542f694be8bd4b9e858cccb1c46a3316Og==@104.17.147.22:80#RELAY%F0%9F%9A%A9+%7C+104.17.147.22-80+%7C+1.65ms
-ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-80+%7C+6.46ms
-ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-80+%7C+3.6ms
-ss://53fa8fafba4b43229c69a3e5b1555049Og==@www.speedtest.net:80#RELAY%F0%9F%9A%A9+%7C+www.speedtest.net-80+%7C+6.74ms
-ss://53fa8fafba4b43229c69a3e5b1555049Og==@104.17.148.22:80#RELAY%F0%9F%9A%A9+%7C+104.17.148.22-80+%7C+1.65ms
-ss://53fa8fafba4b43229c69a3e5b1555049Og==@104.17.148.22:80#RELAY%F0%9F%9A%A9+%7C+104.17.148.22-80+%7C+1.37ms
-ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.235.201:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.235.201-2053+%7C+8.37ms
-ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.234.120:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.234.120-2053+%7C+8.24ms
-ss://53a58a9f204a4351b09316b9ada44071Og==@185.143.232.201:2053#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+185.143.232.201-2053+%7C+8.13ms
