@@ -3,13 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?encryption=none&security=tls&sni=orange.fullmargintraders.com&fp=chrome&type=ws&host=orange.fullmargintraders.com&path=%2Fwsv%2F4c835bff-4f4d-4608-bb21-120099089688#DE🇩🇪 | orange.fullmargintraders.com-443 | 228.44ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#REALITY|JP🇯🇵 | amazon-4.cristiano.name.ng-443 | 308.25ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&encryption=none#REALITY|IE🇮🇪 | amazon-20.cristiano.name.ng-443 | 415.06ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&headerType=none#REALITY|IE🇮🇪 | amazon-20.cristiano.name.ng-443 | 159.48ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#REALITY|US🇺🇸 | amazon-15.cristiano.name.ng-443 | 154.01ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#REALITY|US🇺🇸 | amazon-13.cristiano.name.ng-443 | 309.47ms
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=%2F&type=tcp&headerType=none#REALITY|US🇺🇸 | amazon-13.cristiano.name.ng-443 | 79.83ms
+        vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=%2F&type=tcp&headerType=none#REALITY|US🇺🇸 | amazon-13.cristiano.name.ng-443 | 79.83ms
 vless://4bb3e45c-25a4-4d22-9916-bf8c4d32a1cd@IPB-AlphaOmega-Company.1AlphaOmega.Org:443?path=%2Fwss9000%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=DE-ComPany-AlphaOmega-Team.AlphaOmegaComPany-PoWerFull.Ir.&fp=randomized&type=httpupgrade&sni=DE-ComPany-AlphaOmega-Team.AlphaOmegaComPany-PoWerFull.Ir.#RELAY🚩 | DE-ComPany-AlphaOmega-Team.AlphaOmegaComPany-PoWerFull.Ir.-443 | 96.31ms
 vless://4b33b482-25bc-49e4-b866-878c914d945a@172.67.155.140:443?path=%2FCpMgWdnDWahQyyQCjn8kmnN0ehd&security=tls&encryption=none&host=iiiiiiiiiiio.huangshang.dpdns.org&type=ws&sni=iIiiIiiIiIIO.HuanGsHaNg.dpDns.ORG#RELAY🚩 | iIiiIiiIiIIO.HuanGsHaNg.dpDns.ORG-443 | 4251.07ms
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#RELAY🚩 | brilliant-knowledge.seotoolsforyou.co.uk-80 | 114.12ms
@@ -503,3 +497,9 @@ trojan://blue2024@104.17.22.101:443?allowInsecure=1&sni=td.promote.icu#US🇺�
 trojan://blue2024@104.17.207.136:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 653.61ms
 trojan://blue2024@104.17.190.165:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 643.04ms
 trojan://blue2024@104.17.15.178:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 653.65ms
+trojan://blue2024@104.17.106.242:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 644.13ms
+trojan://blue2024@104.16.93.142:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 646.71ms
+trojan://blue2024@104.16.30.221:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 631.86ms
+trojan://blue2024@104.16.251.122:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 651.09ms
+trojan://blue2024@104.16.250.202:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 654.89ms
+trojan://blue2024@104.16.231.94:443?allowInsecure=1&sni=td.promote.icu#US🇺🇸 | td.promote.icu-443 | 667.32ms

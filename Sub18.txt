@@ -3,13 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.232.132:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIProxys
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.65.117:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.102.83:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.102.83:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.113.162:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIPro
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.113.162:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIProxys
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.143.120:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
+        ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.143.120:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.72.238:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.8.53:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.8.53:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🌐سرور
@@ -503,3 +497,9 @@ ss://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@104.17.148.22:8080?security=none&allow
 ss://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.96.3:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/z5lsHF5zQrd1rJDr&host=order.fortgift.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.96.3:8080?security=none&sni=order.fortgift.ir&type=ws&host=order.fortgift.ir&path=%2Fz5lsHF5zQrd1rJDr#🔒
 ss://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.97.3:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/gfWh39Z4XwUXaqVY&host=order.fortgift.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.97.3:8080?security=none&type=ws&host=order.fortgift.ir&path=%2FgfWh39Z4XwUXaqVY#🔒
+ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=hq3.newretr432as.info#%40V2rayNG3
+ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?security=tls&sni=hq3.newretr432as.info&type=grpc&fp=firefox#🔒
+ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.25.112.7:443?security=tls&sni=hq3.newretr432as.info&type=grpc#🔒
+ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.25.97.27:443?security=tls&sni=hq3.newretr432as.info&type=grpc#🔒
+ss://08ef1330-8ffb-4001-a15e-96befc065c06@185.148.105.1:443?security=tls&sni=hq3.newretr432as.info&type=grpc#🔒
