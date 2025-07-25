@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://tvRqMFmVhZ@45.95.241.101:8443?security=tls&type=grpc&sni=aa.v2jey.fun#%E6%9C%AA%E7%9F%A5151
-trojan://uV8u9Q41e2@104.16.127.115:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
+        trojan://uV8u9Q41e2@104.16.127.115:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
 trojan://uV8u9Q41e2@104.16.127.23:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
 trojan://uV8u9Q41e2@104.16.127.84:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=/#🔒
 trojan://uV8u9Q41e2@104.17.180.185:443?security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=%2F#RELAY🚩
@@ -503,3 +502,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.14.56:22224?type=ws&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.14.56:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.14.56:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🌐سرور
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.226.161:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.226.161:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram

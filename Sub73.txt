@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://42f36835-730c-4ecc-9daf-20121ae7ba47@172.64.162.60:443/?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIPro
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
+        vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&fp=chrome#🔒
@@ -503,3 +502,4 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@zula.ir:443?security=tls&sni=rayan-12.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
 vless://4e4fe94d-d9f2-4679-879a-b06fbb28ddf1@172.67.110.107:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=831tg.na15iwpb.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 vless://4e4fe94d-d9f2-4679-879a-b06fbb28ddf1@172.67.110.107:8080?type=ws&host=831tg.na15iwpb.workers.dev&path=%2F%3Fed%3D2560&fp=chrome#🔒
+vless://4e4fe94d-d9f2-4679-879a-b06fbb28ddf1@172.67.111.146:8080?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=831tg.na15iwpb.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
