@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        hy2://9514a813-c237-4bfa-87d8-da48b2d020c8@195.133.5.52:35456?insecure=1&sni=mirror.hyperdedic.ru#🔒
+        hy2://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@194.156.99.107:443?mport=50000-53000&insecure=1&sni=api.push.apple.com#🔒
+hy2://862e90e1-2f26-4506-b8b9-0adf20da05fc@129.153.59.124:54530?insecure=1&sni=www.bing.com#🔒
+hy2://87f055ba@141.11.89.172:60000?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Crugers%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
+hy2://87f055ba@141.11.89.172:60000?insecure=1&sni=www.bing.com#🔒
+hy2://93c16258-48e0-4c72-928c-06434e394540@107.175.32.131:40266?insecure=1&sni=www.bing.com#🔒
+hy2://9514a813-c237-4bfa-87d8-da48b2d020c8@195.133.5.52:35456?insecure=1&sni=mirror.hyperdedic.ru#🔒
 hy2://9514a813-c237-4bfa-87d8-da48b2d020c8@195.133.5.52:37568?insecure=1&sni=mirror.hyperdedic.ru#🔒
 hy2://9514a813-c237-4bfa-87d8-da48b2d020c8@195.133.5.52:39665?insecure=1&sni=mirror.hyperdedic.ru#🔒
 hy2://9514a813-c237-4bfa-87d8-da48b2d020c8@198.46.200.161:39451?insecure=1&sni=www.yahoo.com#🔒
@@ -498,8 +503,3 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.164.162:22222?path=/telegram-ch
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.164.162:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@VIProxys
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.164.162:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIPro
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.164.162:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIProxys
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.228.189.89:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIPro
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.119.129:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[52890]
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.148.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.148.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.148.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🌐سرور
