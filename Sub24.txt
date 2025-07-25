@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?path=%2F&security=tls&encryption=none&host=gozargah.validbv7996.ir&type=ws&sni=gozargah.validbv7996.ir#@VIPro
+        ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443/?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&type=ws&sni=gozargah.validbv7996.ir#@VIPro
+ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443/?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
+ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&type=ws&sni=gozargah.validbv7996.ir#@VIPro
+ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
+ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?path=%2F&security=tls&encryption=none&host=gozargah.validbv7996.ir&type=ws&sni=gozargah.validbv7996.ir#@VIPro
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?path=%2F&security=tls&encryption=none&host=gozargah.validbv7996.ir&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=%2F%3Fed%3D2560&fp=random#🔒
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.252.47:443/?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@VIProxys
@@ -499,7 +503,3 @@ ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.80.111.175:443?security=tls&sni=myp
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.80.111.237:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/fJBvsL0uR2MtzRig&host=myphotograpicpicture.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.80.111.237:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.80.111.26:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&fp=chrome&alpn=http%2F1.1#🔒
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/fJBvsL0uR2MtzRig&host=myphotograpicpicture.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@66.81.247.203:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b9f4@188.114.97.1:443?encryption=none&security=tls&sni=MYPhoTOgrapICPictURe.IR&fp=randomized&type=ws&host=MYPhoTOgrapICPictURe.IR&path=%2FE4FqomT5e0mKm2nh%2FMTU5LjY5LjE0LjEzOA%3D%3D%3Fed%3D2560#q1_157

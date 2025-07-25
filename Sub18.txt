@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.164.162:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIProxys
+        ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.240.66:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIProxys
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.164.162:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@VIPro
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.164.162:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@VIProxys
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.164.162:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIPro
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.164.162:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIProxys
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.228.189.89:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@VIPro
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.119.129:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[52890]
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.148.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
@@ -499,7 +503,3 @@ ss://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@italy.gamingbazirani.ir:600?security=t
 ss://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@italy.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#DE🇩🇪
 ss://08ff9679-dc03-4642-b26c-1b8d7fa368b2@http.gozaroshloreshin.ir:2086?path=%2Fwww.adsl.tci.ir%3Fed%3D1024&security=&encryption=none&host=swww.speedtest.net.%E7%9C%9F%E7%9A%84www.digikala.com.%E6%88%91%E7%9C%9F.%E7%9A%84%E7%9C%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E7%88%B1%E7%9A%84%E5%BE%88%E7%88%B1%E5%BE%88join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullservera.gozaroshloreshin.irdsda.gozaroshloreshin.ir.eraa.gozaroshloreshin.ir.&type=httpupgrade#%40Gp_Config%20%F0%9F%9A%80%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
 ss://0939d12a-f745-40f8-9b8d-4c1c4b5ca0fc@190.93.244.218:443?encryption=none&security=tls&sni=test.989819.xyz&fp=random&type=ws&host=test.989819.xyz&path=%2F%3Fed%3D2560#q1_324
-ss://09486821-5166-4b4c-806b-80c1c8fb101a@104.16.69.223:2053?security=tls&sni=egcf.shijie.icu&type=ws&host=egcf.shijie.icu#🔒
-ss://09486821-5166-4b4c-806b-80c1c8fb101a@104.16.72.104:8443?security=tls&sni=egcf.shijie.icu&type=ws&host=egcf.shijie.icu&allowInsecure=0#🔒
-ss://09486821-5166-4b4c-806b-80c1c8fb101a@190.93.247.71:2087?security=tls&sni=egcf.shijie.icu&type=ws&host=egcf.shijie.icu#🔒
-ss://097d9986-299e-495b-a72a-35998f4064cc@151.101.130.46:80?security=none&type=xhttp&host=Vpnmizbanyour-name.global.ssl.fastly.net&path=%2FVpnMizban------VpnMizban------VpnMizban------VpnMizban------VpnMizban------VpnMizban------VpnMizban#🔒
