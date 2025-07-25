@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.154:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.154-443+%7C+71.31ms
-ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.147:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.147-443+%7C+68.42ms
+        ss://54694a33a8dc47ddbc38acd3971e0055Og==@135.148.74.147:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+135.148.74.147-443+%7C+68.42ms
 ss://542f694be8bd4b9e858cccb1c46a3316Og==@zula.ir:80#RELAY%F0%9F%9A%A9+%7C+zula.ir-80+%7C+164.36ms
 ss://542f694be8bd4b9e858cccb1c46a3316Og==@www.wappalyzer.com:80#RELAY%F0%9F%9A%A9+%7C+www.wappalyzer.com-80+%7C+78.72ms
 ss://542f694be8bd4b9e858cccb1c46a3316Og==@www.speedmeter.life:80#RELAY%F0%9F%9A%A9+%7C+www.speedmeter.life-80+%7C+300.66ms
@@ -503,3 +502,4 @@ vless://d1b5f42a-5b48-496c-8db7-373b98d9892f@37.202.231.220:1042?encryption=none
 vless://da1a4498-a6bf-4a2e-a077-7268ba6c4fdc@2.188.224.150:17200?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.224.150%3A17200
 vless://6552d9b6-eae3-4fa9-af6f-e912a3aa44a0@85.133.250.157:45095?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.250.157%3A45095
 vless://2a7b6666-d93f-4015-aa29-60cfe0a2d724@2.188.224.76:24341?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.224.76%3A24341
+vless://c44def03-fec4-4c87-aa5b-4f16f8b228d4@2.188.233.140:17510?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.140%3A17510

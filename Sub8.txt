@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c44def03-fec4-4c87-aa5b-4f16f8b228d4@2.188.233.140:17510?encryption=none&security=none&type=ws&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.188.233.140%3A17510
-vless://8573c914-bf7a-44b4-9049-ce502b4864d6@85.133.247.48:2082?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.48%3A2082
+        vless://8573c914-bf7a-44b4-9049-ce502b4864d6@85.133.247.48:2082?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.247.48%3A2082
 vless://1d6b55be-75d3-4ea2-bedf-98f3a757c458@185.79.158.153:8051?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.79.158.153%3A8051
 vless://bb6a6945-b996-4d6e-80a4-41099620e477@37.202.225.173:3450?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-37.202.225.173%3A3450
 vless://51626927-72ad-43f4-9b14-e9550161f2dc@195.182.38.200:1952?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-195.182.38.200%3A1952
@@ -503,3 +502,4 @@ ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%A8%F0%9F%87%B3
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#%F0%9F%87%AF%F0%9F%87%B5JP-137.220.191.40-0633
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.211.97-0640
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#%F0%9F%87%BA%F0%9F%87%B8US-172.233.128.126-0876
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3lSZG9xUUllYmRLWlZZczVHelc4@45.150.32.13:14628#%F0%9F%87%A9%F0%9F%87%AADE-45.150.32.13-0879

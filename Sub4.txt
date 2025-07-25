@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?path=%2FXRAYVPNHTTPUPGRADE&security=none&encryption=none&host=de1.blackismyfavorite.ir&type=httpupgrade#RELAY🚩 | de1.blackismyfavorite.ir-80 | 164.12ms
-vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&encryption=none&host=no1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=no1.blackismyfavorite.ir#RELAY🚩 | no1.blackismyfavorite.ir-443 | 2.45ms
+        vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&encryption=none&host=no1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=no1.blackismyfavorite.ir#RELAY🚩 | no1.blackismyfavorite.ir-443 | 2.45ms
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@de1.xservers.ir:81?mode=auto&path=%2FXrayVPN&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&pbk=A-8wmBnGrz4ny7CB9Zfnjz66cbS83uOMdH61CsI-rm8&fp=firefox&type=xhttp&sni=tgju.org&sid=200de4ca48fb1731#REALITY|DE🇩🇪 | de1.xservers.ir-81 | 472.35ms
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪 | turkey.jewelll.ir-3311 | 478.81ms
 vless://ccc75873-a458-48c5-8de5-890c901aaaf5@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#RELAY🚩 | shad.ir.bot.digicyber.click-8080 | 34.45ms
@@ -503,3 +502,4 @@ vless://5870e7d7-24e6-411a-914e-c965d7f7ae8a@154.197.75.80:80?path=%2FTelegram%3
 vless://5870e7d7-24e6-411a-914e-c965d7f7ae8a@104.17.82.198:80?path=%2FTelegram%3A%40%40vpnclashfa+-+717#RELAY🚩 | 104.17.82.198-80 | 1.77ms
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.129.198.177:8880?path=%2FTelegram-%40MTMVPN%2F%3Fed%3D2560&security=none&encryption=none&host=ip.langmanshanxi.top&type=ws#RELAY🚩 | ip.langmanshanxi.top-8880 | 339.08ms
 vless://5801ebec-b1b3-496e-9088-7858e006f0e9@151.101.2.216:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&alpn=h2%2Chttp%2F1.1&host=leader-of-www.com&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸 | live.skornorth.com-80 | 13.07ms
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#RELAY🚩 | ovhwuxian.pai50288.uk-8443 | 23.21ms

@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://d239a4fb-83fd-46b3-bda1-c0b405bd7360@91.186.218.167:2083?security=reality&sni=www.speedtest.net&type=grpc&fp=firefox&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&sid=adf8a1f5689177a2#🔒
-ss://d26009b6-d347-403f-95ce-1816bb8b8ca4@104.20.18.168:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=v2raylandd.werokac991.workers.Dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+        ss://d26009b6-d347-403f-95ce-1816bb8b8ca4@104.20.18.168:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=v2raylandd.werokac991.workers.Dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://d26009b6-d347-403f-95ce-1816bb8b8ca4@104.20.19.168:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=v2raylandd.werokac991.workers.Dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://d26009b6-d347-403f-95ce-1816bb8b8ca4@172.67.2.238:8880?security=none&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=v2raylandd.werokac991.workers.Dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://d26009b6-d347-403f-95ce-1816bb8b8ca4@45.131.211.5:80?security=none&sni=v2raylandd.werokac991.workers.Dev&type=ws&host=v2raylandd.werokac991.workers.Dev&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒
@@ -503,3 +502,4 @@ ss://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@sv-italia.it.sv-italia.it:442?mode=gun
 ss://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@sv-italia.it.sv-italia.it:442?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE_1105_@Surfboardv2ray
 ss://d762fea2-c9b3-45ca-b70e-e1fb078c8776@172.66.44.75:2053?security=tls&sni=maHdiseRveR-3h9.pageS.deV&type=ws&host=mahdiserver-3h9.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒
 ss://d76b2c50-34b4-4ae2-bb56-231569aeb0fc@104.17.217.15:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&alpn=h3,h2#🔒
+ss://d778cbd9-bfd0-433e-ad6b-e957b5dfc776@104.17.147.22:2053?security=tls&sni=g.yUSEFkharE.SBS&type=ws&host=g.yUSEFkharE.SBS&path=/Tel:@AnGuS_VPN&fp=chrome&alpn=h3,h2,http/1.1#🔒
