@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c0b9dd6c-9676-4cd1-9e7c-9c6ac59afd37@172.67.188.175:2096?security=tls&sni=app2.year2025appdatat.lat&type=grpc&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
-vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?encryption=none&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&type=ws&security=tls&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&fp=randomized&alpn=http%2F1.1#@FNET00
-vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?security=tls&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&type=ws&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560%2F%3FJoin_Bade_Channel%40JOKERRVPN&fp=randomized&alpn=http%2F1.1#🔒
+        vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?security=tls&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&type=ws&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560%2F%3FJoin_Bade_Channel%40JOKERRVPN&fp=randomized&alpn=http%2F1.1#🔒
 vless://c11446db-adc4-417b-8a8d-e25c37f4f8c5@WWW.SPEEDTEST.NET:2095?path=%2F&security=none&encryption=none&host=PM.SODOGODPING.IR&type=httpupgrade#@meli_proxyy
 vless://c11446db-adc4-417b-8a8d-e25c37f4f8c5@WWW.SPEEDTEST.NET:2095?path=%2F&security=none&encryption=none&host=PM.SODOGODPING.IR&type=httpupgrade#⚡Telegram
 vless://c11446db-adc4-417b-8a8d-e25c37f4f8c5@www.speedtest.net:2095/?type=httpupgrade&encryption=none&host=PM.SODOGODPING.IR&path=%2F#⚡Telegram
@@ -503,3 +501,5 @@ vless://ca1659df-980f-4485-e2bc-ab0dcdaf294f@199.232.246.59:443?security=tls&sni
 vless://ca5ea936-3b11-48b2-90f6-c888b13aa579@p1.punchline.ir:36800?type=xhttp&path=%2Fv2raybluecrystal&host=&mode=auto&security=reality&pbk=NmvXICZbgkr6rRIFHW3btC48PS4WPqI1WMI0zMypRzs&fp=chrome&sni=www.microsoft.com&sid=9fd097cb4d&spx=%2F&remark=v2raybluecrystal-v2raybluecrystal-v2raybluecrystal-v2raybluecrystal-v2raybluecrystal-v2raybluecrysta#⚡Telegram
 vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?encryption=none&security=none&sni=patient-sunset-f000-ppal03.cijej53213.workers.dev&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&path=%2F#t.me%2Fpeterjest
 vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?security=none&encryption=none&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&type=ws&sni=patient-sunset-f000-ppal03.cijej53213.workers.dev#%40Golestan_VPN%20-%20J
+vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?security=none&encryption=none&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&type=ws&sni=patient-sunset-f000-ppal03.cijej53213.workers.dev#RELAY🚩
+vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?security=none&encryption=none&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&type=ws&sni=patient-sunset-f000-ppal03.cijej53213.workers.dev#🇨🇦CA_1053_@Surfboardv2ray

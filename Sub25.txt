@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/fJBvsL0uR2MtzRig&host=myphotograpicpicture.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒
-ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@66.81.247.203:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒
+        ss://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@66.81.247.203:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b9f4@188.114.97.1:443?encryption=none&security=tls&sni=MYPhoTOgrapICPictURe.IR&fp=randomized&type=ws&host=MYPhoTOgrapICPictURe.IR&path=%2FE4FqomT5e0mKm2nh%2FMTU5LjY5LjE0LjEzOA%3D%3D%3Fed%3D2560#q1_157
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b9f4@188.114.97.1:443?path=/E4FqomT5e0mKm2nh/MTU5LjY5LjE0LjEzOA&security=tls&alpn=http/1.1&encryption=none&host=myphotograpicpicture.ir&fp=chrome&type=ws&sni=MYPhoTOgrapICPictURe.IR#🇨🇦CA_429_@Surfboardv2ray
 ss://4d91916f-a7fd-419b-8b90-640bb8d4b9f4@188.114.97.1:443?security=tls&sni=MYPhoTOgrapICPictURe.IR&type=ws&host=myphotograpicpicture.ir&path=/E4FqomT5e0mKm2nh/MTU5LjY5LjE0LjEzOA&fp=chrome&alpn=http/1.1#🔒
@@ -503,3 +501,5 @@ ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.23:80?sni=redw.pooriam.ir&t
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.251:80?security=none&type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.86:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.98:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.99:80?type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@159.246.55.178:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒

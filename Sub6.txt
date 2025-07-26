@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://NISHIKUITAN111@198.41.205.240:443#RELAY🚩 | 198.41.205.240-443 | 14.14ms
-trojan://NISHIKUITAN111@192.65.217.110:443#AU🇦🇺 | 192.65.217.110-443 | 14.44ms
-trojan://NISHIKUITAN111@190.93.247.175:443#RELAY🚩 | 190.93.247.175-443 | 14.41ms
+        trojan://NISHIKUITAN111@190.93.247.175:443#RELAY🚩 | 190.93.247.175-443 | 14.41ms
 trojan://NISHIKUITAN111@185.135.9.137:443#DE🇩🇪 | 185.135.9.137-443 | 14.42ms
 trojan://NISHIKUITAN111@173.245.59.30:443#RELAY🚩 | 173.245.59.30-443 | 14.56ms
 trojan://NISHIKUITAN111@173.245.58.6:443#RELAY🚩 | 173.245.58.6-443 | 14.57ms
@@ -503,3 +501,5 @@ vless://76bf3c4c-57c6-486d-b964-e0a7cf0882ee@104.18.26.94:443?encryption=none&se
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkJSLT5CUi0+QURMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiOTUuMTY0LjQuODgiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInBxLWJyYXppbDEuMDl2cG4uY29tIiwNCiAgInBhdGgiOiAiL3ZtZXNzLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.159:443?encryption=none&security=tls&sni=147135004002.sec20org.com&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#US-%3EUS-%3EADL-%3E%40Sezar_Sec
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFLT5ERS0+QURMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNTcuMTI5LjI1LjI1IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.102:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=tcp&headerType=none#US-%3E-%3EMTN-%3E%40Sezar_Sec
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@67.220.95.102:8000#US-%3EUS-%3EADL-%3E%40Sezar_Sec

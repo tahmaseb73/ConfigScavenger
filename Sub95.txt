@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://efdc05f4-6681-43e8-813d-96e75e243a34@194.182.79.242:45831?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85😸
-vless://efe56d18-ea0c-4ff5-b8a5-9baa93fe70f2@91.107.130.202:2006?security=reality&encryption=none&pbk=RBZ8svckpp9tsX5QA8akGRx5fIKuCYk_diZhOHiHMGs&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=69#🇩🇪DE_1260_@Surfboardv2ray
-vless://f03cdd61-86f3-4f3d-957b-37a3ae81c8fe@135.181.64.31:54401?security=reality&encryption=none&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=e5201e3c#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+        vless://f03cdd61-86f3-4f3d-957b-37a3ae81c8fe@135.181.64.31:54401?security=reality&encryption=none&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=e5201e3c#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 vless://f03cdd61-86f3-4f3d-957b-37a3ae81c8fe@135.181.64.31:54401?security=reality&encryption=none&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=e5201e3c#⚡Telegram
 vless://f03cdd61-86f3-4f3d-957b-37a3ae81c8fe@135.181.64.31:54401?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&sid=e5201e3c#🇫🇮[openproxylist.com]
 vless://f03cdd61-86f3-4f3d-957b-37a3ae81c8fe@135.181.64.31:54401?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&sid=e5201e3c#🔒
@@ -503,3 +501,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.82:80?sni=cs.laoyoutiao
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.87:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.89:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.8:80?type=ws&host=us.laoyoutiao.link&path=TelegramрЯЗ®рЯЗ≥#🔒
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.90:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.92:80?type=ws&host=us.laoyoutiao.link&path=TelegramрЯЗ®рЯЗ≥#🔒
