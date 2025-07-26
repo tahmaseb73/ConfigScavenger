@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 187.16ms
-vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none&type=tcp#CA🇨🇦 | 51.222.86.157-54051 | 18.75ms
+        vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none&type=tcp#CA🇨🇦 | 51.222.86.157-54051 | 18.75ms
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none#CA🇨🇦 | 51.222.86.157-54051 | 18.68ms
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?type=tcp&encryption=none&flow=#CA🇨🇦 | 51.222.86.157-54051 | 18.78ms
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?type=ws&encryption=none&flow=&path=%2F#RELAY🚩 | small-meal.oneeat.co-80 | 45.6ms
@@ -503,3 +502,4 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.19.174.68:443?path=%2F%40Rayan_
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.204.237:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 2.11ms
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.135.249:80?path=%2FTelegram%2FXV2ray%3Fed&security=none&encryption=none&host=Csgo.XV2ray.xn--2b5b.127.0.0.1.Offline.Download.Down.Online.0.2.1.Tor.xn--g28h.dns-dynamic.net.&type=ws#DE🇩🇪 | Csgo.XV2ray.xn--2b5b.127.0.0.1.Offline.Download.Down.Online.0.2.1.Tor.xn--g28h.dns-dynamic.net.-80 | 207.95ms
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.219.108:80?path=%2FTelegram%2FXV2ray%3Fed&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.V2ray.com.sha1.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&type=ws#DE🇩🇪 | rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.V2ray.com.sha1.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.-80 | 262.17ms
+vless://7a3ba820-45a0-4e89-a7fd-705490b1c6c6@37.120.167.155:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=VA4JOM8nUh1NHGMoeNNTWHnp4tAA2wG2hauNSUTLHxk&host=nobitex.ir&fp=firefox&type=xhttp&sni=nobitex.ir&sid=4a25#REALITY|DE🇩🇪 | 37.120.167.155-443 | 92.85ms
