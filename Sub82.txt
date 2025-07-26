@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/#🔒
-vless://81a4ce79-0efd-464a-a10c-2875cb200059@[2a01:4f8:1c1b:3e2::1]:443?mode=gun&security=reality&encryption=none&authority=&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&fp=chrome&spx=/&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&sni=gsmarena.com&sid=32d7a82d#@fastkanfig+2
-vless://8220e77c-1f91-4fdf-ab5d-1f20682de3b3@zula.ir:8443?security=tls&sni=fr-2-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=fr-2-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-117%20-%20FR%20-%20II%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
+        vless://8220e77c-1f91-4fdf-ab5d-1f20682de3b3@zula.ir:8443?security=tls&sni=fr-2-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=fr-2-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-117%20-%20FR%20-%20II%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
 vless://822476d3-052d-4292-a9c5-203fc3ad5408@209.38.186.178:2083?security=reality&sni=www.speedtest.net&fp=firefox&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&sid=adf8a1f5689177a2&type=grpc&packetEncoding=xudp&encryption=none#REALITY|DE🇩🇪
 vless://822abf1e-f617-407b-9ff0-ce40eb821f71@104.16.217.226:2096?sni=abc.jaiven.dedyn.io&type=ws&host=abc.jaiven.dedyn.io#🔒
 vless://822abf1e-f617-407b-9ff0-ce40eb821f71@104.16.56.146:8443?sni=abc.jaiven.dedyn.io&type=ws&host=abc.jaiven.dedyn.io#🔒
@@ -503,3 +501,5 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.76.97:443?sni=xv6.jpmj.dpdns
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.77.150:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.77.23:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.78.154:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.79.193:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.8.88:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒

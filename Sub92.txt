@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d66749b7-208f-42f2-b1f2-e4a7e96f2364@198.41.216.98:8080?type=httpupgrade&host=masterserver1.nanvrfood.ir.#🔒
-vless://d66e0084-c2cd-4eba-e803-7d842b1bf075@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
-vless://d66e0084-c2cd-4eba-e803-7d842b1bf075@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Flyv2ray
+        vless://d66e0084-c2cd-4eba-e803-7d842b1bf075@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Flyv2ray
 vless://d66e0084-c2cd-4eba-e803-7d842b1bf075@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
 vless://d66e0084-c2cd-4eba-e803-7d842b1bf075@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Flyv2ray
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.18.106.64:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=join+my+channel+++v2raynplus+++%2F%3Fed%3D2048%2F%3Fed%3D2048#🔒
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?mode=gun&security=none&encryption=none&type=grpc#⚡Telegram
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?security=none&type=grpc#🔒
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.74:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇸US_1163_@Surfboardv2ray
