@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://cdc02799-67d5-475f-a638-a50539f21d3e@62.60.244.89:4443?security=reality&flow=xtls-rprx-vision&sni=www.tradingview.com&type=tcp&fp=chrome&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs&sid=aef9c41cfb8d5bf2#@Hope_Net-join-us-on-Telegram⚠️
+        ss://cdb63ff9-1767-4a35-97e5-900048e4feb2@54.169.220.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn-sg01.download.pikoport.com&fp=chrome#⚡Telegram
+ss://cdb63ff9-1767-4a35-97e5-900048e4feb2@54.169.220.207:443?security=tls&flow=xtls-rprx-vision&sni=cdn-sg01.download.pikoport.com&type=tcp&fp=chrome#🔒
+ss://cdba56b7-82c5-449f-b5ef-86bf02c9797e@65.21.181.218:443?security=reality&sni=stackoverflow.com&type=grpc&serviceName=%40cephalon\_ai\_bot&fp=chrome&pbk=CpD2tuOBsn8rHQm8hSzErseno4fsHTdsdq58anDW3AI&sid=b81f1f0ca108#🔒
+ss://cdc02799-67d5-475f-a638-a50539f21d3e@147.45.179.99:4444?security=reality&sni=ftp.debian.org&type=xhttp&host=ftp.debian.org&fp=chrome&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs#🔒
+ss://cdc02799-67d5-475f-a638-a50539f21d3e@62.60.244.89:4443?security=reality&flow=xtls-rprx-vision&sni=www.tradingview.com&type=tcp&fp=chrome&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs&sid=aef9c41cfb8d5bf2#@Hope_Net-join-us-on-Telegram⚠️
 ss://cdc02799-67d5-475f-a638-a50539f21d3e@62.60.244.89:4443?security=reality&flow=xtls-rprx-vision&sni=www.tradingview.com&type=tcp&fp=chrome&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs&sid=aef9c41cfb8d5bf2#🔒
 ss://cdc02799-67d5-475f-a638-a50539f21d3e@92.118.112.224:4444?security=reality&sni=ftp.debian.org&type=xhttp&host=ftp.debian.org&fp=chrome&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs#@Hope_Net-join-us-on-Telegram
 ss://cdc02799-67d5-475f-a638-a50539f21d3e@92.118.112.224:4444?security=reality&sni=ftp.debian.org&type=xhttp&host=ftp.debian.org&fp=chrome&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs#🔒
@@ -499,7 +503,3 @@ ss://d3c62dea-ac54-4163-ab3f-20d6ef9f8420@104.16.138.167:2083?security=tls&sni=1
 ss://d3c62dea-ac54-4163-ab3f-20d6ef9f8420@188.114.97.179:2087?security=tls&sni=1.659118019.uk&type=ws&host=1.659118019.uk#🔒
 ss://d41bf778-df73-4cc6-9b88-7ef4bfe16014@27.50.48.231:8443?security=tls&sni=ham12-dsadsaddsa-dsadsadsad.gameha9.ir&type=ws&host=ham12-dsadsaddsa-dsadsadsad.gameha9.ir&path=/#🔒
 ss://d41c3a84-0dcc-45fd-8b8d-0552197ae314@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
-ss://d41c3a84-0dcc-45fd-8b8d-0552197ae314@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
-ss://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@104.21.69.44:8080?security=none&type=ws&host=pamchall.com.#🔒
-ss://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@172.67.204.84:8080?security=none&type=ws&host=pamchall.com.&path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048#🔒
-ss://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JoinBede-ELiV2.Ray.io&type=ws#@meli_proxyy

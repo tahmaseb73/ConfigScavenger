@@ -3,7 +3,11 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#REALITY|US🇺🇸 | 185.236.232.136-1001 | 10.7ms
+        vless://cc17442f-1426-4db8-b3d8-7eb9c937e60f@194.182.79.216:43707?mode=gun&security=reality&encryption=none&pbk=XadnCb8lvsE2RNWScJ9l_-DsdJZpkjMDSfcy2EHRBTc&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=4fce0ce1911b3e#REALITY|CZ🇨🇿 | 194.182.79.216-43707 | 100.74ms
+vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#REALITY|GB🇬🇧 | mariz.kuckenpq.ir-32135 | 448.05ms
+vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#REALITY|AM🇦🇲 | dlarm.kuckenpq.ir-32135 | 517.07ms
+vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@NLpizza.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#REALITY|AU🇦🇺 | NLpizza.kuckenpq.ir-32135 | 279.98ms
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#REALITY|US🇺🇸 | 185.236.232.136-1001 | 10.7ms
 vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?security=reality&encryption=none&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=816473be23c2#REALITY|IS🇮🇸 | 45.83.21.107-59997 | 97.28ms
 vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2&type=tcp&headerType=none#REALITY|IS🇮🇸 | 45.83.21.107-59997 | 97.11ms
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@tr01-vlr01.tcp-reset-club.net:443?sni=hls-svod.itunes.apple.com&sid=31&security=reality&encryption=none&headerType=none&fp=chrome&type=tcp&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&spx=%2F&flow=xtls-rprx-vision#REALITY|TR🇹🇷 | tr01-vlr01.tcp-reset-club.net-443 | 149.09ms
@@ -499,7 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZjlwVEUyc1ZUOVVVdmFsVG1LNzJJ@45.144.54.33:34803#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+45.144.54.33-34803+%7C+108.87ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM=@45.76.180.205:31298#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+45.76.180.205-31298+%7C+231.38ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+tr.vpnsparta.pro-57456+%7C+330.86ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+tr.vpnsparta.pro-57456+%7C+232.82ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.212-57456+%7C+291.67ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.212-57456+%7C+186.85ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+46.226.163.225-57456+%7C+100.26ms
