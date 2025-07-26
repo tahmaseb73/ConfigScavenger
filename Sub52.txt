@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://e22aca05-87ea-48f9-8389-90d88b4a708d@104.18.27.94:80?security=none&allowInsecure=1&fp=chrome&type=ws&host=esetsecuritylicense.vvdjqi.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+        ss://e22aca05-87ea-48f9-8389-90d88b4a708d@104.18.27.94:443?security=tls&sni=esetsecuritylicense.vvdjqi.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=esetsecuritylicense.vvdjqi.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+ss://e22aca05-87ea-48f9-8389-90d88b4a708d@104.18.27.94:80?security=none&allowInsecure=1&fp=chrome&type=ws&host=esetsecuritylicense.vvdjqi.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://e22cc9bf-cbb4-426a-9a36-75d635e7181e@91.194.161.69:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none#Rayan%20-%20VPH%20-%20gRPC-104%20-%20IS%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
 ss://e24d4ed7-66b2-402f-fd3e-96c8cfe79943@188.245.144.74:443?security=reality&encryption=none=#🇩🇪DE_1205_@Surfboardv2ray
 ss://e26a79fd-35d0-4c25-8f6b-8bcd8726348c@167.99.183.32:443?security=reality&sni=telewebion.com&type=tcp&fp=chrome&pbk=qXoC7zJ_1FMdhHV0HUboEei5nZxJ0RC97v2QZgNHcFE&sid=4d912c48cd130515#🔒
@@ -502,4 +503,3 @@ ss://ea286109-d20f-415e-849e-4af20ab04b65@135.148.182.1:443?security=tls&encrypt
 ss://ea286109-d20f-415e-849e-4af20ab04b65@135.148.182.1:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#⚡Telegram
 ss://ea286109-d20f-415e-849e-4af20ab04b65@135.148.182.1:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#🇺🇸
 ss://ea286109-d20f-415e-849e-4af20ab04b65@135.148.195.57:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2,http/1.1&allowInsecure=1#[
-ss://ea286109-d20f-415e-849e-4af20ab04b65@135.148.195.57:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2,http/1.1&allowInsecure=1#🔒

@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?security=none&type=grpc#🔒
+        ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧GB_1146_@Surfboardv2ray
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?security=none&type=grpc#🔒
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?type=grpc#🇬🇧[openproxylist.com]
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?encryption=none&security=none&type=grpc#%5BVLESS%2001%5D%20%40ResistalProxy
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?encryption=none&security=none&type=grpc#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FCoventry%F0%9F%85%BF%EF%B8%8Fping%3A41.21ms
@@ -502,4 +503,3 @@ ss://e2286c5e-d910-405f-9bcb-b0e81188ad53@151.101.192.155:80?path=%2FPak91jqn-Me
 ss://e2286c5e-d910-405f-9bcb-b0e81188ad53@151.101.192.155:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=Dorime.com&type=ws#EE🇪🇪
 ss://e2286c5e-d910-405f-9bcb-b0e81188ad53@151.101.192.155:80?security=none&type=ws&host=Dorime.com&path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN#🔒
 ss://e2286c5e-d910-405f-9bcb-b0e81188ad53@151.101.64.155:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=Lakpor.com&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-ss://e22aca05-87ea-48f9-8389-90d88b4a708d@104.18.27.94:443?security=tls&sni=esetsecuritylicense.vvdjqi.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=esetsecuritylicense.vvdjqi.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
