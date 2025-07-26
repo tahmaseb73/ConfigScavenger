@@ -156,9 +156,6 @@ hysteria2://656e8471-baf1-4927-afa9-b9cb745df576@uuk1.tok8888.com:22111?insecure
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://nfsn666@45.207.222.138:8888?insecure=1&sni=hk.nfsn666.gq#Channel%20id%3A%20%40ShadowProxy66%20%20%236
-hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@153.121.42.218:50000?insecure=1&sni=www.microsoft.com#%20%40Filter_breaker
-hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@45.11.1.62:50000?insecure=1&sni=www.microsoft.com#%20%40Filter_breaker%20%231
-hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@87.254.23.104:50000?insecure=1&sni=www.microsoft.com#%20%40Filter_breaker%20%232
 hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.207.162:47262?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%231
 hysteria2://dongtaiwang.com@45.129.2.108:30033?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:45979?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
@@ -230,9 +227,9 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@162.120.94.63:8880?allowInsecure=0&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@161.145.150.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0360
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443?allowInsecure=0&sni=ConFIgmr.PaGeS.dEV&alpn=h2%2Chttp/1.1&type=ws&host=ConFIgmr.PaGeS.dEV&path=/telegram@v2ray_configs_pools/?ed=2560fp=chrome&security=tls#US_speednode_0383
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443?allowInsecure=0&sni=ConFIgmr.PaGeS.dEV&alpn=h2%2Chttp/1.1&type=ws&host=configmr.pages.dev&path=/telegram@v2ray_configs_pools/?ed=2560fp=chrome&security=tls#US_speednode_0395
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507232129723-vNgaz226QA.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507232129723-vNgaz226QA.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507232129723-vNgaz226QA.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.38:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.38-0230
 vmess://ewogICAgImFkZCI6ICIxYWYxMzEuZmY0OGZhZGUuc2hvcCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVzMDJzLmZmNDhmYWRlLnNob3AiLAogICAgImlkIjogIjUzNTk4NDAxLTMxZTEtNGNlMy1iYjJlLTZjMDBhOGZjM2UwMSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTYyLjE1OS4yMzYuMjQ1LTA5MjgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICI1MjdjYjIuODI3YTRjMzkuc2hvcCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInNnMDJzLjgyN2E0YzM5LnNob3AiLAogICAgImlkIjogIjk1Mjc5N2I2LTIxYTAtNGU2Ni05MjM5LTMwZWY1YzBlZmNkZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE2Ljk1Ljc4LTY4MzUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
