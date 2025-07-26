@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@51.89.224.169:1370?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔒
+        ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@51.75.168.148:1370?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔒
+ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@51.89.224.169:1370?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔒
 ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@51.89.224.193:1370?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔒
 ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@51.89.225.13:1370?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔒
 ss://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@51.89.227.17:1370?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔒
@@ -502,4 +503,3 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.17:443?security=tls&sni=bn
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.180:443?sni=sl.ylka.dpdns.org&type=ws&host=sl.ylka.dpdns.org&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.18:443?sni=vc.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.203:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.211:443?sni=cn.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒

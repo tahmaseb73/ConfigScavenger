@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F&security=tls&encryption=none&host=mylearn-8zx.pages.dev&type=ws&sni=mylearn-8zx.pages.dev#RELAY🚩 | mylearn-8zx.pages.dev-443 | 63.09ms
+        vless://d47af421-30d5-49a3-af17-629cdc61e72e@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=skyshiield.global.ssl.fastly.net&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#US🇺🇸 | skyshiield.global.ssl.fastly.net-80 | 23.29ms
+vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F&security=tls&encryption=none&host=mylearn-8zx.pages.dev&type=ws&sni=mylearn-8zx.pages.dev#RELAY🚩 | mylearn-8zx.pages.dev-443 | 63.09ms
 vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=chrome&type=ws&sni=mylearn-8zx.pages.dev#RELAY🚩 | mylearn-8zx.pages.dev-443 | 10.56ms
 vless://d4363b0e-8672-43c6-af2a-30824d60e435@91.107.155.155:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray#DE🇩🇪 | 91.107.155.155-443 | 145.99ms
 vless://d4363b0e-8672-43c6-af2a-30824d60e435@91.107.155.155:443?mode=gun&security=&encryption=none&type=grpc&serviceName=%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray#DE🇩🇪 | 91.107.155.155-443 | 145.74ms
@@ -502,4 +503,3 @@ vless://787266db-d120-4d88-9d08-d7e8beed91ea@bestfacebook.org:2095?path=%2F%2C%4
 vless://77574e63-cfdc-41b9-a84c-13c91b3d819c@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|DE🇩🇪 | Subfourteen.iranfreedomserver.com-7005 | 254.87ms
 vless://76ed13e5-b315-4055-971a-7accddae57a5@svir1.craftedsmp.ir:443?security=none&encryption=none&host=anten.ir&headerType=none&type=tcp#IR🇮🇷 | anten.ir-443 | 449.77ms
 vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=eLOQuENt-caSE.ZUlaIR.orG.&type=ws#RELAY🚩 | eLOQuENt-caSE.ZUlaIR.orG.-80 | 174.31ms
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2F&security=tls&alpn=h3&encryption=none&host=nginx-z.pages.dev&type=ws&sni=NGINX-Z.pages.DEV#RELAY🚩 | NGINX-Z.pages.DEV-443 | 47.23ms

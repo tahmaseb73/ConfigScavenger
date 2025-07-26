@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://fe66e42e-c6db-41bc-ac75-841fbd23a8da@am.aparat-movies-download.ir:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&sni=zhaket.com#REALITY|AM🇦🇲 | am.aparat-movies-download.ir-4450 | 354.93ms
+        vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33&type=tcp&headerType=none#REALITY|FI🇫🇮 | 5.181.20.219-17422 | 158.84ms
+vless://fe66e42e-c6db-41bc-ac75-841fbd23a8da@am.aparat-movies-download.ir:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&sni=zhaket.com#REALITY|AM🇦🇲 | am.aparat-movies-download.ir-4450 | 354.93ms
 vless://fe20a2a1-b426-42b4-b604-ce392e4fcacc@sqz.outis6.xyz:44643?security=reality&encryption=none&pbk=I1AB7_vPAaI3tP4sEEgO8LjX-iCTYDoejlR0kF9flT0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=rel6rel.outis6.xyz#REALITY|DE🇩🇪 | sqz.outis6.xyz-44643 | 187.89ms
 vless://fe1888f8-2361-11f0-9970-45e1d80c4039@89.23.108.188:443?security=reality&encryption=none&pbk=nm1ZhMktJbHTcJv0gqV8l0s_c9BWfQe5d02qhpSkKWo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=7fd4#REALITY|DE🇩🇪 | 89.23.108.188-443 | 138.56ms
 vless://fdc0229d-2037-48c4-94d3-496e67cce5d8@85.234.65.120:443?security=reality&encryption=none&pbk=307pppp6s7XwguGbsjY3xaJPIubgj_D8zNJT5SmtsVA&headerType=none&fp=chrome&type=tcp&sni=github.com&sid=f90c#REALITY|NL🇳🇱 | 85.234.65.120-443 | 134.75ms
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#GR%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#EE%F0%9F%87%AA%F0%9F%87%AA+%7C+188.214.36.155-990+%7C+168.18ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#BO%F0%9F%87%A7%F0%9F%87%B4+%7C+185.93.173.218-990+%7C+222.16ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#EC%F0%9F%87%AA%F0%9F%87%A8+%7C+185.47.253.227-990+%7C+117.64ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.171:990#EC%F0%9F%87%AA%F0%9F%87%A8+%7C+185.47.253.171-990+%7C+191.81ms
