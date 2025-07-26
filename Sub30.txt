@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=%2F%3Fed%3D2560#🔒
-ss://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=%2F%3Fed%3D2560#🔒
-ss://592bac53-90ec-44b5-811b-01f6adf28f41@104.16.203.166:80?security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed%3D2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🔒
+        ss://592bac53-90ec-44b5-811b-01f6adf28f41@104.16.203.166:80?security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed%3D2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🔒
 ss://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://593e463e-e2b7-4288-8767-a7c1ff4338b0@45.85.119.139:443?encryption=none&security=tls&sni=inbarzendegi.site&alpn=h3&fp=chrome&type=xhttp&host=inbarzendegi.site&path=/azadi?ed=2560&mode=auto&extra={
 ss://593e463e-e2b7-4288-8767-a7c1ff4338b0@91.107.188.51:8443?encryption=none&security=reality&sni=cloudflare-ech.com&fp=chrome&pbk=AawjFGJ1AjN90LWMGgokxJJF-Ar_au0RXSVdMjliaSw&sid=dd5ff44f&type=xhttp&host=www.tgju.org&path=/telegram-@baraye_azadi_info-@baraye_azadi_info?ed=2056&mode=auto#🇩🇪DE_589_@Surfboardv2ray
@@ -503,3 +501,5 @@ ss://63601f9f-7c67-4952-919a-1ef802b5a7ec@103.232.213.117:8080?sni=steep.skyfigu
 ss://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.154.68.40:16040?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳
 ss://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.154.68.40:16040?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒
 ss://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.154.68.40:25079?allowInsecure=0&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/TelegramU0001F1E8U0001F1F3
+ss://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.154.68.40:25079?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒
+ss://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.162.197.175:10986?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒
