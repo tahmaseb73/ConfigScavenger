@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://CHIK_182447@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#@meli_proxyy
-vless://CHIK_182447@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#REALITY|SE🇸🇪
+        vless://CHIK_182447@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#REALITY|SE🇸🇪
 vless://CHIK_182447@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#⚡Telegram
 vless://CHIK_182451@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#@meli_proxyy
 vless://CHIK_182451@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#REALITY|SE🇸🇪
@@ -503,3 +502,4 @@ vless://a72c2976-8d0e-4610-895f-3bc4b2a92303@91.194.161.15:80?security=&sni=zula
 vless://a72edeb2-b46c-4511-bc6c-9fbd0ecb2e61@104.26.12.140:8443?security=tls&sni=qing-dbz.pages.dev&type=ws&host=qing-dbz.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒
 vless://a72edeb2-b46c-4511-bc6c-9fbd0ecb2e61@104.26.13.140:8443?security=tls&sni=qing-dbz.pages.dev&type=ws&host=qing-dbz.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒
 vless://a736037b-bbef-44e3-a44e-964be0e2826b@138.201.159.111:45216?security=reality&sni=microsoft.com&type=xhttp&path=%2F&fp=chrome&pbk=0oR6xhpY1KcusXmPNBMhoiDt8gKOxGOh3morRFzM2HQ&sid=493518a7b6505758#🔒
+vless://a73cf704-008c-439b-8a22-8b693a9e3104@104.16.203.184:2083?sni=lyxahh316.dpdns.org&type=ws&host=lyxahh316.dpdns.org&allowInsecure=0#🔒
