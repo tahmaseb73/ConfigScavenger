@@ -98,9 +98,9 @@ trojan://92435aa8-f3b6-466a-ad58-c55cbb6d2acf@sg.mjt000.com:443?allowInsecure=0&
 trojan://trojan@91.193.58.0:443?allowInsecure=0&sni=wahaha.yingyangkuaixian.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:3596?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.7:32962?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40stairnode
-trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#%E6%9C%AA%E7%9F%A5
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&type=ws&sni=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A55
-trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&type=ws&sni=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&host=aio.zipzap.biz.id#%E6%9C%AA%E7%9F%A515
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&type=ws&sni=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A53
+trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#%E6%9C%AA%E7%9F%A57
+trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&type=ws&sni=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650&host=aio.zipzap.biz.id#%E6%9C%AA%E7%9F%A59
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%203.4MB/s%7C15%25%7COpenai
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.228.235.1:443?allowInsecure=0&sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%204.4MB/s%7C30%25%7COpenai
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.80.121.136:443?sni=zula.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%204.4MB/s%7C30%25%7COpenai
@@ -207,7 +207,6 @@ hysteria2://196d331c-9a7d-4a8a-990e-f8babff27412@jpcn286.s2fjeyeeyafe.bond:35789
 hysteria2://196d331c-9a7d-4a8a-990e-f8babff27412@us10.s2fjeyeeyafe.bond:35789?insecure=1&sni=us10.s2fjeyeeyafe.bond#%40_%20%231
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=de8287cd33b05fa3#%40V2rayNG3%20%232
 hysteria2://27e473f8-d610-4b04-bdf7-d0c39b47c897@23.80.81.213:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de
-hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@79.72.81.183:30000?insecure=1&sni=www.apple.com#%40ata_connect%20%20%20%20%20%20%20
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiabx.688997.xyz:20857?insecure=1&sni=nexiabx.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#TEL%20%3E%20%40SaghiVpnXBOT-%20
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiadg.688997.xyz:20557?insecure=1&sni=nexiadg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#TEL%20%3E%20%40SaghiVpnXBOT-%20%20%231
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiahg.688997.xyz:20357?insecure=1&sni=nexiahg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#TEL%20%3E%20%40SaghiVpnXBOT-%20%20%232
