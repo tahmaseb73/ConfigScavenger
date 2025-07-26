@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?security=tls&sni=ddcDe.890603.XYz&type=ws&host=ddcde.890603.xyz&path=%2FCOp52Dbu3dvwvDWUxOqxq#t.me%2Fpeterjest
+        trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.175.139:443?security=tls&sni=X3W4.859886.XYz&type=ws&host=x3w4.859886.xyz&path=%2FCOp52Dbu3dvwvDWUxOqxq&fp=chrome&alpn=http%2F1.1#🔒
+trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?security=tls&sni=ddcDe.890603.XYz&type=ws&host=ddcde.890603.xyz&path=%2FCOp52Dbu3dvwvDWUxOqxq#t.me%2Fpeterjest
 trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?security=tls&sni=ddcDe.890603.XYz&type=ws&host=ddcde.890603.xyz&path=/COp52Dbu3dvwvDWUxOqxq#🇺🇸[openproxylist.com]
 trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?security=tls&sni=ddcDe.890603.XYz&type=ws&host=ddcde.890603.xyz&path=/COp52Dbu3dvwvDWUxOqxq#🔒
 trojan://4aca21d0-e787-11ef-9708-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -439,6 +440,7 @@ trojan://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.7:443?security=tls&sni
 trojan://72d42540-b1ef-11ee-bd8f-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.40:443?security=tls&sni=www.baidu.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
+trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
 trojan://74260667533381300@109.107.159.67:443?security=tls&sni=patient-emu.shiner427.skin&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Neasden%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://74260667533381300@89.39.70.158:443?security=tls&sni=loving-calf.shiner427.skin&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://74260678056890000@51.44.94.106:443?security=tls&sni=grown-doberman.shiner427.skin&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -472,7 +474,6 @@ trojan://7794ad20-ec7d-11ef-b7be-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://78ddda10-2132-11f0-89cb-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://78ddda10-2132-11f0-89cb-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%F0%9F%92%99
 trojan://79948ddf-fd26-466c-ab37-e3ad41acf08f@de1.trojvpn.site:443?host=de1.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
-trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
 trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443?security=tls&sni=in.stablize.top&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://7d4fa9d0-f389-11ef-b18e-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://7f2b54d0-c85d-11ef-9e18-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -502,4 +503,3 @@ trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.80.1:443?path=%2FeS3prPmcpz
 trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.80.1:443?path=%2FeS3prPmcpzbScA5VUAi1psm38Tz&security=tls&host=eeerrrr.999815.xyz&type=ws&sni=eeERrrR.999815.xYZ#RELAY🚩
 trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.80.1:443?security=tls&sni=eeERrrR.999815.xYZ&type=ws&host=eeerrrr.999815.xyz&path=%2FeS3prPmcpzbScA5VUAi1psm38Tz#🔒
 trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.96.1:443?security=tls&sni=eeERrrR.999815.xYZ&type=ws&host=eeerrrr.999815.xyz&path=/eS3prPmcpzbScA5VUAi1psm38Tz#🔒
-trojan://848c0c41-71de-453b-9b29-bd85c66369e3@us1.trojvpn.site:443?host=us1.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
