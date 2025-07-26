@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&fp=random#🔒
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.150:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒
+        vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.150:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.185:2086?encryption=none&security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#t.me%2Fpeterjest
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.185:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.217:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒
@@ -503,3 +502,4 @@ vless://66d32b28-5df1-4cb7-b352-a11619175748@78.129.155.89:443?security=reality&
 vless://66d32b28-5df1-4cb7-b352-a11619175748@78.129.155.89:443?security=reality&encryption=none&pbk=zeExWvxwf-KRpC4nulicavAOeMfT8LQ-kaNZAyQoPh8&host=%2FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FBIA_CHANEL%40JOKERRVPN&type=tcp&sni=tgju.org&sid=0817d6#⚡Telegram
 vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=%2Fvless&security=&encryption=none&host=mihanwebhost.iri&type=ws#@meli_proxyy
 vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=%2Fvless&security=&encryption=none&host=mihanwebhost.iri&type=ws#⚡Telegram
+vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=/vless&security=none&encryption=none&host=mihanwebhost.iri&type=ws#🇳🇱NL_656_@Surfboardv2ray
