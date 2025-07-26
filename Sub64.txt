@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://NISHIKUITAN111@104.18.113.114:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
+        trojan://NISHIKUITAN111@104.17.52.133:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@104.18.113.114:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.18.18.138:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.19.247.200:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.19.44.160:443?#🔒
@@ -502,4 +503,3 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.190:2053?security=tls&
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.191:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.193:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.206:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.222:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
