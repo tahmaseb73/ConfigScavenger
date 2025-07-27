@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷 | 185.231.205.139-8880 | 108.99ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=&encryption=none&authority=%40ShadowProxy66&type=grpc#FR🇫🇷 | 185.231.205.139-8880 | 131.32ms
-vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷 | 162.19.250.162-24209 | 156.64ms
-vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&type=tcp&packetEncoding=xudp&encryption=none#FR🇫🇷 | 162.19.250.162-24209 | 122.7ms
+        vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&type=tcp&packetEncoding=xudp&encryption=none#FR🇫🇷 | 162.19.250.162-24209 | 122.7ms
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?mode=gun&security=reality&encryption=none&authority=&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=varzesh3.com&sid=7c0b6c88fe5c#REALITY|DE🇩🇪 | abzartun2.divartehran.online-23737 | 247.86ms
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?encryption=none&security=reality&sni=varzesh3.com&fp=chrome&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&sid=7c0b6c88fe5c&type=grpc#REALITY|DE🇩🇪 | abzartun2.divartehran.online-23737 | 303.37ms
 vless://de4cffdb-4e60-4284-9161-1c37c3313029@104.18.15.19:2086?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=0228.losdnett.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | 0228.losdnett.workers.dev-2086 | 164.28ms
@@ -503,3 +500,6 @@ vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?path=%2F&security=&encryption=none&type=ws#RELAY🚩 | fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk-80 | 15.82ms
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@172.67.141.140:8880?path=%2FQaaLdIiGgWNoIxOF%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=v2ngsupply2.ip-ddns.com&fp=randomized&type=ws&sni=8IzcpZflHzz4bVc0fW15f5O126R-WGPG.hEKOp71365.wOrkerS.DEv#RELAY🚩 | 8IzcpZflHzz4bVc0fW15f5O126R-WGPG.hEKOp71365.wOrkerS.DEv-8880 | 94.37ms
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=%2F&security=none&encryption=none&host=light-presence.oneeat.co&type=ws#RELAY🚩 | light-presence.oneeat.co-80 | 76.04ms
+vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fqnbufdws#FR🇫🇷 | 185.234.64.228-443 | 116.22ms
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#IR🇮🇷 | 85.133.194.83-3333 | 118.66ms
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?encryption=none&security=none&type=tcp&headerType=http#IR🇮🇷 | 1conf.top-3333 | 625.84ms
