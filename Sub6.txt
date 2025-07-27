@@ -3,20 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://1021e906-bc49-4961-8e67-1164a83c45ea@az7-sub.serverfreedom.com:20000?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|DE🇩🇪 | az7-sub.serverfreedom.com-20000 | 189.38ms
-vless://1021e906-bc49-4961-8e67-1164a83c45ea@az7-nl.serverfreedom.com:20410?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#REALITY|NL🇳🇱 | az7-nl.serverfreedom.com-20410 | 241.4ms
-vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nkAnG2rEpLACE.airlineSHoma.Com&fp=randomized&type=ws&sni=nkAnG2rEpLACE.airlineSHoma.Com#RELAY🚩 | nkAnG2rEpLACE.airlineSHoma.Com-443 | 43.66ms
-vless://1003-HqV2rayNG@Mci-mmnoon.r-sgoone.ir:80?security=none&encryption=none&type=httpupgrade#RELAY🚩 | Mci-mmnoon.r-sgoone.ir-80 | 405.17ms
-vless://0ff570d3-3452-4990-8144-fd2cb9357e09@172.64.155.187:8880?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=925tg.s4ua8zqr.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | 925tg.s4ua8zqr.workers.dev-8880 | 29.9ms
-vless://0ff570d3-3452-4990-8144-fd2cb9357e09@172.64.155.187:2095?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=925tg.s4ua8zqr.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | 925tg.s4ua8zqr.workers.dev-2095 | 2.81ms
-vless://0ff570d3-3452-4990-8144-fd2cb9357e09@172.64.155.187:2086?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=925tg.s4ua8zqr.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | 925tg.s4ua8zqr.workers.dev-2086 | 2.99ms
-vless://0ff570d3-3452-4990-8144-fd2cb9357e09@172.64.155.187:2082?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=925tg.s4ua8zqr.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | 925tg.s4ua8zqr.workers.dev-2082 | 2.57ms
-vless://0ff570d3-3452-4990-8144-fd2cb9357e09@104.18.32.69:8880?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=925tg.s4ua8zqr.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | 925tg.s4ua8zqr.workers.dev-8880 | 2.77ms
-vless://0ff4aced-0dd0-48ac-96c7-e89759e5042c@172.67.206.66:2082?path=%2FcYqgDRQrpTY3F2vS%3Fed%3D2560&security=none&encryption=none&host=7el1e6szz39bnwb4fn7nng5xq84swar8.alipocv123.workers.dev&type=ws#RELAY🚩 | 7el1e6szz39bnwb4fn7nng5xq84swar8.alipocv123.workers.dev-2082 | 28.88ms
-vless://0ff4aced-0dd0-48ac-96c7-e89759e5042c@104.21.58.188:2095?path=%2FGaBHc0WsgLMZPDvf%3Fed%3D2560&security=none&encryption=none&host=7el1e6szz39bnwb4fn7nng5xq84swar8.alipocv123.workers.dev&type=ws#RELAY🚩 | 7el1e6szz39bnwb4fn7nng5xq84swar8.alipocv123.workers.dev-2095 | 2.51ms
-vless://0fd903a3-a4d0-4d9b-824e-dcd07ec816fa@151.101.3.8:80?path=%2F&security=none&encryption=none&host=befreewithus.com&type=ws#US🇺🇸 | befreewithus.com-80 | 47.8ms
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#RELAY🚩 | privasi.turah.my.id-443 | 336.86ms
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?encryption=none&security=tls&sni=privasi.turah.my.id&fp=chrome&type=ws&host=privasi.turah.my.id&path=%2FFree-CF-Proxy-AD192.3.113.4-19318#RELAY🚩 | privasi.turah.my.id-443 | 2.76ms
+        vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?encryption=none&security=tls&sni=privasi.turah.my.id&fp=chrome&type=ws&host=privasi.turah.my.id&path=%2FFree-CF-Proxy-AD192.3.113.4-19318#RELAY🚩 | privasi.turah.my.id-443 | 2.76ms
 vless://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.188.188:443?path=%2FnSABZLQbEUSLppj7jCmY&security=tls&encryption=none&host=sssxzaw.444652.xyz&type=ws&sni=SssXzAw.444652.XYZ#RELAY🚩 | SssXzAw.444652.XYZ-443 | 31.42ms
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | bewildered-poem.seotoolsforyou.co.uk-80 | 15.82ms
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#RELAY🚩 | bewildered-poem.seotoolsforyou.co.uk-80 | 2.77ms
@@ -503,3 +490,16 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.20:38388#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+103.186.154.20-38388+%7C+210.59ms
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@45.89.52.66:9019#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+45.89.52.66-9019+%7C+187.17ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+37.19.198.243-443+%7C+72.25ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+212.102.47.131-443+%7C+22.28ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+173.244.56.9-443+%7C+16.44ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+173.244.56.6-443+%7C+16.01ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+173.244.56.6-443+%7C+16.15ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+156.146.38.168-443+%7C+49.06ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+156.146.38.168-443+%7C+45.47ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+149.34.244.80-443+%7C+148.1ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+149.34.244.77-443+%7C+148.29ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#CA%F0%9F%87%A8%F0%9F%87%A6+%7C+149.22.95.183-443+%7C+22.83ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+149.22.87.241-443+%7C+105.13ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+141.98.101.182-443+%7C+159.96ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+141.98.101.179-443+%7C+173.52ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@173.244.56.6:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+173.244.56.6-443+%7C+16.21ms
