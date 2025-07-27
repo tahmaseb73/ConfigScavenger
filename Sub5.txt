@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=maviks.ru&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0&type=tcp&headerType=none#REALITY|RU🇷🇺 | a.ru.maviks.ru-443 | 419.57ms
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#RELAY🚩 | 019309B7.XyZ0.PaGeS.dEV-2053 | 79.38ms
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#RELAY🚩 | 019309B7.XyZ0.PaGeS.dEV-2053 | 9.66ms
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?encryption=none&security=tls&sni=019309B7.XyZ0.PaGeS.dEV&type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=%2F#RELAY🚩 | 019309B7.XyZ0.PaGeS.dEV-2053 | 9.4ms
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#REALITY|RU🇷🇺 | ru.sfasti.ru-443 | 923.19ms
+        vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#REALITY|RU🇷🇺 | ru.sfasti.ru-443 | 923.19ms
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.153.29:443?encryption=none&security=tls&sni=147135004002.sec20org.com&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#US🇺🇸 | 147135004002.sec20org.com-443 | 229.88ms
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?encryption=none&security=tls&sni=147135004002.sec20org.com&fp=chrome&type=tcp&headerType=none#US🇺🇸 | 147135004002.sec20org.com-443 | 61.75ms
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?type=tcp&encryption=none&flow=&security=tls&sni=147135004002.sec20org.com&allowInsecure=1#US🇺🇸 | 147135004002.sec20org.com-443 | 132.12ms
@@ -503,3 +499,7 @@ trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=
 trojan://vip@104.21.90.78:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 9.31ms
 trojan://ttfang@128.199.237.143:443?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#RELAY🚩 | ttfang.fange.me-443 | 9.25ms
 trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#RELAY🚩 | azadnet-9ya.pages.dev-443 | 56.3ms
+trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=a.azadnet001.ddns-ip.net&fp=random&type=ws&sni=a.azadnet001.ddns-ip.net#RELAY🚩 | a.azadnet001.ddns-ip.net-443 | 284.37ms
+trojan://trojan@109.234.211.66:8443?path=%2F&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#RELAY🚩 | store.timimi.dpdns.org-8443 | 342.54ms
+trojan://trojan@104.18.13.229:8880?security=tls&type=ws&host=azadnet.vileyo6708.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | azadnet.vileyo6708.workers.dev-8880 | 117.64ms
+trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | pangpi.pages.dev-8443 | 54.79ms
