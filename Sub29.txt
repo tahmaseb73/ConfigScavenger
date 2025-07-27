@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.128:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
-ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.129:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
-ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.12:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
-ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.132:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
-ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.133:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
-ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.135:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
+        ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.135:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
 ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.137:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
 ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.138:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
 ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.139:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒
@@ -503,3 +498,8 @@ ss://5a29a909-66c2-476e-b851-73966c64023c@194.182.79.202:39049?mode=gun&security
 ss://5a2ea17c-b68c-4f19-9d8e-93536d852720@185.174.138.66:443?security=tls&sni=yomyauqpy.wwtraveler.com&type=grpc&serviceName=michi#🔒
 ss://5a2ea17c-b68c-4f19-9d8e-93536d852720@45.135.235.31:443?security=tls&sni=yomyauqpy.wwtraveler.com&type=grpc&serviceName=michi#🔒
 ss://5a2ea17c-b68c-4f19-9d8e-93536d852720@45.135.235.69:443?security=tls&sni=yomyauqpy.wwtraveler.com&type=grpc&serviceName=michi#🔒
+ss://5a39e3c7-ba53-433c-ae32-0bc18d81dbe3@77.110.121.136:14703?security=none&type=tcp&host=analytics.google.com&headerType=http#🔒
+ss://5a4db532-70bb-4b82-9369-039d63121c60@157.180.41.190:2025?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒
+ss://5a4db532-70bb-4b82-9369-039d63121c60@188.245.120.39:2025?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒
+ss://5a4db532-70bb-4b82-9369-039d63121c60@49.13.237.7:2025?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒
+ss://5a4e040a-8de6-4222-bd6f-9f535b8772fd@104.21.58.212:80?type=ws&host=calm-violet-0e47.pomofoc222.workers.dev#🔒
