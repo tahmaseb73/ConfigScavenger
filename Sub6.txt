@@ -3,7 +3,15 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | pangpi.pages.dev-8443 | 54.79ms
+        trojan://vip@www.wto.org:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#RELAY🚩 | heihu880.pages.dev-443 | 62.4ms
+trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 9.87ms
+trojan://vip@104.21.90.78:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 9.31ms
+trojan://ttfang@128.199.237.143:443?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#RELAY🚩 | ttfang.fange.me-443 | 9.25ms
+trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#RELAY🚩 | azadnet-9ya.pages.dev-443 | 56.3ms
+trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=a.azadnet001.ddns-ip.net&fp=random&type=ws&sni=a.azadnet001.ddns-ip.net#RELAY🚩 | a.azadnet001.ddns-ip.net-443 | 284.37ms
+trojan://trojan@109.234.211.66:8443?path=%2F&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#RELAY🚩 | store.timimi.dpdns.org-8443 | 342.54ms
+trojan://trojan@104.18.13.229:8880?security=tls&type=ws&host=azadnet.vileyo6708.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | azadnet.vileyo6708.workers.dev-8880 | 117.64ms
+trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | pangpi.pages.dev-8443 | 54.79ms
 trojan://tg-fq521free@198.62.62.67:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#RELAY🚩 | torjan.xn--xhq44j.eu.org-443 | 475.76ms
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650#RELAY🚩 | aio.zipzap.biz.id-443 | 395.86ms
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FTel-%40V2RAYNG_1378#RELAY🚩 | vpn.stupidworld.web.id-443 | 166.36ms
@@ -495,11 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cm5wTjY2amhpazlaZjBFYVdZVUJB@46.4.162.31:10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+fin.outlinebot1.ru-5904+%7C+747.41ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+89.35.119.87-5904+%7C+171.78ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0dUVRd0dPNUdDLTZnTWU0ekZQVlJR@82.115.5.141:1080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+82.115.5.141-1080+%7C+137.04ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+beesyar.org-8080+%7C+277.41ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.192-8080+%7C+143.49ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.171-8080+%7C+143ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.164-8080+%7C+138.56ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.164-8080+%7C+143.49ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.154-8080+%7C+138.56ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.150:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.150-8080+%7C+138.65ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+45.158.171.136-8080+%7C+139.19ms
