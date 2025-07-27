@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.109:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.249:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.249:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.24:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@216.24.57.118:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@216.24.57.36:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
@@ -304,7 +303,6 @@ ss://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?security=tls&sni=M2-
 ss://0f0897cf-469f-421b-9018-b739fb47b721@185.16.110.30:2052?security=none&type=httpupgrade&host=WWW.tehrANSiman.coM.#🔒
 ss://0f39484d-5293-4fa2-8406-1c1af59168b9@172.66.44.73:2053?security=tls&sni=mahdiSeRveR-hjS.PagES.DEV&type=ws&host=mahdiserver-hjs.pages.dev&path=%2FKwDmZ27ImEUmeAUj%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 ss://0f39484d-5293-4fa2-8406-1c1af59168b9@172.66.47.183:2053?security=tls&sni=mahdiSeRveR-hjS.PagES.DEV&type=ws&host=mahdiserver-hjs.pages.dev&path=%2FKwDmZ27ImEUmeAUj%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-ss://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 ss://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20403%20%28%40Outline_Vpn%29%20free
 ss://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.188.188:443?path=%2FnSABZLQbEUSLppj7jCmY&security=tls&encryption=none&host=sssxzaw.444652.xyz&type=ws&sni=SssXzAw.444652.XYZ#%40v2raying
 ss://0f8691e2-c289-481b-9dcb-7a4578eab343@172.66.44.104:8443?security=tls&sni=87AE4B92.BeStTTtTIvpn.pAgES.DeV&type=ws&host=87ae4b92.bestttttivpn.pages.dev&path=%2Fg7gLAgweCiEhLgds%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒
@@ -320,7 +318,6 @@ ss://0fb53a60-2372-412a-a693-5157b58ecc94@104.21.39.212:80?security=none&sni=v2r
 ss://0fb53a60-2372-412a-a693-5157b58ecc94@172.67.148.227:80?security=none&sni=v2raylandd-85.upftsx.workers.Dev&type=ws&host=v2raylandd-85.upftsx.workers.Dev&fp=chrome#🔒
 ss://0fb869be-036a-4ad0-95f7-d262dc730595@104.16.94.21:443?security=tls&sni=other-cf-freenode2.pages.dev&type=ws&host=other-cf-freenode2.pages.dev&allowInsecure=0#🔒
 ss://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=MAxNETvipAp-cloUD252.nEtKh3.site&type=ws&sni=MAxNETvipAp-cloUD252.nEtKh3.site#@meli_proxyy
-ss://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?encryption=none&security=tls&sni=privasi.turah.my.id&fp=chrome&type=ws&host=privasi.turah.my.id&path=%2FFree-CF-Proxy-AD192.3.113.4-19318#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 ss://0fc8452a-17f9-47de-95dd-65de502d39da@147.182.246.69:58017?security=tls&sni=madcity2.777999.lol&type=ws&host=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=1#🔒
 ss://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?security=tls&sni=tnetplus3.pages.dev&type=ws&host=tnetplus3.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#🔒
 ss://0ff4aced-0dd0-48ac-96c7-e89759e5042c@104.21.58.188:2095?path=%2FGaBHc0WsgLMZPDvf%3Fed%3D2560&security=none&encryption=none&host=7el1e6szz39bnwb4fn7nng5xq84swar8.alipocv123.workers.dev&type=ws#%40vpnaloo
@@ -503,3 +500,6 @@ ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:443?security=reality&flo
 ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:443?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#REALITY|DE🇩🇪
 ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:443?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#🔒
 ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:55100?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#🔒
+ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:55700?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#@Hope_Net-join-us-on-Telegram⚠️
+ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:55700?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=firefox&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#🔒
+ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:60300?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#🔒
