@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://Aimer@172.66.43.54:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
+        trojan://Aimer@172.66.42.212:443?sni=epccj.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.66.43.112:443?sni=epcch.ambercc.filegear-sg.me#🔒
+trojan://Aimer@172.66.43.54:443?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#🔒
 trojan://Aimer@172.66.45.126:443?sni=epccj.ambercc.filegear-sg.me#🔒
 trojan://Aimer@172.66.46.1:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5127
 trojan://Aimer@172.66.46.1:443?sni=epccv.ambercc.filegear-sg.me#🔒
@@ -501,5 +503,3 @@ trojan://NISHIKUITAN111@104.25.101.27:443?allowInsecure=0#@Hope_Net-join-us-on-T
 trojan://NISHIKUITAN111@104.25.101.97:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.25.155.56:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.25.172.87:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@104.25.22.6:443?#🔒
-trojan://NISHIKUITAN111@104.25.22.6:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
