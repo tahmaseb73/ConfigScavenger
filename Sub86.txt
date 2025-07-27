@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ASinTech-id-telegram@46.245.70.72:8080?encryption=none&security=none&type=ws&host=ASinTech.ir.www.speedtest.net.www.zula.ir.cloudflare.com.ASinTech.top.&path=%2Ftelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%3Fed%3D2560#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
-vless://CHIK_182107@77.91.76.14:443?security=reality&encryption=none&pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&headerType=&fp=chrome&spx=/&type=tcp&sni=whatsapp.com&sid=ffffffffff#🇫🇷FR_844_@Surfboardv2ray
-vless://CHIK_182318@77.91.85.161:443?security=reality&encryption=none&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#REALITY|SE🇸🇪
-vless://CHIK_182447@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#@meli_proxyy
-vless://CHIK_182447@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#REALITY|SE🇸🇪
+        vless://CHIK_182447@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#REALITY|SE🇸🇪
 vless://CHIK_182447@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#⚡Telegram
 vless://CHIK_182451@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#@meli_proxyy
 vless://CHIK_182451@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#REALITY|SE🇸🇪
@@ -503,3 +499,7 @@ vless://a6e8515c-4e54-435a-9a47-2365beb40164@49.12.185.64:443?allowInsecure=1#�
 vless://a6fe2ebd-a8df-4be7-a4df-d7f671513088@45.144.48.180:2083?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=%40Hormozv%40hormozvp%40Hormozv%40hormozvp%40Hormozv%40hormozvp%40Hormozv%40hormozvp%40Hormozv%40hormozvp%40Hormozv%40hormozvp&fp=firefox&pbk=kiWKh0alnh0SU6PPIWUOaJyByPoepDlCbfxHw94QHCI&sid=775e2976#🔒
 vless://a718fc16-f4da-4546-a8a5-2afe60629c41@109.122.242.218:2086?security=none&type=ws&host=%2F%3FJoin_Bade_Channel%40JOKERRVPN&path=%2F#🔒
 vless://a72c2976-8d0e-4610-895f-3bc4b2a92303@91.194.161.15:80?security=&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=91.194.161.15&encryption=none#Rayan%20-%20GSS%20-%20WSCT-108%20-%20IS%20-%20%F0%9F%9F%A2%20t.me/Rayan_Config
+vless://a72edeb2-b46c-4511-bc6c-9fbd0ecb2e61@104.26.12.140:8443?security=tls&sni=qing-dbz.pages.dev&type=ws&host=qing-dbz.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒
+vless://a72edeb2-b46c-4511-bc6c-9fbd0ecb2e61@104.26.13.140:8443?security=tls&sni=qing-dbz.pages.dev&type=ws&host=qing-dbz.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒
+vless://a736037b-bbef-44e3-a44e-964be0e2826b@138.201.159.111:45216?security=reality&sni=microsoft.com&type=xhttp&path=%2F&fp=chrome&pbk=0oR6xhpY1KcusXmPNBMhoiDt8gKOxGOh3morRFzM2HQ&sid=493518a7b6505758#🔒
+vless://a73cf704-008c-439b-8a22-8b693a9e3104@104.16.203.184:2083?sni=lyxahh316.dpdns.org&type=ws&host=lyxahh316.dpdns.org&allowInsecure=0#🔒
