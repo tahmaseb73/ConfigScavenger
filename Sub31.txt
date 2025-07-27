@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@188.245.120.39:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒
+        ss://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?security=none&type=ws&host=mihanwebhost.iri&path=/vless#🔒
+ss://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@157.180.41.190:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒
+ss://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@188.245.120.39:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒
 ss://6730c92e-c7b4-42f4-9bcc-5d3cf36762e5@49.13.237.7:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒
 ss://6741c0e0-7069-4ff2-8247-aec9a569295e@www.speedtest.net:2096?type=ws&security=tls&path=%2FTel%3A%40%40vpnclashfa+-+660#RELAY🚩
 ss://675537c4-5916-446f-b90d-15f64f3ccf67@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&encryption=none&host=s2.cdn.hulkirani.shop&type=ws&sni=mydigipay.com#s0013
@@ -501,5 +503,3 @@ ss://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?path=%2Fws%2F%3Fed&se
 ss://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?path=%2Fws%2F%3Fed&security=none&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws&sni=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR#⚡Telegram
 ss://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?path=/ws/?ed&security=none&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws&sni=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR#🇺🇸US_695_@Surfboardv2ray
 ss://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/ws/?ed%3D2048&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3
-ss://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?security=none&sni=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&path=%2Fws%2F%3Fed#🔒
-ss://75ecef77-2050-4250-99f7-936d0188edf2@151.101.66.133:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/ws/?ed%3D2048&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-NONE%204%E2%83%A3

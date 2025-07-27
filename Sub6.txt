@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088?encryption=none&flow=xtls-rprx-vision&security=reality&sni=learn.microsoft.com&fp=chrome&pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4&sid=63cace289fb97072&type=tcp&headerType=none#REALITY|HK🇭🇰 | 74.119.193.67-10088 | 199.44ms
+        vless://320bc89e-2a48-42c4-b7b2-0f982342a9fe@5.181.3.169:2040?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=hOt5bCyO5AwK6aGZKIOBR0U-wPgu_13HjvTMAfBgAT0&type=tcp&headerType=none#REALITY|US🇺🇸 | 5.181.3.169-2040 | 14.15ms
+vless://2d997a24-7625-4cdf-854e-e1042e49c299@194.33.105.210:8443?type=tcp&security=reality&pbk=dUDCbwsxAhtVljpH59_KentsMxKX7LdJLMmQLXKjUho&fp=chrome&sni=dl.steam-content.com&sid=14a80453064811af&spx=%2F&flow=xtls-rprx-vision#REALITY|IR🇮🇷 | 194.33.105.210-8443 | 239.32ms
+vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088?encryption=none&flow=xtls-rprx-vision&security=reality&sni=learn.microsoft.com&fp=chrome&pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4&sid=63cace289fb97072&type=tcp&headerType=none#REALITY|HK🇭🇰 | 74.119.193.67-10088 | 199.44ms
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#REALITY|RU🇷🇺 | ru01-vlr01.tcp-reset-club.net-443 | 143.31ms
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#REALITY|RU🇷🇺 | ru01-vlr01.tcp-reset-club.net-443 | 115.23ms
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ind01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&spx=%2F#REALITY|US🇺🇸 | ind01-vlr01.tcp-reset-club.net-443 | 222.11ms
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTgxNTExYy1iZWNiLTRiNTMtOGE4OS01N2NkM2M5N2IzMjg=@45.76.180.205:31368#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+45.76.180.205-31368+%7C+222.56ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTgxNTExYy1iZWNiLTRiNTMtOGE4OS01N2NkM2M5N2IzMjg=@45.76.180.205:31368#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+45.76.180.205-31368+%7C+227.33ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+188.166.220.70-37708+%7C+223.17ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+188.166.220.70-37708+%7C+229.23ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+freakconfig13.felafel.org-443+%7C+308.82ms

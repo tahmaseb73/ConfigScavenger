@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://af78afc1-4b35-4164-a99b-c866d3ad7d51@85.133.206.14:23079?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_943_@Surfboardv2ray
+        vless://af713c0c-a79e-464b-b08e-831ce00fe235@104.24.188.214:443?security=tls&sni=planetzh.xyz&type=ws&host=planetzh.xyz&path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#🔒
+vless://af78afc1-4b35-4164-a99b-c866d3ad7d51@85.133.206.14:23079?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_910_@Surfboardv2ray
+vless://af78afc1-4b35-4164-a99b-c866d3ad7d51@85.133.206.14:23079?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_943_@Surfboardv2ray
 vless://af811bcf-ba46-4b4e-83e6-78b771424474@www.parsvds.com:2096?path=/2096/@V2RayyNGVpn&security=tls&alpn=h2,http/1.1&encryption=none&host=rEDzOnE.MirAcLehEaRTbIt.ICu&fp=chrome&type=ws&sni=rEDzOnE.MirAcLehEaRTbIt.ICu#🇨🇦CA_944_@Surfboardv2ray
 vless://af84b164-93b2-4658-89d3-ef9ec44c0d69@104.16.30.244:2053?path=%2F%3Fed%3D2560fp%3Drandom&security=tls&encryption=none&host=ezdriv-server.help&type=ws&sni=ezdriv-server.help#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://af84b164-93b2-4658-89d3-ef9ec44c0d69@104.16.30.244:2053?security=tls&sni=ezdriv-server.help&type=ws&host=ezdriv-server.help&path=%2F%3Fed%3D2560fp%3Drandom#🔒
@@ -501,5 +503,3 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.244:8880?security=none&t
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.26:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.54:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.83.2.179:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.83.2.217:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.83.2.7:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
