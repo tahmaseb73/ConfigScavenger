@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:443?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#🔒
-ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:55100?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#🔒
-ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:55700?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#@Hope_Net-join-us-on-Telegram⚠️
+        ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:55700?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#@Hope_Net-join-us-on-Telegram⚠️
 ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:55700?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=firefox&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#🔒
 ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:60300?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#🔒
 ss://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:60300?security=tls&flow=xtls-rprx-vision-udp443&sni=refersion.com&fp=chrome#🔒
@@ -503,3 +501,5 @@ ss://2169fc1b-1e61-4d44-e42e-34230695d5d5@104.18.12.126:2053?security=tls&sni=dd
 ss://216b3705-14c4-4fd7-a412-3b60834defa0@104.21.7.193:2052?type=ws&host=0531.bysset3.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://216b3705-14c4-4fd7-a412-3b60834defa0@104.21.7.193:2082?type=ws&host=0531.bysset3.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://216b3705-14c4-4fd7-a412-3b60834defa0@104.21.7.193:2086?type=ws&host=0531.bysset3.workers.dev&path=%2F%3Fed%3D2560#🔒
+ss://216b3705-14c4-4fd7-a412-3b60834defa0@104.21.7.193:2095?type=ws&host=0531.bysset3.workers.dev&path=%2F%3Fed%3D2560#🔒
+ss://216b3705-14c4-4fd7-a412-3b60834defa0@104.21.7.193:80?type=ws&host=0531.bysset3.workers.dev&path=%2F%3Fed%3D2560#🔒

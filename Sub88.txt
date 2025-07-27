@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.244:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.26:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.54:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.54:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.83.2.179:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.83.2.217:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.83.2.7:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -503,3 +501,5 @@ vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@172.67.38.99:443?security=tls&sni=u
 vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@172.67.71.122:443?security=tls&sni=us.4056860.xyz&type=ws&host=us.4056860.xyz&alpn=h3%2Ch2%2Chttp/1.1#🔒
 vless://bc37cb73-a103-4af3-a3a7-9f3bc8e23bfe@172.66.46.213:8443?security=tls&sni=MaHDiSERvEr-wds.paGes.DEV&type=ws&host=mahdiserver-wds.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒
 vless://bc46e2fb-33ef-4797-aead-1353cba99353@zula.ir:8443?security=tls&sni=pl-1-ss8.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=pl-1-ss8.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20SS8%20-%20WSCT-112%20-%20PL%20-%20I%20-%20%F0%9F%8D%AA%20t.me/Rayan_Config
+vless://bc4d6d45-b412-4867-b6e2-0b9a885e620a@104.21.13.74:443?security=tls&sni=paralyticileus.xp21.workers.dev&type=ws&host=paralyticileus.xp21.workers.dev&path=%2F%3Fed%3D2560#🔒
+vless://bc4d6d45-b412-4867-b6e2-0b9a885e620a@172.67.198.200:443?security=tls&sni=paralyticileus.xp21.workers.dev&type=ws&host=paralyticileus.xp21.workers.dev&path=%2F%3Fed%3D2560#🔒

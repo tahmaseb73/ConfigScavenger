@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&sni=ir.akcovufun.ir&allowInsecure=1&fp=chrome&type=ws&path=/&host=ir.akcovufun.ir&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&sni=ir.akcovufun.ir&type=ws&host=ir.akcovufun.ir&path=%2F#🏳[openproxylist.com]
-vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&sni=ir.akcovufun.ir&type=ws&host=ir.akcovufun.ir&path=%2F#🔒
+        vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&sni=ir.akcovufun.ir&type=ws&host=ir.akcovufun.ir&path=%2F#🔒
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?security=tls&sni=iran.akcovufun.ir&type=ws&host=iran.akcovufun.ir&path=%2F#🔒
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@199.34.228.173:2053?security=tls&sni=telnet.akcovufun.ir&type=ws&host=telnet.akcovufun.ir&path=%2F#🔒
 vless://39bd8266-8f33-492e-a44b-1a7c393a8281@151.101.64.155:80?security=none&type=ws&headerType=&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048&host=taxi.ir#🇺🇸US_341_@Surfboardv2ray
@@ -503,3 +501,5 @@ vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@188.114.98.22:443?security=tls&sni=
 vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@198.41.196.17:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@45.85.118.77:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://41ec8f30-6cd7-4703-94e1-95913c1626fa@151.101.0.155:80?security=none&type=ws&host=arayeshgaham.com&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80#🔒
+vless://41ec8f30-6cd7-4703-94e1-95913c1626fa@NUFiLTER.fastly80-2.hosting-ip.com:80?allowInsecure=0&sni=arayeshgaham.com&type=ws&host=arayeshgaham.com&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97
+vless://41ec8f30-6cd7-4703-94e1-95913c1626fa@NUFiLTER.fastly80-2.hosting-ip.com:80?allowInsecure=0&sni=arayeshgaham.com&type=ws&host=arayeshgaham.com&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80#14%7CUS_speednode_0064
