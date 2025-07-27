@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://telegram-id-privatevpns@63.178.161.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@63.178.161.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
+        trojan://telegram-id-privatevpns@63.178.161.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
 trojan://telegram-id-privatevpns@63.178.168.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@63.178.168.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
 trojan://telegram-id-privatevpns@63.178.205.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
@@ -503,3 +502,4 @@ vless://0511ddb2-b684-43eb-93db-cb5476a463b8@233923233.webnama.com.tr:4928?secur
 vless://0511ddb2-b684-43eb-93db-cb5476a463b8@300232332.webnama.com.tr:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#⚡Telegram
 vless://0511ddb2-b684-43eb-93db-cb5476a463b8@49.13.237.7:1429?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒
 vless://0511ddb2-b684-43eb-93db-cb5476a463b8@49.13.237.7:1517?type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒
+vless://0511ddb2-b684-43eb-93db-cb5476a463b8@49.13.237.7:1534?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒

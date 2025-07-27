@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.134.164:443?security=tls&sni=edccy.aimercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.134.199:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
+        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.134.199:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.135.157:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.125:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.186:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
@@ -503,3 +502,4 @@ vless://faa47bdc-8581-4e47-a557-35caa72681bd@104.16.173.114:80?security=none&typ
 vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supp
 vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#RU🇷🇺
 vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?security=none&type=grpc&serviceName=vless-grpc#🇷🇺[openproxylist.com]
+vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?security=none&type=grpc&serviceName=vless-grpc#🔒

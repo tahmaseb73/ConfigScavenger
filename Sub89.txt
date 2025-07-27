@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://bc197c34-6f69-4d81-ab2e-bc942f750c44@cellone.moon-night.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=3vUR24mjjFpGWH1SXOye4ByKlKzQOEDjCHEH5gSoZFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=khanacade…
-vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@104.16.0.0:443?security=tls&sni=us.4056860.xyz&type=ws&host=us.4056860.xyz&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=0#🔒
+        vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@104.16.0.0:443?security=tls&sni=us.4056860.xyz&type=ws&host=us.4056860.xyz&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=0#🔒
 vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@104.19.0.0:443?security=tls&sni=us.4056860.xyz&type=ws&host=us.4056860.xyz&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=0#🔒
 vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@104.22.78.227:443?security=tls&sni=us.4056860.xyz&type=ws&host=us.4056860.xyz&path=/ws#🔒
 vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@104.22.79.227:443?security=tls&sni=us.4056860.xyz&type=ws&host=us.4056860.xyz&path=%2Fws#🔒
@@ -503,3 +502,4 @@ vless://c731a4f1-7903-fa5f-1550-4320e8de63e9@49.13.237.7:8249?security=none&sni=
 vless://c775021c-c5a5-476e-8f0d-d78116f506c0@176.99.11.131:36654?security=reality&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&type=tcp&fp=chrome&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=96e9a9a656a3cc83#🔒
 vless://c7851574-a510-4228-b263-65517cabbd33@top.cloudupdate.ir:52956?type=grpc&serviceName=&authority=&security=reality&pbk=rnpMd6-SLMM9WP_010Hd8PoqJxUbPMzTmHHvFTlDonM&fp=chrome&sni=yahoo.com&sid=f7&spx=/#🇩🇪DE_1046_@Surfboardv2ray
 vless://c7953896-7bb2-4ce2-c7ca-117b2678b47f@151.101.128.204:80?security=none&type=ws&host=www.meloammn.ir#🔒
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.229:1001?security=reality&sni=pqh25v6.whatstrue.shop&type=tcp&allowInsecure=1#🔒
