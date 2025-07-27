@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://0511ddb2-b684-43eb-93db-cb5476a463b8@78234873823.webnama.com.tr:3789?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#⚡Telegram
+        ss://0511ddb2-b684-43eb-93db-cb5476a463b8@49.13.237.7:4928?security=none&type=tcp&host=speedtest.net&headerType=http#🔒
+ss://0511ddb2-b684-43eb-93db-cb5476a463b8@49.13.237.7:7722?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒
+ss://0511ddb2-b684-43eb-93db-cb5476a463b8@49.13.237.7:8722?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒
+ss://0511ddb2-b684-43eb-93db-cb5476a463b8@78234873823.webnama.com.tr:3789?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#⚡Telegram
 ss://0511ddb2-b684-43eb-93db-cb5476a463b8@vi-38322.webnama.com.tr:1535?mode=auto&path=%2FAS&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&fp=chrome&type=xhttp&sni=stackoverflow.com#⚡Telegram
 ss://051d7a80-87bc-46e0-a24d-806d23df32bd@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#🇨🇦CA_181_@Surfboardv2ray
 ss://052e510d-d892-4dc4-a686-8986a01535cd@172.66.44.100:443?security=tls&sni=SprING-HaLl-14EF.WOOzY-cHAmOis2822.WorkERs.DEv&type=ws&host=spring-hall-14ef.woozy-chamois2822.workers.dev&path=%2FTelegram%40MTMVPN---MTMVPN%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
@@ -500,6 +503,3 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@craig.ns.cloudflare.com:443?encryption
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@cris.ns.cloudflare.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@damien.ns.cloudflare.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@decker.ns.cloudflare.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@dnschecker.org:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%EF%BC%8C%E8%AF%B7%E5%8A%A0%E7%94%B5%E6%8A%A5%E7%BE%A4%E9%98%B2%E6%AD%A2%E5%A4%B1%E8%81%94
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@dylan.ns.cloudflare.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@huxley.ns.cloudflare.com:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD

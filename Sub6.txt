@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#IR🇮🇷 | wivip.dtsazino.com-443 | 467.11ms
+        vless://049c2c9b-c3cb-483a-b2f2-7f4d7de31c62@45.91.237.48:443?security=reality&encryption=none&pbk=35qsDXTLann5WRm9qOP6S6XMerioabdkAlX8sWsM-kM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=moktana.digital&sid=73994e611a326176#REALITY|NL🇳🇱 | 45.91.237.48-443 | 137.25ms
+trojan://your_password@188.114.99.0:443?security=tls&type=ws&sni=aws-ge-frankfurt-1.f1cflinea.com&path=%2Ff1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#RELAY🚩 | aws-ge-frankfurt-1.f1cflinea.com-443 | 130.99ms
+trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=google.com#US🇺🇸 | google.com-443 | 12.85ms
+trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#IR🇮🇷 | wivip.dtsazino.com-443 | 467.11ms
 trojan://vip@www.wto.org:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#RELAY🚩 | heihu880.pages.dev-443 | 62.4ms
 trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 9.87ms
 trojan://vip@104.21.90.78:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F#RELAY🚩 | heihu880.pages.dev-443 | 9.31ms
@@ -500,6 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5Zjk
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+admin.c4.webramz.co-443+%7C+152.23ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4=@195.123.213.12:31348#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+195.123.213.12-31348+%7C+169.29ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eU9vVXFCcHdFZXZhR1E3Z014QzBG@62.84.102.28:26923#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+62.84.102.28-26923+%7C+143.92ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cm5wTjY2amhpazlaZjBFYVdZVUJB@46.4.162.31:1080#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+46.4.162.31-1080+%7C+136.11ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+fin.outlinebot1.ru-5904+%7C+747.41ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+89.35.119.87-5904+%7C+171.78ms

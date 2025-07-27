@@ -3,7 +3,10 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@135.148.211.8:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
+        vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@135.148.195.93:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@135.148.211.118:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@135.148.211.25:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@135.148.211.8:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@135.148.65.178:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.112:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.113:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒
@@ -500,6 +503,3 @@ vless://42890216-1d90-489d-a231-e0f5df231fb2@172.67.207.92:2096?security=tls&sni
 vless://4290621f-483f-4e40-a15a-07c8cfb93873@104.21.112.1:2095?type=httpupgrade&host=speeDxpnte.socksChangeRt.ir.&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#🔒
 vless://4290621f-483f-4e40-a15a-07c8cfb93873@104.21.16.1:2095?security=none&type=httpupgrade&host=speeDxpnte.socksChangeRt.ir.&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048#🔒
 vless://4290621f-483f-4e40-a15a-07c8cfb93873@104.21.48.1:2095?type=httpupgrade&host=speeDxpnte.socksChangeRt.ir.&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#🔒
-vless://4290621f-483f-4e40-a15a-07c8cfb93873@104.21.64.1:2095?security=none&type=httpupgrade&host=speeDxpnte.socksChangeRt.ir.#🔒
-vless://4290621f-483f-4e40-a15a-07c8cfb93873@104.21.80.1:2095?security=none&type=httpupgrade&host=speeDxpnte.socksChangeRt.ir.&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048#🔒
-vless://429f7092-752f-4c33-b1bc-3d3ccc69848c@huffingtonpost.es:80?mode=auto&path=/@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray..../@vistav2ray....@vistav2ray....@vistav2ray....@vistav2ray?ed=2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#🇺🇸US_390_@Surfboardv2ray
