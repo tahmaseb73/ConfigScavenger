@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://2f7d96b3-ea62-4081-b337-8d3b6c3771f7@ov-germany1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#DE-%3E-%3EMTN-%3E%40Sezar_Sec
-vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@178.209.51.115:444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=opensuse.org&fp=chrome&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72&type=tcp&headerType=none#CH-%3ECH-%3EMTN-%3E%40Sezar_Sec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#US-%3ENL-%3EMTN-%3E%40Sezar_Sec
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#US-%3ENL-%3EMTN-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.36.61.59:990#LT-%3ELT-%3EADL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#GB-%3E-%3ERTL-%3E%40Sezar_Sec
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.178:8880?encryption=none&security=none&type=ws&host=sk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#GB-%3E-%3EMCI-%3E%40Sezar_Sec
@@ -503,3 +501,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#%F0%9F%87%B2%F0%9F%87%B0MK-46.183.185.37-0351
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%A6%F0%9F%87%B7AR-38.54.45.129-0344
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#%F0%9F%87%A6%F0%9F%87%B9AT-95.163.176.37-0335
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#%F0%9F%87%B7%F0%9F%87%BARU-185.126.239.250-0346
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0354

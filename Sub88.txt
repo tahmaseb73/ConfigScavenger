@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.239.72.90:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.254.140.119:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.254.140.137:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.254.140.137:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.254.140.28:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.254.140.56:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.254.140.61:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -503,3 +501,5 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=/?ed=2048&se
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#🇨🇦CA_995_@Surfboardv2ray
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#🇨🇦CA_996_@Surfboardv2ray
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#🇨🇦CA_997_@Surfboardv2ray
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#🇨🇦CA_998_@Surfboardv2ray
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒
