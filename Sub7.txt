@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM=@45.76.180.205:31298#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+45.76.180.205-31298+%7C+168.81ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+tr.vpnsparta.pro-57456+%7C+275.11ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.212-57456+%7C+256.26ms
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.212-57456+%7C+256.26ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.212-57456+%7C+188.44ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+46.226.163.225-57456+%7C+170.71ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+147.45.178.200-57456+%7C+154.01ms
@@ -503,3 +501,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLT4tPk1UTi0+QERlYW1OZXRfUHJveHkiLA0K
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOW1RYlJKOHBzMXgzRW5XZ0FHUkNCR3JMU1A1c3hoeHBva2E2RGRDZTVjZmIxWUF2RUZaeEVYUENXanhzUWJTRGpGUEZxTThLTm5EUVlmVzFzMWZzbkN1SHNHYkN4R3I%3D@mx2.drawnrisha.one:55988#FI-%3EFI-%3ERTL-%3E%40Sezar_Sec
 vless://2f7d96b3-ea62-4081-b337-8d3b6c3771f7@ov-germany1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#DE-%3E-%3EMTN-%3E%40Sezar_Sec
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@178.209.51.115:444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=opensuse.org&fp=chrome&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72&type=tcp&headerType=none#CH-%3ECH-%3EMTN-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#US-%3ENL-%3EMTN-%3E%40Sezar_Sec
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.36.61.59:990#LT-%3ELT-%3EADL-%3E%40Sezar_Sec
