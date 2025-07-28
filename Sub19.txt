@@ -3,19 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.211:443?sni=cn.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.223:443?sni=cx.ylks0033.dpdns.org&type=ws&host=cx.ylks0033.dpdns.org&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.246:443?sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.247:443?security=tls&sni=nn.ylks0033.dpdns.org&type=ws&host=nn.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.38:443?sni=nn.ylks0033.dpdns.org&type=ws&host=nn.ylks0033.dpdns.org&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.40:443?sni=zx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.58:443?sni=sl.ylka.dpdns.org&type=ws&host=sl.ylka.dpdns.org&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.76:443?sni=vx.ylks0033.dpdns.org&type=ws&host=vx.ylks0033.dpdns.org&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.101:443?sni=lx.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.108:443?sni=cz.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.117:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.134:443?sni=lx.ylks0033.dpdns.org&type=ws&host=lx.ylks0033.dpdns.org&allowInsecure=1#🔒
-ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.162:443?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+        ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.162:443?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.164:443?security=tls&sni=hl.ylka.dpdns.org&type=ws&path=%2F%3Fed#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.165:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.175:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
@@ -259,7 +247,6 @@ ss://07865379-86dd-4ca6-ad22-81255519c482@104.26.0.117:2083?security=tls&sni=vip
 ss://07865379-86dd-4ca6-ad22-81255519c482@104.26.1.117:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒
 ss://07865379-86dd-4ca6-ad22-81255519c482@172.67.69.216:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒
 ss://0788b95c-7a0c-48b3-8a82-d7e07d52baf1@195.42.233.4:443/?type=ws&encryption=none&flow=&path=%2Fnkhnudws&security=tls&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
-ss://0788b95c-7a0c-48b3-8a82-d7e07d52baf1@195.42.233.4:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fnkhnudws#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 ss://07a3df8f-2a2c-42f8-ad92-65889d90f3bf@104.21.26.17:443?path=%2F5UW2C42lpZ7Dj4VDwVOkZfoq&security=tls&encryption=none&host=ttttttt67.459.pp.ua&type=ws&sni=tTTtTTT67.459.PP.uA#%40v2raying
 ss://07dcec58-947a-41cc-8458-05763745646e@172.67.220.3:2096?security=tls&sni=cpuhot.boshrachoice.ir&type=ws&path=%2FJOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 ss://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053?path=/&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=almze.gt-ov.com&fp=chrome&type=ws&sni=almze.gt-ov.com#🇨🇦CA_185_@Surfboardv2ray
@@ -292,7 +279,6 @@ ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?security=tls&sni=hq3
 ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.25.112.7:443?security=tls&sni=hq3.newretr432as.info&type=grpc#🔒
 ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.25.97.27:443?security=tls&sni=hq3.newretr432as.info&type=grpc#🔒
 ss://08ef1330-8ffb-4001-a15e-96befc065c06@185.148.105.1:443?security=tls&sni=hq3.newretr432as.info&type=grpc#🔒
-ss://08f1dfa7-ba15-4234-a8ac-20bafa67b362@104.17.147.22:8880?security=none&type=ws&host=cn.www.speedtest.net.%E4%B8%8A%E5%B8%9D.god.allah.bolbolii.ir.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#@Hope_Net-join-us-on-Telegram
 ss://08fb790c-1d2d-433c-a588-fa3b6193c926@104.16.102.112:2096?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu&type=ws&host=rEDzOnE.MirAcLehEaRTbIt.ICu&path=/2096/@V2RayyNGVpn&fp=chrome&alpn=h2,http/1.1#🔒
 ss://08fb790c-1d2d-433c-a588-fa3b6193c926@104.16.103.112:2096?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu&type=ws&host=rEDzOnE.MirAcLehEaRTbIt.ICu&path=/2096/@V2RayyNGVpn&fp=chrome&alpn=h2,http/1.1#🔒
 ss://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🪙
@@ -301,7 +287,6 @@ ss://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@italy.gamingbazirani.ir:600?security=t
 ss://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@italy.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85⚠️
 ss://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@italy.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#DE🇩🇪
 ss://0939d12a-f745-40f8-9b8d-4c1c4b5ca0fc@190.93.244.218:443?encryption=none&security=tls&sni=test.989819.xyz&fp=random&type=ws&host=test.989819.xyz&path=%2F%3Fed%3D2560#q1_324
-ss://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Flmhdjfws#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 ss://09486821-5166-4b4c-806b-80c1c8fb101a@104.16.69.223:2053?security=tls&sni=egcf.shijie.icu&type=ws&host=egcf.shijie.icu#🔒
 ss://09486821-5166-4b4c-806b-80c1c8fb101a@104.16.72.104:8443?security=tls&sni=egcf.shijie.icu&type=ws&host=egcf.shijie.icu&allowInsecure=0#🔒
 ss://09486821-5166-4b4c-806b-80c1c8fb101a@190.93.247.71:2087?security=tls&sni=egcf.shijie.icu&type=ws&host=egcf.shijie.icu#🔒
@@ -406,6 +391,7 @@ ss://0ce4d0ac-f23e-4921-97fc-c2a3acefac0a@194.182.79.41:48615?mode=gun&security=
 ss://0ce4d0ac-f23e-4921-97fc-c2a3acefac0a@194.182.79.41:48615?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍌
 ss://0ce4d0ac-f23e-4921-97fc-c2a3acefac0a@194.182.79.41:48615?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#CZ🇨🇿
 ss://0ce4d0ac-f23e-4921-97fc-c2a3acefac0a@194.182.79.41:48615?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
+ss://0cf19093-b%6167-4ff6-b8d0-%61%6112%619%65968d8@45.82.161.120:49415?mode=gun&security=reality&encryption=none&pbk=RLR_5eRZzCQjzr0dpY4-TW2C8EdNJuiGcq7RjHPQw3E&fp=chrome&spx=%2F&type=grpc&serviceName=%54%65l%3%41%20N%54_S%61f%65&sni=microsoft.com#%40proxy_kafee
 ss://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=XbU10cS9vT.gIgA1.oRg&fp=chrome&type=ws&sni=XbU10cS9vT.gIgA1.oRg#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 ss://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=XbU10cS9vT.gIgA1.oRg&fp=chrome&type=ws&sni=XbU10cS9vT.gIgA1.oRg#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B9
 ss://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=XbU10cS9vT.gIgA1.oRg&fp=chrome&type=ws&sni=XbU10cS9vT.gIgA1.oRg#RELAY🚩
@@ -503,3 +489,17 @@ ss://1021e906-bc49-4961-8e67-1164a83c45ea@az7-nl.serverfreedom.com:20410?securit
 ss://1021e906-bc49-4961-8e67-1164a83c45ea@az7-sub.serverfreedom.com:20000?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#@meli_proxyy
 ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#Free%2077%20%28%40Outline_Vpn%29
 ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?security=tls&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=%2Fsinavm-sinavm%2F%3Fed%3D2560#🔒
+ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?type=ws&host=cr7.traneh.dpdns.org&path=/sinavm-sinavm/?ed%3D2560&security=tls&sni=cr7.traneh.dpdns.org#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
+ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560flow%3D-udp443&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#Free%2079%20%28%40Outline_Vpn%29
+ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA✅️تا
+ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#ALIvless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#ALI
+ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%BF
+ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
+ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=/&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#🇨🇦CA_198_@Surfboardv2ray
+ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?security=tls&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=%2F&fp=chrome#🔒
+ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?type=ws&host=cr7.traneh.dpdns.org&path=/&security=tls&fp=chrome&sni=cr7.traneh.dpdns.org#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
+ss://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.1.5:443?security=tls&sni=ZYzzZoAO.putata.eU.Org&type=ws&host=zyzzzoao.putata.eu.org&fp=randomized#🔒
+ss://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.11.155:443?security=tls&sni=ZYZzZoAO.PuTATa.EU.org&type=ws&host=zyzzzoao.putata.eu.org&path=%2FeR9eo6sq6TUid1Fe%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+ss://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.15.166:443?security=tls&sni=zYzzzOAo.pUtATa.eu.oRG&type=ws&host=zyzzzoao.putata.eu.org&path=%2FtbSRLeOuwtLBToSL%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
+ss://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.252.217:443?security=tls&sni=ZYzzZoAO.putata.eU.Org&type=ws&host=zyzzzoao.putata.eu.org#🔒
