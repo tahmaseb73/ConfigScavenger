@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%D8%A8%DB%8C%D8%A7%20%D8%B1%D8%A8%D8%A7%D8%AA%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%A8%DA%AF%DB%8C%D8%B1%20%D8%A7%DA%AF%D8%B1%20%D8%A7%DB%8C%D9%86%20%D9%82%D8%B7%D8%B9%D9%87%F0%9F%9A%80%20%40Alphanet_shop_bot
-ss://01be6498-eb5c-42c3-a84c-71879900f037@212.16.71.254:80?type=tcp&headerType=http&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7+prx11+%F0%9F%92%96%F0%9F%8C%BA%F0%9F%8C%88
-ss://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
-ss://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#🔒
+        ss://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#🔒
 ss://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#t.me%2Fpeterjest
 ss://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?security=&type=ws&path=/?ed%3D2560&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&encryption=none#@awlix_ir
 ss://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?security=&type=ws&path=/?ed=2560&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&encryption=none#🇨🇦CA_168_@Surfboardv2ray
@@ -503,3 +500,6 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.192:443?security=tls&sni=in
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.194:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.203:443?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.205:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.207:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.209:443?security=tls&sni=vb.ylks0033.dpdns.org&type=ws&host=vb.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒
+ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.217:443?sni=cb.dong2025.cfd&type=ws&allowInsecure=1#🔒

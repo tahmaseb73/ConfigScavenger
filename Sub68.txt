@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.139.160:443?sni=nl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.227.116:443?sni=hn.ylka.dpdns.org&type=ws&host=hn.ylka.dpdns.org&allowInsecure=1#🔒
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.248.209:60000?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@194.76.18.83:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
+        vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@194.76.18.83:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.41.221.186:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.62.62.156:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.62.62.209:443?sni=hl.ylka.dpdns.org&type=ws&host=hl.ylka.dpdns.org&allowInsecure=1#🔒
@@ -503,3 +500,6 @@ vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.226.117.234:995?encryption=none
 vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.226.117.234:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_214_@Surfboardv2ray
 vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.97.117.210:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_204_@Surfboardv2ray
 vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.97.117.210:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_215_@Surfboardv2ray
+vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@37.32.22.63:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_205_@Surfboardv2ray
+vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@37.32.22.63:995?encryption=none&security=none&type=ws&path=/#🇮🇷IR_216_@Surfboardv2ray
+vless://13ce56e8-6eea-4855-a505-8298fdfe4e72@o.soskom.ir:11045?security=reality&encryption=none=#🇩🇪DE_217_@Surfboardv2ray

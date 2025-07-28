@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%F0%9F%87%AA%F0%9F%87%B8ES-45.154.206.192-0297
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4RO-185.126.237.38-4987
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTMxLjI3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAicmFrMmQ0Ljg5MDYwMDA0Lnh5eiIsCiAgICAiaWQiOiAiMzUwZTJiMDEtZDQxMC00NGE2LTkwYmEtNjQ4M2YxMDYyOTcyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xMzEuMjctMDI5MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInJhazJkNC44OTA2MDAwNC54eXoiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-0319
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-0319
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-0302
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%F0%9F%87%A9%F0%9F%87%AADE-185.177.229.245-0296
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-5503
@@ -503,3 +500,6 @@ vless://ccc75873-a458-48c5-8de5-890c901aaaf5@tgju.org:8080?encryption=none&secur
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=lease-20.access.name.ng&type=ws&sni=lease-20.access.name.ng#GB🇬🇧 | lease-20.access.name.ng-8443 | 344.64ms
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?path=%2F%3Fed&security=tls&encryption=none&alpn=http%2F1.1&host=ircp-617.pages.dev.&fp=chrome&type=ws&sni=ircp-617.pages.dev.#RELAY🚩 | ircp-617.pages.dev.-443 | 107.4ms
 vless://cc35f6ba-be03-4d1e-b229-db443b5a7ce7@live.wkrq.com:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=live.wkrq.com#US🇺🇸 | live.wkrq.com-443 | 128.76ms
+vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080?path=%2Fkhkdjhsd%3Fed%3D2048&security=none&encryption=none&host=in2772.novintecc.ORG.&type=httpupgrade#RELAY🚩 | in2772.novintecc.ORG.-8080 | 113.53ms
+vless://cbfa8a4f-ca68-45b2-80b7-dbdf4d00dc95@104.24.150.187:2087?path=%2F&security=tls&encryption=none&host=vless1.chuyangz1.sbs&fp=chrome&type=ws&sni=vless1.chuyangz1.sbs#RELAY🚩 | vless1.chuyangz1.sbs-2087 | 116.24ms
+vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&security=none&encryption=none&type=ws#IR🇮🇷 | 94.183.158.13-1190 | 290.14ms
