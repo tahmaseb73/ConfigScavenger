@@ -3,7 +3,8 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?encryption=none&security=none&type=ws&path=%2F%3Fed%3D2560#IR🇮🇷 | 94.183.158.13-1190 | 295.92ms
+        vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&security=none&encryption=none&type=ws#IR🇮🇷 | 94.183.158.13-1190 | 290.14ms
+vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?encryption=none&security=none&type=ws&path=%2F%3Fed%3D2560#IR🇮🇷 | 94.183.158.13-1190 | 295.92ms
 vless://ca9c98f8-9d27-43bc-8dfd-ede3efcc4cfc@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪 | gr.dnszone.top-45500 | 323.69ms
 vless://ca9c98f8-9d27-43bc-8dfd-ede3efcc4cfc@gr.dnszone.top:45500?security=&encryption=none&headerType=none&type=tcp#DE🇩🇪 | gr.dnszone.top-45500 | 345.65ms
 vless://ca9c984f-8c42-4fd0-832f-11459e7a6255@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪 | gr.dnszone.top-45500 | 120.66ms
@@ -502,4 +503,3 @@ vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@151.101.242.172:80?mode=auto&path=%
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | beloved-failure.seotoolsforyou.co.uk-80 | 80.57ms
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#RELAY🚩 | beloved-failure.seotoolsforyou.co.uk-80 | 14.66ms
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.27.62.243:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=harmony-427.pages.dev&fp=firefox&type=ws&sni=HarmonY-427.pages.DEV#RELAY🚩 | HarmonY-427.pages.DEV-443 | 92.33ms
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.27.62.243:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=harmony-427.pages.dev&fp=firefox&type=ws&sni=HarmonY-427.pages.DEV#RELAY🚩 | HarmonY-427.pages.DEV-443 | 15.06ms
