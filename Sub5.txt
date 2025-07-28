@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://39daa7f6-4adb-46ba-b2bc-4b7b338bf789@irc.testvp2.sbs:443?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷 | irc.testvp2.sbs-443 | 291.76ms
-vless://39c36199-7277-4c3b-8170-f57698c9daee@104.16.157.108:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#FR🇫🇷 | masterserver1.nanvrfood.ir.-8080 | 381.71ms
-vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?type=ws&encryption=none&flow=&host=iran.akcovufun.ir&path=%2F&security=tls&sni=iran.akcovufun.ir&fp=chrome%40networld_vpn#RELAY🚩 | iran.akcovufun.ir-2053 | 367.88ms
-vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.16.48.61:2053?path=%2F&security=tls&encryption=none&type=ws&sni=iran.akcovufun.ir#RELAY🚩 | iran.akcovufun.ir-2053 | 15.09ms
+        vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.16.48.61:2053?path=%2F&security=tls&encryption=none&type=ws&sni=iran.akcovufun.ir#RELAY🚩 | iran.akcovufun.ir-2053 | 15.09ms
 vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&encryption=none&headerType=none&type=tcp#CA🇨🇦 | 51.222.86.7-51952 | 36.53ms
 vless://390485b3-8306-445b-9524-7580d99fcf12@174.138.101.107:45500?security=&encryption=none&headerType=none&type=tcp#DE🇩🇪 | 174.138.101.107-45500 | 117.67ms
 vless://3891b3ce-bb3a-45bf-bd8e-90e2487d121e@wouldyoumarriemepleasefuckthesystem3.siasia.ir:2053?path=%2Fapiii%23Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=tls&alpn=h3%2Ch2&encryption=none&host=hheydudethisworldisshet.siasia.ir&fp=randomized&type=ws&sni=hheydudethisworldisshet.siasia.ir#RELAY🚩 | hheydudethisworldisshet.siasia.ir-2053 | 375.51ms
@@ -503,3 +500,6 @@ trojan://7f0c6140-b151-11ef-990d-1239d0255272@51.210.182.170:443#FR🇫🇷 | 51
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#US🇺🇸 | vzwzasc.cn-443 | 961.31ms
 trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=%2F685uFbiRrgAsHzTP8d&security=tls&alpn=http%2F1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#RELAY🚩 | 90.tAIpEI108.dpDnS.orG-443 | 232.79ms
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#US🇺🇸 | speedtest.net-80 | 14.16ms
+trojan://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&type=ws&sni=VIrgiNiavPn-nL.pagEs.dEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&host=VIrgiNiavPn-nL.pagEs.dEv#RELAY🚩 | VIrgiNiavPn-nL.pagEs.dEv-443 | 89.53ms
+trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1#RELAY🚩 | hdfyc1.achaemenidempireofpersia.uk-443 | 66.53ms
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#US🇺🇸 | rc6.freeguard.org-443 | 173.98ms

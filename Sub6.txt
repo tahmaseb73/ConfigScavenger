@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&type=ws&sni=VIrgiNiavPn-nL.pagEs.dEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&host=VIrgiNiavPn-nL.pagEs.dEv#RELAY🚩 | VIrgiNiavPn-nL.pagEs.dEv-443 | 89.53ms
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1#RELAY🚩 | hdfyc1.achaemenidempireofpersia.uk-443 | 66.53ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#US🇺🇸 | rc6.freeguard.org-443 | 173.98ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?type=tcp&security=tls&sni=rc6.freeguard.org#US🇺🇸 | rc6.freeguard.org-443 | 91.54ms
+        trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?type=tcp&security=tls&sni=rc6.freeguard.org#US🇺🇸 | rc6.freeguard.org-443 | 91.54ms
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#US🇺🇸 | rc8.freeguard.org-443 | 137.77ms
 trojan://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.204.84:443?security=tls&type=ws&sni=pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D8080&host=download-93w.pages.dev#RELAY🚩 | pages.dev-443 | 52.73ms
 trojan://1UUks8qp3f@46.62.153.8:443?mode=auto&path=%2F&security=reality&pbk=1DT1gbnx43QGMYoBkam0b9fzSd00qghvlrmbdO-WaHc&fp=chrome&spx=%2F&type=xhttp&sni=eset.com&sid=9bbb8aa1afa8e9#REALITY|SK🇸🇰 | eset.com-443 | 153.19ms
@@ -503,3 +500,6 @@ vless://61ff8b60-2be0-40a6-94b5-92cca33f1fab@www.gov.se:80?encryption=none&secur
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLT5VUy0+UlRMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiMi41OC44Ny4yMjEiLA0KICAicG9ydCI6ICIxMjI2OSIsDQogICJpZCI6ICJkYjg1ZmYwZS1jMzNmLTQwMWQtYzQxNS00YzdjY2UxMzU3MDQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?encryption=none&security=none&type=grpc#US-%3E-%3EMTN-%3E%40Sezar_Sec
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?encryption=none&security=none&type=ws&host=redfree8mahsang6.redfree8.ir&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#CA-%3EFR-%3EMTN-%3E%40Sezar_Sec
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFLT5ERS0+QURMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNTcuMTI5LjQxLjIxNiIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiMzk2N2MwNTktODY1ZC00MGFmLWJhM2MtOGFiYzliYTVjN2Y4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvdm1lc3MvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIm92LWdlcm1hbnkxLjA5dnBuLmNvbSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.151:8080#VE-%3ENL-%3ERTL-%3E%40Sezar_Sec
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLT5GUi0+QURMLT5ARGVhbU5ldF9Qcm94eSIsDQogICJhZGQiOiAiNS4xOTYuMjkuMTIzIiwNCiAgInBvcnQiOiAiMjA4MiIsDQogICJpZCI6ICIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
