@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F&security=tls&encryption=none&host=mylearn-8zx.pages.dev&type=ws&sni=mylearn-8zx.pages.dev#RELAY🚩 | mylearn-8zx.pages.dev-443 | 13.95ms
-vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=chrome&type=ws&sni=mylearn-8zx.pages.dev#RELAY🚩 | mylearn-8zx.pages.dev-443 | 3.43ms
-vless://d40c5cce-a633-4a11-b1db-3ce6fdfd44d6@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪 | 174.138.101.107-45500 | 119.16ms
+        vless://d40c5cce-a633-4a11-b1db-3ce6fdfd44d6@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪 | 174.138.101.107-45500 | 119.16ms
 vless://d39d8fcc-85e1-41d3-ac0f-628c2cf8aba5@balanced-pl.irancdngame.com:2012?security=reality&encryption=none&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&headerType=none&fp=firefox&type=tcp&sni=www.pcmag.com#REALITY|PL🇵🇱 | balanced-pl.irancdngame.com-2012 | 182.57ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cloudflare.182682.xyz:443?encryption=none&security=tls&sni=test.saas.cname.123153.xyz&type=ws&host=test.saas.cname.123153.xyz&path=%2Fsnippets#RELAY🚩 | test.saas.cname.123153.xyz-443 | 324.46ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3254.outline-vpn.cloud:2087?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#RELAY🚩 | baipiao1.curly-train.pages.dev-2087 | 14.85ms
@@ -503,3 +501,5 @@ vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?path=%2F&security=&encryption=none&type=ws#RELAY🚩 | fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk-80 | 3.84ms
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@172.67.141.140:8880?path=%2FQaaLdIiGgWNoIxOF%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=v2ngsupply2.ip-ddns.com&fp=randomized&type=ws&sni=8IzcpZflHzz4bVc0fW15f5O126R-WGPG.hEKOp71365.wOrkerS.DEv#RELAY🚩 | 8IzcpZflHzz4bVc0fW15f5O126R-WGPG.hEKOp71365.wOrkerS.DEv-8880 | 49.36ms
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=%2F&security=none&encryption=none&host=light-presence.oneeat.co&type=ws#RELAY🚩 | light-presence.oneeat.co-80 | 341.99ms
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#REALITY|GB🇬🇧 | 185.33.24.229-28495 | 104.67ms
+vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fqnbufdws#FR🇫🇷 | 185.234.64.228-443 | 97.11ms

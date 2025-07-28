@@ -3,9 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.217-0243
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.63-0274
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.63-0275
+        ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.63-0275
 vmess://ewogICAgImFkZCI6ICI1MjdjYjIuODI3YTRjMzkuc2hvcCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInNnMDJzLjgyN2E0YzM5LnNob3AiLAogICAgImlkIjogIjk1Mjc5N2I2LTIxYTAtNGU2Ni05MjM5LTMwZWY1YzBlZmNkZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjcuMjMxLTAyOTAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.162-0270
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#%F0%9F%87%AB%F0%9F%87%B7FR-81.19.137.222-0267
@@ -503,3 +501,5 @@ vless://d4eddaf9-a660-4905-b835-cad98677b380@104.16.178.238:80?path=%2F&security
 vless://d47af421-30d5-49a3-af17-629cdc61e72e@151.101.3.8:80?mode=auto&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&host=skyshiield.global.ssl.fastly.net&type=xhttp#US🇺🇸 | skyshiield.global.ssl.fastly.net-80 | 13.22ms
 vless://d47af421-30d5-49a3-af17-629cdc61e72e@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=skyshiield.global.ssl.fastly.net&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#US🇺🇸 | skyshiield.global.ssl.fastly.net-80 | 9.04ms
 vless://d4680280-0e67-4c7f-9558-88b89800a2e3@159.65.20.117:80?type=xhttp&encryption=none&flow=&sni=orderup.com&fp=chrome&security=reality&pbk=apMp75KQjgaRWegaiPc_ufULi0B7Mz-oUnSCJU9hRmc&sid=0c4e1fcb8576e1#REALITY|GB🇬🇧 | 159.65.20.117-80 | 99.37ms
+vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F&security=tls&encryption=none&host=mylearn-8zx.pages.dev&type=ws&sni=mylearn-8zx.pages.dev#RELAY🚩 | mylearn-8zx.pages.dev-443 | 13.95ms
+vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=chrome&type=ws&sni=mylearn-8zx.pages.dev#RELAY🚩 | mylearn-8zx.pages.dev-443 | 3.43ms
