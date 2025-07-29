@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@140.248.180.62:443?path=/Channel-MOSIV2--MOSIV2--Channel-MOSIV2--MOSIV2?ed=2560=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&security=tls&encryption=none&host=Channel-MOSIV2-MOSIV2.IR&fp=chrome&type=ws&sni=Channel-MOSIV2-MOSIV2.IR&allowInsecure=1&fp=chrome#🇺🇸US_934_@Surfboardv2ray
-vless://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&host=pamchall.com.&type=ws#@meli_proxyy
-vless://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&host=pamchall.com.&type=ws#⚡Telegram
-vless://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed=2560=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&security=none&encryption=none&host=pamchall.com.&type=ws#🇨🇦CA_935_@Surfboardv2ray
+        vless://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed=2560=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&security=none&encryption=none&host=pamchall.com.&type=ws#🇨🇦CA_935_@Surfboardv2ray
 vless://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.23.162:443?security=tls&sni=7yu8.131.pp.ua&type=ws&host=7yu8.131.pp.ua&path=%2FrdcXpTqcZpByZyxgvJgLl&fp=chrome&alpn=http%2F1.1#🔒
 vless://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@172.67.212.82:443?security=tls&sni=7tgn.131.pp.ua&type=ws&host=7tgn.131.pp.ua&path=%2FrdcXpTqcZpByZyxgvJgLl&fp=chrome&alpn=http%2F1.1#🔒
 vless://ad4a8fe9-2a32-49c4-a532-e4eef253f148@104.19.54.50:443?security=tls&sni=azadanet.azadanet.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=azadanet.azadanet.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
@@ -503,3 +500,6 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.185.161.17:8880?security=none&t
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.185.161.38:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.112:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.175:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.37:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.44:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.98:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒

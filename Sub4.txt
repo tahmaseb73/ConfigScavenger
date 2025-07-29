@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#DE🇩🇪 | 91.99.183.30-8443 | 92.01ms
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#DE🇩🇪 | 91.99.181.47-8443 | 92.31ms
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#DE🇩🇪 | 91.99.181.47-8443 | 91.97ms
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#DE🇩🇪 | 91.99.176.24-8443 | 93.55ms
+        vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#DE🇩🇪 | 91.99.176.24-8443 | 93.55ms
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.153.233:8443?mode=auto&path=%2Fxhttp&security=none&encryption=none&type=xhttp#DE🇩🇪 | 91.99.153.233-8443 | 94.03ms
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.145.167:8443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#DE🇩🇪 | 91.99.145.167-8443 | 92.82ms
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#DE🇩🇪 | 91.99.132.59-8443 | 91.93ms
@@ -503,3 +500,6 @@ vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?path=%2FKvNugxSU
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 6.01ms
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 6.24ms
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 6.04ms
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#RELAY🚩 | zula.ir-443 | 6.25ms
+vless://362df37b-63ab-44d1-bdb1-c5fc52512b3d@104.21.63.171:2052?type=ws&encryption=none&flow=&host=wWw.SpeedtesT.net.xn--hibye-hg1hw1ovzaf50bop5bc33awx0ajxfqk4giqq.store.&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#US🇺🇸 | wWw.SpeedtesT.net.xn--hibye-hg1hw1ovzaf50bop5bc33awx0ajxfqk4giqq.store.-2052 | 118.58ms
+vless://35dd9fa1-7d51-45ec-ad35-6e3692f8742d@sv1.filmnetd.xyz:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#IR🇮🇷 | divarcdn.com-443 | 423.77ms

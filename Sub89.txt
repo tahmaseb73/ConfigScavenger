@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://bb75ae14-4bad-4b4a-b3fc-233950a27e92@188.114.97.3:2096?security=tls&sni=joInMahdISERVER-ufU.pAgEs.Dev&type=ws&host=joinmahdiserver-ufu.pages.dev&path=%2FaNCUu75txycPQSj6%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
-vless://bba36957-66e0-4987-88db-7be198612689@104.18.12.66:443?security=tls&sni=channel.azarandooz.workers.dev&type=ws&host=channel.azarandooz.workers.dev&path=%2F%40AzarAndoozVPN&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒
-vless://bba36957-66e0-4987-88db-7be198612689@104.18.13.66:443?security=tls&sni=channel.azarandooz.workers.dev&type=ws&host=channel.azarandooz.workers.dev&path=%2F%40AzarAndoozVPN&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.44.223:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&fp=chrome#🔒
+        vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.44.223:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&fp=chrome#🔒
 vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&fp=chrome#🔒
 vless://bbacf1fe-4b0b-42fe-89cb-32fa9c438063@152.42.184.200:443?security=tls&sni=webex.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&fp=chrome&type=tcp&encryption=none#US🇺🇸
 vless://bbe3c5b9-876f-59c9-9793-9eeb3edcbc22@138.124.31.187:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش
@@ -503,3 +500,6 @@ vless://c6bec2e2-f4c8-43ab-ba6f-ebabb6f560f3@15.235.202.96:443?encryption=none&s
 vless://c6bec2e2-f4c8-43ab-ba6f-ebabb6f560f3@15.235.202.96:443?security=tls&sni=fonts.googleapis.com&allowInsecure=1#🔒
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.44.56:443?security=tls&sni=midsUMmER-Bpb.pAgES.DEV&type=ws&host=mIDsuMMer-bpb.PAgEs.DeV&path=%2FStDNeNqkbQxrj6Xy%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?security=tls&sni=midsUMmER-Bpb.pAgES.DEV&type=ws&host=mIDsuMMer-bpb.PAgEs.DeV&fp=chrome&alpn=h2,http/1.1#🔒
+vless://c6e48175-7639-4e16-b374-455f1939c075@157.230.17.102:30595?security=none&type=grpc#🇩🇪[openproxylist.com]
+vless://c6e48175-7639-4e16-b374-455f1939c075@157.230.17.102:30595?security=none&type=grpc#🔒
+vless://c6e7754f-ad17-4d69-b8b4-beb007666411@bermuda.jahanmataleb.ir:443?type=tcp&security=reality&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&fp=chrome&sni=www.refersion.com&sid=e869&spx=/#🇩🇪DE_1044_@Surfboardv2ray
