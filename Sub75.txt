@@ -3,14 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.101.114.20:8880?path=@Selinc/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇺🇸US_465_@Surfboardv2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.101.114.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%40Selinc%2F%3Fed%3D2560#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.101.120.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#@Hope_Net-join-us-on-Teleg
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.101.120.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.11.203.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AD%F0%9F%87%BA%C2%AE%EF%B8%8FHungary%C2%A9%EF%B8%8FBudapest%20%28XIX.%20ker%C3%BClet%29%F0%9F%85%BF%EF%B8%8Fping%3A8.15ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.11.203.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.147.114.60:443?security=tls&sni=psycho.suex12.ir&type=ws&host=psycho.suex12.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.148.187.195:443?security=tls&sni=psycho.suex12.ir&type=ws&host=psycho.suex12.ir#🔒
+        vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.148.187.195:443?security=tls&sni=psycho.suex12.ir&type=ws&host=psycho.suex12.ir#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.0:80?security=none&type=ws&host=psycho.suex12.ir&path=%2F#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.1:80?type=ws&host=ipsycho.suex12.ir.&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FAustin%20%28Downtown%20Austin%29%F0%9F%85%BF%EF%B8%8Fping%3A8.03ms
@@ -503,3 +496,10 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.63:80?security=none&type=w
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.120.178.115:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.120.178.115:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.108:8880?path=Telegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.108:8880?path=Telegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#⚡Telegram
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.108:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.114:80?path=Telegram%3A#NL🇳🇱
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.114:80?path=Telegram:#@Hope_Net-join-us-on-Telegram⚠️
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.114:80?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.123:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.125:80?type=ws&host=redfree8.pooriashop.ir&path=Telegram%40vpnAndroid2%2F%3Fed#🔒
