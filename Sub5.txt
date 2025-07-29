@@ -3,7 +3,14 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://4390049a-814c-4a60-a6a5-0ce8d0c87c55@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=nlnew.motorphrotan.ir&type=ws#RELAY🚩 | nlnew.motorphrotan.ir-8080 | 29.39ms
+        vless://44926da6-c5e7-4ac8-982e-90322322f9d5@zula.ir:8880?path=%2F%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.speedtest24.ir&type=httpupgrade#RELAY🚩 | www.speedtest.net.speedtest24.ir-8880 | 6.04ms
+vless://442cf841-17b6-4d09-9b5f-7fad9a35776d@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪 | gr.dnszone.top-45500 | 92.45ms
+vless://442910db-6c19-4da1-8908-de77ba6a7336@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪 | gr.dnszone.top-45500 | 105.02ms
+vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.16.0.41:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸 | bia-to-channel4.unlimiteddev.shop-80 | 114.85ms
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮 | local.rogsoftwaregroup.com-443 | 212.64ms
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI🇫🇮 | local.rogsoftwaregroup.com-443 | 204.05ms
+vless://43c684d7-2674-45c9-bd55-d6e803fed92b@104.21.75.194:80?path=%2Fvless&security=none&encryption=none&host=uk1-vless.vpnhack.xyz&type=ws#US🇺🇸 | uk1-vless.vpnhack.xyz-80 | 153.95ms
+vless://4390049a-814c-4a60-a6a5-0ce8d0c87c55@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=nlnew.motorphrotan.ir&type=ws#RELAY🚩 | nlnew.motorphrotan.ir-8080 | 29.39ms
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK-80 | 24.06ms
 vless://42cbed62-e83c-4239-a037-c905784505df@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪 | gr.dnszone.top-45500 | 95.77ms
 vless://42808c59-4d9e-46ee-a9c4-33e7c31ce9e3@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fyaqnnows&security=tls&encryption=none&host=638890561652286310.esfahan-prx-dnraaao.info&type=ws&sni=638890561652286310.esfahan-prx-dnraaao.info#RELAY🚩 | 638890561652286310.esfahan-prx-dnraaao.info-443 | 34.38ms
@@ -496,10 +503,3 @@ trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMK
 trojan://7f0c6140-b151-11ef-990d-1239d0255272@51.210.182.170:443#FR🇫🇷 | 51.210.182.170-443 | 86.32ms
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#US🇺🇸 | vzwzasc.cn-443 | 1591.43ms
 trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=%2F685uFbiRrgAsHzTP8d&security=tls&alpn=http%2F1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#RELAY🚩 | 90.tAIpEI108.dpDnS.orG-443 | 5009.69ms
-trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#US🇺🇸 | speedtest.net-80 | 6.01ms
-trojan://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&type=ws&sni=VIrgiNiavPn-nL.pagEs.dEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&host=VIrgiNiavPn-nL.pagEs.dEv#RELAY🚩 | VIrgiNiavPn-nL.pagEs.dEv-443 | 42.26ms
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1#RELAY🚩 | hdfyc1.achaemenidempireofpersia.uk-443 | 35.08ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#US🇺🇸 | rc6.freeguard.org-443 | 274.11ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?type=tcp&security=tls&sni=rc6.freeguard.org#US🇺🇸 | rc6.freeguard.org-443 | 263.7ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#US🇺🇸 | rc8.freeguard.org-443 | 442.76ms
-trojan://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.204.84:443?security=tls&type=ws&sni=pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D8080&host=download-93w.pages.dev#RELAY🚩 | pages.dev-443 | 23.15ms
