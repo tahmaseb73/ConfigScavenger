@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://5b2b253e-feda-4089-8cb7-eb3bdc88135f@104.16.41.28:8080?security=none&type=httpupgrade&host=blog.acveo.ir&path=%2Fjoin-----MTMVPN----join-----MTMVPN----join-----MTMVPN----join-----MTMVPN----join-----MTMVPN%3Fed%3D2048#🔒
-vless://5b58dcbe-ff88-4ba4-824b-7912b6370200@[2a01:4f8:1c1b:3e2::1]:443?mode=gun&security=reality&encryption=none&authority=&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&fp=chrome&spx=/&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&sni=gsmarena.com&sid=32d7a82d#@fastkanfig+xhanl+telegram
-vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.16.132.207:80?path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=gozargah2.validbv7996.ir&type=ws#%40V2rayNG3
-vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.16.132.207:80?security=none&type=ws&host=gozargah2.validbv7996.ir&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒
-vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.24.207.192:80?security=none&type=ws&host=gozargah2.validbv7996.ir#🔒
-vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@154.197.121.138:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒
+        vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@154.197.121.138:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@154.197.121.138:2082?security=none&type=httpupgrade&host=LondoN-Ar-24.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@154.197.121.138:8080?security=none&type=httpupgrade&host=LondoN-Ar-11.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@154.197.121.138:8880?security=none&type=httpupgrade&host=LondoN-Ar-25.pcsTorearsOft.iR.&path=%2Fwww.fast.com.live.skornorth.com.zula.ir%3Fed%3D2048#🔒
@@ -503,3 +498,8 @@ vless://6bc29783-3ff6-4379-8650-611a7095307b@193.123.187.39:443?security=tls&flo
 vless://6bc29783-3ff6-4379-8650-611a7095307b@219.76.131.205:443?security=tls&flow=xtls-rprx-vision&sni=yfhk1.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3.0.101.89:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3.112.235.148:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@43.207.164.222:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@52.196.242.13:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=safari&allowInsecure=0#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@52.68.181.50:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@54.179.186.107:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
+vless://6bc29783-3ff6-4379-8650-611a7095307b@54.179.89.113:443?security=tls&flow=xtls-rprx-vision-udp443&sni=b295-23ap29-6bh.xn--4gq62f52gppi29k.com&fp=safari&allowInsecure=0#🔒

@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://6bc29783-3ff6-4379-8650-611a7095307b@43.207.164.222:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
-vless://6bc29783-3ff6-4379-8650-611a7095307b@52.196.242.13:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=safari&allowInsecure=0#🔒
-vless://6bc29783-3ff6-4379-8650-611a7095307b@52.68.181.50:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
-vless://6bc29783-3ff6-4379-8650-611a7095307b@54.179.186.107:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=ios&allowInsecure=0#🔒
-vless://6bc29783-3ff6-4379-8650-611a7095307b@54.179.89.113:443?security=tls&flow=xtls-rprx-vision-udp443&sni=b295-23ap29-6bh.xn--4gq62f52gppi29k.com&fp=safari&allowInsecure=0#🔒
-vless://6bc29783-3ff6-4379-8650-611a7095307b@54.249.86.118:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
+        vless://6bc29783-3ff6-4379-8650-611a7095307b@54.249.86.118:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&allowInsecure=0#🔒
 vless://6bc29783-3ff6-4379-8650-611a7095307b@54.255.139.254:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=firefox&allowInsecure=0#🔒
 vless://6bc29783-3ff6-4379-8650-611a7095307b@64.181.255.250:443?security=tls&flow=xtls-rprx-vision&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=safari#🔒
 vless://6bee5e20-4fa9-427d-b148-767420bb5f72@162.159.24.142:8443?security=tls&sni=pro-b.ponyo.lat&type=ws&host=pro-b.ponyo.lat&fp=chrome&alpn=h2,http/1.1#🔒
@@ -503,3 +498,8 @@ vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?allowInsecure=0&s
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#🔒
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.16.110.70:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2F%3Fed%3D2560security%3Dtls#🔒
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.26:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&path=%2F%3Fed#🔒
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.46:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.46:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram⚠️
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.46:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#🇦🇹AT_703_@Surfboardv2ray
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.46:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#🔒
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.51:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=%2F%3Fed%3D2560security%3Dtls#🔒
