@@ -3,13 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#FI🇫🇮 | local.rogsoftwaregroup.com-443 | 187.03ms
-vless://43b7ef80-c7b0-475b-8959-2aa38d7136ba@37.32.41.237:4432?encryption=none&security=none&type=tcp&headerType=http#IR🇮🇷 | 37.32.41.237-4432 | 225.37ms
-vless://4390049a-814c-4a60-a6a5-0ce8d0c87c55@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=nlnew.motorphrotan.ir&type=ws#RELAY🚩 | nlnew.motorphrotan.ir-8080 | 377.16ms
-vless://42cbed62-e83c-4239-a037-c905784505df@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪 | gr.dnszone.top-45500 | 178.47ms
-vless://42808c59-4d9e-46ee-a9c4-33e7c31ce9e3@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fyaqnnows&security=tls&encryption=none&host=638890561652286310.esfahan-prx-dnraaao.info&type=ws&sni=638890561652286310.esfahan-prx-dnraaao.info#RELAY🚩 | 638890561652286310.esfahan-prx-dnraaao.info-443 | 159.55ms
-vless://41fb8e4d-313b-4939-9ef4-a6d7ab6c6570@themob.amirtoqi.ir:11460?type=tcp&security=none#DE🇩🇪 | themob.amirtoqi.ir-11460 | 644.86ms
-vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#RELAY🚩 | pqh23v4.hiddendom.shop-443 | 82.59ms
+        vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#RELAY🚩 | pqh23v4.hiddendom.shop-443 | 82.59ms
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#RELAY🚩 | pqh23v4.hiddendom.shop-443 | 14.86ms
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&type=ws&headerType=&path=&host=#DE🇩🇪 | 165.22.76.53-9387 | 146.55ms
 vless://3f9d3b52-1bcc-499f-aad0-ba71d6123f8b@104.18.28.181:8080?path=%2F%3Fed&security=none&encryption=none&host=shuige3.cbj2bxt6.workers.dev&type=ws#RELAY🚩 | shuige3.cbj2bxt6.workers.dev-8080 | 125.17ms
@@ -503,3 +497,9 @@ trojan://NISHIKUITAN111@104.24.236.157:443?allowInsecure=0#RELAY🚩 | 104.24.23
 trojan://NISHIKUITAN111@104.24.186.143:443?allowInsecure=0#RELAY🚩 | 104.24.186.143-443 | 14.16ms
 trojan://NISHIKUITAN111@104.24.183.134:443?allowInsecure=0#RELAY🚩 | 104.24.183.134-443 | 14.43ms
 trojan://NISHIKUITAN111@104.24.133.61:443?allowInsecure=0#RELAY🚩 | 104.24.133.61-443 | 14.08ms
+trojan://NISHIKUITAN111@104.24.130.166:443?allowInsecure=0#RELAY🚩 | 104.24.130.166-443 | 14.21ms
+trojan://NISHIKUITAN111@104.24.11.154:443?allowInsecure=0#RELAY🚩 | 104.24.11.154-443 | 13.94ms
+trojan://NISHIKUITAN111@104.23.133.126:443?allowInsecure=0#RELAY🚩 | 104.23.133.126-443 | 13.98ms
+trojan://NISHIKUITAN111@104.20.8.252:443?allowInsecure=0#RELAY🚩 | 104.20.8.252-443 | 14.72ms
+trojan://NISHIKUITAN111@104.19.166.187:443#RELAY🚩 | 104.19.166.187-443 | 14.19ms
+trojan://NISHIKUITAN111@104.18.31.159:443?allowInsecure=0#RELAY🚩 | 104.18.31.159-443 | 14.95ms

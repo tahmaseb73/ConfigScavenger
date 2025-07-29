@@ -3,13 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0268
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-0281
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-0313
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.178-0246
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.38:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.38-0286
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.162-0310
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.163-0285
+        ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.163-0285
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.164-0287
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.17.169:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.17.169-0237
 vmess://ewogICAgImFkZCI6ICIyMTYuMTczLjY5LjI1MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOTEzODIwOTItMjMzMC00NTViLThhMWMtOWMxMjljZmU2NjFhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+HsfCfh7tMVi0yMTYuMTczLjY5LjI1MC01MzYyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
@@ -503,3 +497,9 @@ vless://ce7882f8-059e-482a-8df9-a64da1bc443c@elipii2.digi-elipii.ir:80?security=
 vless://ce49f25c-4278-4ccc-8e57-48822b56d885@uae-vip.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=%2F&mux=8#IR🇮🇷 | varzesh3.com-8080 | 98.36ms
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@uk1.xservers.ir:81?mode=auto&path=%2FXrayVPN&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&pbk=A-8wmBnGrz4ny7CB9Zfnjz66cbS83uOMdH61CsI-rm8&fp=firefox&type=xhttp&sni=tgju.org&sid=200de4ca48fb1731#REALITY|GB🇬🇧 | uk1.xservers.ir-81 | 486.33ms
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ko1.xservers.ir:81?mode=auto&path=%2FXrayVPN&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&pbk=A-8wmBnGrz4ny7CB9Zfnjz66cbS83uOMdH61CsI-rm8&fp=firefox&type=xhttp&sni=tgju.org&sid=200de4ca48fb1731#REALITY|HK🇭🇰 | ko1.xservers.ir-81 | 437.81ms
+vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?path=%2FXRAYVPNHTTPUPGRADE&security=none&encryption=none&host=uk1.blackismyfavorite.ir&type=httpupgrade#RELAY🚩 | uk1.blackismyfavorite.ir-80 | 382.91ms
+vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?path=%2FXRAYVPNHTTPUPGRADE&security=none&encryption=none&host=nl1.blackismyfavorite.ir&type=httpupgrade#RELAY🚩 | nl1.blackismyfavorite.ir-80 | 467.81ms
+vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?path=%2FXRAYVPNHTTPUPGRADE&security=none&encryption=none&host=fr1.blackismyfavorite.ir&type=httpupgrade#RELAY🚩 | fr1.blackismyfavorite.ir-80 | 257.92ms
+vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?path=%2FXRAYVPNHTTPUPGRADE&security=none&encryption=none&host=fi1.blackismyfavorite.ir&type=httpupgrade#RELAY🚩 | fi1.blackismyfavorite.ir-80 | 50.7ms
+vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?path=%2FXRAYVPNHTTPUPGRADE&security=none&encryption=none&host=de1.blackismyfavorite.ir&type=httpupgrade#RELAY🚩 | de1.blackismyfavorite.ir-80 | 50.34ms
+vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&encryption=none&host=no1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=no1.blackismyfavorite.ir#RELAY🚩 | no1.blackismyfavorite.ir-443 | 457.29ms
