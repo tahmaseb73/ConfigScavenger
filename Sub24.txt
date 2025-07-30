@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.58:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒
-ss://401374e6-df77-41fb-f638-dad8184f175b@27.50.48.192:443?security=tls&sni=vp28.hiddendom.shop&type=grpc&alpn=h2#🔒
+        ss://401374e6-df77-41fb-f638-dad8184f175b@27.50.48.192:443?security=tls&sni=vp28.hiddendom.shop&type=grpc&alpn=h2#🔒
 ss://401374e6-df77-41fb-f638-dad8184f175b@27.50.49.198:443?security=tls&sni=vp28.hiddendom.shop&type=grpc&host=vp28.hiddendom.shop&alpn=h2#🔒
 ss://401374e6-df77-41fb-f638-dad8184f175b@31.12.75.179:443?security=tls&sni=vp28.hiddendom.shop&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20NA%20%F0%9F%8C%8D%20VL-GRPC-TLS%204%E2%83%A3
 ss://401374e6-df77-41fb-f638-dad8184f175b@31.12.75.179:443?security=tls&sni=vp28.hiddendom.shop&type=grpc&host=vp28.hiddendom.shop&alpn=h2#🔒
@@ -503,3 +502,4 @@ ss://482ceadb-a482-4656-b660-3b54c3947dfe@138.201.159.111:45216?mode=auto&path=%
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283/?type=tcp&encryption=none#⚡Telegram
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy♾نامحدود
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#SG🇸🇬
+ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#🇸🇬SG_408_@Surfboardv2ray

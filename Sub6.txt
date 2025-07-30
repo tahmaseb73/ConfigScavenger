@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://NISHIKUITAN111@103.169.142.224:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#US🇺🇸 | zb.ylks.xyz-443 | 8.2ms
-trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 137.05ms
+        trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 137.05ms
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf&type=tcp&headerType=none#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 7.82ms
 trojan://CjqK8GFZ%29%2CD%3F@172.67.149.210:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=%2FtrU3kEraImU22Jv6vo%3Fed%3D2560#RELAY🚩 | 7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv-443 | 28.64ms
 trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 9.9ms
@@ -503,3 +502,4 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?encryption=none&sec
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBLT4tPlJUTC0+QERlYW1OZXRfUHJveHkiLA0KICAiYWRkIjogIjE3Mi42Ny4xNzAuMTAzIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZ2x3ZWlkZi5zYnMiLA0KICAicGF0aCI6ICIvbGlua3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImdsd2VpZGYuc2JzIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogImNocm9tZSINCn0=
 vless://9ffa6da8-26dc-435c-884b-32662e7ffe7e@www.visa.com:2082?encryption=none&security=none&type=ws&host=0314.hiyasta2.workers.dev&path=%2F%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#GB-%3EGB-%3ERTL-%3E%40Sezar_Sec
+vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?encryption=none&security=none&type=tcp&headerType=none#NL-%3ENL-%3EADL-%3E%40Sezar_Sec

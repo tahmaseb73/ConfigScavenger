@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://d143c8a9-3e41-4e4b-832b-1eddd02c249b@199.232.5.140:80?type=ws&host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir#🔒
-vless://d14d29dd-826f-4c0d-ad22-5091360f4869@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1067_@Surfboardv2ray
+        vless://d14d29dd-826f-4c0d-ad22-5091360f4869@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1067_@Surfboardv2ray
 vless://d14d29dd-826f-4c0d-ad22-5091360f4869@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1068_@Surfboardv2ray
 vless://d14d29dd-826f-4c0d-ad22-5091360f486a@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1069_@Surfboardv2ray
 vless://d14d29dd-826f-4c0d-ad22-5091360f486a@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#🇨🇦CA_1070_@Surfboardv2ray
@@ -503,3 +502,4 @@ vless://d6ff33a6-03bf-4338-8a63-62ab284a9466@45.131.5.111:80?type=ws&host=feng4.
 vless://d7128c30-5acd-4c9d-d917-d1fe9c96ff6e@62.133.60.234:777?encryption=none&security=none&type=tcp&headerType=http&host=este.com#🇩🇪DE_1103_@Surfboardv2ray
 vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.34.157.214:442?encryption=none&security=none&type=grpc#🇩🇪DE_1104_@Surfboardv2ray
 vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@45.144.54.111:442?security=none&type=grpc#🔒
+vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@sv-italia.it.sv-italia.it:442?mode=gun&security=none&encryption=none&type=grpc#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
