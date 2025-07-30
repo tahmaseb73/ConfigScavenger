@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.11:2083?path=vless-ws/?ed&security=tls&encryption=none&host=guq22.oXNETWoRks.liNK&type=ws&sni=guq22.oXNETWoRks.liNK#🇨🇦CA_724_@Surfboardv2ray
-ss://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.11:2083?security=tls&sni=guq22.oXNETWoRks.liNK&type=ws&host=guq22.oXNETWoRks.liNK&path=vless-ws/?ed#🔒
+        ss://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.11:2083?security=tls&sni=guq22.oXNETWoRks.liNK&type=ws&host=guq22.oXNETWoRks.liNK&path=vless-ws/?ed#🔒
 ss://7e313821-7d0d-442a-88e2-e6a30d89d01d@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=%2FTelegram%40viturey%3Fed%3D2048&mode=auto#US🇺🇸
 ss://7e416017-1929-475c-a591-249180b619a7@193.151.158.16:80?encryption=none&security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
 ss://7e458bd8-ed76-6d70-2938-cb33adc09206@185.176.24.24:443?security=tls&sni=ct.otds.nyc.mn&type=xhttp&host=ct.otds.nyc.mn&path=%2Fxhttp&fp=chrome#🔒
@@ -503,3 +502,4 @@ ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.185.45:443?sni=xv6.jpmj.dpdns.o
 ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.197.190:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.2.28:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
 ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.2.79:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
+ss://897a4bec-26b8-11e8-94be-00505695472c@104.16.2.88:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒
