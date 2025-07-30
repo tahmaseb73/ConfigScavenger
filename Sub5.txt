@@ -3,7 +3,13 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://64d6d0d4-3706-4837-b154-cda2816adcc5@CRazy-idENtity.onEEat.co:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | CRazy-idENtity.onEEat.co-80 | 3.33ms
+        vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk5v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=safari&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&spx=%2F&type=tcp&headerType=none#REALITY|US🇺🇸 | uuk5v.tok8888.com-8443 | 96.72ms
+vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk4v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=safari&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=%2F&type=tcp&headerType=none#REALITY|US🇺🇸 | uuk4v.tok8888.com-8443 | 93.77ms
+vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk3v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.thewilliamvale.com&fp=firefox&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=%2F&type=tcp&headerType=none#REALITY|US🇺🇸 | uuk3v.tok8888.com-8443 | 113.92ms
+vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk2v.tok8888.com:8443?security=reality&encryption=none&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=businessmadesimple.com#REALITY|US🇺🇸 | uuk2v.tok8888.com-8443 | 110.56ms
+vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=edge&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=%2F&type=tcp&headerType=none#REALITY|US🇺🇸 | uuk1v.tok8888.com-8443 | 105.22ms
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | crazy-identity.oneeat.co-80 | 44.03ms
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@CRazy-idENtity.onEEat.co:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | CRazy-idENtity.onEEat.co-80 | 3.33ms
 vless://64a125b1-4a57-4a64-bfb2-7dc6866c55bc@50.7.85.221:443?path=%2F%3Fed&security=tls&encryption=none&host=kosesher2.nayase6031.workers.dev&fp=chrome&type=ws&sni=kosesher2.nayase6031.workers.dev#RELAY🚩 | kosesher2.nayase6031.workers.dev-443 | 29.41ms
 vless://63b4093e-bf06-4bb8-9927-d6c883d789c7@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=sme.global.ssl.fastly.net&type=xhttp#US🇺🇸 | sme.global.ssl.fastly.net-80 | 11.41ms
 vless://63743432-0783-4a05-811d-8f8307fc9ba5@188.114.96.3:2053?path=%2FYeGPDE3B85HjGkhw%3Fed%3D2560&security=tls&encryption=none&host=mopo.pages.dev&type=ws&sni=Mopo.PAGeS.Dev#RELAY🚩 | Mopo.PAGeS.Dev-2053 | 32.1ms
@@ -497,9 +503,3 @@ trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=
 trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=a.azadnet001.ddns-ip.net&fp=random&type=ws&sni=a.azadnet001.ddns-ip.net#RELAY🚩 | a.azadnet001.ddns-ip.net-443 | 286.91ms
 trojan://trojan@104.18.13.229:8880?security=tls&type=ws&host=azadnet.vileyo6708.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | azadnet.vileyo6708.workers.dev-8880 | 26.99ms
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩 | pangpi.pages.dev-8443 | 25.99ms
-trojan://f82c2052-7411-40e8-96ef-d433127979a6@my.jasrama.com:2096?security=reality&type=http&sni=dalfak.com&path=%2F#REALITY|RELAY🚩 | dalfak.com-2096 | 41.68ms
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#RELAY🚩 | vpn.stupidworld.web.id-443 | 73.92ms
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#RELAY🚩 | vpn.stupidworld.web.id-443 | 2.96ms
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#RELAY🚩 | vpn.stupidworld.web.id-443 | 3.03ms
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#RELAY🚩 | vpn.stupidworld.web.id-443 | 4.09ms
-trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.224:2052?security=none&type=ws&path=%2F%3Fed%3D2560&host=late-tooth.granzinhannah.workers.dev#RELAY🚩 | late-tooth.granzinhannah.workers.dev-2052 | 129.1ms
