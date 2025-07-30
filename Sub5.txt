@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://52adc6ba-b1c7-4541-a594-08fc698be640@GrOUNdED-brotHER.SeoToolSFOryOu.co.uK:80?path=%2F&security=&encryption=none&type=ws#RELAY🚩 | GrOUNdED-brotHER.SeoToolSFOryOu.co.uK-80 | 3.74ms
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#DE🇩🇪 | server271816966957306554.tas-bazi.com-443 | 186.7ms
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=&encryption=none&type=xhttp#DE🇩🇪 | server271816966957306554.tas-bazi.com-443 | 151.02ms
-vless://51e673c9-6e15-4268-802a-439fb27a542a@104.21.72.109:80?path=%2FELiV2-RaY---ELiV2-RaY---ELiV2-RaY---ELiV2-RaY%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=pamchall.com.&fp=randomized&type=ws&sni=pAmchALL.COm.#RELAY🚩 | pAmchALL.COm.-80 | 3.23ms
-vless://5159e44f-b4cf-49d9-a4c2-5620a6431e87@www.speedtest.net:2095?path=%2Fhajmi%3Fed&security=none&encryption=none&host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-En.85858599.xYz.&type=ws#RELAY🚩 | dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-En.85858599.xYz.-2095 | 3.79ms
-vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | DeEp-RAdIo.SEOtOoLSForYou.CO.UK-80 | 20.35ms
+        vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=%2F&security=none&encryption=none&type=ws#RELAY🚩 | DeEp-RAdIo.SEOtOoLSForYou.CO.UK-80 | 20.35ms
 vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=%2F&security=&encryption=none&type=ws#RELAY🚩 | DeEp-RAdIo.SEOtOoLSForYou.CO.UK-80 | 3.63ms
 vless://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&sid=b4&type=tcp&headerType=none#REALITY|TW🇹🇼 | 103.236.227.21-25558 | 214.14ms
 vless://4e57e34d-fc11-486e-9dbb-bcce9db1c39d@178.162.244.226:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩 | zula.ir-443 | 2.76ms
@@ -503,3 +498,8 @@ trojan://NISHIKUITAN111@104.19.166.187:443#RELAY🚩 | 104.19.166.187-443 | 2.35
 trojan://NISHIKUITAN111@104.18.110.162:443#RELAY🚩 | 104.18.110.162-443 | 2.87ms
 trojan://NISHIKUITAN111@104.17.85.90:443#RELAY🚩 | 104.17.85.90-443 | 3.5ms
 trojan://NISHIKUITAN111@104.16.37.91:443#RELAY🚩 | 104.16.37.91-443 | 3.37ms
+trojan://NISHIKUITAN111@104.16.130.216:443#RELAY🚩 | 104.16.130.216-443 | 3.15ms
+trojan://NISHIKUITAN111@103.169.142.224:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#US🇺🇸 | zb.ylks.xyz-443 | 8.2ms
+trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 137.05ms
+trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf&type=tcp&headerType=none#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 7.82ms
+trojan://CjqK8GFZ%29%2CD%3F@172.67.149.210:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=%2FtrU3kEraImU22Jv6vo%3Fed%3D2560#RELAY🚩 | 7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv-443 | 28.64ms

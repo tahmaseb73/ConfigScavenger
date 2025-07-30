@@ -3,12 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@172.67.208.128:80?type=ws&host=azadnet.b0b723a182.workers.dev&path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560#🔒
-vless://0343e230-5132-4e98-844e-b42ad1a6a273@172.67.209.127:2096?sni=nptian.xiaotianvpn.sbs&type=ws&host=nptian.xiaotianvpn.sbs#🔒
-vless://0343e230-5132-4e98-844e-b42ad1a6a273@172.67.68.157:443?sni=nptian.xiaotianvpn.sbs&type=ws&host=nptian.xiaotianvpn.sbs#🔒
-vless://0343e230-5132-4e98-844e-b42ad1a6a273@172.67.71.122:2087?sni=nptian.xiaotianvpn.sbs&type=ws&host=nptian.xiaotianvpn.sbs#🔒
-vless://034ec960-b8c5-4c32-95a7-11cf1dd48a38@45.85.118.234:443?security=tls&sni=romania.isegaro.click&type=ws&host=romania.isegaro.click&path=%2Fisegaro#🔒
-vless://034ec960-b8c5-4c32-95a7-11cf1dd48a38@45.85.118.88:443?security=tls&sni=london.isegaro.click&type=ws&host=london.isegaro.click&path=%2Fisegaro#🔒
+        vless://034ec960-b8c5-4c32-95a7-11cf1dd48a38@45.85.118.88:443?security=tls&sni=london.isegaro.click&type=ws&host=london.isegaro.click&path=%2Fisegaro#🔒
 vless://03550326-cf94-439d-a02d-17760f0089d5@104.18.165.30:80?security=none&type=ws&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaa.shir-too-cloud.cloudNs.CH.&path=/index.php/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed%3D1080#🔒
 vless://03633612-cb32-46cc-8f93-7103d1511ade@151.101.194.133:443?security=tls&sni=MaHxRaYtDeP.Ir.&type=ws&host=MaHxRaYtDeP.Ir.&path=%2F%3Fed%3D80#@Hope_Net-join-us-on-Telegram
 vless://0372681d-ee33-473e-acf0-8132105ff0ea@138.199.234.168:4040?security=reality&sni=refersion.com&type=tcp&fp=firefox&pbk=GqpLuqbGhZ3N1oIlSMfuLnpKCNZOoK8JWwHPmqSNxgk#🔒
@@ -503,3 +498,8 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.228:443?sni=vz.bgm2024.u
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.242:443?security=tls&sni=vb.ylks0033.dpdns.org&type=ws&host=vb.ylks0033.dpdns.org&path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512#🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.242:443?type=ws&host=vb.ylks0033.dpdns.org&path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&security=tls&sni=vb.ylks0033.dpdns.org#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443?sni=vc.ylka.dpdns.org&type=ws&host=vc.ylka.dpdns.org&allowInsecure=1#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.30:443?security=tls&sni=zz.bgm2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.60:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.67:443?sni=nl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.78:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.85:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B3%F0%9F%87%B1_%E8%8D%B7%E5%85%B0
