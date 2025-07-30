@@ -3,14 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://VXdWMGsqVR@support.sabapardaziran.ir:8443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-trojan://WOeXShhJpL@104.17.8.124:443?security=tls&sni=10jzus.zdzdzd.xyz&type=ws&host=10jzus.zdzdzd.xyz&path=/juzigongyi#🔒
-trojan://WOeXShhJpL@104.18.183.139:443?security=tls&sni=08jzus.zdzdzd.xyz&type=ws&host=08jzus.zdzdzd.xyz&path=/juzigongyi#🔒
-trojan://WOeXShhJpL@104.21.37.37:443?security=...&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-...%204%E2%83%A3
-trojan://WXHpDuEmA42F@104.21.48.6:2087?security=tls&sni=tasnim.farsonline24.ir&type=ws&host=tasnim.farsonline24.ir&path=/рЯЖФ@M3HDIO1#🔒
-trojan://Ys.c7%3FD9qmBLo%5EZ%5D@172.66.44.86:2053?security=tls&sni=JOInMaHDiSeRVeR-333.pAGEs.DeV&type=ws&host=joinmahdiserver-333.pages.dev#🔒
-trojan://Ys.c7%3FD9qmBLo%5EZ%5D@172.66.47.170:2053?security=tls&sni=JOInMaHDiSeRVeR-333.pAGEs.DeV&type=ws&host=joinmahdiserver-333.pages.dev#🔒
-trojan://ZJU29smXwp@172.67.176.206:2053?security=tls&sni=damn-mci-again-3.danesh-bonyan.Store&type=tcp#🔒
+        trojan://ZJU29smXwp@172.67.176.206:2053?security=tls&sni=damn-mci-again-3.danesh-bonyan.Store&type=tcp#🔒
 trojan://ZJU29smXwp@172.67.176.206:2053?security=tls&type=tcp&sni=damn-mci-again-3.danesh-bonyan.Store#%E6%9C%AA%E7%9F%A523
 trojan://Ze%2B%3Cth2RtBCz@104.21.16.1:8443?security=tls&sni=laR20RQ9b03QIPazTM9pAL4gmkRzH27M.SAnAZmOHeBi700.WorKeRS.dEV&type=ws&host=lar20rq9b03qipaztm9pal4gmkrzh27m.sanazmohebi700.workers.dev#🔒
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&host=tws23.kallepache.store&path=/update#🔒
@@ -57,6 +50,7 @@ trojan://aapzM8RMZh@support.sabapardaziran.ir:443?security=tls&sni=support.sabap
 trojan://aapzM8RMZh@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F46404%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 trojan://aapzM8RMZh@support.sabapardaziran.ir:8443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 trojan://ababacc-cbaa-bcaa-acbd-ccbaacabbabc@127.0.0.1:2080?security=tls&type=tcp#🤖
+trojan://abcabac-abca-baac-dcba-babaccbcabca@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram⚠️
 trojan://ac5b2e52-435b-4461-a99c-1317ab0e2889@104.21.46.90:443?security=tls&sni=DddVfGty.frEeVpnAtM.dpdNS.oRG&alpn=http%2F1.1&type=ws&host=dddvfgty.freevpnatm.dpdns.org&path=%2FHmfeUdLKf899DmZDo0oju2st1#t.me%2Fpeterjest
 trojan://ac5b2e52-435b-4461-a99c-1317ab0e2889@104.21.46.90:443?security=tls&sni=DddVfGty.frEeVpnAtM.dpdNS.oRG&type=ws&host=dddvfgty.freevpnatm.dpdns.org&path=%2FHmfeUdLKf899DmZDo0oju2st1&fp=chrome&alpn=http%2F1.1#🔒
 trojan://ac5b2e52-435b-4461-a99c-1317ab0e2889@104.21.46.90:443?security=tls&type=ws&sni=DddVfGty.frEeVpnAtM.dpdNS.oRG&path=/HmfeUdLKf899DmZDo0oju2st1&host=dddvfgty.freevpnatm.dpdns.org#%E6%9C%AA%E7%9F%A538
@@ -97,10 +91,10 @@ trojan://auto@104.17.147.22:80?security=none&type=ws&host=floral-shadow-a524.bes
 trojan://auto@104.17.148.22:2087?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev#🔒
 trojan://auto@104.17.148.22:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/floral-shadow-a524.bestmanvpn2020.workers.dev/?ed%3D2560&host=floral-shadow-a524.bestmanvpn2020.workers.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://auto@104.20.18.74:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒
-trojan://auto@104.20.19.168:2083?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.19.25:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒
 trojan://auto@104.20.22.149:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒
 trojan://auto@104.20.22.149:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5125
+trojan://auto@104.20.22.241:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&allowInsecure=1&fp=chrome&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=esetsecuritylicense3.wawafec355.workers.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=%2F#🔒
@@ -173,7 +167,6 @@ trojan://bf109e1a-2b99-11ed-bb74-f23c9164ca5d@ddd0977f-sxaf40-t3b4w3-ywms.cm5.cn
 trojan://bf109e1a-2b99-11ed-bb74-f23c9164ca5d@ddd0977f-sxaf40-t3b4w3-ywms.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=ddd0977f-sxaf40-t3b4w3-ywms.cm5.cnkuaishou.com#12%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://bfb23be0-6c4f-11ee-8513-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://blue2024@104.129.167.128:443?security=tls&sni=ta.promote.icu&type=tcp#🔒
-trojan://blue2024@104.16.110.37:443?sni=hb.lii2010.us.kg#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.16.112.144:443?security=tls&sni=ta.promote.icu&type=tcp#🔒
 trojan://blue2024@104.16.144.251:443?security=tls&sni=td.promote.icu&type=tcp#🔒
 trojan://blue2024@104.16.209.98:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#🔒
@@ -197,6 +190,7 @@ trojan://blue2024@104.18.79.171:443?security=tls&sni=ta.promote.icu&type=ws&host
 trojan://blue2024@104.19.90.210:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒
 trojan://blue2024@104.24.92.234:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#🔒
 trojan://blue2024@104.26.14.203:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒
+trojan://blue2024@104.26.6.89:443?sni=hb.lii2010.us.kg#@Hope_Net-join-us-on-Telegram⚠️
 trojan://blue2024@108.162.195.155:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu#🔒
 trojan://blue2024@162.159.22.138:443?sni=hb.lii2010.us.kg#🔒
 trojan://blue2024@162.159.44.161:443?security=tls&sni=tc.promote.icu&type=tcp#🔒
@@ -270,6 +264,7 @@ trojan://bpb-trojan@185.238.228.6:443?security=tls&sni=403b3611-99bc-43b7-88D7-2
 trojan://bpb-trojan@188.114.97.88:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev#🔒
 trojan://bpb-trojan@190.93.244.66:443?security=tls&sni=zeming13.us.kg&type=ws&host=zeming13.us.kg&path=/tr?ed#🔒
 trojan://bpb-trojan@193.123.235.59:443?sni=skwygx.top&type=ws&host=skwygx.top#🔒
+trojan://bpb-trojan@195.85.23.232:443?sni=bpb.my79801.com#@Hope_Net-join-us-on-Telegram⚠️
 trojan://bpb-trojan@198.202.211.146:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒
 trojan://bpb-trojan@198.41.202.175:443?sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr#🔒
 trojan://bpb-trojan@198.41.211.21:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒
@@ -284,6 +279,7 @@ trojan://bpb-trojan@45.80.110.224:443?security=tls&sni=bpb.my79801.com&type=tcp#
 trojan://bpb-trojan@64.235.45.131:443?sni=skwygx.top&type=ws&host=skwygx.top#🔒
 trojan://bpb-trojan@8.219.1.169:443?sni=skwygx.top#%E6%9C%AA%E7%9F%A5105
 trojan://bpb-trojan@8.219.1.169:443?sni=skwygx.top#🔒
+trojan://bpb-trojan@86.38.214.132:443?sni=bpb.my79801.com#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@89.116.250.94:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr?ed#🔒
 trojan://bpb-trojan@91.227.77.87:443?security=tls&sni=skwygx.top&type=ws&host=skwygx.top&path=/tr#🔒
 trojan://bpb-trojan@japan.com:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#%F0%9F%8C%88%40%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%F0%9F%8F%BB%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85😵🤔🙁😝😤☹️🙁☹️    📌
@@ -427,6 +423,7 @@ trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.15.85:2083?security=tls&sni
 trojan://d41c41b0-dffe-11ef-8be9-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://d4bdfc72-7f0c-4ff0-aa4d-3530736f4088@159.223.42.224:443?security=tls&sni=sg-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://d4c22fd9-1474-4e9f-baf7-80b162f3e60c@185.14.47.199:12002?security=tls&sni=cdn.alibaba.com&type=tcp#🔒
+trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.2.228:443?security=tls&type=ws&sni=pscresearch.faculty.ucdavis.edu&path=ws/?ed=2048&host=uhc6rhiubu.com#@Hope_Net-join-us-on-Telegram
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?sni=vle.amclubsvip.dpdns.org#🔒
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.18.112:2087?sni=vle.amclubsvip.dpdns.org#🔒
 trojan://d86c421f-dbfe-4507-a864-f8f9e29d80e4@161.35.197.11:443?security=tls&sni=de-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -503,3 +500,6 @@ trojan://edde4440-1af3-11f0-b64f-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://edde4440-1af3-11f0-b64f-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%40hopev2ray%F0%9F%A9%B7
 trojan://ee3eeb70-c85c-11ef-a0ab-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://ef050d10-1233-11f0-ab31-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@107.173.148.58:64047?security=tls&sni=t18.qifei.app&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.77.214:54860?security=tls&sni=t5.qifei.app&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.77.214:54860?security=tls&sni=t5.qifei.app&type=tcp#🔒

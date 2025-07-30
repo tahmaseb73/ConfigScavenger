@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.44.223:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&fp=chrome#🔒
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&fp=chrome#🔒
-vless://bbacf1fe-4b0b-42fe-89cb-32fa9c438063@152.42.184.200:443?security=tls&sni=webex.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&fp=chrome&type=tcp&encryption=none#US🇺🇸
-vless://bbe3c5b9-876f-59c9-9793-9eeb3edcbc22@138.124.31.187:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supportآموزش
-vless://bbe3c5b9-876f-59c9-9793-9eeb3edcbc22@138.124.31.187:2052?security=none&type=grpc&serviceName=vless-grpc#🏳[openproxylist.com]
+        vless://bbe3c5b9-876f-59c9-9793-9eeb3edcbc22@138.124.31.187:2052?security=none&type=grpc&serviceName=vless-grpc#🏳[openproxylist.com]
 vless://bbe3c5b9-876f-59c9-9793-9eeb3edcbc22@138.124.31.187:2052?security=none&type=grpc&serviceName=vless-grpc#🔒
 vless://bc04292b-d7e6-4966-b6ab-c9fe5f30fba3@104.20.1.94:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://bc04292b-d7e6-4966-b6ab-c9fe5f30fba3@104.26.11.176:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
@@ -503,3 +499,7 @@ vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?security=tls&sni=
 vless://c6e48175-7639-4e16-b374-455f1939c075@157.230.17.102:30595?security=none&type=grpc#🇩🇪[openproxylist.com]
 vless://c6e48175-7639-4e16-b374-455f1939c075@157.230.17.102:30595?security=none&type=grpc#🔒
 vless://c6e7754f-ad17-4d69-b8b4-beb007666411@bermuda.jahanmataleb.ir:443?type=tcp&security=reality&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&fp=chrome&sni=www.refersion.com&sid=e869&spx=/#🇩🇪DE_1044_@Surfboardv2ray
+vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
+vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40flyv2ray%F0%9F%87%A9%F0%9F%87%AA
+vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@melov2ray
+vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40flyv2ray%F0%9F%87%A9%F0%9F%87%AA
