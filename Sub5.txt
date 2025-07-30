@@ -3,10 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=%2Fholhclws&security=tls&encryption=none&type=ws#FR🇫🇷 | 185.242.87.162-443 | 80.6ms
-vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#REALITY|CY🇨🇾 | 45.83.20.34-58164 | 92.64ms
-vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&sid=788456bc&type=tcp&headerType=none#REALITY|CY🇨🇾 | 45.83.20.34-58164 | 92.75ms
-vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@wWw.SpeedTesT.Net:443?path=%2Fwss9500%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=new2.hosting-mmd.ir.&fp=randomized&type=httpupgrade&sni=new2.hosting-mmd.ir.#RELAY🚩 | new2.hosting-mmd.ir.-443 | 394.26ms
+        vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@wWw.SpeedTesT.Net:443?path=%2Fwss9500%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=new2.hosting-mmd.ir.&fp=randomized&type=httpupgrade&sni=new2.hosting-mmd.ir.#RELAY🚩 | new2.hosting-mmd.ir.-443 | 394.26ms
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@pishgam.sdcards.ir:80?path=%2Fwss9500%3Fed%3D2560&security=none&encryption=none&host=new2.hosting-mmd.ir.&type=httpupgrade#RELAY🚩 | new2.hosting-mmd.ir.-80 | 6.16ms
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.0.54.254:8880?type=ws&encryption=none&flow=&host=yg.bantony199.top&path=%2F#RELAY🚩 | yg.bantony199.top-8880 | 440.97ms
 vless://3487ce43-b803-4770-97ff-f75880d7f9b4@104.24.175.2:80?path=%2F...&security=none&encryption=none&host=rough-mud-93b4-ppal03.wedane7745.workers.dev&type=ws#RELAY🚩 | rough-mud-93b4-ppal03.wedane7745.workers.dev-80 | 31.62ms
@@ -503,3 +500,6 @@ ss://b775ec56b44d473a9e8e99ef575d832aOg==@104.21.32.1:80#RELAY%F0%9F%9A%A9+%7C+1
 ss://a61fc8cb00124c4baa5ed1c623ae8092@104.18.192.65:8880#RELAY%F0%9F%9A%A9+%7C+104.18.192.65-8880+%7C+5.41ms
 ss://YWVzLTI1Ni1nY206ZjhmN2FDemNQS2JzRjhwMw3D3A==@103.163.218.2:989#VN%F0%9F%87%BB%F0%9F%87%B3+%7C+103.163.218.2-989+%7C+326.82ms
 ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ==@212.109.197.85:20#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+212.109.197.85-20+%7C+125.46ms
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+149.202.82.172-8080+%7C+85.7ms
+ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw3D3A==@92.63.193.252:20#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+92.63.193.252-20+%7C+123.53ms
+ss://YWVzLTI1Ni1nY206MGU5YjU4YWEtZWM3OS02ODI3LWM2NzktODAyZmYzMjliMWEx@37050813702269272654038283817908.international-ixp.com:11312#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+37050813702269272654038283817908.international-ixp.com-11312+%7C+345.64ms
