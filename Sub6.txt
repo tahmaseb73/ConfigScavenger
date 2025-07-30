@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://NISHIKUITAN111@104.16.37.91:443#RELAY🚩 | 104.16.37.91-443 | 3.37ms
-trojan://NISHIKUITAN111@104.16.130.216:443#RELAY🚩 | 104.16.130.216-443 | 3.15ms
+        trojan://NISHIKUITAN111@104.16.130.216:443#RELAY🚩 | 104.16.130.216-443 | 3.15ms
 trojan://NISHIKUITAN111@103.169.142.224:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#US🇺🇸 | zb.ylks.xyz-443 | 8.2ms
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 137.05ms
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf&type=tcp&headerType=none#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 7.82ms
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ID
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@exchange.gameaurela.click:52952#NL-%3ENL-%3EADL-%3E%40Sezar_Sec
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=tcp&headerType=none#US-%3EUS-%3ERTL-%3E%40Sezar_Sec
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNBLT4tPlJUTC0+QERlYW1OZXRfUHJveHkiLA0KICAiYWRkIjogIjE3Mi42Ny4xNzAuMTAzIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZ2x3ZWlkZi5zYnMiLA0KICAicGF0aCI6ICIvbGlua3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImdsd2VpZGYuc2JzIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogImNocm9tZSINCn0=
+vless://9ffa6da8-26dc-435c-884b-32662e7ffe7e@www.visa.com:2082?encryption=none&security=none&type=ws&host=0314.hiyasta2.workers.dev&path=%2F%3Fed%3D2560#CA-%3EFR-%3ERTL-%3E%40Sezar_Sec
