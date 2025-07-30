@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://65343a27-de9d-4b0c-ab0a-562309c94d2b@95.216.166.212:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_650_@Surfboardv2ray
+        ss://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_649_@Surfboardv2ray
+ss://65343a27-de9d-4b0c-ab0a-562309c94d2b@95.216.166.212:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍎
+ss://65343a27-de9d-4b0c-ab0a-562309c94d2b@95.216.166.212:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_650_@Surfboardv2ray
 ss://65343a27-de9d-4b0c-ab0a-562309c94d2b@95.216.166.212:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_651_@Surfboardv2ray
 ss://6543593a-f55e-422c-8ffd-b6d930b1808c@104.21.59.22:2053?security=tls&sni=is.crehistory.org&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://6543593a-f55e-422c-8ffd-b6d930b1808c@172.67.211.140:2053?security=tls&sni=is.crehistory.org&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
@@ -501,5 +503,3 @@ ss://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@109.206.241.155:443?security=tls&sni=c
 ss://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@31.220.87.74:443?security=tls&sni=cdn.getasa.ir&type=ws&path=%2Fwp-admin&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 ss://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@104.16.211.129:443?security=tls&sni=taoj.eu.org&type=ws&host=taoj.eu.org&allowInsecure=0#🔒
 ss://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@104.16.27.231:443?security=tls&sni=taoj.eu.org&type=ws&host=taoj.eu.org#🔒
-ss://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@104.24.130.17:443?sni=taoj.eu.org&type=ws&host=taoj.eu.org&allowInsecure=1#🔒
-ss://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@190.93.245.89:443?security=tls&sni=taoj.eu.org&type=ws&host=taoj.eu.org&path=%2Ffp%3Dchrome#🔒

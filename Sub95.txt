@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.211.8.227:2087?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
+        vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:18333?sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&allowInsecure=1#🔒
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@150.230.206.237:9710?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.211.8.227:2087?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.211.8.98:2087?security=tls&sni=edccy.aimercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.218.15.250:2083?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@156.225.72.246:2087?security=tls&sni=edccy.aimercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me#🔒
@@ -501,5 +503,3 @@ vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.20.192.70:443?security=tls&sni=
 vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.21.234.59:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.21.8.115:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
 vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.21.93.179:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-vless://fa659470-ca91-43c1-a966-2349531fb6a8@162.159.192.76:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒
-vless://fa659470-ca91-43c1-a966-2349531fb6a8@188.114.98.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒

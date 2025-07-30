@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.176:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒
+        ss://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.136:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒
+ss://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.162:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒
+ss://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.176:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒
 ss://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.186:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒
 ss://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.193:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#@Hope_Net-join-us-on-Telegram
 ss://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.193:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#🇦🇹AT_560_@Surfboardv2ray
@@ -501,5 +503,3 @@ ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.76.75:8880?security=none&allowI
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.76.75:8880?security=none&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F%3Fed#🔒
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.128:2086?encryption=none&security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#t.me%2Fpeterjest
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.128:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/Telegram@Azarbayjab1#🔒
-ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.158:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒
-ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=/Telegram@MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#🇨🇦CA_608_@Surfboardv2ray
