@@ -3,8 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram-@MARAMBASHI_MARAMBASHI&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
-ss://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram-@V2ray_Alpha&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+        ss://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram-@V2ray_Alpha&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram-Telegram-mtmvpn---Telegram-mtmvpn&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram-https://t.me/Selinc&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://10d9df89-9a20-4110-9711-bca119490ee9@104.21.96.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/TM@AZAFBAYJAB1&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
@@ -503,3 +502,4 @@ ss://1e5fa2e7-81ed-4861-a8c2-bff334440c4c@151.101.64.155:80?type=ws&host=Lightni
 ss://1e915e11-f6af-4cf9-bcb7-a75eaebbd52f@104.21.92.57:443?security=tls&sni=cdn1.proxystore11.news&type=xhttp&host=cdn1.proxystore11.news&path=%2FAZFlrd5mM4sTe3tLTdYD&fp=chrome&alpn=h3#🔒
 ss://1e915e11-f6af-4cf9-bcb7-a75eaebbd52f@172.67.187.18:443?security=tls&sni=cdn1.proxystore11.news&type=xhttp&host=cdn1.proxystore11.news&path=%2FAZFlrd5mM4sTe3tLTdYD&fp=chrome&alpn=h3#🔒
 ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40kingofilter
+ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?type=grpc&serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
