@@ -3,7 +3,12 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@62.72.166.220:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+        ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.84.242:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.84.95:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.85.150:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.85.186:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.85.231:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
+ss://b99590df-eda0-4e34-e1a9-3d1118faed83@62.72.166.220:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@66.225.252.169:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@66.225.252.224:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒
 ss://b99590df-eda0-4e34-e1a9-3d1118faed83@66.81.247.215:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒
@@ -498,8 +503,3 @@ ss://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?security=tls&sni=P
 ss://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Poshtiban.ehsa0535.top#🇨🇦CA_1033_@Surfboardv2ray
 ss://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒
 ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.142.30:443?security=tls&sni=147135010072.sec21org.com&type=tcp#🔒
-ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135010072.sec21org.com#🇺🇸US_1034_@Surfboardv2ray
-ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?encryption=none&security=tls&sni=147135010072.sec21org.com&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FReston%F0%9F%85%BF%EF%B8%8Fping%3A140.51ms
-ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B0
-ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#⚡Telegram
-ss://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#🇺🇸US_1035_@Surfboardv2ray
