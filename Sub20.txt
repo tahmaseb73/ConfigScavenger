@@ -3,7 +3,9 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        ss://10d9df89-9a20-4110-9711-bca119490ee9@172.66.44.193:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/TM@AZAFBAYJAB1flow%3D-udp443&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+        ss://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/Telegram-https://t.me/Selinc&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://10d9df89-9a20-4110-9711-bca119490ee9@104.21.96.1:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/TM@AZAFBAYJAB1&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+ss://10d9df89-9a20-4110-9711-bca119490ee9@172.66.44.193:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/TM@AZAFBAYJAB1flow%3D-udp443&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://10d9df89-9a20-4110-9711-bca119490ee9@172.66.44.193:80?security=none&type=ws&host=masaleini.mahsaamini.dpdns.org&path=%2FTM%40AZAFBAYJAB1flow%3D-udp443#🔒
 ss://10d9df89-9a20-4110-9711-bca119490ee9@172.66.47.63:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 ss://10d9df89-9a20-4110-9711-bca119490ee9@172.66.47.63:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/TM@AZAFBAYJAB1flow%3D-udp443&host=masaleini.mahsaamini.dpdns.org&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
@@ -179,9 +181,11 @@ ss://16dfdf8a-92cf-40fa-88ff-588715dc4c0c@138.201.119.100:80?type=xhttp&path=%2F
 ss://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=forward333.maryam1500.top#🇨🇦CA_229_@Surfboardv2ray
 ss://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?security=tls&sni=forward333.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒
 ss://16e55e1a-6152-4d92-a422-31490e8ef563@154.205.147.5:443?type=xhttp&path=%2Fad&host=&mode=stream-one&security=none#@meli_proxyy
+ss://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.156:443?type=xhttp&path=%2Fad&host=&mode=stream-one&security=none#@meli_proxyy
 ss://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_230_@Surfboardv2ray
 ss://16e97003-110a-423b-fe25-0dc26485939e@37.27.255.136:8880?security=&type=grpc&encryption=none#🇫🇮FI_231_@Surfboardv2ray
 ss://16e97003-110a-423b-fe25-0dc26485939e@37.27.255.136:8880?type=grpc#@Hope_Net-join-us-on-Teleg
+ss://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 ss://171c1154-6b3e-4e1d-ad11-e75de2f56f0b@tunnyl.ru:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#%40vpnaloo
 ss://17272b75-51c8-4999-a4ce-b3bd8679e04e@104.16.12.75:443?security=tls&sni=liu133.us.kg&type=ws&host=liu133.us.kg&allowInsecure=1#🔒
 ss://17272b75-51c8-4999-a4ce-b3bd8679e04e@172.64.151.130:443?security=tls&sni=liu133.us.kg&type=ws&host=liu133.us.kg&allowInsecure=1#🔒
@@ -499,7 +503,3 @@ ss://1e915e11-f6af-4cf9-bcb7-a75eaebbd52f@104.21.92.57:443?security=tls&sni=cdn1
 ss://1e915e11-f6af-4cf9-bcb7-a75eaebbd52f@172.67.187.18:443?security=tls&sni=cdn1.proxystore11.news&type=xhttp&host=cdn1.proxystore11.news&path=%2FAZFlrd5mM4sTe3tLTdYD&fp=chrome&alpn=h3#🔒
 ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40kingofilter
 ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?type=grpc&serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
-ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?type=grpc&serviceName=vless-grpc#SE🇸🇪
-ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?type=grpc&serviceName=vless-grpc#🔒
-ss://1ef0ea65-e0f2-4a63-adbc-6ac45b31e2af@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#REALITY|US🇺🇸
-ss://1ef553c3-b1b9-49fb-8c7d-09e05915b2bc@us-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=us-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=us-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-127%20-%20US%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
