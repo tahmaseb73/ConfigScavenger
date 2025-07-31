@@ -93,6 +93,7 @@ hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-se-01.ppldata.xyz:30000
 hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-se-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com#%F0%9F%87%B8%F0%9F%87%AA%20%40Filter_breaker%20%231
 hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-sg-01.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com#%F0%9F%87%B8%F0%9F%87%AC%20%40Filter_breaker
 hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-sg-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com#%F0%9F%87%B8%F0%9F%87%AC%20%40Filter_breaker%20%231
+hysteria2://0004f8b0-df8e-4f3d-866a-e3547122933d@nexiaels.688997.xyz:20757?insecure=1&sni=nexiaels.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Daily_Configs
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@bx.dport.top:33654?insecure=1&sni=bx.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%F0%9F%87%A7%F0%9F%87%B7%EF%BD%9C%40Filter_breaker
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@dg.dport.top:33653?insecure=1&sni=dg.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%F0%9F%87%A9%F0%9F%87%AA%EF%BD%9C%40Filter_breaker
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@fg.dport.top:33652?insecure=1&sni=fg.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%F0%9F%87%AB%F0%9F%87%B7%EF%BD%9C%40Filter_breaker
@@ -102,8 +103,9 @@ hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@jnd.dport.top:33651?insecure=1&
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@mg.dport.top:33650?insecure=1&sni=mg.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%F0%9F%87%BA%F0%9F%87%B8%EF%BD%9C%40Filter_breaker
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@rb.dport.top:33657?insecure=1&sni=rb.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%F0%9F%87%AF%F0%9F%87%B5%EF%BD%9C%40Filter_breaker
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@teq.dport.top:33658?insecure=1&sni=teq.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%F0%9F%87%B9%F0%9F%87%B7%EF%BD%9C%40Filter_breaker
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%40Daily_Configs
+hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-il.legeth.xyz:11658?insecure=0#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%23109
 hysteria2://b5c1b004cd051ef2f6ffedda2e47d538@206.71.158.40:33331?sni=jnir-1.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40Filter_breaker_206.71.158.40
+hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%40Daily_Configs%20%231
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flydg.flylink.cyou:35230?insecure=1&sni=flydg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#%F0%9F%87%A9%F0%9F%87%AA%20Germany_flydg_35230%20%7C%20%40Filt...
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyels.flylink.cyou:35270?insecure=1&sni=flyels.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#%F0%9F%87%B7%F0%9F%87%BA%20Russia_flyels_35270%20%7C%20%40Filt...
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyhg.flylink.cyou:35310?insecure=1&sni=flyhg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#%F0%9F%87%B0%F0%9F%87%B7%20Korea_flyhg_35310%20%7C%20%40Filter...
