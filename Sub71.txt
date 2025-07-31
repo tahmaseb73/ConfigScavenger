@@ -3,11 +3,7 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.47.41:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.47.62:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.154.232:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc&fp=firefox#🔒
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.146.173.37:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp844Ez7Th.SrVdOm-CoNf-DeL4.iNfO#@VIPro
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.146.173.37:443?security=tls&sni=Tp938UpF7p.EaRcHiTeCtUrE.iR&type=grpc&fp=firefox#🔒
+        vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.146.173.37:443?security=tls&sni=Tp938UpF7p.EaRcHiTeCtUrE.iR&type=grpc&fp=firefox#🔒
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@194.36.55.247:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@198.41.208.69:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@45.142.120.190:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒
@@ -503,3 +499,7 @@ vless://3570fdba-d23a-4c97-8327-b819e01a3582@89.39.70.84:14569?security=none&typ
 vless://3570fdba-d23a-4c97-8327-b819e01a3582@92.223.2.227:14569?security=none&type=ws&host=92.223.2.227&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN#🔒
 vless://3570fdba-d23a-4c97-8327-b819e01a3582@93.123.46.250:14569?security=none&type=ws&host=93.123.46.250&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN#🔒
 vless://3570fdba-d23a-4c97-8327-b819e01a3582@95.85.93.133:14569?security=none&type=ws&host=95.85.93.133&path=%2Fwww.fastvpn.com.live.skornorth.com.zula.ir%3Fed%3D2048%2F%3FJoin_Bade_Channel%40JOKERRVPN#🔒
+vless://35730674-20fe-4e01-88f9-5214633c75e0@104.19.173.68:2087?sni=ca-1-cbt.rayan-dns.dpdns.org&type=ws&host=ca-1-cbt.rayan-dns.dpdns.org&allowInsecure=0#🔒
+vless://35730674-20fe-4e01-88f9-5214633c75e0@104.19.174.68:2087?sni=ca-1-cbt.rayan-dns.dpdns.org&type=ws&host=ca-1-cbt.rayan-dns.dpdns.org&allowInsecure=0#🔒
+vless://35d08555-633c-4832-adcf-64cd39e22d30@uk-2-rvp.rayan-dns.dpdns.org:443?security=tls&sni=uk-2-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-2-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-111%20-%20UK%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+vless://35e6bfeb-140b-4875-a54a-7f18472bcb1c@209.38.186.178:2083?security=reality&sni=www.speedtest.net&type=grpc&fp=firefox&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&sid=adf8a1f5689177a2#🔒
