@@ -3,7 +3,19 @@
         #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
         #support-url: https://github.com/tahmaseb73/v2ray-configs
         #profile-web-page-url: https://github.com/tahmaseb73/v2ray-configs
-        trojan://EbtvoL1xJV@support.sabapardaziran.ir:8443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
+        trojan://Bw5Mz7QkVp@z-v2-074420.kailib.com:443?security=tls&headerType=none&type=tcp#@VIProxys
+trojan://Bw5Mz7QkVp@z-v2-074420.kailib.com:443?security=tls&headerType=none&type=tcp#US🇺🇸
+trojan://Bw5Mz7QkVp@z-v2-077707.kailib.com:443?security=tls&headerType=none&type=tcp#@VIProxys
+trojan://Bw5Mz7QkVp@z-v2-077707.kailib.com:443?security=tls&headerType=none&type=tcp#US🇺🇸
+trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#🔒
+trojan://Cl150MQWlG@209.250.236.93:443?security=tls&type=grpc&sni=irancell-ir-4.mmdruby13.store#%E6%9C%AA%E7%9F%A5107
+trojan://E%5D5p%232Hxe3q%29t_oX@172.66.46.252:2087?security=tls&sni=WEEKNdJoOn.pages.DeV&type=ws&host=weekndjoon.pages.dev#🔒
+trojan://E0nPlYFeYt@82.115.6.120:46420?security=reality&sni=yahoo.com&type=tcp#🔒
+trojan://EbtvoL1xJV@172.67.161.74:2096?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=/@M3HDIO1#🔒
+trojan://EbtvoL1xJV@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=httpupgrade&host=support.sabapardaziran.ir&path=%2F48938%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
+trojan://EbtvoL1xJV@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F33522%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://EbtvoL1xJV@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F46404%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
+trojan://EbtvoL1xJV@support.sabapardaziran.ir:8443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 trojan://Eg4ZTOCSZcwl303ZnRaNIKKzaCCDlpOS26TAX7ReY8FR2ISgS3yx3DFaBSC85YqCEBaD9@magnet.wireshop.net:443?security=tls&headerType=none&type=tcp&sni=magnet.wireshop.net#@meli_proxyy
 trojan://Eg4ZTOCSZcwl303ZnRaNIKKzaCCDlpOS26TAX7ReY8FR2ISgS3yx3DFaBSC85YqCEBaD9@magnet.wireshop.net:443?security=tls&headerType=none&type=tcp&sni=magnet.wireshop.net#US🇺🇸
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?security=tls&sni=stutter.freetrade.link#🔒
@@ -491,15 +503,3 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.153:2053?security=tls&
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.153:2096?security=tls&sni=1744156312.speed.nycvara.china.nicchina.pp.ua&type=grpc#@Hope_Net-join-us-on-Teleg
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.153:2096?security=tls&sni=1744156312.speed.nycvara.china.nicchina.pp.ua&type=grpc#RELAY🚩
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.153:2096?security=tls&sni=1744156312.speed.nycvara.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.15:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.178:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.183:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.191:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.197:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.205:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.214:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.230:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.230:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A5149
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.241:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.243:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.24:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒
